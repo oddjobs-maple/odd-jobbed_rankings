@@ -27,11 +27,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervid       | deer         |   107 | STR priest                 | Oddjobs       |
 | Taima        | Kelsey       |   105 | STRginner                  | Oddjobs       |
 | Gumby        | Jonathan     |   102 | STRginner                  | Flow          |
-| capreolina   | deer         |   101 | woodwoman (ranger)         | Oddjobs       |
+| capreolina   | deer         |   102 | woodwoman (ranger)         | Oddjobs       |
 | Tacgnol      | Kelsey       |    98 | F/P gishlet                | Oddjobs       |
 | OmokTeacher  | Noam         |    96 | STRginner                  | Flow          |
+| cervine      | deer         |    96 | I/L magelet                | Oddjobs       |
 | Outside      | Tab          |    95 | STRginner                  | Flow          |
-| cervine      | deer         |    95 | I/L magelet                | Oddjobs       |
 | hydropotina  | deer         |    85 | swashbuckler               | Oddjobs       |
 | MeikoHonma   | Meiko        |    84 | STRginner                  | Renaissance\* |
 | Cowbelle     | Tabs         |    82 | STRginner                  | Homies\*      |
