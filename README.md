@@ -17,7 +17,9 @@ done on a best-effort basis, and some of them are just Discord identifiers
 (which, it should be noted, can be changed at more or less any time, for any
 reason).
 
-\*Not a member of **Suboptimal**.
+Unknown or uncertain information is denoted by a question mark (“?”).
+
+\*Not a member of <b>Suboptimal</b>.
 
 | IGN          | name         | level | job(s)                     | guild         |
 | :----------- | :----------- | ----: | :------------------------- | ------------- |
@@ -44,5 +46,5 @@ reason).
 | rusa         | deer         |    55 | DEX spearwoman             | Oddjobs       |
 | JanitorPedro | Pedro\_      |    53 | STRginner                  | Flow          |
 | Cortical     | Andrew Tran  |    50 | STRginner                  | Flow          |
-| xX17Xx       | mae          |    45 | permarogue                 | Oddjobs       |
+| xX17Xx       | mae          |    46 | permarogue                 | Oddjobs       |
 | HPdagger     | Charles      |    45 | dagger fighter, HP fighter | Oddjobs       |
