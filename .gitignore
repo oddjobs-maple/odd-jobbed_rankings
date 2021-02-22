@@ -1,0 +1,4 @@
+# text editing stuff
+*.swp
+.vscode/
+.idea/
