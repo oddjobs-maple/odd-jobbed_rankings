@@ -38,7 +38,7 @@ reason).
 | rangifer     | deer         |    75 | pugilist                   | Oddjobs       |
 | Ismezin      | Zin          |    67 | STRginner                  | Flow          |
 | drainer      | mae          |    63 | STRginner                  | Flow          |
-| gogigagagigo | boop         |    59 | permarcher                 | Oddjobs       |
+| gogigagagigo | boop         |    61 | permarcher                 | Oddjobs       |
 | Dizz         | Caleb        |    56 | STRginner                  | Flow          |
 | Phoneme      | Andrew Tran  |    56 | permamagician              | Oddjobs       |
 | rusa         | deer         |    55 | DEX spearwoman             | Oddjobs       |
