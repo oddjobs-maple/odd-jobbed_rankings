@@ -24,7 +24,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN          | name         | level | job(s)                     | guild         |
 | :----------- | :----------- | ----: | :------------------------- | ------------- |
 | LoneW0lf1600 | LoneWolf1600 |   110 | STRginner                  | Colors\*      |
-| cervid       | deer         |   107 | STR priest                 | Oddjobs       |
+| cervid       | deer         |   108 | STR priest                 | Oddjobs       |
 | Taima        | Kelsey       |   105 | STRginner                  | Oddjobs       |
 | Gumby        | Jonathan     |   102 | STRginner                  | Flow          |
 | capreolina   | deer         |   102 | woodwoman (ranger)         | Oddjobs       |
@@ -35,7 +35,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hydropotina  | deer         |    85 | swashbuckler               | Oddjobs       |
 | MeikoHonma   | Meiko        |    84 | STRginner                  | Renaissance\* |
 | Cowbelle     | Tabs         |    82 | STRginner                  | Homies\*      |
-| Boymoder     | Kelsey       |    77 | STRmit                     | Oddjobs       |
+| Boymoder     | Kelsey       |    78 | STRmit                     | Oddjobs       |
 | Duhm         | ?            |    75 | STRginner                  | Flow          |
 | rangifer     | deer         |    75 | pugilist                   | Oddjobs       |
 | Ismezin      | Zin          |    67 | STRginner                  | Flow          |
@@ -44,7 +44,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Dizz         | Caleb        |    56 | STRginner                  | Flow          |
 | Phoneme      | Andrew Tran  |    56 | permamagician              | Oddjobs       |
 | rusa         | deer         |    55 | DEX spearwoman             | Oddjobs       |
-| JanitorPedro | Pedro\_      |    53 | STRginner                  | Flow          |
+| JanitorPedro | Pedro\_      |    55 | STRginner                  | Flow          |
 | Cortical     | Andrew Tran  |    50 | STRginner                  | Flow          |
 | xX17Xx       | mae          |    46 | permarogue                 | Oddjobs       |
 | HPdagger     | Charles      |    45 | dagger fighter, HP fighter | Oddjobs       |
