@@ -35,7 +35,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hydropotina  | deer         |    85 | swashbuckler               | Oddjobs       |
 | MeikoHonma   | Meiko        |    84 | STRginner                  | Renaissance\* |
 | Cowbelle     | Tabs         |    82 | STRginner                  | Homies\*      |
-| Boymoder     | Kelsey       |    76 | STRmit                     | Oddjobs       |
+| Boymoder     | Kelsey       |    77 | STRmit                     | Oddjobs       |
 | Duhm         | ?            |    75 | STRginner                  | Flow          |
 | rangifer     | deer         |    75 | pugilist                   | Oddjobs       |
 | Ismezin      | Zin          |    67 | STRginner                  | Flow          |
