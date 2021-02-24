@@ -40,11 +40,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer     | deer         |    75 | pugilist                   | Oddjobs       |
 | Ismezin      | Zin          |    67 | STRginner                  | Flow          |
 | drainer      | mae          |    63 | STRginner                  | Flow          |
-| gogigagagigo | boop         |    61 | permarcher                 | Oddjobs       |
+| gogigagagigo | boop         |    62 | permarcher                 | Oddjobs       |
 | Dizz         | Caleb        |    56 | STRginner                  | Flow          |
 | Phoneme      | Andrew Tran  |    56 | permamagician              | Oddjobs       |
 | rusa         | deer         |    55 | DEX spearwoman             | Oddjobs       |
 | JanitorPedro | Pedro\_      |    55 | STRginner                  | Flow          |
 | Cortical     | Andrew Tran  |    50 | STRginner                  | Flow          |
 | xX17Xx       | mae          |    46 | permarogue                 | Oddjobs       |
+| FairRow      | FairRow      |    45 | STRginner                  | Oddjobs       |
 | HPdagger     | Charles      |    45 | dagger fighter, HP fighter | Oddjobs       |
