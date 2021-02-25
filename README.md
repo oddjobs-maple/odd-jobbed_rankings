@@ -27,7 +27,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervid       | deer         |   108 | STR priest                 | Oddjobs       |
 | Taima        | Kelsey       |   105 | STRginner                  | Oddjobs       |
 | capreolina   | deer         |   103 | woodwoman (ranger)         | Oddjobs       |
-| Gumby        | Jonathan     |   102 | STRginner                  | Flow          |
+| Gumby        | Jonathan     |   103 | STRginner                  | Flow          |
 | Tacgnol      | Kelsey       |    98 | F/P gishlet                | Oddjobs       |
 | OmokTeacher  | Noam         |    96 | STRginner                  | Flow          |
 | cervine      | deer         |    96 | I/L magelet                | Oddjobs       |
@@ -41,11 +41,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin      | Zin          |    67 | STRginner                  | Flow          |
 | drainer      | mae          |    63 | STRginner                  | Flow          |
 | gogigagagigo | boop         |    62 | permarcher                 | Oddjobs       |
+| Phoneme      | Andrew Tran  |    57 | permamagician              | Oddjobs       |
 | Dizz         | Caleb        |    56 | STRginner                  | Flow          |
-| Phoneme      | Andrew Tran  |    56 | permamagician              | Oddjobs       |
 | rusa         | deer         |    55 | DEX spearwoman             | Oddjobs       |
 | JanitorPedro | Pedro\_      |    55 | STRginner                  | Flow          |
 | Cortical     | Andrew Tran  |    50 | STRginner                  | Flow          |
-| xX17Xx       | mae          |    47 | permarogue                 | Oddjobs       |
+| xX17Xx       | mae          |    48 | permarogue                 | Oddjobs       |
 | FairRow      | FairRow      |    46 | STRginner                  | Oddjobs       |
+| Mings        | Mings        |    46 | STRginner                  | Flow          |
 | HPdagger     | Charles      |    45 | dagger fighter, HP fighter | Oddjobs       |
