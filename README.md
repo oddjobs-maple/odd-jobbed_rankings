@@ -26,10 +26,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | LoneW0lf1600 | LoneWolf1600 |   110 | STRginner                  | Colors\*      |
 | cervid       | deer         |   108 | STR priest                 | Oddjobs       |
 | Taima        | Kelsey       |   105 | STRginner                  | Oddjobs       |
-| capreolina   | deer         |   103 | woodwoman (ranger)         | Oddjobs       |
+| capreolina   | deer         |   104 | woodwoman (ranger)         | Oddjobs       |
 | Gumby        | Jonathan     |   103 | STRginner                  | Flow          |
 | Tacgnol      | Kelsey       |    98 | F/P gishlet                | Oddjobs       |
-| OmokTeacher  | Noam         |    96 | STRginner                  | Flow          |
+| OmokTeacher  | Noam         |    97 | STRginner                  | Flow          |
 | cervine      | deer         |    96 | I/L magelet                | Oddjobs       |
 | Outside      | Tab          |    95 | STRginner                  | Flow          |
 | hydropotina  | deer         |    85 | swashbuckler               | Oddjobs       |
@@ -45,7 +45,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Dizz         | Caleb        |    56 | STRginner                  | Flow          |
 | rusa         | deer         |    55 | DEX spearwoman             | Oddjobs       |
 | JanitorPedro | Pedro\_      |    55 | STRginner                  | Flow          |
-| Cortical     | Andrew Tran  |    50 | STRginner                  | Flow          |
+| Cortical     | Andrew Tran  |    51 | STRginner                  | Flow          |
 | xX17Xx       | mae          |    48 | permarogue                 | Oddjobs       |
 | FairRow      | FairRow      |    46 | STRginner                  | Oddjobs       |
 | Mings        | Mings        |    46 | STRginner                  | Flow          |
