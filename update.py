@@ -56,18 +56,15 @@ for i in range(len(chars)):
     level = 0
     for table_child in soup.table.children:
         if table_child.name == "tr":
-            found_level = False
-
             for tr_child in table_child.children:
                 if tr_child.name == "td":
                     level = int(tr_child.string)
-                    found_level = True
                     break
 
-            if found_level:
+            if level != 0:
                 break
 
-    if level == 0:
+    if level < 1:
         print(f"Could not get level for IGN {ign}", file=sys.stderr)
 
     chars[i]["level"] = level
