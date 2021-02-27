@@ -61,7 +61,7 @@ for i in range(len(chars)):
                     level = int(tr_child.string)
                     break
 
-            if level != 0:
+            if level > 0:
                 break
 
     if level < 1:
