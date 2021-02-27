@@ -74,5 +74,5 @@ with open("./README.md", "w", encoding="UTF-8") as readme:
 
     for char in sorted(chars, key=lambda c: c["level"], reverse=True):
         readme.write(
-            f"| {char['ign']} | {markdown_esc(char['name'])} | {char['level']} | {markdown_esc(char['job'])} | {char['guild']}{'' if char['guild'] in SUBOPTIMAL else markdown_esc('*')} |\n"
+            f"| {char['ign']} | {markdown_esc(char['name']) if char['name'] else '?'} | {char['level'] if char['level'] else '?'} | {markdown_esc(char['job'])} | {char['guild']}{'' if char['guild'] in SUBOPTIMAL else markdown_esc('*')} |\n"
         )
