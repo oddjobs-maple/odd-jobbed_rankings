@@ -1,0 +1,126 @@
+{
+  "chars": [
+    {
+      "ign": "LoneW0lf1600",
+      "name": "LoneWolf1600",
+      "job": "STRginner",
+      "guild": "Colors"
+    },
+    {
+      "ign": "cervid",
+      "name": "deer",
+      "job": "STR priest",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "Taima",
+      "name": "Kelsey",
+      "job": "STRginner",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "capreolina",
+      "name": "deer",
+      "job": "woodwoman (ranger)",
+      "guild": "Oddjobs"
+    },
+    { "ign": "Gumby", "name": "Jonathan", "job": "STRginner", "guild": "Flow" },
+    {
+      "ign": "Tacgnol",
+      "name": "Kelsey",
+      "job": "F/P gishlet",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "OmokTeacher",
+      "name": "Noam",
+      "job": "STRginner",
+      "guild": "Flow"
+    },
+    {
+      "ign": "cervine",
+      "name": "deer",
+      "job": "I/L magelet",
+      "guild": "Oddjobs"
+    },
+    { "ign": "Outside", "name": "Tab", "job": "STRginner", "guild": "Flow" },
+    {
+      "ign": "hydropotina",
+      "name": "deer",
+      "job": "swashbuckler",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "MeikoHonma",
+      "name": "Meiko",
+      "job": "STRginner",
+      "guild": "Renaissance"
+    },
+    {
+      "ign": "Cowbelle",
+      "name": "Tabs",
+      "job": "STRginner",
+      "guild": "Homies"
+    },
+    {
+      "ign": "Boymoder",
+      "name": "Kelsey",
+      "job": "STRmit",
+      "guild": "Oddjobs"
+    },
+    { "ign": "Duhm", "name": "?", "job": "STRginner", "guild": "Flow" },
+    {
+      "ign": "rangifer",
+      "name": "deer",
+      "job": "pugilist",
+      "guild": "Oddjobs"
+    },
+    { "ign": "Ismezin", "name": "Zin", "job": "STRginner", "guild": "Flow" },
+    { "ign": "drainer", "name": "mae", "job": "STRginner", "guild": "Flow" },
+    {
+      "ign": "gogigagagigo",
+      "name": "boop",
+      "job": "permarcher",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "Phoneme",
+      "name": "Andrew Tran",
+      "job": "permamagician",
+      "guild": "Oddjobs"
+    },
+    { "ign": "Dizz", "name": "Caleb", "job": "STRginner", "guild": "Flow" },
+    {
+      "ign": "rusa",
+      "name": "deer",
+      "job": "DEX spearwoman",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "JanitorPedro",
+      "name": "Pedro_",
+      "job": "STRginner",
+      "guild": "Flow"
+    },
+    {
+      "ign": "Cortical",
+      "name": "Andrew Tran",
+      "job": "STRginner",
+      "guild": "Flow"
+    },
+    { "ign": "xX17Xx", "name": "mae", "job": "permarogue", "guild": "Oddjobs" },
+    {
+      "ign": "FairRow",
+      "name": "FairRow",
+      "job": "STRginner",
+      "guild": "Oddjobs"
+    },
+    { "ign": "Mings", "name": "Mings", "job": "STRginner", "guild": "Flow" },
+    {
+      "ign": "HPdagger",
+      "name": "Charles",
+      "job": "dagger fighter, HP fighter",
+      "guild": "Oddjobs"
+    }
+  ]
+}

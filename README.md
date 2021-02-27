@@ -21,32 +21,32 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 \*Not a member of <b>Suboptimal</b>.
 
-| IGN          | name         | level | job(s)                     | guild         |
-| :----------- | :----------- | ----: | :------------------------- | ------------- |
-| LoneW0lf1600 | LoneWolf1600 |   110 | STRginner                  | Colors\*      |
-| cervid       | deer         |   108 | STR priest                 | Oddjobs       |
-| Taima        | Kelsey       |   105 | STRginner                  | Oddjobs       |
-| capreolina   | deer         |   104 | woodwoman (ranger)         | Oddjobs       |
-| Gumby        | Jonathan     |   103 | STRginner                  | Flow          |
-| Tacgnol      | Kelsey       |    98 | F/P gishlet                | Oddjobs       |
-| OmokTeacher  | Noam         |    97 | STRginner                  | Flow          |
-| cervine      | deer         |    96 | I/L magelet                | Oddjobs       |
-| Outside      | Tab          |    95 | STRginner                  | Flow          |
-| hydropotina  | deer         |    85 | swashbuckler               | Oddjobs       |
-| MeikoHonma   | Meiko        |    84 | STRginner                  | Renaissance\* |
-| Cowbelle     | Tabs         |    82 | STRginner                  | Homies\*      |
-| Boymoder     | Kelsey       |    78 | STRmit                     | Oddjobs       |
-| Duhm         | ?            |    75 | STRginner                  | Flow          |
-| rangifer     | deer         |    75 | pugilist                   | Oddjobs       |
-| Ismezin      | Zin          |    67 | STRginner                  | Flow          |
-| drainer      | mae          |    63 | STRginner                  | Flow          |
-| gogigagagigo | boop         |    62 | permarcher                 | Oddjobs       |
-| Phoneme      | Andrew Tran  |    57 | permamagician              | Oddjobs       |
-| Dizz         | Caleb        |    56 | STRginner                  | Flow          |
-| rusa         | deer         |    55 | DEX spearwoman             | Oddjobs       |
-| JanitorPedro | Pedro\_      |    55 | STRginner                  | Flow          |
-| Cortical     | Andrew Tran  |    51 | STRginner                  | Flow          |
-| xX17Xx       | mae          |    48 | permarogue                 | Oddjobs       |
-| FairRow      | FairRow      |    46 | STRginner                  | Oddjobs       |
-| Mings        | Mings        |    46 | STRginner                  | Flow          |
-| HPdagger     | Charles      |    45 | dagger fighter, HP fighter | Oddjobs       |
+| IGN        | name         | level | job(s)                 | guild         |
+| :--------- | :----------- | ----: | :--------------------- | ------------- |
+| LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
+| cervid | deer | 108 | STR priest | Oddjobs |
+| Taima | Kelsey | 105 | STRginner | Oddjobs |
+| capreolina | deer | 104 | woodwoman (ranger) | Oddjobs |
+| Gumby | Jonathan | 103 | STRginner | Flow |
+| Tacgnol | Kelsey | 99 | F/P gishlet | Oddjobs |
+| OmokTeacher | Noam | 97 | STRginner | Flow |
+| cervine | deer | 96 | I/L magelet | Oddjobs |
+| Outside | Tab | 95 | STRginner | Flow |
+| hydropotina | deer | 85 | swashbuckler | Oddjobs |
+| MeikoHonma | Meiko | 84 | STRginner | Renaissance\* |
+| Cowbelle | Tabs | 82 | STRginner | Homies\* |
+| Boymoder | Kelsey | 78 | STRmit | Oddjobs |
+| Duhm | ? | 75 | STRginner | Flow |
+| rangifer | deer | 75 | pugilist | Oddjobs |
+| Ismezin | Zin | 68 | STRginner | Flow |
+| drainer | mae | 63 | STRginner | Flow |
+| gogigagagigo | boop | 63 | permarcher | Oddjobs |
+| Phoneme | Andrew Tran | 58 | permamagician | Oddjobs |
+| Dizz | Caleb | 56 | STRginner | Flow |
+| rusa | deer | 55 | DEX spearwoman | Oddjobs |
+| JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
+| Cortical | Andrew Tran | 52 | STRginner | Flow |
+| xX17Xx | mae | 51 | permarogue | Oddjobs |
+| FairRow | FairRow | 47 | STRginner | Oddjobs |
+| Mings | Mings | 47 | STRginner | Flow |
+| HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |

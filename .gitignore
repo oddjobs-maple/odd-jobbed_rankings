@@ -2,3 +2,6 @@
 *.swp
 .vscode/
 .idea/
+
+# Python stuff
+env/
