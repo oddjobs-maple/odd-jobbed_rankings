@@ -2,7 +2,10 @@
 
 This “rankings” is almost certainly riddled with errors, inaccuracies, and
 missing information, and should be treated as such. This is just for informal
-use, so please don’t take it too seriously.
+use, so please don’t take it too seriously. The levels of the characters listed
+here are fetched directly from [the official MapleLegends
+rankings](https://maplelegends.com/ranking/all) via [a shitty Python
+script](https://codeberg.org/oddjobs/odd-jobbed_rankings/src/branch/master/update.py).
 
 Because the impetus of this “rankings” was the formation of groups for
 bossing/PQing, only off-island characters are represented here. In addition, to
