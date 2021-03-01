@@ -26,6 +26,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
+| Otios | ? | 129 | STRginner | Flow |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
 | cervid | deer | 108 | STR priest | Oddjobs |
 | Taima | Kelsey | 105 | STRginner | Oddjobs |
@@ -39,7 +40,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MeikoHonma | Meiko | 84 | STRginner | Renaissance\* |
 | Cowbelle | Tabs | 82 | STRginner | Homies\* |
 | Boymoder | Kelsey | 78 | STRmit | Oddjobs |
-| Duhm | ? | 75 | STRginner | Flow |
 | rangifer | deer | 75 | pugilist | Oddjobs |
 | Ismezin | Zin | 69 | STRginner | Flow |
 | Daddyo | ? | 67 | STRginner | Flow |

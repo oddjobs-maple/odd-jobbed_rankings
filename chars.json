@@ -68,7 +68,6 @@
       "job": "STRmit",
       "guild": "Oddjobs"
     },
-    { "ign": "Duhm", "name": null, "job": "STRginner", "guild": "Flow" },
     {
       "ign": "rangifer",
       "name": "deer",
@@ -127,6 +126,7 @@
       "name": null,
       "job": "STRginner",
       "guild": "Flow"
-    }
+    },
+    { "ign": "Otios", "name": null, "job": "STRginner", "guild": "Flow" }
   ]
 }
