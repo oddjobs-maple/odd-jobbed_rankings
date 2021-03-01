@@ -26,7 +26,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| Otios | ? | 129 | STRginner | Flow |
+| Otios | ? | 130 | STRginner | Flow |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
 | cervid | deer | 108 | STR priest | Oddjobs |
 | Taima | Kelsey | 105 | STRginner | Oddjobs |
@@ -47,7 +47,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | drainer | mae | 63 | STRginner | Flow |
 | Phoneme | Andrew Tran | 61 | permamagician | Oddjobs |
 | Dizz | Caleb | 57 | STRginner | Flow |
-| rusa | deer | 55 | DEX spearwoman | Oddjobs |
+| rusa | deer | 56 | DEX spearwoman | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Cortical | Andrew Tran | 52 | STRginner | Flow |
 | xX17Xx | mae | 51 | permarogue | Oddjobs |
