@@ -31,7 +31,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Taima | Kelsey | 105 | STRginner | Oddjobs |
 | capreolina | deer | 104 | woodwoman (ranger) | Oddjobs |
 | Gumby | Jonathan | 103 | STRginner | Flow |
-| Tacgnol | Kelsey | 99 | F/P gishlet | Oddjobs |
+| Tacgnol | Kelsey | 100 | F/P gishlet | Oddjobs |
 | OmokTeacher | Noam | 97 | STRginner | Flow |
 | cervine | deer | 96 | I/L magelet | Oddjobs |
 | Outside | Tab | 95 | STRginner | Flow |
@@ -41,11 +41,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Boymoder | Kelsey | 78 | STRmit | Oddjobs |
 | Duhm | ? | 75 | STRginner | Flow |
 | rangifer | deer | 75 | pugilist | Oddjobs |
-| Ismezin | Zin | 68 | STRginner | Flow |
+| Ismezin | Zin | 69 | STRginner | Flow |
+| Daddyo | ? | 67 | STRginner | Flow |
+| gogigagagigo | boop | 65 | permarcher | Oddjobs |
 | drainer | mae | 63 | STRginner | Flow |
-| gogigagagigo | boop | 63 | permarcher | Oddjobs |
-| Phoneme | Andrew Tran | 58 | permamagician | Oddjobs |
-| Dizz | Caleb | 56 | STRginner | Flow |
+| Phoneme | Andrew Tran | 61 | permamagician | Oddjobs |
+| Dizz | Caleb | 57 | STRginner | Flow |
 | rusa | deer | 55 | DEX spearwoman | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Cortical | Andrew Tran | 52 | STRginner | Flow |

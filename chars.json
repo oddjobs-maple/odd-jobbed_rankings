@@ -121,6 +121,12 @@
       "name": "Charles",
       "job": "dagger fighter, HP fighter",
       "guild": "Oddjobs"
+    },
+    {
+      "ign": "Daddyo",
+      "name": null,
+      "job": "STRginner",
+      "guild": "Flow"
     }
   ]
 }
