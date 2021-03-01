@@ -31,9 +31,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Taima | Kelsey | 105 | STRginner | Oddjobs |
 | capreolina | deer | 104 | woodwoman (ranger) | Oddjobs |
 | Gumby | Jonathan | 103 | STRginner | Flow |
-| Tacgnol | Kelsey | 100 | F/P gishlet | Oddjobs |
+| Tacgnol | Kelsey | 103 | F/P gishlet | Oddjobs |
+| cervine | deer | 98 | I/L magelet | Oddjobs |
 | OmokTeacher | Noam | 97 | STRginner | Flow |
-| cervine | deer | 97 | I/L magelet | Oddjobs |
 | Outside | Tab | 95 | STRginner | Flow |
 | hydropotina | deer | 85 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 84 | STRginner | Renaissance\* |
