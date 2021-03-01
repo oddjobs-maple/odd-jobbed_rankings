@@ -33,7 +33,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gumby | Jonathan | 103 | STRginner | Flow |
 | Tacgnol | Kelsey | 100 | F/P gishlet | Oddjobs |
 | OmokTeacher | Noam | 97 | STRginner | Flow |
-| cervine | deer | 96 | I/L magelet | Oddjobs |
+| cervine | deer | 97 | I/L magelet | Oddjobs |
 | Outside | Tab | 95 | STRginner | Flow |
 | hydropotina | deer | 85 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 84 | STRginner | Renaissance\* |
