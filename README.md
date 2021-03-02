@@ -26,7 +26,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| Otios | ? | 130 | STRginner | Flow |
+| Otios | ? | 131 | STRginner | Flow |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
 | cervid | deer | 108 | STR priest | Oddjobs |
 | Taima | Kelsey | 105 | STRginner | Oddjobs |
@@ -41,9 +41,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cowbelle | Tabs | 82 | STRginner | Homies\* |
 | Boymoder | Kelsey | 78 | STRmit | Oddjobs |
 | rangifer | deer | 75 | pugilist | Oddjobs |
-| Ismezin | Zin | 69 | STRginner | Flow |
+| Ismezin | Zin | 70 | STRginner | Flow |
 | Daddyo | ? | 67 | STRginner | Flow |
-| gogigagagigo | boop | 65 | permarcher | Oddjobs |
+| gogigagagigo | boop | 66 | permarcher | Oddjobs |
 | drainer | mae | 63 | STRginner | Flow |
 | Phoneme | Andrew Tran | 61 | permamagician | Oddjobs |
 | Dizz | Caleb | 57 | STRginner | Flow |
