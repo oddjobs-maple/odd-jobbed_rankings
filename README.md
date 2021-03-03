@@ -31,9 +31,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervid | deer | 108 | STR priest | Oddjobs |
 | Taima | Kelsey | 105 | STRginner | Oddjobs |
 | capreolina | deer | 105 | woodwoman (ranger) | Oddjobs |
+| Tacgnol | Kelsey | 105 | F/P gishlet | Oddjobs |
 | Gumby | Jonathan | 103 | STRginner | Flow |
-| Tacgnol | Kelsey | 103 | F/P gishlet | Oddjobs |
-| cervine | deer | 98 | I/L magelet | Oddjobs |
+| cervine | deer | 100 | I/L magelet | Oddjobs |
 | OmokTeacher | Noam | 97 | STRginner | Flow |
 | Outside | Tab | 95 | STRginner | Flow |
 | hydropotina | deer | 85 | swashbuckler | Oddjobs |
@@ -45,7 +45,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Daddyo | ? | 67 | STRginner | Flow |
 | gogigagagigo | boop | 66 | permarcher | Oddjobs |
 | drainer | mae | 63 | STRginner | Flow |
-| Phoneme | Andrew Tran | 61 | permamagician | Oddjobs |
+| Phoneme | Andrew Tran | 62 | permamagician | Oddjobs |
 | Dizz | Caleb | 58 | STRginner | Flow |
 | rusa | deer | 56 | DEX spearwoman | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
