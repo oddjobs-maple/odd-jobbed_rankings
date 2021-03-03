@@ -46,7 +46,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | gogigagagigo | boop | 66 | permarcher | Oddjobs |
 | drainer | mae | 63 | STRginner | Flow |
 | Phoneme | Andrew Tran | 61 | permamagician | Oddjobs |
-| Dizz | Caleb | 57 | STRginner | Flow |
+| Dizz | Caleb | 58 | STRginner | Flow |
 | rusa | deer | 56 | DEX spearwoman | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Cortical | Andrew Tran | 52 | STRginner | Flow |
