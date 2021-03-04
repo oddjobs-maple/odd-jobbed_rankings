@@ -37,20 +37,20 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | OmokTeacher | Noam | 97 | STRginner | Flow |
 | Outside | Tab | 95 | STRginner | Flow |
 | hydropotina | deer | 85 | swashbuckler | Oddjobs |
-| MeikoHonma | Meiko | 84 | STRginner | Renaissance\* |
+| MeikoHonma | Meiko | 85 | STRginner | Renaissance\* |
 | Cowbelle | Tabs | 82 | STRginner | Homies\* |
-| Boymoder | Kelsey | 78 | STRmit | Oddjobs |
+| Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 75 | pugilist | Oddjobs |
 | Ismezin | Zin | 70 | STRginner | Flow |
+| gogigagagigo | boop | 67 | permarcher | Oddjobs |
 | Daddyo | ? | 67 | STRginner | Flow |
-| gogigagagigo | boop | 66 | permarcher | Oddjobs |
-| drainer | mae | 63 | STRginner | Flow |
-| Phoneme | Andrew Tran | 62 | permamagician | Oddjobs |
+| drainer | mae | 64 | STRginner | Flow |
+| Phoneme | Andrew Tran | 63 | permamagician | Oddjobs |
 | Dizz | Caleb | 58 | STRginner | Flow |
 | rusa | deer | 56 | DEX spearwoman | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Cortical | Andrew Tran | 52 | STRginner | Flow |
 | xX17Xx | mae | 51 | permarogue | Oddjobs |
+| Mings | Mings | 48 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| Mings | Mings | 47 | STRginner | Flow |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
