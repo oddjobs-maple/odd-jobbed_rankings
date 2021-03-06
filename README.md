@@ -26,7 +26,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| Otios | ? | 131 | STRginner | Flow |
+| Otios | ? | 132 | STRginner | Flow |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
 | cervid | deer | 109 | STR priest | Oddjobs |
 | Tacgnol | Kelsey | 109 | F/P gishlet | Oddjobs |
@@ -42,15 +42,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 75 | pugilist | Oddjobs |
 | Ismezin | Zin | 70 | STRginner | Flow |
+| gogigagagigo | boop | 68 | permarcher | Oddjobs |
 | Daddyo | ? | 68 | STRginner | Flow |
-| gogigagagigo | boop | 67 | permarcher | Oddjobs |
-| Phoneme | Andrew Tran | 66 | permamagician | Oddjobs |
+| Phoneme | Andrew Tran | 67 | permamagician | Oddjobs |
 | drainer | mae | 65 | STRginner | Flow |
-| Dizz | Caleb | 60 | STRginner | Flow |
+| Dizz | Caleb | 61 | STRginner | Flow |
 | rusa | deer | 56 | DEX spearwoman | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Cortical | Andrew Tran | 52 | STRginner | Flow |
-| xX17Xx | mae | 51 | permarogue | Oddjobs |
+| xX17Xx | mae | 52 | permarogue | Oddjobs |
 | Mings | Mings | 48 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
