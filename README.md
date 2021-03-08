@@ -28,29 +28,29 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 132 | STRginner | Flow |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
-| cervid | deer | 109 | STR priest | Oddjobs |
+| cervid | deer | 110 | STR priest | Oddjobs |
 | Tacgnol | Kelsey | 109 | F/P gishlet | Oddjobs |
 | capreolina | deer | 106 | woodwoman (ranger) | Oddjobs |
 | Taima | Kelsey | 105 | STRginner | Oddjobs |
 | Gumby | Jonathan | 103 | STRginner | Flow |
 | cervine | deer | 101 | I/L magelet | Oddjobs |
-| OmokTeacher | Noam | 97 | STRginner | Flow |
+| OmokTeacher | Noam | 98 | STRginner | Flow |
 | Outside | Tab | 95 | STRginner | Flow |
-| hydropotina | deer | 85 | swashbuckler | Oddjobs |
+| hydropotina | deer | 86 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 85 | STRginner | Renaissance\* |
 | Cowbelle | Tabs | 82 | STRginner | Homies\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 75 | pugilist | Oddjobs |
-| gogigagagigo | boop | 71 | permarcher | Oddjobs |
+| gogigagagigo | boop | 73 | permarcher | Oddjobs |
 | Ismezin | Zin | 70 | STRginner | Flow |
 | Phoneme | Andrew Tran | 70 | permamagician | Oddjobs |
-| Daddyo | ? | 69 | STRginner | Flow |
+| Daddyo | ? | 70 | STRginner | Flow |
 | drainer | mae | 65 | STRginner | Flow |
-| Dizz | Caleb | 63 | STRginner | Flow |
-| rusa | deer | 58 | DEX spearwoman | Oddjobs |
+| Dizz | Caleb | 65 | STRginner | Flow |
+| rusa | deer | 59 | DEX spearwoman | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Cortical | Andrew Tran | 53 | STRginner | Flow |
-| xX17Xx | mae | 52 | permarogue | Oddjobs |
+| xX17Xx | mae | 53 | permarogue | Oddjobs |
 | Mings | Mings | 48 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
