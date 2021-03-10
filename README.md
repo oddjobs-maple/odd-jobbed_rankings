@@ -50,7 +50,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rusa | deer | 59 | DEX spearwoman | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Cortical | Andrew Tran | 55 | STRginner | Flow |
-| xX17Xx | mae | 53 | permarogue | Oddjobs |
+| xX17Xx | mae | 54 | permarogue | Oddjobs |
 | Mings | Mings | 48 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
