@@ -58,7 +58,7 @@
     },
     {
       "ign": "Cowbelle",
-      "name": "Tabs",
+      "name": "Belle",
       "job": "STRginner",
       "guild": "Homies"
     },
@@ -123,10 +123,11 @@
     },
     {
       "ign": "Daddyo",
-      "name": null,
+      "name": "Hunter",
       "job": "STRginner",
       "guild": "Flow"
     },
-    { "ign": "Otios", "name": null, "job": "STRginner", "guild": "Flow" }
+    { "ign": "Otios", "name": null, "job": "STRginner", "guild": "Flow" },
+    { "ign": "ducklings", "name": null, "job": "STRginner", "guild": null }
   ]
 }

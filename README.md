@@ -30,26 +30,27 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
 | cervid | deer | 110 | STR priest | Oddjobs |
 | Tacgnol | Kelsey | 110 | F/P gishlet | Oddjobs |
-| capreolina | deer | 107 | woodwoman (ranger) | Oddjobs |
+| capreolina | deer | 108 | woodwoman (ranger) | Oddjobs |
 | Taima | Kelsey | 105 | STRginner | Oddjobs |
 | Gumby | Jonathan | 104 | STRginner | Flow |
-| cervine | deer | 102 | I/L magelet | Oddjobs |
+| cervine | deer | 103 | I/L magelet | Oddjobs |
 | OmokTeacher | Noam | 98 | STRginner | Flow |
 | Outside | Tab | 95 | STRginner | Flow |
 | hydropotina | deer | 88 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 85 | STRginner | Renaissance\* |
-| Cowbelle | Tabs | 82 | STRginner | Homies\* |
+| Cowbelle | Belle | 82 | STRginner | Homies\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 75 | pugilist | Oddjobs |
 | gogigagagigo | boop | 73 | permarcher | Oddjobs |
+| Daddyo | Hunter | 71 | STRginner | Flow |
 | Ismezin | Zin | 70 | STRginner | Flow |
 | Phoneme | Andrew Tran | 70 | permamagician | Oddjobs |
-| Daddyo | ? | 70 | STRginner | Flow |
 | drainer | mae | 66 | STRginner | Flow |
 | Dizz | Caleb | 65 | STRginner | Flow |
 | rusa | deer | 59 | DEX spearwoman | Oddjobs |
+| ducklings | ? | 59 | STRginner | \[none\]\* |
+| Cortical | Andrew Tran | 56 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
-| Cortical | Andrew Tran | 55 | STRginner | Flow |
 | xX17Xx | mae | 54 | permarogue | Oddjobs |
 | Mings | Mings | 48 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
