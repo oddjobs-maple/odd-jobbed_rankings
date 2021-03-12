@@ -26,11 +26,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| Otios | ? | 132 | STRginner | Flow |
+| Otios | ? | 133 | STRginner | Flow |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
 | cervid | deer | 110 | STR priest | Oddjobs |
 | Tacgnol | Kelsey | 110 | F/P gishlet | Oddjobs |
-| capreolina | deer | 108 | woodwoman (ranger) | Oddjobs |
+| capreolina | deer | 109 | woodwoman (ranger) | Oddjobs |
 | Taima | Kelsey | 105 | STRginner | Oddjobs |
 | Gumby | Jonathan | 104 | STRginner | Flow |
 | cervine | deer | 103 | I/L magelet | Oddjobs |
@@ -47,9 +47,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | Andrew Tran | 70 | permamagician | Oddjobs |
 | drainer | mae | 66 | STRginner | Flow |
 | Dizz | Caleb | 65 | STRginner | Flow |
+| ducklings | ? | 60 | STRginner | \[none\]\* |
 | rusa | deer | 59 | DEX spearwoman | Oddjobs |
-| ducklings | ? | 59 | STRginner | \[none\]\* |
-| Cortical | Andrew Tran | 56 | STRginner | Flow |
+| Cortical | Andrew Tran | 57 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | xX17Xx | mae | 54 | permarogue | Oddjobs |
 | Mings | Mings | 48 | STRginner | Flow |
