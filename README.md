@@ -36,22 +36,22 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervine | deer | 103 | I/L magelet | Oddjobs |
 | OmokTeacher | Noam | 98 | STRginner | Flow |
 | Outside | Tab | 95 | STRginner | Flow |
-| hydropotina | deer | 88 | swashbuckler | Oddjobs |
+| hydropotina | deer | 89 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 85 | STRginner | Renaissance\* |
-| Cowbelle | Belle | 82 | STRginner | Homies\* |
+| Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 75 | pugilist | Oddjobs |
-| gogigagagigo | boop | 73 | permarcher | Oddjobs |
+| gogigagagigo | boop | 74 | permarcher | Oddjobs |
+| Phoneme | Andrew Tran | 71 | permamagician | Oddjobs |
 | Daddyo | Hunter | 71 | STRginner | Flow |
 | Ismezin | Zin | 70 | STRginner | Flow |
-| Phoneme | Andrew Tran | 70 | permamagician | Oddjobs |
+| Dizz | Caleb | 67 | STRginner | Flow |
 | drainer | mae | 66 | STRginner | Flow |
-| Dizz | Caleb | 65 | STRginner | Flow |
 | ducklings | ? | 60 | STRginner | \[none\]\* |
 | rusa | deer | 59 | DEX spearwoman | Oddjobs |
 | Cortical | Andrew Tran | 57 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
-| xX17Xx | mae | 54 | permarogue | Oddjobs |
+| xX17Xx | mae | 55 | permarogue | Oddjobs |
 | Mings | Mings | 48 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
