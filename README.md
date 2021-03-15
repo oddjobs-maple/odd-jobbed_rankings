@@ -27,10 +27,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 133 | STRginner | Flow |
+| Tacgnol | Kelsey | 113 | F/P gishlet | Oddjobs |
+| cervid | deer | 111 | STR priest | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
-| cervid | deer | 110 | STR priest | Oddjobs |
-| Tacgnol | Kelsey | 110 | F/P gishlet | Oddjobs |
-| capreolina | deer | 109 | woodwoman (ranger) | Oddjobs |
+| capreolina | deer | 110 | woodwoman (ranger) | Oddjobs |
 | Taima | Kelsey | 105 | STRginner | Oddjobs |
 | Gumby | Jonathan | 104 | STRginner | Flow |
 | cervine | deer | 103 | I/L magelet | Oddjobs |
@@ -41,11 +41,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 75 | pugilist | Oddjobs |
-| gogigagagigo | boop | 74 | permarcher | Oddjobs |
+| gogigagagigo | boop | 75 | permarcher | Oddjobs |
 | Phoneme | Andrew Tran | 71 | permamagician | Oddjobs |
 | Daddyo | Hunter | 71 | STRginner | Flow |
 | Ismezin | Zin | 70 | STRginner | Flow |
-| Dizz | Caleb | 67 | STRginner | Flow |
+| Dizz | Caleb | 68 | STRginner | Flow |
 | drainer | mae | 66 | STRginner | Flow |
 | ducklings | ? | 60 | STRginner | \[none\]\* |
 | rusa | deer | 59 | DEX spearwoman | Oddjobs |
