@@ -33,7 +33,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | capreolina | deer | 110 | woodwoman (ranger) | Oddjobs |
 | Taima | Kelsey | 105 | STRginner | Oddjobs |
 | Gumby | Jonathan | 104 | STRginner | Flow |
-| cervine | deer | 103 | I/L magelet | Oddjobs |
+| cervine | deer | 104 | I/L magelet | Oddjobs |
 | OmokTeacher | Noam | 98 | STRginner | Flow |
 | Outside | Tab | 95 | STRginner | Flow |
 | hydropotina | deer | 89 | swashbuckler | Oddjobs |
@@ -50,8 +50,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ducklings | ? | 60 | STRginner | \[none\]\* |
 | rusa | deer | 59 | DEX spearwoman | Oddjobs |
 | Cortical | Andrew Tran | 57 | STRginner | Flow |
+| xX17Xx | mae | 56 | permarogue | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
-| xX17Xx | mae | 55 | permarogue | Oddjobs |
 | Mings | Mings | 48 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
+| hashishi | deer | 45 | besinner | Pals\* |
