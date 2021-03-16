@@ -45,13 +45,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | Andrew Tran | 71 | permamagician | Oddjobs |
 | Daddyo | Hunter | 71 | STRginner | Flow |
 | Ismezin | Zin | 70 | STRginner | Flow |
-| Dizz | Caleb | 68 | STRginner | Flow |
+| Dizz | Caleb | 69 | STRginner | Flow |
 | drainer | mae | 66 | STRginner | Flow |
+| rusa | deer | 61 | DEX spearwoman | Oddjobs |
 | ducklings | ? | 60 | STRginner | \[none\]\* |
-| rusa | deer | 59 | DEX spearwoman | Oddjobs |
-| Cortical | Andrew Tran | 57 | STRginner | Flow |
+| Cortical | Andrew Tran | 58 | STRginner | Flow |
 | xX17Xx | mae | 56 | permarogue | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
+| Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Mings | Mings | 48 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
