@@ -27,7 +27,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 133 | STRginner | Flow |
-| Tacgnol | Kelsey | 116 | F/P gishlet | Oddjobs |
+| Tacgnol | Kelsey | 117 | F/P gishlet | Oddjobs |
 | cervid | deer | 113 | STR priest | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
 | capreolina | deer | 110 | woodwoman (ranger) | Oddjobs |
