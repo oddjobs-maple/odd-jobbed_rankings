@@ -43,17 +43,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer | deer | 75 | pugilist | Oddjobs |
 | gogigagagigo | boop | 75 | permarcher | Oddjobs |
 | Phoneme | Andrew Tran | 72 | permamagician | Oddjobs |
+| Daddyo | Hunter | 72 | STRginner | Flow |
 | Dizz | Caleb | 71 | STRginner | Flow |
-| Daddyo | Hunter | 71 | STRginner | Flow |
 | Ismezin | Zin | 70 | STRginner | Flow |
 | drainer | mae | 66 | STRginner | Flow |
 | rusa | deer | 61 | DEX spearwoman | Oddjobs |
-| ducklings | ? | 61 | STRginner | \[none\]\* |
+| ducklings | ? | 61 | STRginner | DuckNation\* |
 | Cortical | Andrew Tran | 58 | STRginner | Flow |
 | xX17Xx | mae | 56 | permarogue | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| Mings | Mings | 48 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | hashishi | deer | 45 | besinner | Pals\* |
