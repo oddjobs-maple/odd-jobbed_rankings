@@ -41,18 +41,21 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
-| gogigagagigo | boop | 75 | permarcher | Oddjobs |
+| gogigagagigo | boop | 76 | permarcher | Oddjobs |
 | Phoneme | Andrew Tran | 72 | permamagician | Oddjobs |
 | Dizz | Caleb | 72 | STRginner | Flow |
 | Daddyo | Hunter | 72 | STRginner | Flow |
 | Ismezin | Zin | 70 | STRginner | Flow |
-| drainer | mae | 67 | STRginner | Flow |
-| ducklings | ? | 62 | STRginner | DuckNation\* |
+| drainer | mae | 68 | STRginner | Flow |
+| Rort | Lin | 65 | STRginner | Flow |
+| ducklings | ? | 63 | STRginner | DuckNation\* |
 | rusa | deer | 61 | DEX spearwoman | Oddjobs |
 | Cortical | Andrew Tran | 58 | STRginner | Flow |
 | xX17Xx | mae | 56 | permarogue | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
+| Celim | ? | 53 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | hashishi | deer | 45 | besinner | Pals\* |
+| doiob | sophluffy | 45 | STR cleric | Oddjobs |
