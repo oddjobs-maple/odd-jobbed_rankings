@@ -28,7 +28,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 134 | STRginner | Flow |
 | Tacgnol | Kelsey | 117 | F/P gishlet | Oddjobs |
-| cervid | deer | 113 | STR priest | Oddjobs |
+| cervid | deer | 114 | STR priest | Oddjobs |
 | capreolina | deer | 111 | woodwoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
@@ -47,7 +47,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Daddyo | Hunter | 72 | STRginner | Flow |
 | Ismezin | Zin | 70 | STRginner | Flow |
 | drainer | mae | 68 | STRginner | Flow |
-| Rort | Lin | 65 | STRginner | Flow |
+| Rort | Lin | 66 | STRginner | Flow |
 | ducklings | ? | 63 | STRginner | DuckNation\* |
 | rusa | deer | 61 | DEX spearwoman | Oddjobs |
 | Cortical | Andrew Tran | 58 | STRginner | Flow |
