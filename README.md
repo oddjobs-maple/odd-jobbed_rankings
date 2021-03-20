@@ -47,10 +47,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Daddyo | Hunter | 72 | STRginner | Flow |
 | Ismezin | Zin | 70 | STRginner | Flow |
 | drainer | mae | 68 | STRginner | Flow |
-| Rort | Lin | 66 | STRginner | Flow |
+| Rort | Lin | 68 | STRginner | Flow |
 | ducklings | ? | 63 | STRginner | DuckNation\* |
 | rusa | deer | 61 | DEX spearwoman | Oddjobs |
-| Cortical | Andrew Tran | 58 | STRginner | Flow |
+| Cortical | Andrew Tran | 59 | STRginner | Flow |
 | xX17Xx | mae | 56 | permarogue | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
