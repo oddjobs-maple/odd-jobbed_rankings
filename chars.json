@@ -132,6 +132,7 @@
     { "ign": "Slimusaurus", "name": "Noam", "job": "besinner", "guild": null },
     { "ign": "Celim", "name": null, "job": "STRginner", "guild": "Flow" },
     { "ign": "Rort", "name": "Lin", "job": "STRginner", "guild": "Flow" },
-    { "ign": "doiob", "name": "sophluffy", "job": "STR cleric", "guild": "Oddjobs" }
+    { "ign": "doiob", "name": "sophluffy", "job": "STR cleric", "guild": "Oddjobs" },
+    { "ign": "Furbs", "name": null, "job": "STRginner", "guild": "WindowsXP" }
   ]
 }

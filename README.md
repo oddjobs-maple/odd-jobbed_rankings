@@ -46,15 +46,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Dizz | Caleb | 72 | STRginner | Flow |
 | Daddyo | Hunter | 72 | STRginner | Flow |
 | Ismezin | Zin | 70 | STRginner | Flow |
+| Rort | Lin | 69 | STRginner | Flow |
 | drainer | mae | 68 | STRginner | Flow |
-| Rort | Lin | 68 | STRginner | Flow |
-| ducklings | ? | 63 | STRginner | DuckNation\* |
+| ducklings | ? | 64 | STRginner | DuckNation\* |
 | rusa | deer | 61 | DEX spearwoman | Oddjobs |
+| Furbs | ? | 61 | STRginner | WindowsXP\* |
 | Cortical | Andrew Tran | 59 | STRginner | Flow |
 | xX17Xx | mae | 56 | permarogue | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| Celim | ? | 53 | STRginner | Flow |
+| Celim | ? | 54 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | hashishi | deer | 45 | besinner | Pals\* |
