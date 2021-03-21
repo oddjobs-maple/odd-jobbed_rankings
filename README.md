@@ -46,7 +46,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Dizz | Caleb | 72 | STRginner | Flow |
 | Daddyo | Hunter | 72 | STRginner | Flow |
 | Ismezin | Zin | 70 | STRginner | Flow |
-| Rort | Lin | 69 | STRginner | Flow |
+| Rort | Lin | 70 | STRginner | Flow |
 | drainer | mae | 68 | STRginner | Flow |
 | ducklings | joyce | 66 | STRginner | DuckNation\* |
 | rusa | deer | 63 | DEX spearwoman | Oddjobs |
