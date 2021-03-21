@@ -48,9 +48,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | Zin | 70 | STRginner | Flow |
 | Rort | Lin | 69 | STRginner | Flow |
 | drainer | mae | 68 | STRginner | Flow |
-| ducklings | ? | 64 | STRginner | DuckNation\* |
-| rusa | deer | 61 | DEX spearwoman | Oddjobs |
-| Furbs | ? | 61 | STRginner | WindowsXP\* |
+| ducklings | joyce | 65 | STRginner | DuckNation\* |
+| rusa | deer | 62 | DEX spearwoman | Oddjobs |
+| Furbs | ? | 62 | STRginner | WindowsXP\* |
 | Cortical | Andrew Tran | 59 | STRginner | Flow |
 | xX17Xx | mae | 56 | permarogue | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
