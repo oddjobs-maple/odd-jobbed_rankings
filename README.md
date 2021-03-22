@@ -48,8 +48,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | Zin | 70 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | drainer | mae | 68 | STRginner | Flow |
-| ducklings | joyce | 67 | STRginner | DuckNation\* |
-| rusa | deer | 65 | DEX spearwoman | Oddjobs |
+| ducklings | joyce | 68 | STRginner | DuckNation\* |
+| rusa | deer | 66 | DEX spearwoman | Oddjobs |
 | Furbs | ? | 62 | STRginner | WindowsXP\* |
 | Cortical | Andrew Tran | 59 | STRginner | Flow |
 | xX17Xx | mae | 56 | permarogue | Oddjobs |
@@ -60,3 +60,4 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | hashishi | deer | 45 | besinner | Pals\* |
 | doiob | doiob | 45 | STR cleric | Oddjobs |
+| Gambolpuddy | Kelsey | 45 | DEXginner | Oddjobs |

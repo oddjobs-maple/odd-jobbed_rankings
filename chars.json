@@ -133,6 +133,7 @@
     { "ign": "Celim", "name": null, "job": "STRginner", "guild": "Flow" },
     { "ign": "Rort", "name": "Lin", "job": "STRginner", "guild": "Flow" },
     { "ign": "doiob", "name": "doiob", "job": "STR cleric", "guild": "Oddjobs" },
-    { "ign": "Furbs", "name": null, "job": "STRginner", "guild": "WindowsXP" }
+    { "ign": "Furbs", "name": null, "job": "STRginner", "guild": "WindowsXP" },
+    { "ign": "Gambolpuddy", "name": "Kelsey", "job": "DEXginner", "guild": "Oddjobs" }
   ]
 }
