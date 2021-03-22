@@ -49,7 +49,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Rort | Lin | 70 | STRginner | Flow |
 | drainer | mae | 68 | STRginner | Flow |
 | ducklings | joyce | 67 | STRginner | DuckNation\* |
-| rusa | deer | 64 | DEX spearwoman | Oddjobs |
+| rusa | deer | 65 | DEX spearwoman | Oddjobs |
 | Furbs | ? | 62 | STRginner | WindowsXP\* |
 | Cortical | Andrew Tran | 59 | STRginner | Flow |
 | xX17Xx | mae | 56 | permarogue | Oddjobs |
