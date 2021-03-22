@@ -42,13 +42,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | gogigagagigo | boop | 76 | permarcher | Oddjobs |
+| Daddyo | Hunter | 73 | STRginner | Flow |
 | Phoneme | Andrew Tran | 72 | permamagician | Oddjobs |
 | Dizz | Caleb | 72 | STRginner | Flow |
-| Daddyo | Hunter | 72 | STRginner | Flow |
 | Ismezin | Zin | 70 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | drainer | mae | 68 | STRginner | Flow |
-| ducklings | joyce | 66 | STRginner | DuckNation\* |
+| ducklings | joyce | 67 | STRginner | DuckNation\* |
 | rusa | deer | 64 | DEX spearwoman | Oddjobs |
 | Furbs | ? | 62 | STRginner | WindowsXP\* |
 | Cortical | Andrew Tran | 59 | STRginner | Flow |
@@ -59,4 +59,4 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | hashishi | deer | 45 | besinner | Pals\* |
-| doiob | sophluffy | 45 | STR cleric | Oddjobs |
+| doiob | doiob | 45 | STR cleric | Oddjobs |
