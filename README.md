@@ -40,15 +40,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
+| gogigagagigo | boop | 77 | permarcher | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
-| gogigagagigo | boop | 76 | permarcher | Oddjobs |
 | Daddyo | Hunter | 73 | STRginner | Flow |
 | Phoneme | Andrew Tran | 72 | permamagician | Oddjobs |
 | Dizz | Caleb | 72 | STRginner | Flow |
 | Ismezin | Zin | 70 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
+| ducklings | joyce | 69 | STRginner | DuckNation\* |
 | drainer | mae | 68 | STRginner | Flow |
-| ducklings | joyce | 68 | STRginner | DuckNation\* |
 | rusa | deer | 66 | DEX spearwoman | Oddjobs |
 | Furbs | ? | 62 | STRginner | WindowsXP\* |
 | Cortical | Andrew Tran | 59 | STRginner | Flow |
@@ -57,7 +57,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Celim | ? | 54 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
+| Gambolpuddy | Kelsey | 46 | DEXginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | hashishi | deer | 45 | besinner | Pals\* |
 | doiob | doiob | 45 | STR cleric | Oddjobs |
-| Gambolpuddy | Kelsey | 45 | DEXginner | Oddjobs |
