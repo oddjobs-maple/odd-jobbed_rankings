@@ -45,7 +45,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Daddyo | Hunter | 73 | STRginner | Flow |
 | Phoneme | Andrew Tran | 72 | permamagician | Oddjobs |
 | Dizz | Caleb | 72 | STRginner | Flow |
-| rusa | deer | 71 | DEXgon knight | Oddjobs |
+| rusa | deer | 72 | DEXgon knight | Oddjobs |
 | Ismezin | Zin | 70 | STRginner | Flow |
 | drainer | mae | 70 | STRginner | Flow |
 | ducklings | joyce | 70 | STRginner | DuckNation\* |
