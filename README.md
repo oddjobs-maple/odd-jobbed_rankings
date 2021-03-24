@@ -46,10 +46,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | Andrew Tran | 72 | permamagician | Oddjobs |
 | Dizz | Caleb | 72 | STRginner | Flow |
 | Ismezin | Zin | 70 | STRginner | Flow |
+| ducklings | joyce | 70 | STRginner | DuckNation\* |
 | Rort | Lin | 70 | STRginner | Flow |
 | drainer | mae | 69 | STRginner | Flow |
 | rusa | deer | 69 | DEX spearwoman | Oddjobs |
-| ducklings | joyce | 69 | STRginner | DuckNation\* |
 | Furbs | ? | 62 | STRginner | WindowsXP\* |
 | Cortical | Andrew Tran | 61 | STRginner | Flow |
 | xX17Xx | mae | 56 | permarogue | Oddjobs |
