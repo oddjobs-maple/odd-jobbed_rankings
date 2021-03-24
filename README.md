@@ -55,7 +55,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | xX17Xx | mae | 56 | permarogue | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| Celim | ? | 54 | STRginner | Flow |
+| Celim | ? | 55 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Gambolpuddy | Kelsey | 47 | DEXginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
