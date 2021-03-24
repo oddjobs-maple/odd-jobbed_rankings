@@ -45,11 +45,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Daddyo | Hunter | 73 | STRginner | Flow |
 | Phoneme | Andrew Tran | 72 | permamagician | Oddjobs |
 | Dizz | Caleb | 72 | STRginner | Flow |
+| rusa | deer | 71 | DEXgon knight | Oddjobs |
 | Ismezin | Zin | 70 | STRginner | Flow |
+| drainer | mae | 70 | STRginner | Flow |
 | ducklings | joyce | 70 | STRginner | DuckNation\* |
 | Rort | Lin | 70 | STRginner | Flow |
-| drainer | mae | 69 | STRginner | Flow |
-| rusa | deer | 69 | DEX spearwoman | Oddjobs |
 | Furbs | ? | 62 | STRginner | WindowsXP\* |
 | Cortical | Andrew Tran | 61 | STRginner | Flow |
 | xX17Xx | mae | 56 | permarogue | Oddjobs |
@@ -57,7 +57,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Celim | ? | 54 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| Gambolpuddy | Kelsey | 46 | DEXginner | Oddjobs |
+| Gambolpuddy | Kelsey | 47 | DEXginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | hashishi | deer | 45 | besinner | Pals\* |
 | doiob | doiob | 45 | STR cleric | Oddjobs |
