@@ -40,24 +40,24 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
-| gogigagagigo | boop | 77 | permarcher | Oddjobs |
+| gogigagagigo | boop | 78 | permarcher | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Daddyo | Hunter | 73 | STRginner | Flow |
 | Phoneme | Andrew Tran | 72 | permamagician | Oddjobs |
 | Dizz | Caleb | 72 | STRginner | Flow |
 | rusa | deer | 72 | DEXgon knight | Oddjobs |
-| Ismezin | Zin | 70 | STRginner | Flow |
+| Ismezin | Zin | 71 | STRginner | Flow |
 | drainer | mae | 70 | STRginner | Flow |
 | ducklings | joyce | 70 | STRginner | DuckNation\* |
 | Rort | Lin | 70 | STRginner | Flow |
 | Furbs | ? | 62 | STRginner | WindowsXP\* |
 | Cortical | Andrew Tran | 61 | STRginner | Flow |
-| xX17Xx | mae | 56 | permarogue | Oddjobs |
+| xX17Xx | mae | 57 | permarogue | Oddjobs |
+| Celim | ? | 56 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| Celim | ? | 55 | STRginner | Flow |
+| Gambolpuddy | Kelsey | 49 | DEXginner | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| Gambolpuddy | Kelsey | 47 | DEXginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | hashishi | deer | 45 | besinner | Pals\* |
 | doiob | doiob | 45 | STR cleric | Oddjobs |
