@@ -32,8 +32,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | capreolina | deer | 111 | woodwoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
+| Gumby | Jonathan | 105 | STRginner | Flow |
 | cervine | deer | 105 | I/L magelet | Oddjobs |
-| Gumby | Jonathan | 104 | STRginner | Flow |
 | OmokTeacher | Noam | 98 | STRginner | Flow |
 | Outside | Tab | 95 | STRginner | Flow |
 | hydropotina | deer | 89 | swashbuckler | Oddjobs |
@@ -47,16 +47,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | Andrew Tran | 72 | permamagician | Oddjobs |
 | Dizz | Caleb | 72 | STRginner | Flow |
 | Ismezin | Zin | 71 | STRginner | Flow |
+| ducklings | joyce | 71 | STRginner | DuckNation\* |
 | drainer | mae | 70 | STRginner | Flow |
-| ducklings | joyce | 70 | STRginner | DuckNation\* |
 | Rort | Lin | 70 | STRginner | Flow |
+| Cortical | Andrew Tran | 62 | STRginner | Flow |
 | Furbs | ? | 62 | STRginner | WindowsXP\* |
-| Cortical | Andrew Tran | 61 | STRginner | Flow |
 | xX17Xx | mae | 57 | permarogue | Oddjobs |
 | Celim | ? | 56 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| Gambolpuddy | Kelsey | 49 | DEXginner | Oddjobs |
+| Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | hashishi | deer | 45 | besinner | Pals\* |
