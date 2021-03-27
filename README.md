@@ -42,12 +42,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | gogigagagigo | boop | 78 | permarcher | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
-| rusa | deer | 73 | DEXgon knight | Oddjobs |
+| rusa | deer | 75 | DEXgon knight | Oddjobs |
 | Daddyo | Hunter | 73 | STRginner | Flow |
 | Phoneme | Andrew Tran | 72 | permamagician | Oddjobs |
 | Dizz | Caleb | 72 | STRginner | Flow |
+| ducklings | joyce | 72 | STRginner | DuckNation\* |
 | Ismezin | Zin | 71 | STRginner | Flow |
-| ducklings | joyce | 71 | STRginner | DuckNation\* |
 | drainer | mae | 70 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | Cortical | Andrew Tran | 62 | STRginner | Flow |
