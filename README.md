@@ -53,7 +53,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cortical | Andrew Tran | 62 | STRginner | Flow |
 | Furbs | ? | 62 | STRginner | WindowsXP\* |
 | xX17Xx | mae | 57 | permarogue | Oddjobs |
-| Celim | ? | 56 | STRginner | Flow |
+| Celim | ? | 57 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
