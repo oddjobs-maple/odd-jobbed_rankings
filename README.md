@@ -41,9 +41,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | gogigagagigo | boop | 80 | permarcher | Oddjobs |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
-| rusa | deer | 78 | DEXgon knight | Oddjobs |
+| rusa | deer | 79 | DEXgon knight | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
-| ducklings | joyce | 75 | STRginner | DuckNation\* |
+| ducklings | joyce | 76 | STRginner | DuckNation\* |
 | Daddyo | Hunter | 73 | STRginner | Flow |
 | Ismezin | Zin | 72 | STRginner | Flow |
 | Phoneme | Andrew Tran | 72 | permamagician | Oddjobs |
