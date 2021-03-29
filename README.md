@@ -48,7 +48,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Daddyo | Hunter | 73 | STRginner | Flow |
 | Phoneme | Andrew Tran | 72 | permamagician | Oddjobs |
 | Dizz | Caleb | 72 | STRginner | Flow |
-| drainer | mae | 70 | STRginner | Flow |
+| drainer | mae | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | Cortical | Andrew Tran | 62 | STRginner | Flow |
 | Furbs | ? | 62 | STRginner | WindowsXP\* |
