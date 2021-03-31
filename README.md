@@ -38,11 +38,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Outside | Tab | 95 | STRginner | Flow |
 | hydropotina | deer | 89 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
-| rusa | deer | 84 | DEXgon knight | Oddjobs |
+| rusa | deer | 85 | DEXgon knight | Oddjobs |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | gogigagagigo | boop | 81 | permarcher | Oddjobs |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
-| ducklings | joyce | 78 | STRginner | DuckNation\* |
+| ducklings | joyce | 79 | STRginner | DuckNation\* |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Ismezin | Zin | 73 | STRginner | Flow |
 | Daddyo | Hunter | 73 | STRginner | Flow |
