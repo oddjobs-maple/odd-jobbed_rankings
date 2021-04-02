@@ -62,3 +62,4 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | hashishi | deer | 45 | besinner | Pals\* |
 | doiob | doiob | 45 | STR cleric | Oddjobs |
+| Monc | Monc | 45 | permamagician | Oddjobs |
