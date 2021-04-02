@@ -45,19 +45,19 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Ismezin | Zin | 74 | STRginner | Flow |
-| Daddyo | Hunter | 73 | STRginner | Flow |
+| Daddyo | Hunter | 74 | STRginner | Flow |
 | Phoneme | Andrew Tran | 72 | permamagician | Oddjobs |
 | Dizz | Caleb | 72 | STRginner | Flow |
 | drainer | mae | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
-| Cortical | Andrew Tran | 63 | STRginner | Flow |
+| Cortical | Andrew Tran | 64 | STRginner | Flow |
 | Furbs | ? | 62 | STRginner | WindowsXP\* |
 | Celim | ? | 60 | STRginner | Flow |
 | xX17Xx | mae | 57 | permarogue | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
-| GishGallop | Andrew Tran | 48 | I/L gish | Oddjobs |
+| GishGallop | Andrew Tran | 50 | I/L gish | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | hashishi | deer | 45 | besinner | Pals\* |
