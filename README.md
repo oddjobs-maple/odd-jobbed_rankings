@@ -37,7 +37,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | OmokTeacher | Noam | 99 | STRginner | Flow |
 | Outside | Tab | 95 | STRginner | Flow |
 | hydropotina | deer | 89 | swashbuckler | Oddjobs |
-| rusa | deer | 87 | DEXgon knight | Oddjobs |
+| rusa | deer | 88 | DEXgon knight | Oddjobs |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | gogigagagigo | boop | 83 | permarcher | Oddjobs |
@@ -50,7 +50,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Dizz | Caleb | 72 | STRginner | Flow |
 | drainer | mae | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
-| Cortical | Andrew Tran | 64 | STRginner | Flow |
+| Cortical | Andrew Tran | 65 | STRginner | Flow |
 | Furbs | ? | 62 | STRginner | WindowsXP\* |
 | Celim | ? | 61 | STRginner | Flow |
 | xX17Xx | mae | 57 | permarogue | Oddjobs |
