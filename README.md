@@ -50,10 +50,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Dizz | Caleb | 72 | STRginner | Flow |
 | drainer | mae | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
-| Cortical | Andrew Tran | 66 | STRginner | Flow |
+| Cortical | Andrew Tran | 67 | STRginner | Flow |
 | Furbs | ? | 62 | STRginner | WindowsXP\* |
 | Celim | ? | 61 | STRginner | Flow |
-| xX17Xx | mae | 57 | permarogue | Oddjobs |
+| xX17Xx | mae | 59 | permarogue | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
