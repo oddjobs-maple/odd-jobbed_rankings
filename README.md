@@ -44,7 +44,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
-| Ismezin | Zin | 74 | STRginner | Flow |
+| Ismezin | Zin | 75 | STRginner | Flow |
 | Daddyo | Hunter | 74 | STRginner | Flow |
 | Phoneme | Andrew Tran | 72 | permamagician | Oddjobs |
 | Dizz | Caleb | 72 | STRginner | Flow |
