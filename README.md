@@ -36,7 +36,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervine | deer | 105 | I/L magelet | Oddjobs |
 | OmokTeacher | Noam | 99 | STRginner | Flow |
 | Outside | Tab | 95 | STRginner | Flow |
-| rusa | deer | 90 | DEXgon knight | Oddjobs |
+| rusa | deer | 92 | DEXgon knight | Oddjobs |
 | hydropotina | deer | 89 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | ducklings | joyce | 85 | STRginner | DuckNation\* |
