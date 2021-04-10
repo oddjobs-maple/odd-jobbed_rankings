@@ -39,8 +39,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rusa | deer | 92 | DEXgon knight | Oddjobs |
 | hydropotina | deer | 89 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
+| gogigagagigo | boop | 85 | permarcher | Oddjobs |
 | ducklings | joyce | 85 | STRginner | DuckNation\* |
-| gogigagagigo | boop | 84 | permarcher | Oddjobs |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
@@ -49,8 +49,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | Andrew Tran | 73 | permamagician | Oddjobs |
 | Dizz | Caleb | 72 | STRginner | Flow |
 | drainer | mae | 71 | STRginner | Flow |
+| Cortical | Andrew Tran | 70 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
-| Cortical | Andrew Tran | 69 | STRginner | Flow |
 | Celim | ? | 63 | STRginner | Flow |
 | Furbs | ? | 62 | STRginner | WindowsXP\* |
 | xX17Xx | mae | 60 | permarogue | Oddjobs |
@@ -63,3 +63,4 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hashishi | deer | 45 | besinner | Pals\* |
 | doiob | doiob | 45 | STR cleric | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
+| NotMage | ? | 45 | DEX F/P mage | Oddjobs |

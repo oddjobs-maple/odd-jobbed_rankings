@@ -136,6 +136,7 @@
     { "ign": "Furbs", "name": null, "job": "STRginner", "guild": "WindowsXP" },
     { "ign": "Gambolpuddy", "name": "Kelsey", "job": "DEXginner", "guild": "Oddjobs" },
     { "ign": "GishGallop", "name": "Andrew Tran", "job": "I/L gish", "guild": "Oddjobs" },
-    { "ign": "Monc", "name": "Monc", "job": "permamagician", "guild": "Oddjobs" }
+    { "ign": "Monc", "name": "Monc", "job": "permamagician", "guild": "Oddjobs" },
+    { "ign": "NotMage", "name": null, "job": "DEX F/P mage", "guild": "Oddjobs" }
   ]
 }
