@@ -29,7 +29,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Otios | ? | 135 | STRginner | Flow |
 | Tacgnol | Kelsey | 117 | F/P gishlet | Oddjobs |
 | cervid | deer | 114 | STR priest | Oddjobs |
-| capreolina | deer | 111 | woodwoman (ranger) | Oddjobs |
+| capreolina | deer | 112 | woodwoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
@@ -39,7 +39,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rusa | deer | 92 | DEXgon knight | Oddjobs |
 | hydropotina | deer | 89 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
-| gogigagagigo | boop | 85 | permarcher | Oddjobs |
+| gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | ducklings | joyce | 85 | STRginner | DuckNation\* |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
