@@ -53,13 +53,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Rort | Lin | 70 | STRginner | Flow |
 | Celim | ? | 64 | STRginner | Flow |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
-| xX17Xx | mae | 61 | permarogue | Oddjobs |
+| xX17Xx | mae | 62 | permarogue | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | GishGallop | Andrew Tran | 50 | I/L gish | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| NotMage | ? | 46 | DEX F/P mage | Oddjobs |
+| NotMage | ? | 47 | DEX F/P mage | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | hashishi | deer | 45 | besinner | Pals\* |
 | doiob | doiob | 45 | STR cleric | Oddjobs |
