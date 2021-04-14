@@ -36,15 +36,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervine | deer | 105 | I/L magelet | Oddjobs |
 | OmokTeacher | Noam | 99 | STRginner | Flow |
 | Outside | Tab | 95 | STRginner | Flow |
-| rusa | deer | 92 | DEXgon knight | Oddjobs |
+| rusa | deer | 93 | DEXgon knight | Oddjobs |
 | hydropotina | deer | 89 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | ducklings | joyce | 85 | STRginner | DuckNation\* |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
+| Ismezin | Zin | 77 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist | Oddjobs |
-| Ismezin | Zin | 76 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
 | Dizz | Caleb | 72 | STRginner | Flow |
@@ -58,8 +58,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | GishGallop | Andrew Tran | 50 | I/L gish | Oddjobs |
+| NotMage | ? | 48 | DEX F/P mage | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| NotMage | ? | 47 | DEX F/P mage | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | hashishi | deer | 45 | besinner | Pals\* |
 | doiob | doiob | 45 | STR cleric | Oddjobs |
