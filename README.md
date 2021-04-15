@@ -48,8 +48,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
 | Dizz | Caleb | 72 | STRginner | Flow |
+| Cortical | Andrew Tran | 72 | STRginner | Flow |
 | drainer | mae | 71 | STRginner | Flow |
-| Cortical | Andrew Tran | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | Celim | ? | 64 | STRginner | Flow |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
@@ -58,9 +58,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | GishGallop | Andrew Tran | 50 | I/L gish | Oddjobs |
-| NotMage | ? | 49 | DEX F/P mage | Oddjobs |
+| NotMage | ? | 50 | DEX F/P mage | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
+| hashishi | deer | 46 | besinner | Pals\* |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
-| hashishi | deer | 45 | besinner | Pals\* |
 | doiob | doiob | 45 | STR cleric | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
