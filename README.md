@@ -58,7 +58,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | GishGallop | Andrew Tran | 50 | I/L gish | Oddjobs |
-| NotMage | ? | 48 | DEX F/P mage | Oddjobs |
+| NotMage | ? | 49 | DEX F/P mage | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | hashishi | deer | 45 | besinner | Pals\* |
