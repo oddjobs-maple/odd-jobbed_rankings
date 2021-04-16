@@ -40,10 +40,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hydropotina | deer | 89 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
-| ducklings | joyce | 85 | STRginner | DuckNation\* |
+| ducklings | joyce | 86 | STRginner | DuckNation\* |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
-| Ismezin | Zin | 77 | STRginner | Flow |
+| Ismezin | Zin | 78 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
@@ -51,12 +51,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cortical | Andrew Tran | 72 | STRginner | Flow |
 | drainer | mae | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
-| Celim | ? | 64 | STRginner | Flow |
+| Celim | ? | 65 | STRginner | Flow |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | xX17Xx | mae | 62 | permarogue | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| Permanovice | ? | 54 | STRginner | Flow |
+| Permanovice | ? | 55 | STRginner | Flow |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | GishGallop | Andrew Tran | 50 | I/L gish | Oddjobs |
 | NotMage | ? | 50 | DEX F/P mage | Oddjobs |
