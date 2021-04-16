@@ -57,7 +57,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Permanovice | ? | 55 | STRginner | Flow |
-| GishGallop | Andrew Tran | 51 | I/L gish | Oddjobs |
+| GishGallop | Andrew Tran | 53 | I/L gish | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | NotMage | ? | 50 | DEX F/P mage | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
