@@ -54,10 +54,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Celim | ? | 66 | STRginner | Flow |
 | xX17Xx | mae | 63 | permarogue | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
+| Permanovice | ? | 58 | STRginner | Flow |
+| GishGallop | Andrew Tran | 56 | I/L gish | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| Permanovice | ? | 55 | STRginner | Flow |
-| GishGallop | Andrew Tran | 53 | I/L gish | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | NotMage | ? | 50 | DEX F/P mage | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
