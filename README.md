@@ -37,7 +37,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | OmokTeacher | Noam | 100 | STRginner | Flow |
 | rusa | deer | 96 | DEXgon knight | Oddjobs |
 | Outside | Tab | 95 | STRginner | Flow |
-| hydropotina | deer | 89 | swashbuckler | Oddjobs |
+| hydropotina | deer | 90 | swashbuckler | Oddjobs |
 | ducklings | joyce | 87 | STRginner | DuckNation\* |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
@@ -54,11 +54,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Celim | Marcelo | 66 | STRginner | Flow |
 | xX17Xx | mae | 64 | permarogue | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
-| Permanovice | Hanger | 62 | STRginner | Flow |
-| GishGallop | Andrew Tran | 57 | I/L gish | Oddjobs |
+| Permanovice | Hanger | 63 | STRginner | Flow |
+| GishGallop | Andrew Tran | 58 | I/L gish | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| NotMage | ColorBra | 51 | DEX F/P mage | Oddjobs |
+| NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | hashishi | deer | 46 | besinner | Pals\* |
