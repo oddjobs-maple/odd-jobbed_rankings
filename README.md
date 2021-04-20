@@ -54,7 +54,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Celim | Marcelo | 66 | STRginner | Flow |
 | xX17Xx | mae | 64 | permarogue | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
-| Permanovice | Hanger | 61 | STRginner | Flow |
+| Permanovice | Hanger | 62 | STRginner | Flow |
 | GishGallop | Andrew Tran | 57 | I/L gish | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
