@@ -61,7 +61,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| hashishi | deer | 46 | besinner | Pals\* |
+| hashishi | deer | 47 | besinner | Pals\* |
+| ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | doiob | doiob | 45 | STR cleric | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
