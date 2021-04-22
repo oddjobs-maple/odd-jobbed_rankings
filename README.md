@@ -47,15 +47,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
+| drainer | mae | 72 | STRginner | Flow |
 | Dizz | Caleb | 72 | STRginner | Flow |
 | Cortical | Andrew Tran | 72 | STRginner | Flow |
-| drainer | mae | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | Celim | Marcelo | 66 | STRginner | Flow |
+| Permanovice | Hanger | 66 | STRginner | Flow |
 | xX17Xx | mae | 64 | permarogue | Oddjobs |
-| Permanovice | Hanger | 64 | STRginner | Flow |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
-| GishGallop | Andrew Tran | 58 | I/L gish | Oddjobs |
+| GishGallop | Andrew Tran | 59 | I/L gish | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
