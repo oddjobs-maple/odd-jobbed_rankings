@@ -42,8 +42,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
+| Ismezin | Zin | 80 | STRginner | Flow |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
-| Ismezin | Zin | 79 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
@@ -56,7 +56,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | xX17Xx | mae | 64 | permarogue | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | GishGallop | Andrew Tran | 59 | I/L gish | Oddjobs |
-| BeginnersEnd | Ben | 57 | STRginner | Flow |
+| BeginnersEnd | Ben | 59 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
