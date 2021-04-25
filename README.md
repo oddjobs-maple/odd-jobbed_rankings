@@ -55,14 +55,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Celim | Marcelo | 67 | STRginner | Flow |
 | xX17Xx | mae | 64 | permarogue | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
+| BeginnersEnd | Ben | 60 | STRginner | Flow |
 | GishGallop | Andrew Tran | 59 | I/L gish | Oddjobs |
-| BeginnersEnd | Ben | 59 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
+| hashishi | deer | 49 | besinner | Pals\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| hashishi | deer | 47 | besinner | Pals\* |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | doiob | doiob | 45 | STR cleric | Oddjobs |
