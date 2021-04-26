@@ -55,8 +55,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Celim | Marcelo | 68 | STRginner | Flow |
 | xX17Xx | mae | 64 | permarogue | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
+| GishGallop | Andrew Tran | 61 | I/L gish | Oddjobs |
 | BeginnersEnd | Ben | 60 | STRginner | Flow |
-| GishGallop | Andrew Tran | 59 | I/L gish | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
