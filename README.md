@@ -60,8 +60,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
+| hashishi | deer | 50 | besinner | Pals\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
-| hashishi | deer | 49 | besinner | Pals\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
