@@ -50,8 +50,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | drainer | mae | 72 | STRginner | Flow |
 | Dizz | Caleb | 72 | STRginner | Flow |
 | Cortical | Andrew Tran | 72 | STRginner | Flow |
+| Permanovice | Hanger | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
-| Permanovice | Hanger | 70 | STRginner | Flow |
 | Celim | Marcelo | 68 | STRginner | Flow |
 | xX17Xx | mae | 66 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 64 | I/L gish | Oddjobs |
