@@ -53,9 +53,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Rort | Lin | 70 | STRginner | Flow |
 | Permanovice | Hanger | 70 | STRginner | Flow |
 | Celim | Marcelo | 68 | STRginner | Flow |
-| xX17Xx | mae | 65 | permarogue | Oddjobs |
+| xX17Xx | mae | 66 | permarogue | Oddjobs |
+| GishGallop | Andrew Tran | 64 | I/L gish | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
-| GishGallop | Andrew Tran | 63 | I/L gish | Oddjobs |
 | BeginnersEnd | Ben | 60 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
