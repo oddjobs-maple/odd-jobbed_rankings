@@ -53,7 +53,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Permanovice | Hanger | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | Celim | Marcelo | 68 | STRginner | Flow |
-| xX17Xx | mae | 66 | permarogue | Oddjobs |
+| xX17Xx | mae | 67 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 65 | I/L gish | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 60 | STRginner | Flow |
