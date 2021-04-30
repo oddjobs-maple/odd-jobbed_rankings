@@ -47,10 +47,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
+| Permanovice | Hanger | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Dizz | Caleb | 72 | STRginner | Flow |
 | Cortical | Andrew Tran | 72 | STRginner | Flow |
-| Permanovice | Hanger | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | Celim | Marcelo | 68 | STRginner | Flow |
 | xX17Xx | mae | 67 | permarogue | Oddjobs |
