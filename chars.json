@@ -141,6 +141,7 @@
     { "ign": "Permanovice", "name": "Hanger", "job": "STRginner", "guild": "Flow" },
     { "ign": "ScrubDaddy", "name": "Scrub", "job": "STRginner", "guild": "Oddjobs" },
     { "ign": "BeginnersEnd", "name": "Ben", "job": "STRginner", "guild": "Flow" },
-    { "ign": "Copo", "name": "Marcelo", "job": "permapirate", "guild": "Oddjobs" }
+    { "ign": "Copo", "name": "Marcelo", "job": "permapirate", "guild": "Oddjobs" },
+    { "ign": "HPdit", "name": "RyeBread", "job": "blood bandit", "guild": "Oddjobs" }
   ]
 }

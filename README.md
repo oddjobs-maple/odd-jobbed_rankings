@@ -35,10 +35,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | cervine | deer | 105 | I/L magelet | Oddjobs |
 | OmokTeacher | Noam | 100 | STRginner | Flow |
-| rusa | deer | 97 | DEXgon knight | Oddjobs |
+| rusa | deer | 98 | DEXgon knight | Oddjobs |
 | Outside | Tab | 95 | STRginner | Flow |
 | hydropotina | deer | 90 | swashbuckler | Oddjobs |
-| ducklings | joyce | 89 | STRginner | DuckNation\* |
+| ducklings | joyce | 90 | STRginner | DuckNation\* |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
@@ -59,6 +59,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BeginnersEnd | Ben | 60 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
+| HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
 | hashishi | deer | 50 | besinner | Pals\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
