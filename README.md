@@ -54,14 +54,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Rort | Lin | 70 | STRginner | Flow |
 | Celim | Marcelo | 68 | STRginner | Flow |
 | xX17Xx | mae | 67 | permarogue | Oddjobs |
-| GishGallop | Andrew Tran | 65 | I/L gish | Oddjobs |
+| GishGallop | Andrew Tran | 66 | I/L gish | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 60 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
-| hashishi | deer | 50 | besinner | Pals\* |
+| hashishi | deer | 51 | besinner | Pals\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
