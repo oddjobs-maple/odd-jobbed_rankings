@@ -48,9 +48,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
 | Permanovice | Hanger | 74 | STRginner | Flow |
+| Cortical | Andrew Tran | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Dizz | Caleb | 72 | STRginner | Flow |
-| Cortical | Andrew Tran | 72 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | Celim | Marcelo | 69 | STRginner | Flow |
 | GishGallop | Andrew Tran | 69 | I/L gish | Oddjobs |
