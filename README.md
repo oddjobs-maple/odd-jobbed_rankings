@@ -37,8 +37,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | OmokTeacher | Noam | 100 | STRginner | Flow |
 | rusa | deer | 98 | DEXgon knight | Oddjobs |
 | Outside | Tab | 95 | STRginner | Flow |
+| ducklings | joyce | 91 | STRginner | DuckNation\* |
 | hydropotina | deer | 90 | swashbuckler | Oddjobs |
-| ducklings | joyce | 90 | STRginner | DuckNation\* |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
@@ -54,14 +54,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Rort | Lin | 70 | STRginner | Flow |
 | Celim | Marcelo | 69 | STRginner | Flow |
 | GishGallop | Andrew Tran | 69 | I/L gish | Oddjobs |
-| xX17Xx | mae | 67 | permarogue | Oddjobs |
+| xX17Xx | mae | 68 | permarogue | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 60 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
+| hashishi | deer | 53 | besinner | Pals\* |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
-| hashishi | deer | 51 | besinner | Pals\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Copo | Marcelo | 50 | permapirate | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
