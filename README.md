@@ -37,7 +37,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | OmokTeacher | Noam | 100 | STRginner | Flow |
 | rusa | deer | 98 | DEXgon knight | Oddjobs |
 | Outside | Tab | 95 | STRginner | Flow |
-| ducklings | joyce | 91 | STRginner | DuckNation\* |
+| ducklings | joyce | 92 | STRginner | DuckNation\* |
 | hydropotina | deer | 90 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
@@ -45,9 +45,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | Zin | 81 | STRginner | Flow |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
+| Permanovice | Hanger | 75 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
-| Permanovice | Hanger | 74 | STRginner | Flow |
 | Cortical | Andrew Tran | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Dizz | Caleb | 72 | STRginner | Flow |
@@ -56,7 +56,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GishGallop | Andrew Tran | 69 | I/L gish | Oddjobs |
 | xX17Xx | mae | 68 | permarogue | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
-| BeginnersEnd | Ben | 60 | STRginner | Flow |
+| BeginnersEnd | Ben | 61 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | hashishi | deer | 53 | besinner | Pals\* |
