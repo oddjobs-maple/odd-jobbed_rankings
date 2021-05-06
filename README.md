@@ -45,7 +45,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | Zin | 81 | STRginner | Flow |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
-| Permanovice | Hanger | 76 | STRginner | Flow |
+| Permanovice | Hanger | 76 | STRginner | GangGang\* |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Cortical | Andrew Tran | 74 | STRginner | Flow |
 | Daddyo | Hunter | 74 | STRginner | Flow |
@@ -65,6 +65,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Copo | Marcelo | 50 | permapirate | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
+| justbegin | ? | 47 | STRginner | GangGang\* |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | doiob | doiob | 45 | STR cleric | Oddjobs |

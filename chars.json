@@ -138,10 +138,11 @@
     { "ign": "GishGallop", "name": "Andrew Tran", "job": "I/L gish", "guild": "Oddjobs" },
     { "ign": "Monc", "name": "Monc", "job": "permamagician", "guild": "Oddjobs" },
     { "ign": "NotMage", "name": "ColorBra", "job": "DEX F/P mage", "guild": "Oddjobs" },
-    { "ign": "Permanovice", "name": "Hanger", "job": "STRginner", "guild": "Flow" },
+    { "ign": "Permanovice", "name": "Hanger", "job": "STRginner", "guild": "GangGang" },
     { "ign": "ScrubDaddy", "name": "Scrub", "job": "STRginner", "guild": "Oddjobs" },
     { "ign": "BeginnersEnd", "name": "Ben", "job": "STRginner", "guild": "Flow" },
     { "ign": "Copo", "name": "Marcelo", "job": "permapirate", "guild": "Oddjobs" },
-    { "ign": "HPdit", "name": "RyeBread", "job": "blood bandit", "guild": "Oddjobs" }
+    { "ign": "HPdit", "name": "RyeBread", "job": "blood bandit", "guild": "Oddjobs" },
+    { "ign": "justbegin", "name": null, "job": "STRginner", "guild": "GangGang" }
   ]
 }
