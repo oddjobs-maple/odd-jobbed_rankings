@@ -29,7 +29,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Otios | ? | 135 | STRginner | Flow |
 | Tacgnol | Kelsey | 117 | F/P gishlet | Oddjobs |
 | cervid | deer | 114 | STR priest | Oddjobs |
-| capreolina | deer | 113 | woodwoman (ranger) | Oddjobs |
+| capreolina | deer | 114 | woodwoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
@@ -45,15 +45,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | Zin | 81 | STRginner | Flow |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
-| Permanovice | Hanger | 75 | STRginner | Flow |
+| Permanovice | Hanger | 76 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
+| Cortical | Andrew Tran | 74 | STRginner | Flow |
 | Daddyo | Hunter | 74 | STRginner | Flow |
-| Cortical | Andrew Tran | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Dizz | Caleb | 72 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
+| GishGallop | Andrew Tran | 70 | I/L gish | Oddjobs |
 | Celim | Marcelo | 69 | STRginner | Flow |
-| GishGallop | Andrew Tran | 69 | I/L gish | Oddjobs |
 | xX17Xx | mae | 68 | permarogue | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 61 | STRginner | Flow |
