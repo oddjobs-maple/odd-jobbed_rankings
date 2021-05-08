@@ -35,7 +35,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | cervine | deer | 105 | I/L magelet | Oddjobs |
 | OmokTeacher | Noam | 100 | STRginner | Flow |
-| rusa | deer | 98 | DEXgon knight | Oddjobs |
+| rusa | deer | 99 | DEXgon knight | Oddjobs |
 | Outside | Tab | 95 | STRginner | Flow |
 | ducklings | joyce | 92 | STRginner | DuckNation\* |
 | hydropotina | deer | 90 | swashbuckler | Oddjobs |
@@ -46,11 +46,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | Permanovice | Hanger | 77 | STRginner | GangGang\* |
 | rangifer | deer | 76 | pugilist | Oddjobs |
+| Cortical | Andrew Tran | 75 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
-| Cortical | Andrew Tran | 74 | STRginner | Flow |
 | Daddyo | Hunter | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
-| Dizz | Caleb | 72 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | GishGallop | Andrew Tran | 70 | I/L gish | Oddjobs |
 | xX17Xx | mae | 69 | permarogue | Oddjobs |
