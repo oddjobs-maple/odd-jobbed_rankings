@@ -28,14 +28,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
 | Tacgnol | Kelsey | 117 | F/P gishlet | Oddjobs |
-| cervid | deer | 114 | STR priest | Oddjobs |
+| cervid | deer | 115 | STR priest | Oddjobs |
 | capreolina | deer | 114 | woodwoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | cervine | deer | 105 | I/L magelet | Oddjobs |
 | OmokTeacher | Noam | 100 | STRginner | Flow |
-| rusa | deer | 99 | DEXgon knight | Oddjobs |
+| rusa | deer | 100 | DEXgon knight | Oddjobs |
 | Outside | Tab | 95 | STRginner | Flow |
 | ducklings | joyce | 92 | STRginner | DuckNation\* |
 | hydropotina | deer | 90 | swashbuckler | Oddjobs |
