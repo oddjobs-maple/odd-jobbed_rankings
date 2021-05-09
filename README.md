@@ -34,8 +34,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | cervine | deer | 105 | I/L magelet | Oddjobs |
+| rusa | deer | 101 | DEXgon knight | Oddjobs |
 | OmokTeacher | Noam | 100 | STRginner | Flow |
-| rusa | deer | 100 | DEXgon knight | Oddjobs |
 | Outside | Tab | 95 | STRginner | Flow |
 | ducklings | joyce | 92 | STRginner | DuckNation\* |
 | hydropotina | deer | 90 | swashbuckler | Oddjobs |
@@ -44,7 +44,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Ismezin | Zin | 81 | STRginner | Flow |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
-| Permanovice | Hanger | 77 | STRginner | GangGang\* |
+| Permanovice | Hanger | 78 | STRginner | GangGang\* |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Cortical | Andrew Tran | 75 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
