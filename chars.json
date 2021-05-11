@@ -142,6 +142,7 @@
     { "ign": "BeginnersEnd", "name": "Ben", "job": "STRginner", "guild": "Flow" },
     { "ign": "Copo", "name": "Marcelo", "job": "permapirate", "guild": "Oddjobs" },
     { "ign": "HPdit", "name": "RyeBread", "job": "blood bandit", "guild": "Oddjobs" },
-    { "ign": "justbegin", "name": null, "job": "STRginner", "guild": "GangGang" }
+    { "ign": "justbegin", "name": null, "job": "STRginner", "guild": "GangGang" },
+    { "ign": "alces", "name": "deer", "job": "daggerlord", "guild": "Oddjobs" }
   ]
 }
