@@ -50,7 +50,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
-| xX17Xx | mae | 71 | permarogue | Oddjobs |
+| xX17Xx | mae | 72 | permarogue | Oddjobs |
 | Celim | Marcelo | 70 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | GishGallop | Andrew Tran | 70 | I/L gish | Oddjobs |
