@@ -27,14 +27,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
+| cervid | deer | 117 | STR priest | Oddjobs |
 | Tacgnol | Kelsey | 117 | F/P gishlet | Oddjobs |
-| cervid | deer | 116 | STR priest | Oddjobs |
 | capreolina | deer | 114 | woodwoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
+| rusa | deer | 108 | DEXgon knight | Oddjobs |
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | cervine | deer | 105 | I/L magelet | Oddjobs |
-| rusa | deer | 105 | DEXgon knight | Oddjobs |
 | OmokTeacher | Noam | 100 | STRginner | Flow |
 | Outside | Tab | 95 | STRginner | Flow |
 | ducklings | joyce | 92 | STRginner | DuckNation\* |
@@ -43,7 +43,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Ismezin | Zin | 81 | STRginner | Flow |
-| Permanovice | Hanger | 80 | STRginner | GangGang\* |
+| Permanovice | Hanger | 81 | STRginner | GangGang\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Cortical | Andrew Tran | 76 | STRginner | Flow |
@@ -66,7 +66,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | justbegin | ? | 48 | STRginner | GangGang\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
+| alces | deer | 46 | daggerlord | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | doiob | doiob | 45 | STR cleric | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
-| alces | deer | 45 | daggerlord | Oddjobs |
