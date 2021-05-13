@@ -31,7 +31,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Tacgnol | Kelsey | 117 | F/P gishlet | Oddjobs |
 | capreolina | deer | 114 | woodwoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
-| rusa | deer | 108 | DEXgon knight | Oddjobs |
+| rusa | deer | 109 | DEXgon knight | Oddjobs |
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | cervine | deer | 105 | I/L magelet | Oddjobs |
@@ -55,7 +55,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Rort | Lin | 70 | STRginner | Flow |
 | GishGallop | Andrew Tran | 70 | I/L gish | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
-| BeginnersEnd | Ben | 61 | STRginner | Flow |
+| BeginnersEnd | Ben | 62 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | hashishi | deer | 53 | besinner | Pals\* |
@@ -63,7 +63,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Copo | Marcelo | 50 | permapirate | Oddjobs |
-| justbegin | ? | 48 | STRginner | GangGang\* |
+| justbegin | ? | 50 | STRginner | GangGang\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | alces | deer | 46 | daggerlord | Oddjobs |
