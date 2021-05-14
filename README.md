@@ -31,7 +31,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Tacgnol | Kelsey | 117 | F/P gishlet | Oddjobs |
 | capreolina | deer | 114 | woodwoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
-| rusa | deer | 109 | DEXgon knight | Oddjobs |
+| rusa | deer | 110 | DEXgon knight | Oddjobs |
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | cervine | deer | 105 | I/L magelet | Oddjobs |
@@ -45,11 +45,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | Zin | 81 | STRginner | Flow |
 | Permanovice | Hanger | 81 | STRginner | GangGang\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
+| Cortical | Andrew Tran | 77 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist | Oddjobs |
-| Cortical | Andrew Tran | 76 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
+| xX17Xx | mae | 74 | permarogue | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
-| xX17Xx | mae | 73 | permarogue | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | Celim | Marcelo | 70 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
