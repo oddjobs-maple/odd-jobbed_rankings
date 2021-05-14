@@ -65,8 +65,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Copo | Marcelo | 50 | permapirate | Oddjobs |
 | justbegin | ? | 50 | STRginner | GangGang\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
+| doiob | doiob | 46 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | alces | deer | 46 | daggerlord | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
-| doiob | doiob | 45 | STR cleric | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
