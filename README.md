@@ -42,8 +42,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
+| Permanovice | Hanger | 82 | STRginner | GangGang\* |
 | Ismezin | Zin | 81 | STRginner | Flow |
-| Permanovice | Hanger | 81 | STRginner | GangGang\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | Cortical | Andrew Tran | 77 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist | Oddjobs |
