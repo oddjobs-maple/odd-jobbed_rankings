@@ -30,7 +30,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervid | deer | 118 | STR priest | Oddjobs |
 | Tacgnol | Kelsey | 117 | F/P gishlet | Oddjobs |
 | capreolina | deer | 114 | woodwoman (ranger) | Oddjobs |
-| rusa | deer | 111 | DEXgon knight | Oddjobs |
+| rusa | deer | 112 | DEXgon knight | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
@@ -47,8 +47,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | Cortical | Andrew Tran | 77 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist | Oddjobs |
+| xX17Xx | mae | 75 | permarogue | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
-| xX17Xx | mae | 74 | permarogue | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Celim | Marcelo | 70 | STRginner | Flow |
