@@ -27,10 +27,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
-| cervid | deer | 118 | STR priest | Oddjobs |
+| cervid | deer | 119 | STR priest | Oddjobs |
 | Tacgnol | Kelsey | 117 | F/P gishlet | Oddjobs |
 | capreolina | deer | 114 | woodwoman (ranger) | Oddjobs |
-| rusa | deer | 112 | DEXgon knight | Oddjobs |
+| rusa | deer | 114 | DEXgon knight | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Colors\* |
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
@@ -65,8 +65,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Copo | Marcelo | 50 | permapirate | Oddjobs |
 | justbegin | ? | 50 | STRginner | GangGang\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
+| alces | deer | 47 | daggerlord | Oddjobs |
 | doiob | doiob | 46 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
-| alces | deer | 46 | daggerlord | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
