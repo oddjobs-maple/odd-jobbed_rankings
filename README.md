@@ -42,20 +42,20 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
+| Permanovice | Hanger | 83 | STRginner | GangGang\* |
 | Ismezin | Zin | 82 | STRginner | Flow |
-| Permanovice | Hanger | 82 | STRginner | GangGang\* |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
-| Cortical | Andrew Tran | 77 | STRginner | Flow |
+| Cortical | Andrew Tran | 78 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | xX17Xx | mae | 75 | permarogue | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
-| Celim | Marcelo | 70 | STRginner | Flow |
+| Celim | Marcelo | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | GishGallop | Andrew Tran | 70 | I/L gish | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
-| BeginnersEnd | Ben | 62 | STRginner | Flow |
+| BeginnersEnd | Ben | 63 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | hashishi | deer | 53 | besinner | Pals\* |
