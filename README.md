@@ -64,8 +64,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Copo | Marcelo | 50 | permapirate | Oddjobs |
 | justbegin | ? | 50 | STRginner | GangGang\* |
+| alces | deer | 49 | daggerlord | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| alces | deer | 47 | daggerlord | Oddjobs |
 | doiob | doiob | 46 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
