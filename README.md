@@ -61,10 +61,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hashishi | deer | 53 | besinner | Pals\* |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
+| alces | deer | 52 | daggerlord | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Copo | Marcelo | 50 | permapirate | Oddjobs |
 | justbegin | ? | 50 | STRginner | GangGang\* |
-| alces | deer | 49 | daggerlord | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | doiob | doiob | 46 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
