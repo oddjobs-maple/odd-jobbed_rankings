@@ -43,7 +43,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Permanovice | Hanger | 85 | STRginner | GangGang\* |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
-| Ismezin | Zin | 82 | STRginner | Flow |
+| Ismezin | Zin | 83 | STRginner | Flow |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | Cortical | Andrew Tran | 78 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist | Oddjobs |
