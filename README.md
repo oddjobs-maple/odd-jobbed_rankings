@@ -58,10 +58,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
+| alces | deer | 55 | daggerlord | Oddjobs |
 | hashishi | deer | 53 | besinner | Pals\* |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
-| alces | deer | 52 | daggerlord | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Copo | Marcelo | 50 | permapirate | Oddjobs |
 | justbegin | ? | 50 | STRginner | GangGang\* |
