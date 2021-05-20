@@ -46,8 +46,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | Zin | 83 | STRginner | Flow |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | Cortical | Andrew Tran | 78 | STRginner | Flow |
+| xX17Xx | mae | 77 | permarogue | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
-| xX17Xx | mae | 76 | permarogue | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
