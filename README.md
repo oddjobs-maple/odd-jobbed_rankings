@@ -41,12 +41,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hydropotina | deer | 90 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
-| Permanovice | Hanger | 85 | STRginner | GangGang\* |
+| Permanovice | Hanger | 86 | STRginner | GangGang\* |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Ismezin | Zin | 83 | STRginner | Flow |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | Cortical | Andrew Tran | 78 | STRginner | Flow |
-| xX17Xx | mae | 77 | permarogue | Oddjobs |
+| xX17Xx | mae | 78 | permarogue | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
