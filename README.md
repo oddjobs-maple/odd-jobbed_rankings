@@ -45,7 +45,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Ismezin | Zin | 83 | STRginner | Flow |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
-| Cortical | Andrew Tran | 78 | STRginner | Flow |
+| Cortical | Andrew Tran | 79 | STRginner | Flow |
 | xX17Xx | mae | 78 | permarogue | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
@@ -56,15 +56,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GishGallop | Andrew Tran | 70 | I/L gish | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
+| alces | deer | 56 | daggerlord | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| alces | deer | 55 | daggerlord | Oddjobs |
 | hashishi | deer | 53 | besinner | Pals\* |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
+| justbegin | ? | 51 | STRginner | GangGang\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Copo | Marcelo | 50 | permapirate | Oddjobs |
-| justbegin | ? | 50 | STRginner | GangGang\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | doiob | doiob | 46 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
