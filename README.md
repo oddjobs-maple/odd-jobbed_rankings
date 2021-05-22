@@ -61,7 +61,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | hashishi | deer | 53 | besinner | Pals\* |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
-| NotMage | ColorBra | 52 | DEX F/P mage | Oddjobs |
 | justbegin | ? | 51 | STRginner | GangGang\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Copo | Marcelo | 50 | permapirate | Oddjobs |
