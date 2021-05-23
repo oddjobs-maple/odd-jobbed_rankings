@@ -46,7 +46,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | Zin | 83 | STRginner | Flow |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | Cortical | Andrew Tran | 79 | STRginner | Flow |
-| xX17Xx | mae | 78 | permarogue | Oddjobs |
+| xX17Xx | mae | 79 | permarogue | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
@@ -56,7 +56,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GishGallop | Andrew Tran | 70 | I/L gish | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| alces | deer | 61 | daggerlord | Oddjobs |
+| alces | deer | 62 | daggerlord | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | hashishi | deer | 53 | besinner | Pals\* |
