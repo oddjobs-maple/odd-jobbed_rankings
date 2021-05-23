@@ -27,7 +27,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
-| cervid | deer | 119 | STR priest | Oddjobs |
+| cervid | deer | 120 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 117 | F/P gishlet | Oddjobs |
 | rusa | deer | 116 | DEXgon knight | Oddjobs |
 | capreolina | deer | 114 | woodwoman (ranger) | Oddjobs |
@@ -56,7 +56,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GishGallop | Andrew Tran | 70 | I/L gish | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| alces | deer | 62 | daggerlord | Oddjobs |
+| alces | deer | 63 | daggerlord | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | hashishi | deer | 53 | besinner | Pals\* |
