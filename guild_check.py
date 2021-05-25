@@ -44,6 +44,7 @@ for i in range(len(chars)):
                         results = int(c.string)
 
                         break
+                break
 
         pages = (results - 1) // 5 + 1
         if pages > page:
