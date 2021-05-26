@@ -33,8 +33,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | capreolina | deer | 114 | woodwoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
+| cervine | deer | 106 | I/L magelet | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
-| cervine | deer | 105 | I/L magelet | Oddjobs |
 | OmokTeacher | Noam | 100 | STRginner | Flow |
 | Outside | Tab | 95 | STRginner | Flow |
 | ducklings | joyce | 92 | STRginner | DuckNation\* |
