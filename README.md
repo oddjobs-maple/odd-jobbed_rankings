@@ -57,9 +57,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | alces | deer | 64 | daggerlord | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
+| justbegin | ? | 56 | STRginner | GangGang\* |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| justbegin | ? | 55 | STRginner | GangGang\* |
 | hashishi | deer | 53 | besinner | Pals\* |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
