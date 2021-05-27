@@ -54,7 +54,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Celim | Marcelo | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | GishGallop | Andrew Tran | 70 | I/L gish | Oddjobs |
-| alces | deer | 64 | daggerlord | Oddjobs |
+| alces | deer | 65 | daggerlord | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | justbegin | ? | 56 | STRginner | GangGang\* |
