@@ -54,10 +54,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Celim | Marcelo | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | GishGallop | Andrew Tran | 70 | I/L gish | Oddjobs |
-| alces | deer | 66 | daggerlord | Oddjobs |
+| alces | deer | 67 | daggerlord | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| justbegin | ? | 58 | STRginner | GangGang\* |
+| justbegin | ? | 59 | STRginner | GangGang\* |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | hashishi | deer | 53 | besinner | Pals\* |
