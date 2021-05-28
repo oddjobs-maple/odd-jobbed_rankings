@@ -28,7 +28,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
 | cervid | deer | 120 | STR bishop | Oddjobs |
-| Tacgnol | Kelsey | 120 | F/P gishlet | Oddjobs |
+| Tacgnol | Kelsey | 120 | F/P archgishlet | Oddjobs |
 | rusa | deer | 117 | DEXgon knight | Oddjobs |
 | capreolina | deer | 115 | woodwoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
