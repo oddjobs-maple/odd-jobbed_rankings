@@ -44,9 +44,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Permanovice | Hanger | 86 | STRginner | GangGang\* |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Ismezin | Zin | 83 | STRginner | Flow |
+| Cortical | Andrew Tran | 80 | STRginner | Flow |
 | xX17Xx | mae | 80 | permarogue | Oddjobs |
 | Boymoder | Kelsey | 79 | STRmit | Oddjobs |
-| Cortical | Andrew Tran | 79 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
@@ -54,7 +54,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Celim | Marcelo | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | GishGallop | Andrew Tran | 70 | I/L gish | Oddjobs |
-| alces | deer | 67 | daggerlord | Oddjobs |
+| alces | deer | 69 | daggerlord | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | justbegin | ? | 62 | STRginner | GangGang\* |
