@@ -52,9 +52,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Daddyo | Hunter | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Celim | Marcelo | 71 | STRginner | Flow |
+| GishGallop | Andrew Tran | 71 | I/L gish | Oddjobs |
+| alces | deer | 71 | daggerlord | Oddjobs |
 | Rort | Lin | 70 | STRginner | Flow |
-| GishGallop | Andrew Tran | 70 | I/L gish | Oddjobs |
-| alces | deer | 70 | daggerlord | Oddjobs |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | justbegin | ? | 63 | STRginner | GangGang\* |
