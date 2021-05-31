@@ -30,7 +30,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | cervid | deer | 120 | STR bishop | Oddjobs |
 | rusa | deer | 117 | DEXgon knight | Oddjobs |
-| capreolina | deer | 115 | woodwoman (ranger) | Oddjobs |
+| capreolina | deer | 115 | woodswoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
 | cervine | deer | 106 | I/L magelet | Oddjobs |
