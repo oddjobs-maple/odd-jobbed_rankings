@@ -27,8 +27,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
+| Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | cervid | deer | 120 | STR bishop | Oddjobs |
-| Tacgnol | Kelsey | 120 | F/P archgishlet | Oddjobs |
 | rusa | deer | 117 | DEXgon knight | Oddjobs |
 | capreolina | deer | 115 | woodwoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
@@ -51,8 +51,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
+| GishGallop | Andrew Tran | 72 | I/L gish | Oddjobs |
 | Celim | Marcelo | 71 | STRginner | Flow |
-| GishGallop | Andrew Tran | 71 | I/L gish | Oddjobs |
 | alces | deer | 71 | daggerlord | Oddjobs |
 | Rort | Lin | 70 | STRginner | Flow |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
