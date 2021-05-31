@@ -44,9 +44,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Permanovice | Hanger | 86 | STRginner | GangGang\* |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Ismezin | Zin | 83 | STRginner | Flow |
+| Boymoder | Kelsey | 80 | STRmit | Oddjobs |
 | Cortical | Andrew Tran | 80 | STRginner | Flow |
 | xX17Xx | mae | 80 | permarogue | Oddjobs |
-| Boymoder | Kelsey | 79 | STRmit | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
