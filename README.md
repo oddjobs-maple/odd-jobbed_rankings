@@ -27,9 +27,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
+| cervid | deer | 121 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
-| cervid | deer | 120 | STR bishop | Oddjobs |
-| rusa | deer | 117 | DEXgon knight | Oddjobs |
+| rusa | deer | 119 | DEXgon knight | Oddjobs |
 | capreolina | deer | 115 | woodswoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
@@ -50,8 +50,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
+| GishGallop | Andrew Tran | 73 | I/L gish | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
-| GishGallop | Andrew Tran | 72 | I/L gish | Oddjobs |
 | Celim | Marcelo | 71 | STRginner | Flow |
 | alces | deer | 71 | daggerlord | Oddjobs |
 | Rort | Lin | 70 | STRginner | Flow |
