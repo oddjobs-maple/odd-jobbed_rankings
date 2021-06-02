@@ -50,7 +50,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
-| GishGallop | Andrew Tran | 73 | I/L gish | Oddjobs |
+| GishGallop | Andrew Tran | 74 | I/L gish | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | alces | deer | 72 | daggerlord | Oddjobs |
 | Celim | Marcelo | 71 | STRginner | Flow |
