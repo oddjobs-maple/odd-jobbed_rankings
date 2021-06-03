@@ -44,15 +44,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Permanovice | Hanger | 86 | STRginner | GangGang\* |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Ismezin | Zin | 83 | STRginner | Flow |
-| Boymoder | Kelsey | 80 | STRmit | Oddjobs |
+| Boymoder | Kelsey | 81 | STRmit | Oddjobs |
 | Cortical | Andrew Tran | 80 | STRginner | Flow |
 | xX17Xx | mae | 80 | permarogue | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
 | GishGallop | Andrew Tran | 74 | I/L gish | Oddjobs |
+| alces | deer | 73 | daggerlord | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
-| alces | deer | 72 | daggerlord | Oddjobs |
 | Celim | Marcelo | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
