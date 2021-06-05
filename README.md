@@ -48,16 +48,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cortical | Andrew Tran | 81 | STRginner | Flow |
 | xX17Xx | mae | 80 | permarogue | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
+| GishGallop | Andrew Tran | 75 | I/L gish | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
-| GishGallop | Andrew Tran | 74 | I/L gish | Oddjobs |
 | alces | deer | 73 | daggerlord | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | Celim | Marcelo | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
+| justbegin | ? | 64 | STRginner | GangGang\* |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| justbegin | ? | 63 | STRginner | GangGang\* |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | hashishi | deer | 53 | besinner | Pals\* |
