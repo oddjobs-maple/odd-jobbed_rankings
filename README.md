@@ -38,7 +38,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | Outside | Tab | 95 | STRginner | Flow |
 | ducklings | joyce | 93 | STRginner | DuckNation\* |
-| hydropotina | deer | 90 | swashbuckler | Oddjobs |
+| hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Permanovice | Hanger | 86 | STRginner | GangGang\* |
@@ -48,7 +48,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cortical | Andrew Tran | 81 | STRginner | Flow |
 | xX17Xx | mae | 80 | permarogue | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
-| GishGallop | Andrew Tran | 75 | I/L gish | Oddjobs |
+| GishGallop | Andrew Tran | 76 | I/L gish | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
 | alces | deer | 73 | daggerlord | Oddjobs |
