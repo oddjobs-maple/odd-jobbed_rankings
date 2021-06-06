@@ -49,9 +49,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | xX17Xx | mae | 80 | permarogue | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | GishGallop | Andrew Tran | 76 | I/L gish | Oddjobs |
+| alces | deer | 75 | daggerlord | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
-| alces | deer | 73 | daggerlord | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | Celim | Marcelo | 71 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
