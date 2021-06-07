@@ -42,13 +42,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Permanovice | Hanger | 86 | STRginner | GangGang\* |
+| Boymoder | Kelsey | 84 | STRmit | Oddjobs |
 | Cowbelle | Belle | 83 | STRginner | Homies\* |
 | Ismezin | Zin | 83 | STRginner | Flow |
-| Boymoder | Kelsey | 82 | STRmit | Oddjobs |
 | Cortical | Andrew Tran | 81 | STRginner | Flow |
 | xX17Xx | mae | 80 | permarogue | Oddjobs |
-| GishGallop | Andrew Tran | 77 | I/L gish | Oddjobs |
-| alces | deer | 77 | daggerlord | Oddjobs |
+| alces | deer | 80 | daggerlord | Oddjobs |
+| GishGallop | Andrew Tran | 79 | I/L gish | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
