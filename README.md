@@ -39,16 +39,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Outside | Tab | 95 | STRginner | Flow |
 | ducklings | joyce | 94 | STRginner | DuckNation\* |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
+| Permanovice | Hanger | 87 | STRginner | GangGang\* |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
-| Permanovice | Hanger | 86 | STRginner | GangGang\* |
 | Boymoder | Kelsey | 85 | STRmit | Oddjobs |
 | Cowbelle | Belle | 84 | STRginner | Homies\* |
 | Ismezin | Zin | 83 | STRginner | Flow |
+| Cortical | Andrew Tran | 83 | STRginner | Flow |
+| GishGallop | Andrew Tran | 83 | I/L gish | Oddjobs |
 | xX17Xx | mae | 82 | permarogue | Oddjobs |
 | alces | deer | 82 | daggerlord | Oddjobs |
-| Cortical | Andrew Tran | 81 | STRginner | Flow |
-| GishGallop | Andrew Tran | 81 | I/L gish | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Daddyo | Hunter | 74 | STRginner | Flow |
