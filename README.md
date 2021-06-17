@@ -70,3 +70,4 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
+| Numidium | Kelsey | 45 | STR cleric | Oddjobs |
