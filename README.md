@@ -27,9 +27,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
+| LawdHeComin | ? | 122 | F/P archgish | Oddjobs |
 | cervid | deer | 121 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
-| LawdHeComin | ? | 121 | F/P archgish | Oddjobs |
 | rusa | deer | 120 | darksterity knight | Oddjobs |
 | capreolina | deer | 117 | woodswoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
