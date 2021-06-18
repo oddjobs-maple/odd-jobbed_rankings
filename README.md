@@ -71,3 +71,4 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Numidium | Kelsey | 46 | STR cleric | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
+| sorts | deer | 45 | DEX brawler (LPQ mule) | Pals\* |
