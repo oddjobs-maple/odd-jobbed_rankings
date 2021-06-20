@@ -69,7 +69,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Numidium | Kelsey | 47 | STR cleric | Oddjobs |
 | doiob | doiob | 46 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
+| sorts | deer | 46 | DEX brawler (LPQ mule) | Pals\* |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
-| sorts | deer | 45 | DEX brawler (LPQ mule) | Pals\* |
 | Medulla | Andrew Tran | 45 | dagger fighter | Oddjobs |
