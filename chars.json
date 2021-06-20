@@ -200,6 +200,7 @@
     { "ign": "alces", "name": "deer", "job": "daggerlord", "guild": "Oddjobs" },
     { "ign": "LawdHeComin", "name": null, "job": "F/P archgish", "guild": "Oddjobs" },
     { "ign": "Numidium", "name": "Kelsey", "job": "STR cleric", "guild": "Oddjobs" },
-    { "ign": "sorts", "name": "deer", "job": "DEX brawler (LPQ mule)", "guild": "Pals" }
+    { "ign": "sorts", "name": "deer", "job": "DEX brawler (LPQ mule)", "guild": "Pals" },
+    { "ign": "Medulla", "name": "Andrew Tran", "job": "dagger fighter", "guild": "Oddjobs" }
   ]
 }

@@ -27,7 +27,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
-| LawdHeComin | ? | 123 | F/P archgish | Oddjobs |
+| LawdHeComin | ? | 124 | F/P archgish | Oddjobs |
 | cervid | deer | 121 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | rusa | deer | 120 | darksterity knight | Oddjobs |
@@ -51,8 +51,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GishGallop | Andrew Tran | 83 | I/L gish | Oddjobs |
 | alces | deer | 82 | daggerlord | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
+| Daddyo | Hunter | 75 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
-| Daddyo | Hunter | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Celim | Marcelo | 72 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
@@ -72,3 +72,4 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
 | sorts | deer | 45 | DEX brawler (LPQ mule) | Pals\* |
+| Medulla | Andrew Tran | 45 | dagger fighter | Oddjobs |
