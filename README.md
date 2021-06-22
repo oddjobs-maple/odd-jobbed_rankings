@@ -27,7 +27,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
-| LawdHeComin | ? | 125 | F/P archgish | Oddjobs |
+| LawdHeComin | ? | 126 | F/P archgish | Oddjobs |
 | cervid | deer | 121 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | rusa | deer | 120 | darksterity knight | Oddjobs |
@@ -45,10 +45,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Boymoder | Kelsey | 85 | STRmit | Oddjobs |
 | Cowbelle | Belle | 84 | STRginner | Homies\* |
+| GishGallop | Andrew Tran | 84 | I/L gish | Oddjobs |
 | Ismezin | Zin | 83 | STRginner | Flow |
 | Cortical | Andrew Tran | 83 | STRginner | Flow |
 | xX17Xx | mae | 83 | permarogue | Oddjobs |
-| GishGallop | Andrew Tran | 83 | I/L gish | Oddjobs |
 | alces | deer | 82 | daggerlord | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Daddyo | Hunter | 75 | STRginner | Flow |
