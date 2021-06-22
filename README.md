@@ -56,7 +56,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | drainer | mae | 72 | STRginner | Flow |
 | Celim | Marcelo | 72 | STRginner | Flow |
 | Rort | Lin | 70 | STRginner | Flow |
-| justbegin | ? | 64 | STRginner | GangGang\* |
+| justbegin | ? | 65 | STRginner | GangGang\* |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
