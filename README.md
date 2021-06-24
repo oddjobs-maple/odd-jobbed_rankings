@@ -27,7 +27,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
-| LawdHeComin | ? | 127 | F/P archgish | Oddjobs |
+| LawdHeComin | ? | 128 | F/P archgish | Oddjobs |
 | cervid | deer | 121 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | rusa | deer | 121 | darksterity knight | Oddjobs |
@@ -45,10 +45,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Cowbelle | Belle | 85 | STRginner | Homies\* |
 | Boymoder | Kelsey | 85 | STRmit | Oddjobs |
+| xX17Xx | mae | 84 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 84 | I/L gish | Oddjobs |
 | Ismezin | Zin | 83 | STRginner | Flow |
 | Cortical | Andrew Tran | 83 | STRginner | Flow |
-| xX17Xx | mae | 83 | permarogue | Oddjobs |
 | alces | deer | 82 | daggerlord | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Daddyo | Hunter | 75 | STRginner | Flow |
@@ -71,5 +71,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Numidium | Kelsey | 47 | STR cleric | Oddjobs |
 | doiob | doiob | 46 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
+| Sommer | Marcelo | 46 | swashbuckler | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
