@@ -202,6 +202,7 @@
     { "ign": "Numidium", "name": "Kelsey", "job": "STR cleric", "guild": "Oddjobs" },
     { "ign": "sorts", "name": "deer", "job": "DEX brawler (LPQ mule)", "guild": "Pals" },
     { "ign": "Medulla", "name": "Andrew Tran", "job": "dagger fighter", "guild": "Oddjobs" },
-    { "ign": "Sommer", "name": "Marcelo", "job": "swashbuckler, punch slinger", "guild": "Oddjobs" }
+    { "ign": "Sommer", "name": "Marcelo", "job": "swashbuckler, punch slinger", "guild": "Oddjobs" },
+    { "ign": "NightDood", "name": null, "job": "daggerlord", "guild": null }
   ]
 }

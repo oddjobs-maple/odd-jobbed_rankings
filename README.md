@@ -66,6 +66,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Copo | Marcelo | 51 | permapirate | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Medulla | Andrew Tran | 50 | dagger fighter | Oddjobs |
+| NightDood | ? | 50 | daggerlord | \[none\]\* |
 | sorts | deer | 49 | DEX brawler (LPQ mule) | Pals\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Numidium | Kelsey | 47 | STR cleric | Oddjobs |
