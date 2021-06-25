@@ -61,11 +61,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| hashishi | deer | 53 | besinner | Pals\* |
+| hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Copo | Marcelo | 51 | permapirate | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
-| Medulla | Andrew Tran | 49 | dagger fighter | Oddjobs |
+| Medulla | Andrew Tran | 50 | dagger fighter | Oddjobs |
 | sorts | deer | 48 | DEX brawler (LPQ mule) | Pals\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Numidium | Kelsey | 47 | STR cleric | Oddjobs |
