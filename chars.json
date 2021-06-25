@@ -116,7 +116,7 @@
     {
       "ign": "HPdagger",
       "name": "Charles",
-      "job": "dagger fighter, HP fighter",
+      "job": "blood dagger fighter",
       "guild": "Oddjobs"
     },
     {
@@ -202,6 +202,6 @@
     { "ign": "Numidium", "name": "Kelsey", "job": "STR cleric", "guild": "Oddjobs" },
     { "ign": "sorts", "name": "deer", "job": "DEX brawler (LPQ mule)", "guild": "Pals" },
     { "ign": "Medulla", "name": "Andrew Tran", "job": "dagger fighter", "guild": "Oddjobs" },
-    { "ign": "Sommer", "name": "Marcelo", "job": "swashbuckler", "guild": "Oddjobs" }
+    { "ign": "Sommer", "name": "Marcelo", "job": "swashbuckler, punch slinger", "guild": "Oddjobs" }
   ]
 }

@@ -71,6 +71,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Numidium | Kelsey | 47 | STR cleric | Oddjobs |
 | doiob | doiob | 46 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
-| Sommer | Marcelo | 46 | swashbuckler | Oddjobs |
-| HPdagger | Charles | 45 | dagger fighter, HP fighter | Oddjobs |
+| Sommer | Marcelo | 46 | swashbuckler, punch slinger | Oddjobs |
+| HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
