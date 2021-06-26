@@ -53,9 +53,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Daddyo | Hunter | 75 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
+| Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
-| Celim | Marcelo | 72 | STRginner | Flow |
-| Rort | Lin | 71 | STRginner | Flow |
+| Rort | Lin | 72 | STRginner | Flow |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
@@ -69,8 +69,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | NightDood | ? | 50 | daggerlord | \[none\]\* |
 | sorts | deer | 49 | DEX brawler (LPQ mule) | Pals\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
+| doiob | doiob | 47 | STR cleric | Oddjobs |
 | Numidium | Kelsey | 47 | STR cleric | Oddjobs |
-| doiob | doiob | 46 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Sommer | Marcelo | 46 | swashbuckler, punch slinger | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
