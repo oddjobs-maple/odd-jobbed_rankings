@@ -61,8 +61,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
+| Copo | Marcelo | 54 | permapirate | Oddjobs |
 | hashishi | deer | 53 | besinner | Oddjobs |
-| Copo | Marcelo | 53 | permapirate | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Medulla | Andrew Tran | 50 | dagger fighter | Oddjobs |
