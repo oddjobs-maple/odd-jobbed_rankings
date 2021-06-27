@@ -73,5 +73,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Numidium | Kelsey | 47 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Sommer | Marcelo | 46 | swashbuckler, punch slinger | Oddjobs |
+| Hanyou | Kelsey | 46 | DEX page | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
