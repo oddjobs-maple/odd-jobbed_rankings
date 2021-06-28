@@ -64,15 +64,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
+| Medulla | Andrew Tran | 52 | dagger fighter | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
-| Medulla | Andrew Tran | 50 | dagger fighter | Oddjobs |
 | NightDood | ? | 50 | daggerlord | \[none\]\* |
+| Hanyou | Kelsey | 50 | DEX page | Oddjobs |
 | sorts | deer | 49 | DEX brawler (LPQ mule) | Pals\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | doiob | doiob | 47 | STR cleric | Oddjobs |
 | Numidium | Kelsey | 47 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Sommer | Marcelo | 46 | swashbuckler, punch slinger | Oddjobs |
-| Hanyou | Kelsey | 46 | DEX page | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
