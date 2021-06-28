@@ -51,7 +51,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cortical | Andrew Tran | 83 | STRginner | Flow |
 | alces | deer | 82 | daggerlord | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
-| Daddyo | Hunter | 75 | STRginner | Flow |
+| Daddyo | Hunter | 76 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
