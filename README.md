@@ -66,9 +66,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Medulla | Andrew Tran | 52 | dagger fighter | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
+| sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | NightDood | ? | 50 | daggerlord | \[none\]\* |
 | Hanyou | Kelsey | 50 | DEX page | Oddjobs |
-| sorts | deer | 49 | DEX brawler (LPQ mule) | Pals\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | doiob | doiob | 47 | STR cleric | Oddjobs |
 | Numidium | Kelsey | 47 | STR cleric | Oddjobs |
