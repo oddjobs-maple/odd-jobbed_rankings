@@ -33,8 +33,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rusa | deer | 121 | darksterity knight | Oddjobs |
 | capreolina | deer | 119 | woodswoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
+| cervine | deer | 107 | I/L magelet | Oddjobs |
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
-| cervine | deer | 106 | I/L magelet | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | Outside | Tab | 95 | STRginner | Flow |
@@ -49,7 +49,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GishGallop | Andrew Tran | 84 | I/L gish | Oddjobs |
 | Ismezin | Zin | 83 | STRginner | Flow |
 | Cortical | Andrew Tran | 83 | STRginner | Flow |
-| alces | deer | 82 | daggerlord | Oddjobs |
+| alces | deer | 83 | daggerlord | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
@@ -69,9 +69,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | NightDood | ? | 50 | daggerlord | \[none\]\* |
 | Hanyou | Kelsey | 50 | DEX page | Oddjobs |
+| Numidium | Kelsey | 48 | STR cleric | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | doiob | doiob | 47 | STR cleric | Oddjobs |
-| Numidium | Kelsey | 47 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Sommer | Marcelo | 46 | swashbuckler, punch slinger | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
