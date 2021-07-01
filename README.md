@@ -37,19 +37,19 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 101 | STRginner | Flow |
+| ducklings | joyce | 96 | STRginner | DuckNation\* |
 | Outside | Tab | 95 | STRginner | Flow |
-| ducklings | joyce | 95 | STRginner | DuckNation\* |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | Permanovice | Hanger | 87 | STRginner | GangGang\* |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Cowbelle | Belle | 85 | STRginner | Homies\* |
 | Boymoder | Kelsey | 85 | STRmit | Oddjobs |
+| GishGallop | Andrew Tran | 85 | I/L gish | Oddjobs |
+| Cortical | Andrew Tran | 84 | STRginner | Flow |
 | xX17Xx | mae | 84 | permarogue | Oddjobs |
-| GishGallop | Andrew Tran | 84 | I/L gish | Oddjobs |
+| alces | deer | 84 | daggermit | Oddjobs |
 | Ismezin | Zin | 83 | STRginner | Flow |
-| Cortical | Andrew Tran | 83 | STRginner | Flow |
-| alces | deer | 83 | daggermit | Oddjobs |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
