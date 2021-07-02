@@ -28,9 +28,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
 | LawdHeComin | ? | 128 | F/P archgish | Oddjobs |
+| rusa | deer | 122 | darksterity knight | Oddjobs |
 | cervid | deer | 121 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
-| rusa | deer | 121 | darksterity knight | Oddjobs |
 | capreolina | deer | 119 | woodswoman (ranger) | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
 | cervine | deer | 107 | I/L magelet | Oddjobs |
@@ -54,8 +54,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Daddyo | Hunter | 76 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Celim | Marcelo | 73 | STRginner | Flow |
+| Rort | Lin | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
-| Rort | Lin | 72 | STRginner | Flow |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
