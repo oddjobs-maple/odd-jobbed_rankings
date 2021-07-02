@@ -51,7 +51,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | alces | deer | 84 | daggermit | Oddjobs |
 | Ismezin | Zin | 83 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist | Oddjobs |
-| Daddyo | Hunter | 76 | STRginner | Flow |
+| Daddyo | Hunter | 76 | STRginner | \[none\]\* |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | Rort | Lin | 73 | STRginner | Flow |
@@ -76,3 +76,4 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Sommer | Marcelo | 46 | swashbuckler, punch slinger | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
+| L0neW0lf16OO | LoneWolf1600 | 45 | besinner | Oddjobs |
