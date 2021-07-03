@@ -67,7 +67,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Medulla | Andrew Tran | 52 | dagger fighter | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
-| NightDood | ? | 50 | daggerlord | \[none\]\* |
+| NightDood | ? | 50 | stab sin | \[none\]\* |
 | Hanyou | Kelsey | 50 | DEX page | Oddjobs |
 | Numidium | Kelsey | 48 | STR cleric | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
