@@ -45,9 +45,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Cowbelle | Belle | 85 | STRginner | Homies\* |
 | Boymoder | Kelsey | 85 | STRmit | Oddjobs |
+| xX17Xx | mae | 85 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 85 | I/L gish | Oddjobs |
 | Cortical | Andrew Tran | 84 | STRginner | Flow |
-| xX17Xx | mae | 84 | permarogue | Oddjobs |
 | alces | deer | 84 | daggermit | Oddjobs |
 | Ismezin | Zin | 83 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist | Oddjobs |
@@ -74,6 +74,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | doiob | doiob | 47 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Sommer | Marcelo | 46 | swashbuckler, punch slinger | Oddjobs |
+| L0neW0lf16OO | LoneWolf1600 | 46 | besinner | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
-| L0neW0lf16OO | LoneWolf1600 | 45 | besinner | Oddjobs |
