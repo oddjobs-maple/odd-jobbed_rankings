@@ -53,8 +53,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
+| Rort | Lin | 74 | STRginner | Flow |
 | Celim | Marcelo | 73 | STRginner | Flow |
-| Rort | Lin | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
