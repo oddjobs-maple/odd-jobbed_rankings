@@ -70,10 +70,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | NightDood | ? | 50 | stab sin | \[none\]\* |
 | Hanyou | Kelsey | 50 | DEX page | Oddjobs |
 | Numidium | Kelsey | 48 | STR cleric | Oddjobs |
+| L0neW0lf16OO | LoneWolf1600 | 48 | besinner | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | doiob | doiob | 47 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Sommer | Marcelo | 46 | swashbuckler, punch slinger | Oddjobs |
-| L0neW0lf16OO | LoneWolf1600 | 46 | besinner | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
