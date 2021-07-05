@@ -69,9 +69,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | NightDood | ? | 50 | stab sin | \[none\]\* |
 | Hanyou | Kelsey | 50 | DEX page | Oddjobs |
+| Swathelby | ? | 49 | STRginner | Flow |
 | Numidium | Kelsey | 48 | STR cleric | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 48 | besinner | Oddjobs |
-| Swathelby | ? | 48 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | doiob | doiob | 47 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
