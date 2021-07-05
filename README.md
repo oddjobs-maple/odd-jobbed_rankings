@@ -71,6 +71,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Hanyou | Kelsey | 50 | DEX page | Oddjobs |
 | Numidium | Kelsey | 48 | STR cleric | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 48 | besinner | Oddjobs |
+| Swathelby | ? | 48 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | doiob | doiob | 47 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
