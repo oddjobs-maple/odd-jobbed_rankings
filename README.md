@@ -40,10 +40,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ducklings | joyce | 96 | STRginner | DuckNation\* |
 | Outside | Tab | 95 | STRginner | Flow |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
-| Permanovice | Hanger | 87 | STRginner | GangGang\* |
+| Permanovice | Hanger | 90 | STRginner | GangGang\* |
 | MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
+| Cowbelle | Belle | 86 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
-| Cowbelle | Belle | 85 | STRginner | Homies\* |
 | Boymoder | Kelsey | 85 | STRmit | Oddjobs |
 | xX17Xx | mae | 85 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 85 | I/L gish | Oddjobs |
@@ -69,9 +69,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | NightDood | ? | 50 | stab sin | \[none\]\* |
 | Hanyou | Kelsey | 50 | DEX page | Oddjobs |
+| L0neW0lf16OO | LoneWolf1600 | 50 | besinner | Oddjobs |
 | Swathelby | ? | 49 | STRginner | Flow |
 | Numidium | Kelsey | 48 | STR cleric | Oddjobs |
-| L0neW0lf16OO | LoneWolf1600 | 48 | besinner | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | doiob | doiob | 47 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
