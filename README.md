@@ -61,17 +61,17 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
+| Medulla | Andrew Tran | 55 | dagger fighter | Oddjobs |
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
-| Medulla | Andrew Tran | 52 | dagger fighter | Oddjobs |
+| Hanyou | Kelsey | 52 | DEX page | Oddjobs |
+| Numidium | Kelsey | 51 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | NightDood | ? | 50 | stab sin | \[none\]\* |
-| Hanyou | Kelsey | 50 | DEX page | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 50 | besinner | Oddjobs |
 | Swathelby | ? | 49 | STRginner | Flow |
-| Numidium | Kelsey | 48 | STR cleric | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | doiob | doiob | 47 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
