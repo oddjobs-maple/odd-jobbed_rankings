@@ -74,7 +74,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Swathelby | ? | 49 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | doiob | doiob | 47 | STR cleric | Oddjobs |
+| Sommer | Marcelo | 47 | swashbuckler, punch slinger | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
-| Sommer | Marcelo | 46 | swashbuckler, punch slinger | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
