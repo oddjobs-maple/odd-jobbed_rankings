@@ -45,9 +45,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cowbelle | Belle | 86 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Boymoder | Kelsey | 85 | STRmit | Oddjobs |
+| Cortical | Andrew Tran | 85 | STRginner | Flow |
 | xX17Xx | mae | 85 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 85 | I/L gish | Oddjobs |
-| Cortical | Andrew Tran | 84 | STRginner | Flow |
 | alces | deer | 84 | daggermit | Oddjobs |
 | Ismezin | Zin | 83 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist | Oddjobs |
@@ -63,9 +63,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Medulla | Andrew Tran | 55 | dagger fighter | Oddjobs |
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
+| Hanyou | Kelsey | 54 | DEX page | Oddjobs |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
-| Hanyou | Kelsey | 52 | DEX page | Oddjobs |
 | Numidium | Kelsey | 51 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
