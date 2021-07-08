@@ -27,7 +27,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
-| LawdHeComin | ? | 128 | F/P archgish | Oddjobs |
+| LawdHeComin | ? | 129 | F/P archgish | Oddjobs |
 | cervid | deer | 122 | STR bishop | Oddjobs |
 | rusa | deer | 122 | darksterity knight | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
