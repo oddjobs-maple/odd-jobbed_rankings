@@ -28,8 +28,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
 | LawdHeComin | ? | 128 | F/P archgish | Oddjobs |
+| cervid | deer | 122 | STR bishop | Oddjobs |
 | rusa | deer | 122 | darksterity knight | Oddjobs |
-| cervid | deer | 121 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | capreolina | deer | 120 | woodsmaster | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
@@ -48,7 +48,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cortical | Andrew Tran | 85 | STRginner | Flow |
 | xX17Xx | mae | 85 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 85 | I/L gish | Oddjobs |
-| alces | deer | 84 | daggermit | Oddjobs |
+| alces | deer | 85 | daggermit | Oddjobs |
 | Ismezin | Zin | 83 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
@@ -67,10 +67,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Numidium | Kelsey | 51 | STR cleric | Oddjobs |
+| L0neW0lf16OO | LoneWolf1600 | 51 | besinner | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | NightDood | ? | 50 | stab sin | \[none\]\* |
-| L0neW0lf16OO | LoneWolf1600 | 50 | besinner | Oddjobs |
 | Swathelby | ? | 49 | STRginner | Flow |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | doiob | doiob | 47 | STR cleric | Oddjobs |
