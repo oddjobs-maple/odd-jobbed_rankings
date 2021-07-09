@@ -59,11 +59,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | Furbs | ? | 63 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
+| Hanyou | Kelsey | 56 | DEX page | Oddjobs |
 | JanitorPedro | Pedro\_ | 55 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Medulla | Andrew Tran | 55 | dagger fighter | Oddjobs |
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
-| Hanyou | Kelsey | 54 | DEX page | Oddjobs |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Numidium | Kelsey | 51 | STR cleric | Oddjobs |
@@ -71,11 +71,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | NightDood | ? | 50 | stab sin | \[none\]\* |
-| Swathelby | ? | 49 | STRginner | Flow |
+| Swathelby | ? | 50 | STRginner | Flow |
 | doiob | doiob | 48 | STR cleric | Oddjobs |
+| BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Sommer | Marcelo | 47 | swashbuckler, punch slinger | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
-| BowerStrike | Andrew Tran | 46 | bow-whacker | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
