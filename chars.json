@@ -71,7 +71,7 @@
     {
       "ign": "rangifer",
       "name": "deer",
-      "job": "pugilist",
+      "job": "pugilist (marauder)",
       "guild": "Oddjobs"
     },
     { "ign": "Ismezin", "name": "Zin", "job": "STRginner", "guild": "Flow" },
@@ -206,6 +206,7 @@
     { "ign": "NightDood", "name": null, "job": "stab sin", "guild": null },
     { "ign": "Hanyou", "name": "Kelsey", "job": "DEX page", "guild": "Oddjobs" },
     { "ign": "L0neW0lf16OO", "name": "LoneWolf1600", "job": "besinner", "guild": "Oddjobs" },
-    { "ign": "Swathelby", "name": null, "job": "STRginner", "guild": "Flow" }
+    { "ign": "Swathelby", "name": null, "job": "STRginner", "guild": "Flow" },
+    { "ign": "BowerStrike", "name": "Andrew Tran", "job": "bow-whacker", "guild": "Oddjobs" }
   ]
 }

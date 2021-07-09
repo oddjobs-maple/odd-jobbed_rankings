@@ -40,8 +40,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ducklings | joyce | 96 | STRginner | DuckNation\* |
 | Outside | Tab | 95 | STRginner | Flow |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
-| Permanovice | Hanger | 90 | STRginner | GangGang\* |
-| MeikoHonma | Meiko | 86 | STRginner | Renaissance\* |
+| Permanovice | Hanger | 91 | STRginner | GangGang\* |
+| MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 86 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Boymoder | Kelsey | 85 | STRmit | Oddjobs |
@@ -50,7 +50,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GishGallop | Andrew Tran | 85 | I/L gish | Oddjobs |
 | alces | deer | 85 | daggermit | Oddjobs |
 | Ismezin | Zin | 83 | STRginner | Flow |
-| rangifer | deer | 76 | pugilist | Oddjobs |
+| rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
 | Rort | Lin | 74 | STRginner | Flow |
@@ -72,9 +72,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | NightDood | ? | 50 | stab sin | \[none\]\* |
 | Swathelby | ? | 49 | STRginner | Flow |
+| doiob | doiob | 48 | STR cleric | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| doiob | doiob | 47 | STR cleric | Oddjobs |
 | Sommer | Marcelo | 47 | swashbuckler, punch slinger | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
+| BowerStrike | Andrew Tran | 46 | bow-whacker | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
