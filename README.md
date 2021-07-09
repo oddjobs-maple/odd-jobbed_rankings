@@ -28,8 +28,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | ? | 135 | STRginner | Flow |
 | LawdHeComin | ? | 129 | F/P archgish | Oddjobs |
+| rusa | deer | 123 | darksterity knight | Oddjobs |
 | cervid | deer | 122 | STR bishop | Oddjobs |
-| rusa | deer | 122 | darksterity knight | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | capreolina | deer | 120 | woodsmaster | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
