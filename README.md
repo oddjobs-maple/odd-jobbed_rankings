@@ -39,8 +39,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | ducklings | joyce | 97 | STRginner | DuckNation\* |
 | Outside | Tab | 95 | STRginner | Flow |
+| Permanovice | Hanger | 92 | STRginner | GangGang\* |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
-| Permanovice | Hanger | 91 | STRginner | GangGang\* |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 86 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
@@ -52,8 +52,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | Zin | 83 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
+| Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Oddjobs |
-| Rort | Lin | 74 | STRginner | Flow |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | justbegin | ? | 65 | STRginner | GangGang\* |
@@ -64,18 +64,18 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Medulla | Andrew Tran | 55 | dagger fighter | Oddjobs |
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
+| L0neW0lf16OO | LoneWolf1600 | 54 | besinner | Oddjobs |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
-| L0neW0lf16OO | LoneWolf1600 | 53 | besinner | Oddjobs |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | NightDood | ? | 50 | stab sin | \[none\]\* |
 | Swathelby | ? | 50 | STRginner | Flow |
 | doiob | doiob | 48 | STR cleric | Oddjobs |
+| Sommer | Marcelo | 48 | swashbuckler, punch slinger | Oddjobs |
 | BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| Sommer | Marcelo | 47 | swashbuckler, punch slinger | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
