@@ -66,8 +66,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
+| L0neW0lf16OO | LoneWolf1600 | 53 | besinner | Oddjobs |
 | Numidium | Kelsey | 51 | STR cleric | Oddjobs |
-| L0neW0lf16OO | LoneWolf1600 | 51 | besinner | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | NightDood | ? | 50 | stab sin | \[none\]\* |
