@@ -86,7 +86,7 @@
       "ign": "Phoneme",
       "name": "Andrew Tran",
       "job": "permamagician",
-      "guild": "Oddjobs"
+      "guild": null
     },
     {
       "ign": "rusa",
@@ -207,6 +207,7 @@
     { "ign": "Hanyou", "name": "Kelsey", "job": "DEX page", "guild": "Oddjobs" },
     { "ign": "L0neW0lf16OO", "name": "LoneWolf1600", "job": "besinner", "guild": "Oddjobs" },
     { "ign": "Swathelby", "name": null, "job": "STRginner", "guild": "Flow" },
-    { "ign": "BowerStrike", "name": "Andrew Tran", "job": "bow-whacker", "guild": "Oddjobs" }
+    { "ign": "BowerStrike", "name": "Andrew Tran", "job": "bow-whacker", "guild": "Oddjobs" },
+    { "ign": "panolia", "name": "deer", "job": "permarogue", "guild": "Oddjobs" }
   ]
 }
