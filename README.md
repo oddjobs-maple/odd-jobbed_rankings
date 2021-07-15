@@ -59,7 +59,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | Furbs | ? | 64 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| Hanyou | Kelsey | 62 | DEX page | Oddjobs |
+| Hanyou | Kelsey | 63 | DEX page | Oddjobs |
 | Medulla | Andrew Tran | 57 | dagger fighter | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
