@@ -58,10 +58,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | drainer | mae | 72 | STRginner | Flow |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | Furbs | ? | 64 | STRginner | WindowsXP\* |
+| Hanyou | Kelsey | 64 | DEX page | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| Hanyou | Kelsey | 63 | DEX page | Oddjobs |
 | panolia | deer | 62 | permarogue | Oddjobs |
-| Medulla | Andrew Tran | 58 | dagger fighter | Oddjobs |
+| Medulla | Andrew Tran | 59 | dagger fighter | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
