@@ -64,8 +64,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Medulla | Andrew Tran | 59 | dagger fighter | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
+| L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
-| L0neW0lf16OO | LoneWolf1600 | 54 | besinner | Oddjobs |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
