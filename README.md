@@ -39,7 +39,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | ducklings | joyce | 97 | STRginner | DuckNation\* |
 | Outside | Tab | 95 | STRginner | Flow |
-| Permanovice | Hanger | 92 | STRginner | GangGang\* |
+| Permanovice | Redz | 92 | STRginner | GangGang\* |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 86 | STRginner | Homies\* |
@@ -69,15 +69,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
-| Swathelby | ? | 51 | STRginner | Flow |
+| Swathelby | ? | 52 | STRginner | Flow |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | NightDood | ? | 50 | stab sin | \[none\]\* |
 | Sommer | Marcelo | 49 | swashbuckler, punch slinger | Oddjobs |
 | doiob | doiob | 48 | STR cleric | Oddjobs |
 | BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
+| attackattack | mae | 48 | DEX page | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| attackattack | mae | 47 | DEX page | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
