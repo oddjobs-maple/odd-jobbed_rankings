@@ -56,7 +56,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | Andrew Tran | 74 | permamagician | Victoria\* |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
-| Hanyou | Kelsey | 66 | DEX page | Oddjobs |
+| Hanyou | Kelsey | 68 | DEX page | Oddjobs |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | Furbs | ? | 64 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
