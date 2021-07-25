@@ -56,12 +56,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | Andrew Tran | 74 | permamagician | Victoria\* |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
-| Hanyou | Kelsey | 68 | DEX page | Oddjobs |
+| Hanyou | Kelsey | 70 | DEX WK | Oddjobs |
 | justbegin | ? | 65 | STRginner | GangGang\* |
+| panolia | deer | 65 | permarogue | Oddjobs |
 | Furbs | ? | 64 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| panolia | deer | 63 | permarogue | Oddjobs |
-| Medulla | Andrew Tran | 60 | dagger fighter | Oddjobs |
+| Medulla | Andrew Tran | 61 | dagger fighter | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
