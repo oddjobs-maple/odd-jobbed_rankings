@@ -53,7 +53,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
 | Rort | Lin | 75 | STRginner | Flow |
-| Phoneme | Andrew Tran | 74 | permamagician | Victoria\* |
+| Phoneme | Andrew Tran | 74 | permamagician | Victoria |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 71 | DEX WK | Oddjobs |
@@ -79,5 +79,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
+| d34r | deer | 46 | dagger spearwoman | Victoria |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
