@@ -202,7 +202,7 @@
     { "ign": "Numidium", "name": "Kelsey", "job": "STR cleric", "guild": "Oddjobs" },
     { "ign": "sorts", "name": "deer", "job": "DEX brawler (LPQ mule)", "guild": "Pals" },
     { "ign": "Medulla", "name": "Andrew Tran", "job": "dagger fighter", "guild": "Oddjobs" },
-    { "ign": "Sommer", "name": "Marcelo", "job": "swashbuckler, punch slinger", "guild": "Oddjobs" },
+    { "ign": "Sommer", "name": "Marcelo", "job": "punchbuckler", "guild": "Oddjobs" },
     { "ign": "NightDood", "name": null, "job": "stab sin", "guild": null },
     { "ign": "Hanyou", "name": "Kelsey", "job": "DEX WK", "guild": "Oddjobs" },
     { "ign": "L0neW0lf16OO", "name": "LoneWolf1600", "job": "besinner", "guild": "Oddjobs" },
@@ -210,6 +210,6 @@
     { "ign": "BowerStrike", "name": "Andrew Tran", "job": "bow-whacker", "guild": "Oddjobs" },
     { "ign": "panolia", "name": "deer", "job": "permarogue", "guild": "Oddjobs" },
     { "ign": "attackattack", "name": "mae", "job": "DEX page", "guild": "Oddjobs" },
-    { "ign": "d34r", "name": "deer", "job": "dagger spearwoman", "guild": "Victoria" }
+    { "ign": "d34r", "name": "deer", "job": "dagger spearwoman (vicloc)", "guild": "Victoria" }
   ]
 }

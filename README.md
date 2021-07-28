@@ -74,11 +74,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | NightDood | ? | 50 | stab sin | \[none\]\* |
 | attackattack | mae | 50 | DEX page | Oddjobs |
-| Sommer | Marcelo | 49 | swashbuckler, punch slinger | Oddjobs |
+| Sommer | Marcelo | 49 | punchbuckler | Oddjobs |
 | doiob | doiob | 48 | STR cleric | Oddjobs |
 | BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
+| d34r | deer | 47 | dagger spearwoman (vicloc) | Victoria |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
-| d34r | deer | 46 | dagger spearwoman | Victoria |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
