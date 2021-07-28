@@ -39,7 +39,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | ducklings | joyce | 97 | STRginner | DuckNation\* |
 | Outside | Tab | 95 | STRginner | Flow |
-| Permanovice | Redz | 94 | STRginner | GangGang\* |
+| Permanovice | Redz | 95 | STRginner | GangGang\* |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 86 | STRginner | Homies\* |
@@ -73,8 +73,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | NightDood | ? | 50 | stab sin | \[none\]\* |
+| attackattack | mae | 50 | DEX page | Oddjobs |
 | Sommer | Marcelo | 49 | swashbuckler, punch slinger | Oddjobs |
-| attackattack | mae | 49 | DEX page | Oddjobs |
 | doiob | doiob | 48 | STR cleric | Oddjobs |
 | BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
