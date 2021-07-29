@@ -77,8 +77,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Sommer | Marcelo | 49 | punchbuckler | Oddjobs |
 | doiob | doiob | 48 | STR cleric | Oddjobs |
 | BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
+| d34r | deer | 48 | dagger spearwoman (vicloc) | Victoria |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| d34r | deer | 47 | dagger spearwoman (vicloc) | Victoria |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
