@@ -42,9 +42,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Permanovice | Redz | 95 | STRginner | GangGang\* |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
+| Boymoder | Kelsey | 87 | STRmit | Oddjobs |
 | Cortical | Andrew Tran | 87 | STRginner | Flow |
 | Cowbelle | Belle | 86 | STRginner | Homies\* |
-| Boymoder | Kelsey | 86 | STRmit | Oddjobs |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | xX17Xx | mae | 85 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 85 | I/L gish | Oddjobs |
