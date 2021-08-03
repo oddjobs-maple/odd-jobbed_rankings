@@ -58,8 +58,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 71 | DEX WK | Oddjobs |
 | panolia | deer | 68 | permarogue | Oddjobs |
+| Furbs | ? | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
-| Furbs | ? | 64 | STRginner | WindowsXP\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
@@ -69,8 +69,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Swathelby | ? | 54 | STRginner | Flow |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
+| d34r | deer | 53 | dagger spearwoman (vicloc) | Victoria |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
-| d34r | deer | 52 | dagger spearwoman (vicloc) | Victoria |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | NightDood | ? | 50 | stab sin | \[none\]\* |
