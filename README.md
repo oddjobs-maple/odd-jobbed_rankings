@@ -67,9 +67,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | Swathelby | ? | 55 | STRginner | Flow |
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
+| d34r | deer | 54 | dagger spearwoman (vicloc) | Victoria |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
-| d34r | deer | 53 | dagger spearwoman (vicloc) | Victoria |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
