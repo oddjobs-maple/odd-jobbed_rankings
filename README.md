@@ -65,8 +65,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
+| Swathelby | ? | 55 | STRginner | Flow |
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
-| Swathelby | ? | 54 | STRginner | Flow |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | d34r | deer | 53 | dagger spearwoman (vicloc) | Victoria |
