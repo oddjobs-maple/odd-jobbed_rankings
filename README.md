@@ -66,8 +66,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | Swathelby | ? | 55 | STRginner | Flow |
+| d34r | deer | 55 | dagger spearwoman (vicloc) | Victoria |
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
-| d34r | deer | 54 | dagger spearwoman (vicloc) | Victoria |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
