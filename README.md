@@ -46,9 +46,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cortical | Andrew Tran | 87 | STRginner | Flow |
 | Cowbelle | Belle | 86 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
+| alces | deer | 86 | daggermit | Oddjobs |
 | xX17Xx | mae | 85 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 85 | I/L gish | Oddjobs |
-| alces | deer | 85 | daggermit | Oddjobs |
 | Ismezin | Zin | 83 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
