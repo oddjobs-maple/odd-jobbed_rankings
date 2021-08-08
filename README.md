@@ -49,7 +49,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | alces | deer | 86 | daggermit | Oddjobs |
 | xX17Xx | mae | 85 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 85 | I/L gish | Oddjobs |
-| Ismezin | Zin | 83 | STRginner | Flow |
+| Ismezin | Zin | 84 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
 | Rort | Lin | 75 | STRginner | Flow |
@@ -62,9 +62,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
+| Swathelby | ? | 57 | STRginner | Flow |
+| d34r | deer | 57 | dagger spearwoman (vicloc) | Victoria |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
-| Swathelby | ? | 56 | STRginner | Flow |
-| d34r | deer | 56 | dagger spearwoman (vicloc) | Victoria |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
