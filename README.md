@@ -38,8 +38,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | ducklings | joyce | 97 | STRginner | DuckNation\* |
+| Permanovice | Redz | 96 | STRginner | GangGang\* |
 | Outside | Tab | 95 | STRginner | Flow |
-| Permanovice | Redz | 95 | STRginner | GangGang\* |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 90 | STRmit | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
