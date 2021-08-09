@@ -62,8 +62,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
+| d34r | deer | 58 | dagger spearwoman (vicloc) | Victoria |
 | Swathelby | ? | 57 | STRginner | Flow |
-| d34r | deer | 57 | dagger spearwoman (vicloc) | Victoria |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
