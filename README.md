@@ -41,7 +41,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Outside | Tab | 95 | STRginner | Flow |
 | Permanovice | Redz | 95 | STRginner | GangGang\* |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
-| Boymoder | Kelsey | 89 | STRmit | Oddjobs |
+| Boymoder | Kelsey | 90 | STRmit | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cortical | Andrew Tran | 87 | STRginner | Flow |
 | Cowbelle | Belle | 86 | STRginner | Homies\* |
