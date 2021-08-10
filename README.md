@@ -41,7 +41,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Permanovice | Redz | 96 | STRginner | GangGang\* |
 | Outside | Tab | 95 | STRginner | Flow |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
-| Boymoder | Kelsey | 90 | STRmit | Oddjobs |
+| Boymoder | Kelsey | 91 | STRmit | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cortical | Andrew Tran | 87 | STRginner | Flow |
 | Cowbelle | Belle | 86 | STRginner | Homies\* |
@@ -62,7 +62,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
-| d34r | deer | 58 | dagger spearwoman (vicloc) | Victoria |
+| d34r | deer | 59 | dagger spearwoman (vicloc) | Victoria |
 | Swathelby | ? | 57 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
