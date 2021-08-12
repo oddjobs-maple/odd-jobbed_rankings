@@ -42,12 +42,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Outside | Tab | 95 | STRginner | Flow |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 91 | STRmit | Oddjobs |
+| alces | deer | 88 | daggermit | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cortical | Andrew Tran | 87 | STRginner | Flow |
-| alces | deer | 87 | daggermit | Oddjobs |
 | Cowbelle | Belle | 86 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
-| xX17Xx | mae | 85 | permarogue | Oddjobs |
+| xX17Xx | mae | 86 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 85 | I/L gish | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
