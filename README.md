@@ -44,9 +44,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Boymoder | Kelsey | 91 | STRmit | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cortical | Andrew Tran | 87 | STRginner | Flow |
+| alces | deer | 87 | daggermit | Oddjobs |
 | Cowbelle | Belle | 86 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
-| alces | deer | 86 | daggermit | Oddjobs |
 | xX17Xx | mae | 85 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 85 | I/L gish | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
@@ -62,8 +62,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
-| d34r | deer | 61 | dagger spearwoman (vicloc) | Victoria |
-| Swathelby | ? | 57 | STRginner | Flow |
+| d34r | deer | 62 | dagger spearwoman (vicloc) | Victoria |
+| Swathelby | ? | 58 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
