@@ -61,8 +61,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Furbs | ? | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
+| d34r | deer | 63 | dagger spearwoman (vicloc) | Victoria |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
-| d34r | deer | 62 | dagger spearwoman (vicloc) | Victoria |
 | Swathelby | ? | 58 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
