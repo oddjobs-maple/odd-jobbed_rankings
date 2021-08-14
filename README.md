@@ -40,8 +40,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ducklings | joyce | 97 | STRginner | DuckNation\* |
 | Permanovice | Redz | 97 | STRginner | GangGang\* |
 | Outside | Tab | 95 | STRginner | Flow |
+| Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
-| Boymoder | Kelsey | 91 | STRmit | Oddjobs |
 | alces | deer | 88 | daggermit | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cortical | Andrew Tran | 87 | STRginner | Flow |
@@ -60,8 +60,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 71 | permarogue | Oddjobs |
 | Furbs | ? | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
+| d34r | deer | 64 | dagger spearwoman (vicloc) | Victoria |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| d34r | deer | 63 | dagger spearwoman (vicloc) | Victoria |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
 | Swathelby | ? | 58 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
