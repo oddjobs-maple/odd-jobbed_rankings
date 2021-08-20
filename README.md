@@ -60,7 +60,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 71 | permarogue | Oddjobs |
 | Furbs | ? | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
-| d34r | deer | 64 | dagger spearwoman (vicloc) | Victoria |
+| d34r | deer | 65 | dagger spearwoman (vicloc) | Victoria |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
 | Swathelby | ? | 60 | STRginner | Flow |
