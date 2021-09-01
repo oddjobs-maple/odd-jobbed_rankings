@@ -44,8 +44,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | alces | deer | 89 | daggermit | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
+| Cowbelle | Belle | 87 | STRginner | Homies\* |
 | Cortical | Andrew Tran | 87 | STRginner | Flow |
-| Cowbelle | Belle | 86 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | xX17Xx | mae | 86 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 85 | I/L gish | Oddjobs |
@@ -58,12 +58,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
-| d34r | deer | 70 | dagger spearwoman (vicloc) | Victoria |
+| d34r | deer | 71 | dagger spearwoman (vicloc) | Victoria |
 | Furbs | ? | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
 | Swathelby | ? | 60 | STRginner | Flow |
+| Keppet | Rapskal | 57 | stab sin | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
@@ -73,7 +74,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
-| NightDood | ? | 50 | stab sin | \[none\]\* |
 | attackattack | mae | 50 | DEX page | Oddjobs |
 | Sommer | Marcelo | 49 | punchbuckler | Oddjobs |
 | doiob | doiob | 48 | STR cleric | Oddjobs |
