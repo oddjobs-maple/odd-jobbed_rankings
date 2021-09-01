@@ -64,7 +64,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
 | Swathelby | ? | 60 | STRginner | Flow |
-| Keppet | Rapskal | 57 | stab sin | Oddjobs |
+| Keppet | Rapskal | 58 | stab sin | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
