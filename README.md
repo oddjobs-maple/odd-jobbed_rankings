@@ -37,7 +37,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Taima | Kelsey | 106 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 101 | STRginner | Flow |
-| Permanovice | Redz | 99 | STRginner | GangGang\* |
+| Permanovice | Redz | 100 | STRginner | GangGang\* |
 | ducklings | joyce | 98 | STRginner | DuckNation\* |
 | Outside | Tab | 95 | STRginner | Flow |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
@@ -62,9 +62,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Furbs | ? | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
+| Keppet | Rapskal | 63 | stab sin | Oddjobs |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
 | Swathelby | ? | 60 | STRginner | Flow |
-| Keppet | Rapskal | 59 | stab sin | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
