@@ -38,7 +38,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | Permanovice | Redz | 100 | STRginner | GangGang\* |
-| ducklings | joyce | 98 | STRginner | DuckNation\* |
+| ducklings | joyce | 99 | STRginner | DuckNation\* |
 | Outside | Tab | 95 | STRginner | Flow |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
@@ -58,7 +58,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
-| d34r | deer | 71 | dagger spearwoman (vicloc) | Victoria |
+| d34r | deer | 72 | dagger spearwoman (vicloc) | Victoria |
 | Furbs | ? | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
