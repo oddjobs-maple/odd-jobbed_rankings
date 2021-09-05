@@ -56,9 +56,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 75 | permarogue | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Victoria |
 | Celim | Marcelo | 73 | STRginner | Flow |
+| d34r | deer | 73 | dagger spearwoman (vicloc) | Victoria |
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
-| d34r | deer | 72 | dagger spearwoman (vicloc) | Victoria |
 | Furbs | ? | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
