@@ -61,8 +61,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
 | Furbs | ? | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
+| Keppet | Rapskal | 65 | stab sin | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| Keppet | Rapskal | 63 | stab sin | Oddjobs |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
 | Swathelby | ? | 60 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
