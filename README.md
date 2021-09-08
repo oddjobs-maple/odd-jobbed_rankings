@@ -59,9 +59,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | d34r | deer | 73 | dagger spearwoman (vicloc) | Victoria |
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
+| Keppet | Rapskal | 66 | stab sin | Oddjobs |
 | Furbs | ? | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
-| Keppet | Rapskal | 65 | stab sin | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
 | Swathelby | ? | 60 | STRginner | Flow |
