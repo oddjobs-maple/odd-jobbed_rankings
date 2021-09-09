@@ -59,7 +59,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | d34r | deer | 73 | dagger spearwoman (vicloc) | Victoria |
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
-| Keppet | Rapskal | 66 | stab sin | Oddjobs |
+| Keppet | Rapskal | 68 | stab sin | Oddjobs |
 | Furbs | ? | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
