@@ -42,7 +42,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Outside | Tab | 95 | STRginner | Flow |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
-| alces | deer | 90 | daggermit | Oddjobs |
+| alces | deer | 91 | daggermit | Oddjobs |
 | Cortical | Andrew Tran | 89 | STRginner | Flow |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
