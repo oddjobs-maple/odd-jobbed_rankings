@@ -43,7 +43,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | alces | deer | 90 | daggermit | Oddjobs |
-| Cortical | Andrew Tran | 88 | STRginner | Flow |
+| Cortical | Andrew Tran | 89 | STRginner | Flow |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | xX17Xx | mae | 87 | permarogue | Oddjobs |
@@ -59,7 +59,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | d34r | deer | 73 | dagger spearwoman (vicloc) | Victoria |
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
-| Keppet | Rapskal | 70 | stab sin | Oddjobs |
+| Keppet | Rapskal | 70 | daggermit | Oddjobs |
 | Furbs | ? | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
