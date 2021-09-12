@@ -26,8 +26,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| Otios | ? | 135 | STRginner | Flow |
-| LawdHeComin | ? | 129 | F/P archgish | Oddjobs |
+| Otios | Wout | 135 | STRginner | Flow |
+| LawdHeComin | JunkyardBat | 129 | F/P archgish | Oddjobs |
 | rusa | deer | 124 | darksterity knight | Oddjobs |
 | cervid | deer | 123 | STR bishop | Oddjobs |
 | capreolina | deer | 123 | woodsmaster | Oddjobs |
@@ -60,11 +60,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
 | Keppet | Rapskal | 70 | daggermit | Oddjobs |
-| Furbs | ? | 65 | STRginner | WindowsXP\* |
+| Furbs | Sword Furb | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
-| Swathelby | ? | 60 | STRginner | Flow |
+| Swathelby | Swathelby | 60 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |

@@ -125,7 +125,7 @@
       "job": "STRginner",
       "guild": null
     },
-    { "ign": "Otios", "name": null, "job": "STRginner", "guild": "Flow" },
+    { "ign": "Otios", "name": "Wout", "job": "STRginner", "guild": "Flow" },
     {
       "ign": "ducklings",
       "name": "joyce",
@@ -142,7 +142,7 @@
       "job": "STR cleric",
       "guild": "Oddjobs"
     },
-    { "ign": "Furbs", "name": null, "job": "STRginner", "guild": "WindowsXP" },
+    { "ign": "Furbs", "name": "Sword Furb", "job": "STRginner", "guild": "WindowsXP" },
     {
       "ign": "Gambolpuddy",
       "name": "Kelsey",
@@ -198,7 +198,7 @@
       "guild": "GangGang"
     },
     { "ign": "alces", "name": "deer", "job": "daggermit", "guild": "Oddjobs" },
-    { "ign": "LawdHeComin", "name": null, "job": "F/P archgish", "guild": "Oddjobs" },
+    { "ign": "LawdHeComin", "name": "JunkyardBat", "job": "F/P archgish", "guild": "Oddjobs" },
     { "ign": "Numidium", "name": "Kelsey", "job": "STR cleric", "guild": "Oddjobs" },
     { "ign": "sorts", "name": "deer", "job": "DEX brawler (LPQ mule)", "guild": "Pals" },
     { "ign": "Medulla", "name": "Andrew Tran", "job": "dagger fighter", "guild": "Oddjobs" },
@@ -206,7 +206,7 @@
     { "ign": "Keppet", "name": "Rapskal", "job": "daggermit", "guild": "Oddjobs" },
     { "ign": "Hanyou", "name": "Kelsey", "job": "DEX WK", "guild": "Oddjobs" },
     { "ign": "L0neW0lf16OO", "name": "LoneWolf1600", "job": "besinner", "guild": "Oddjobs" },
-    { "ign": "Swathelby", "name": null, "job": "STRginner", "guild": "Flow" },
+    { "ign": "Swathelby", "name": "Swathelby", "job": "STRginner", "guild": "Flow" },
     { "ign": "BowerStrike", "name": "Andrew Tran", "job": "bow-whacker", "guild": "Oddjobs" },
     { "ign": "panolia", "name": "deer", "job": "permarogue", "guild": "Oddjobs" },
     { "ign": "attackattack", "name": "mae", "job": "DEX page", "guild": "Oddjobs" },
