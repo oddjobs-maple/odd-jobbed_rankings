@@ -39,7 +39,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | Permanovice | Redz | 101 | STRginner | GangGang\* |
 | ducklings | joyce | 99 | STRginner | DuckNation\* |
-| Outside | Tab | 95 | STRginner | Flow |
+| Outside | Tab | 96 | STRginner | Flow |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | alces | deer | 91 | daggermit | Oddjobs |
@@ -52,8 +52,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | Zin | 84 | STRginner | Flow |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
+| panolia | deer | 76 | permarogue | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
-| panolia | deer | 75 | permarogue | Oddjobs |
 | Phoneme | Andrew Tran | 74 | permamagician | Victoria |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | d34r | deer | 73 | dagger spearwoman (vicloc) | Victoria |
