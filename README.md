@@ -82,3 +82,4 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
+| d33r | deer | 45 | clericlet (vicloc) | Victoria |
