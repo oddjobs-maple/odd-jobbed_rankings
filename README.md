@@ -55,8 +55,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 76 | permarogue | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Victoria |
+| d34r | deer | 74 | dagger spearwoman (vicloc) | Victoria |
 | Celim | Marcelo | 73 | STRginner | Flow |
-| d34r | deer | 73 | dagger spearwoman (vicloc) | Victoria |
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
 | Keppet | Rapskal | 71 | daggermit | Oddjobs |
@@ -80,6 +80,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
+| d33r | deer | 46 | clericlet (vicloc) | Victoria |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | Monc | Monc | 45 | permamagician | Oddjobs |
-| d33r | deer | 45 | clericlet (vicloc) | Victoria |
