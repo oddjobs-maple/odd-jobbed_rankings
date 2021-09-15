@@ -58,8 +58,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | d34r | deer | 74 | dagger spearwoman (vicloc) | Victoria |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
+| Keppet | Rapskal | 72 | daggermit | Oddjobs |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
-| Keppet | Rapskal | 71 | daggermit | Oddjobs |
 | Furbs | Sword Furb | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
@@ -75,8 +75,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | attackattack | mae | 50 | DEX page | Oddjobs |
+| doiob | doiob | 49 | STR cleric | Oddjobs |
 | Sommer | Marcelo | 49 | punchbuckler | Oddjobs |
-| doiob | doiob | 48 | STR cleric | Oddjobs |
 | BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
