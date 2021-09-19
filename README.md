@@ -57,8 +57,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | Andrew Tran | 74 | permamagician | Victoria |
 | d34r | deer | 74 | dagger spearwoman (vicloc) | Victoria |
 | Celim | Marcelo | 73 | STRginner | Flow |
+| Keppet | Rapskal | 73 | daggermit | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
-| Keppet | Rapskal | 72 | daggermit | Oddjobs |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
 | Furbs | Sword Furb | 65 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
