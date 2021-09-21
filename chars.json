@@ -163,7 +163,7 @@
     },
     {
       "ign": "Permanovice",
-      "name": "Redz",
+      "name": "Red",
       "job": "STRginner",
       "guild": "GangGang"
     },
@@ -211,6 +211,7 @@
     { "ign": "panolia", "name": "deer", "job": "permarogue", "guild": "Oddjobs" },
     { "ign": "attackattack", "name": "mae", "job": "DEX page", "guild": "Oddjobs" },
     { "ign": "d34r", "name": "deer", "job": "dagger spearwoman (vicloc)", "guild": "Victoria" },
-    { "ign": "d33r", "name": "deer", "job": "clericlet (vicloc)", "guild": "Victoria" }
+    { "ign": "d33r", "name": "deer", "job": "clericlet (vicloc)", "guild": "Victoria" },
+    { "ign": "Battlesage", "name": "Red", "job": "F/P gish", "guild": "Oddjobs" }
   ]
 }

@@ -36,7 +36,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervine | deer | 108 | I/L magelet | Oddjobs |
 | Taima | Kelsey | 107 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
-| Permanovice | Redz | 102 | STRginner | GangGang\* |
+| Permanovice | Red | 102 | STRginner | GangGang\* |
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | ducklings | joyce | 99 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
@@ -68,6 +68,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
+| Battlesage | Red | 55 | F/P gish | Oddjobs |
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
