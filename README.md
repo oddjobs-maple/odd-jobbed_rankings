@@ -28,8 +28,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | Wout | 135 | STRginner | Flow |
 | LawdHeComin | JunkyardBat | 130 | F/P archgish | Oddjobs |
+| rusa | deer | 125 | darksterity knight | Oddjobs |
 | cervid | deer | 124 | STR bishop | Oddjobs |
-| rusa | deer | 124 | darksterity knight | Oddjobs |
 | capreolina | deer | 123 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
@@ -43,7 +43,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | alces | deer | 91 | daggermit | Oddjobs |
-| Cortical | Andrew Tran | 89 | STRginner | Flow |
+| Cortical | Andrew Tran | 90 | STRginner | Flow |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | xX17Xx | mae | 87 | permarogue | Oddjobs |
@@ -60,7 +60,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Keppet | Rapskal | 73 | daggermit | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
-| Furbs | Sword Furb | 65 | STRginner | WindowsXP\* |
+| Furbs | Sword Furb | 66 | STRginner | WindowsXP\* |
 | justbegin | ? | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
@@ -77,8 +77,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | attackattack | mae | 50 | DEX page | Oddjobs |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Sommer | Marcelo | 49 | punchbuckler | Oddjobs |
+| d33r | deer | 49 | clericlet (vicloc) | Victoria |
 | BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
-| d33r | deer | 48 | clericlet (vicloc) | Victoria |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
