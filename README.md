@@ -44,9 +44,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | alces | deer | 91 | daggermit | Oddjobs |
 | Cortical | Andrew Tran | 90 | STRginner | Flow |
+| xX17Xx | mae | 88 | permarogue | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
-| xX17Xx | mae | 87 | permarogue | Oddjobs |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | GishGallop | Andrew Tran | 85 | I/L gish | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
