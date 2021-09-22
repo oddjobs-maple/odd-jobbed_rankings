@@ -30,7 +30,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | LawdHeComin | JunkyardBat | 130 | F/P archgish | Oddjobs |
 | rusa | deer | 125 | darksterity knight | Oddjobs |
 | cervid | deer | 124 | STR bishop | Oddjobs |
-| capreolina | deer | 123 | woodsmaster | Oddjobs |
+| capreolina | deer | 124 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
 | cervine | deer | 108 | I/L magelet | Oddjobs |
@@ -76,9 +76,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | attackattack | mae | 50 | DEX page | Oddjobs |
+| d33r | deer | 50 | clericlet (vicloc) | Victoria |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Sommer | Marcelo | 49 | punchbuckler | Oddjobs |
-| d33r | deer | 49 | clericlet (vicloc) | Victoria |
 | BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
