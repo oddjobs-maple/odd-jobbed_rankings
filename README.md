@@ -73,10 +73,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
+| d33r | deer | 51 | clericlet (vicloc) | Victoria |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | attackattack | mae | 50 | DEX page | Oddjobs |
-| d33r | deer | 50 | clericlet (vicloc) | Victoria |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Sommer | Marcelo | 49 | punchbuckler | Oddjobs |
 | BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
