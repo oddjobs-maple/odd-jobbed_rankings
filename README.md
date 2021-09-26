@@ -48,11 +48,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
-| GishGallop | Andrew Tran | 85 | I/L gish | Oddjobs |
+| GishGallop | Andrew Tran | 86 | I/L gish | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
+| panolia | deer | 77 | permarogue | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
-| panolia | deer | 76 | permarogue | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Victoria |
 | Keppet | Rapskal | 74 | daggermit | Oddjobs |
@@ -73,7 +73,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
-| d33r | deer | 51 | clericlet (vicloc) | Victoria |
+| d33r | deer | 52 | clericlet (vicloc) | Victoria |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | attackattack | mae | 50 | DEX page | Oddjobs |
