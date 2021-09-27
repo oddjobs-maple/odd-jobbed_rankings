@@ -33,7 +33,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | capreolina | deer | 124 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
-| cervine | deer | 108 | I/L magelet | Oddjobs |
+| cervine | deer | 109 | I/L magelet | Oddjobs |
 | Taima | Kelsey | 107 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Permanovice | Red | 103 | STRginner | GangGang\* |
@@ -54,9 +54,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
 | Rort | Lin | 75 | STRginner | Flow |
+| d34r | deer | 75 | dagger spearwoman (vicloc) | Victoria |
 | Phoneme | Andrew Tran | 74 | permamagician | Victoria |
 | Keppet | Rapskal | 74 | daggermit | Oddjobs |
-| d34r | deer | 74 | dagger spearwoman (vicloc) | Victoria |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
@@ -72,8 +72,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
+| d33r | deer | 53 | clericlet (vicloc) | Victoria |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
-| d33r | deer | 52 | clericlet (vicloc) | Victoria |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | attackattack | mae | 50 | DEX page | Oddjobs |
