@@ -28,9 +28,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | Wout | 135 | STRginner | Flow |
 | LawdHeComin | JunkyardBat | 130 | F/P archgish | Oddjobs |
+| capreolina | deer | 125 | woodsmaster | Oddjobs |
 | rusa | deer | 125 | darksterity knight | Oddjobs |
 | cervid | deer | 124 | STR bishop | Oddjobs |
-| capreolina | deer | 124 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
 | cervine | deer | 109 | I/L magelet | Oddjobs |
@@ -44,7 +44,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | alces | deer | 91 | daggermit | Oddjobs |
 | Cortical | Andrew Tran | 90 | STRginner | Flow |
-| xX17Xx | mae | 88 | permarogue | Oddjobs |
+| xX17Xx | mae | 89 | permarogue | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
@@ -54,25 +54,25 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
 | Rort | Lin | 75 | STRginner | Flow |
+| Keppet | Rapskal | 75 | daggermit | Oddjobs |
 | d34r | deer | 75 | dagger spearwoman (vicloc) | Victoria |
 | Phoneme | Andrew Tran | 74 | permamagician | Victoria |
-| Keppet | Rapskal | 74 | daggermit | Oddjobs |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
 | Furbs | Sword Furb | 66 | STRginner | WindowsXP\* |
-| justbegin | ? | 65 | STRginner | GangGang\* |
+| justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
+| Battlesage | Red | 56 | F/P gish | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
-| Battlesage | Red | 55 | F/P gish | Oddjobs |
 | Copo | Marcelo | 54 | permapirate | Oddjobs |
+| d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
-| d33r | deer | 53 | clericlet (vicloc) | Victoria |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
