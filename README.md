@@ -53,8 +53,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 77 | permarogue | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
+| Keppet | Rapskal | 76 | daggermit | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
-| Keppet | Rapskal | 75 | daggermit | Oddjobs |
 | d34r | deer | 75 | dagger spearwoman (vicloc) | Victoria |
 | Phoneme | Andrew Tran | 74 | permamagician | Victoria |
 | Celim | Marcelo | 73 | STRginner | Flow |
