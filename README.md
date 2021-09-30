@@ -47,8 +47,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | xX17Xx | mae | 89 | permarogue | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
+| GishGallop | Andrew Tran | 87 | I/L gish | Oddjobs |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
-| GishGallop | Andrew Tran | 86 | I/L gish | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
 | panolia | deer | 77 | permarogue | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
