@@ -36,9 +36,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervine | deer | 109 | I/L magelet | Oddjobs |
 | Taima | Kelsey | 107 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
-| Permanovice | Red | 104 | STRginner | GangGang\* |
+| Permanovice | Red | 105 | STRginner | GangGang\* |
 | OmokTeacher | Noam | 101 | STRginner | Flow |
-| ducklings | joyce | 99 | STRginner | DuckNation\* |
+| ducklings | joyce | 100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
@@ -50,10 +50,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GishGallop | Andrew Tran | 87 | I/L gish | Oddjobs |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
-| panolia | deer | 77 | permarogue | Oddjobs |
+| panolia | deer | 78 | permarogue | Oddjobs |
+| Keppet | Rapskal | 77 | daggermit | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
-| Keppet | Rapskal | 76 | daggermit | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
 | d34r | deer | 75 | dagger spearwoman (vicloc) | Victoria |
 | Phoneme | Andrew Tran | 74 | permamagician | Victoria |
