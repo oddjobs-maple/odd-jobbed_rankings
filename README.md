@@ -51,7 +51,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
 | panolia | deer | 80 | permarogue | Oddjobs |
-| Keppet | Rapskal | 78 | daggermit | Oddjobs |
+| Keppet | Rapskal | 79 | daggermit | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
 | Rort | Lin | 75 | STRginner | Flow |
