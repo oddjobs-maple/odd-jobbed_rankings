@@ -41,10 +41,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ducklings | joyce | 100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
+| alces | deer | 92 | daggermit | Oddjobs |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
-| alces | deer | 91 | daggermit | Oddjobs |
 | Cortical | Andrew Tran | 90 | STRginner | Flow |
-| xX17Xx | mae | 89 | permarogue | Oddjobs |
+| xX17Xx | mae | 90 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
