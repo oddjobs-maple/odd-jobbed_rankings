@@ -32,8 +32,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rusa | deer | 125 | darksterity knight | Oddjobs |
 | cervid | deer | 124 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
+| LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
 | cervine | deer | 111 | I/L magelet | Oddjobs |
-| LoneW0lf1600 | LoneWolf1600 | 110 | STRginner | Flow |
 | Taima | Kelsey | 107 | STRginner | Oddjobs |
 | Permanovice | Red | 106 | STRginner | GangGang\* |
 | Gumby | Jonathan | 105 | STRginner | Flow |
@@ -54,8 +54,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 80 | permarogue | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
+| d34r | deer | 76 | dagger spearwoman (vicloc) | Victoria |
 | Rort | Lin | 75 | STRginner | Flow |
-| d34r | deer | 75 | dagger spearwoman (vicloc) | Victoria |
 | Phoneme | Andrew Tran | 74 | permamagician | Victoria |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
