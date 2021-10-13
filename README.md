@@ -35,7 +35,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
 | cervine | deer | 111 | I/L magelet | Oddjobs |
 | Taima | Kelsey | 107 | STRginner | Oddjobs |
-| Permanovice | Red | 106 | STRginner | GangGang\* |
+| Permanovice | Red | 107 | STRginner | GangGang\* |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
@@ -50,8 +50,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
+| panolia | deer | 82 | permarogue | Oddjobs |
 | Keppet | Rapskal | 80 | daggermit | Oddjobs |
-| panolia | deer | 80 | permarogue | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
 | d34r | deer | 76 | dagger spearwoman (vicloc) | Victoria |
