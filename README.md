@@ -51,7 +51,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
 | panolia | deer | 82 | permarogue | Oddjobs |
-| Keppet | Rapskal | 80 | daggermit | Oddjobs |
+| Keppet | Rapskal | 81 | daggermit | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
 | d34r | deer | 76 | dagger spearwoman (vicloc) | Victoria |
@@ -68,8 +68,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Battlesage | Red | 56 | F/P gish | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
+| Copo | Marcelo | 55 | permapirate | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
-| Copo | Marcelo | 54 | permapirate | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
