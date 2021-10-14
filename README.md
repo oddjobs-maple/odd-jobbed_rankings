@@ -50,8 +50,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
+| Keppet | Rapskal | 82 | daggermit | Oddjobs |
 | panolia | deer | 82 | permarogue | Oddjobs |
-| Keppet | Rapskal | 81 | daggermit | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
 | d34r | deer | 76 | dagger spearwoman (vicloc) | Victoria |
