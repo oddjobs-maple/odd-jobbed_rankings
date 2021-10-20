@@ -34,7 +34,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
 | cervine | deer | 111 | I/L magelet | Oddjobs |
-| Permanovice | Red | 108 | STRginner | GangGang\* |
+| Permanovice | Red | 109 | STRginner | GangGang\* |
 | Taima | Kelsey | 107 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 101 | STRginner | Flow |
