@@ -34,7 +34,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | cervine | deer | 112 | I/L magelet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
-| Permanovice | Red | 109 | STRginner | GangGang\* |
+| Permanovice | Red | 110 | STRginner | GangGang\* |
 | Taima | Kelsey | 107 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 101 | STRginner | Flow |
@@ -49,8 +49,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
+| Keppet | Rapskal | 85 | daggermit | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
-| Keppet | Rapskal | 84 | daggermit | Oddjobs |
 | panolia | deer | 82 | permarogue | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Daddyo | Hunter | 76 | STRginner | \[none\]\* |
