@@ -52,7 +52,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Keppet | Rapskal | 85 | daggermit | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
 | panolia | deer | 83 | permarogue | Oddjobs |
-| Daddyo | Hunter | 77 | STRginner | \[none\]\* |
+| Daddyo | Hunter | 78 | STRginner | \[none\]\* |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | d34r | deer | 76 | dagger spearwoman (vicloc) | Victoria |
 | Rort | Lin | 75 | STRginner | Flow |
