@@ -48,11 +48,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GishGallop | Andrew Tran | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
+| Keppet | Rapskal | 87 | daggermit | Oddjobs |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
-| Keppet | Rapskal | 86 | daggermit | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
-| panolia | deer | 83 | permarogue | Oddjobs |
-| Daddyo | Hunter | 78 | STRginner | \[none\]\* |
+| panolia | deer | 84 | permarogue | Oddjobs |
+| Daddyo | Hunter | 79 | STRginner | \[none\]\* |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | d34r | deer | 76 | dagger spearwoman (vicloc) | Victoria |
 | Rort | Lin | 75 | STRginner | Flow |
