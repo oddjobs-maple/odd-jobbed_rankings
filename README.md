@@ -28,7 +28,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | Wout | 135 | STRginner | Flow |
 | LawdHeComin | JunkyardBat | 131 | F/P archgish | Oddjobs |
-| rusa | deer | 127 | darksterity knight | Oddjobs |
+| rusa | deer | 128 | darksterity knight | Oddjobs |
 | capreolina | deer | 126 | woodsmaster | Oddjobs |
 | cervid | deer | 125 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
@@ -65,7 +65,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
-| Battlesage | Red | 57 | F/P gish | Oddjobs |
+| Battlesage | Red | 58 | F/P gish | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Copo | Marcelo | 55 | permapirate | Oddjobs |
