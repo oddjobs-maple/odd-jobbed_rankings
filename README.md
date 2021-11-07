@@ -43,12 +43,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | alces | deer | 92 | daggermit | Oddjobs |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
+| xX17Xx | mae | 91 | permarogue | Oddjobs |
 | Cortical | Andrew Tran | 90 | STRginner | Flow |
-| xX17Xx | mae | 90 | permarogue | Oddjobs |
 | GishGallop | Andrew Tran | 88 | I/L gish | Oddjobs |
+| Keppet | Rapskal | 88 | daggermit | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
-| Keppet | Rapskal | 87 | daggermit | Oddjobs |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
 | panolia | deer | 84 | permarogue | Oddjobs |
@@ -79,8 +79,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | attackattack | mae | 50 | DEX page | Oddjobs |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Sommer | Marcelo | 49 | punchbuckler | Oddjobs |
+| Monc | Monc | 48 | permamagician | Oddjobs |
 | BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
-| Monc | Monc | 45 | permamagician | Oddjobs |
