@@ -78,8 +78,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | attackattack | mae | 50 | DEX page | Oddjobs |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
+| Monc | Monc | 49 | permamagician | Oddjobs |
 | Sommer | Marcelo | 49 | punchbuckler | Oddjobs |
-| Monc | Monc | 48 | permamagician | Oddjobs |
 | BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
