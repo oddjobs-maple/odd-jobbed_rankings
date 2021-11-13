@@ -41,9 +41,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
+| xX17Xx | mae | 92 | permarogue | Oddjobs |
 | alces | deer | 92 | daggermit | Oddjobs |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
-| xX17Xx | mae | 91 | permarogue | Oddjobs |
 | Cortical | Andrew Tran | 90 | STRginner | Flow |
 | GishGallop | Andrew Tran | 88 | I/L gish | Oddjobs |
 | Keppet | Rapskal | 88 | daggermit | Oddjobs |
@@ -52,7 +52,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 85 | permarogue | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
-| Daddyo | Hunter | 80 | STRginner | \[none\]\* |
+| Daddyo | Hunter | 80 | STRginner | GangGang\* |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | d34r | deer | 76 | dagger spearwoman (vicloc) | Victoria |
 | Rort | Lin | 75 | STRginner | Flow |
@@ -60,7 +60,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
-| Furbs | Sword Furb | 67 | STRginner | WindowsXP\* |
+| Furbs | Sword Furb | 68 | STRginner | WindowsXP\* |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
