@@ -28,7 +28,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | Wout | 135 | STRginner | Flow |
 | LawdHeComin | JunkyardBat | 131 | F/P archgish | Oddjobs |
-| rusa | deer | 129 | darksterity knight | Oddjobs |
+| rusa | deer | 130 | darksterity knight | Oddjobs |
 | cervid | deer | 126 | STR bishop | Oddjobs |
 | capreolina | deer | 126 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
@@ -44,7 +44,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | xX17Xx | mae | 92 | permarogue | Oddjobs |
 | alces | deer | 92 | daggermit | Oddjobs |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
-| Cortical | Andrew Tran | 90 | STRginner | Flow |
+| Cortical | Andrew Tran | 91 | STRginner | Flow |
 | GishGallop | Andrew Tran | 88 | I/L gish | Oddjobs |
 | Keppet | Rapskal | 88 | daggermit | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
@@ -52,7 +52,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 85 | permarogue | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
-| Daddyo | Hunter | 80 | STRginner | GangGang\* |
+| Daddyo | Hunter | 81 | STRginner | GangGang\* |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | d34r | deer | 76 | dagger spearwoman (vicloc) | Victoria |
 | Rort | Lin | 75 | STRginner | Flow |
