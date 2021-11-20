@@ -27,8 +27,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | Wout | 135 | STRginner | Flow |
+| LawdHeComin | JunkyardBat | 132 | F/P archgish | Oddjobs |
 | rusa | deer | 131 | darksterity knight | Oddjobs |
-| LawdHeComin | JunkyardBat | 131 | F/P archgish | Oddjobs |
 | cervid | deer | 126 | STR bishop | Oddjobs |
 | capreolina | deer | 126 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
@@ -76,10 +76,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
+| Sommer | Marcelo | 50 | punchbuckler | Oddjobs |
 | attackattack | mae | 50 | DEX page | Oddjobs |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
-| Sommer | Marcelo | 49 | punchbuckler | Oddjobs |
 | BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
