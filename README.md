@@ -67,8 +67,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
+| Copo | Marcelo | 56 | permapirate | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| Copo | Marcelo | 55 | permapirate | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | hashishi | deer | 53 | besinner | Oddjobs |
