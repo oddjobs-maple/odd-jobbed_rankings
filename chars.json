@@ -132,7 +132,12 @@
       "job": "STRginner",
       "guild": "DuckNation"
     },
-    { "ign": "hashishi", "name": "deer", "job": "besinner", "guild": "Oddjobs" },
+    {
+      "ign": "hashishi",
+      "name": "deer",
+      "job": "besinner",
+      "guild": "Oddjobs"
+    },
     { "ign": "Slimusaurus", "name": "Noam", "job": "besinner", "guild": null },
     { "ign": "Celim", "name": "Marcelo", "job": "STRginner", "guild": "Flow" },
     { "ign": "Rort", "name": "Lin", "job": "STRginner", "guild": "Flow" },
@@ -142,7 +147,12 @@
       "job": "STR cleric",
       "guild": "Oddjobs"
     },
-    { "ign": "Furbs", "name": "Sword Furb", "job": "STRginner", "guild": "WindowsXP" },
+    {
+      "ign": "Furbs",
+      "name": "Sword Furb",
+      "job": "STRginner",
+      "guild": "WindowsXP"
+    },
     {
       "ign": "Gambolpuddy",
       "name": "Kelsey",
@@ -198,20 +208,180 @@
       "guild": "GangGang"
     },
     { "ign": "alces", "name": "deer", "job": "daggermit", "guild": "Oddjobs" },
-    { "ign": "LawdHeComin", "name": "JunkyardBat", "job": "F/P archgish", "guild": "Oddjobs" },
-    { "ign": "Numidium", "name": "Kelsey", "job": "STR cleric", "guild": "Oddjobs" },
-    { "ign": "sorts", "name": "deer", "job": "DEX brawler (LPQ mule)", "guild": "Pals" },
-    { "ign": "Medulla", "name": "Andrew Tran", "job": "dagger fighter", "guild": "Oddjobs" },
-    { "ign": "Sommer", "name": "Marcelo", "job": "punchbuckler", "guild": "Oddjobs" },
-    { "ign": "Keppet", "name": "Rapskal", "job": "daggermit", "guild": "Oddjobs" },
+    {
+      "ign": "LawdHeComin",
+      "name": "JunkyardBat",
+      "job": "F/P archgish",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "Numidium",
+      "name": "Kelsey",
+      "job": "STR cleric",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "sorts",
+      "name": "deer",
+      "job": "DEX brawler (LPQ mule)",
+      "guild": "Pals"
+    },
+    {
+      "ign": "Medulla",
+      "name": "Andrew Tran",
+      "job": "dagger fighter",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "Sommer",
+      "name": "Marcelo",
+      "job": "punchbuckler",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "Keppet",
+      "name": "Rapskal",
+      "job": "daggermit",
+      "guild": "Oddjobs"
+    },
     { "ign": "Hanyou", "name": "Kelsey", "job": "DEX WK", "guild": "Oddjobs" },
-    { "ign": "L0neW0lf16OO", "name": "LoneWolf1600", "job": "besinner", "guild": "Oddjobs" },
-    { "ign": "Swathelby", "name": "Swathelby", "job": "STRginner", "guild": "Flow" },
-    { "ign": "BowerStrike", "name": "Andrew Tran", "job": "bow-whacker", "guild": "Oddjobs" },
-    { "ign": "panolia", "name": "deer", "job": "permarogue", "guild": "Oddjobs" },
-    { "ign": "attackattack", "name": "mae", "job": "DEX page", "guild": "Oddjobs" },
-    { "ign": "d34r", "name": "deer", "job": "dagger spearwoman (vicloc)", "guild": "Victoria" },
-    { "ign": "d33r", "name": "deer", "job": "clericlet (vicloc)", "guild": "Victoria" },
-    { "ign": "Battlesage", "name": "Red", "job": "F/P gish", "guild": "Oddjobs" }
+    {
+      "ign": "L0neW0lf16OO",
+      "name": "LoneWolf1600",
+      "job": "besinner",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "Swathelby",
+      "name": "Swathelby",
+      "job": "STRginner",
+      "guild": "Flow"
+    },
+    {
+      "ign": "BowerStrike",
+      "name": "Andrew Tran",
+      "job": "bow-whacker",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "panolia",
+      "name": "deer",
+      "job": "permarogue",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "attackattack",
+      "name": "mae",
+      "job": "DEX page",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "d34r",
+      "name": "deer",
+      "job": "dagger spearwoman (vicloc)",
+      "guild": "Victoria"
+    },
+    {
+      "ign": "d33r",
+      "name": "deer",
+      "job": "clericlet (vicloc)",
+      "guild": "Victoria"
+    },
+    {
+      "ign": "Battlesage",
+      "name": "Red",
+      "job": "F/P gish",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "GoGoSnuggles",
+      "name": "Snuggles",
+      "job": "camper",
+      "guild": null
+    },
+    {
+      "ign": "Itati",
+      "name": null,
+      "job": "camper",
+      "guild": null
+    },
+    {
+      "ign": "Tutorialist",
+      "name": null,
+      "job": "camper",
+      "guild": "Amherst"
+    },
+    {
+      "ign": "L0neWolf1600",
+      "name": "LoneWolf1600",
+      "job": "camper",
+      "guild": "Campers"
+    },
+    {
+      "ign": "WarmApplePie",
+      "name": null,
+      "job": "camper",
+      "guild": null
+    },
+    {
+      "ign": "DuckyWucky",
+      "name": null,
+      "job": "camper",
+      "guild": null
+    },
+    {
+      "ign": "Hobbits",
+      "name": null,
+      "job": "camper",
+      "guild": null
+    },
+    {
+      "ign": "Hyewon",
+      "name": null,
+      "job": "camper",
+      "guild": null
+    },
+    {
+      "ign": "BloodyTaco",
+      "name": null,
+      "job": "camper",
+      "guild": null
+    },
+    {
+      "ign": "NewCharacter",
+      "name": null,
+      "job": "camper",
+      "guild": null
+    },
+    {
+      "ign": "Kept",
+      "name": null,
+      "job": "camper",
+      "guild": "Campers"
+    },
+    {
+      "ign": "TrainingCamp",
+      "name": null,
+      "job": "camper",
+      "guild": "Campers"
+    },
+    {
+      "ign": "Chronosius",
+      "name": null,
+      "job": "camper",
+      "guild": null
+    },
+    {
+      "ign": "Words",
+      "name": null,
+      "job": "camper",
+      "guild": null
+    },
+    {
+      "ign": "Social",
+      "name": null,
+      "job": "camper",
+      "guild": null
+    }
   ]
 }

@@ -12,12 +12,9 @@ here are fetched directly from [the official MapleLegends
 rankings](https://maplelegends.com/ranking/all) via [a shitty Python
 script](https://codeberg.org/oddjobs/odd-jobbed_rankings/src/branch/master/update.py).
 
-Because the impetus of this “rankings” was the formation of groups for
-bossing/PQing, only off-island characters are represented here. In addition, to
-make the “rankings” actually maintainable, characters who have not yet achieved
-level 45 are not represented here either. Supposedly, only active players
-(“player” should be distinguished from “player character”) are represented
-here.
+To make the “rankings” actually maintainable, off-island characters who have
+not yet achieved level 45, islanders who have not yet achieved level 40, and
+campers who have not yet achieved level 10 are not represented here.
 
 “IGN” stands for “in-game name”. The “name” entries are mostly for discerning
 when two or more characters are controlled by the same player. The names, I’ve

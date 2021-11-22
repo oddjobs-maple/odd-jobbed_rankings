@@ -7,12 +7,9 @@ here are fetched directly from [the official MapleLegends
 rankings](https://maplelegends.com/ranking/all) via [a shitty Python
 script](https://codeberg.org/oddjobs/odd-jobbed_rankings/src/branch/master/update.py).
 
-Because the impetus of this “rankings” was the formation of groups for
-bossing/PQing, only off-island characters are represented here. In addition, to
-make the “rankings” actually maintainable, characters who have not yet achieved
-level 45 are not represented here either. Supposedly, only active players
-(“player” should be distinguished from “player character”) are represented
-here.
+To make the “rankings” actually maintainable, off-island characters who have
+not yet achieved level 45, islanders who have not yet achieved level 40, and
+campers who have not yet achieved level 10 are not represented here.
 
 “IGN” stands for “in-game name”. The “name” entries are mostly for discerning
 when two or more characters are controlled by the same player. The names, I’ve
@@ -27,8 +24,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | Wout | 135 | STRginner | Flow |
-| rusa | deer | 132 | darksterity knight | Oddjobs |
-| LawdHeComin | JunkyardBat | 132 | F/P archgish | Oddjobs |
+| rusa | deer | 133 | darksterity knight | Oddjobs |
+| LawdHeComin | JunkyardBat | 133 | F/P archgish | Oddjobs |
 | cervid | deer | 126 | STR bishop | Oddjobs |
 | capreolina | deer | 126 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
@@ -84,3 +81,18 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
+| GoGoSnuggles | Snuggles | 22 | camper | \[none\]\* |
+| Itati | ? | 19 | camper | \[none\]\* |
+| Tutorialist | ? | 17 | camper | Amherst\* |
+| L0neWolf1600 | LoneWolf1600 | 16 | camper | Campers\* |
+| WarmApplePie | ? | 15 | camper | \[none\]\* |
+| DuckyWucky | ? | 15 | camper | \[none\]\* |
+| Hobbits | ? | 14 | camper | \[none\]\* |
+| Hyewon | ? | 14 | camper | \[none\]\* |
+| BloodyTaco | ? | 14 | camper | \[none\]\* |
+| NewCharacter | ? | 13 | camper | \[none\]\* |
+| Kept | ? | 11 | camper | Campers\* |
+| TrainingCamp | ? | 11 | camper | Campers\* |
+| Chronosius | ? | 11 | camper | \[none\]\* |
+| Words | ? | 10 | camper | \[none\]\* |
+| Social | ? | 10 | camper | \[none\]\* |
