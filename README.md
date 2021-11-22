@@ -65,14 +65,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | Christopher | Chris | 64 | islander | Southperry |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| KitsunyChang | Kitsuny | 63 | islander | Southperry |
+| KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry |
 | Wout | Wout | 57 | islander | Southperry |
-| MapleStarter | ? | 57 | islander | Southperry |
+| MapleStarter | Dvd | 57 | islander | Southperry |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Copo | Marcelo | 56 | permapirate | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
@@ -84,7 +84,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
-| mase | ? | 52 | islander | Southperry |
+| mase | mase | 52 | islander | Southperry |
 | 1sme | Zin | 52 | islander | Southperry |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
@@ -103,7 +103,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| Luckiestboy | ? | 47 | LUKlander | Newbology\* |
+| Luckiestboy | Dvd | 47 | LUKlander | Newbology\* |
 | Peep | ? | 47 | islander | \[none\]\* |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
