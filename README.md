@@ -108,6 +108,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
+| Suzuran | Calendula | 46 | blood dit | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Kimberly | Kimberly | 45 | islander | Flow |
