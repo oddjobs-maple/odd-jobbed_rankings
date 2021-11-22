@@ -49,23 +49,23 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
-| Newbton | Newbton | 84 | islander | Southperry |
+| Newbton | Jonte | 84 | islander | Southperry |
 | Daddyo | Hunter | 82 | STRginner | GangGang\* |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | d34r | deer | 76 | dagger spearwoman (vicloc) | Victoria |
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | Andrew Tran | 74 | permamagician | Victoria |
 | Celim | Marcelo | 73 | STRginner | Flow |
-| jung1e | ? | 73 | islander | Newbology\* |
+| jung1e | Justin | 73 | islander | Newbology\* |
 | drainer | mae | 72 | STRginner | Flow |
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
-| Zheedie | ? | 71 | islander | Southperry |
-| Ever | ? | 70 | islander | Team\* |
+| Zheedie | David | 71 | islander | Southperry |
+| Ever | Bella | 70 | islander | Team\* |
 | Furbs | Sword Furb | 68 | STRginner | WindowsXP\* |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | Christopher | Chris | 64 | islander | Southperry |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| KitsunyChang | ? | 63 | islander | Southperry |
+| KitsunyChang | Kitsuny | 63 | islander | Southperry |
 | Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
@@ -78,7 +78,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
-| NoJobNoRules | ? | 54 | islander | Southperry |
+| NoJobNoRules | Jared | 54 | islander | Southperry |
 | MapIeIsIand | ? | 54 | islander | \[none\]\* |
 | hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
@@ -86,13 +86,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | mase | ? | 52 | islander | Southperry |
 | 1sme | Zin | 52 | islander | Southperry |
-| Desolate | ? | 51 | islander | Amherst\* |
-| Ashore | ? | 51 | islander | Southperry |
+| Desolate | Logan | 51 | islander | Amherst\* |
+| Ashore | Sean | 51 | islander | Southperry |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | Sommer | Marcelo | 50 | punchbuckler | Oddjobs |
 | attackattack | mae | 50 | DEX page | Oddjobs |
-| PinkCream | ? | 50 | islander | Southperry |
+| PinkCream | Robin | 50 | islander | Southperry |
 | Zrar | ? | 50 | islander | Southperry |
 | Camomile | ? | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
@@ -110,16 +110,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Femdom | ? | 46 | islander | Newbology\* |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
-| Kimberly | ? | 45 | islander | Flow |
+| Kimberly | Kimberly | 45 | islander | Flow |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
-| Ninnie | ? | 44 | islander | Pomf\* |
+| Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Tonk | ? | 44 | islander | Southperry |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
 | Cottage | ? | 42 | islander | Southperry |
-| Snapples | ? | 42 | islander | Newbology\* |
+| Snapples | Kristina | 42 | islander | Newbology\* |
 | Babbi | Alvin | 41 | islander | Southperry |
 | Woogie | ? | 41 | islander | Southperry |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
@@ -128,7 +128,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Neveroffland | ? | 40 | islander | \[none\]\* |
 | Mesa | ? | 40 | islander | Southperry |
 | yotta | ? | 40 | islander | \[none\]\* |
-| DumbIsland | ? | 40 | islander | Southperry |
+| DumbIsland | Leo | 40 | islander | Southperry |
 | Kokoro | ? | 40 | islander | \[none\]\* |
 | BirdMandala | ? | 40 | islander | Southperry |
 | tbook | ? | 40 | islander | \[none\]\* |
