@@ -41,9 +41,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | xX17Xx | mae | 92 | permarogue | Oddjobs |
 | alces | deer | 92 | daggermit | Oddjobs |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
-| Cortical | Andrew Tran | 91 | STRginner | Flow |
+| Cortical | cort | 91 | STRginner | Flow |
 | Keppet | Rapskal | 89 | daggermit | Oddjobs |
-| GishGallop | Andrew Tran | 88 | I/L gish | Oddjobs |
+| GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
@@ -54,7 +54,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | d34r | deer | 76 | dagger spearwoman (vicloc) | Victoria |
 | Rort | Lin | 75 | STRginner | Flow |
-| Phoneme | Andrew Tran | 74 | permamagician | Victoria |
+| Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | jung1e | Justin | 73 | islander | Newbology\* |
 | drainer | mae | 72 | STRginner | Flow |
@@ -66,7 +66,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Christopher | Chris | 64 | islander | Southperry |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
-| Medulla | Andrew Tran | 62 | dagger fighter | Oddjobs |
+| Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
@@ -99,7 +99,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | KoKoSnuggles | Snuggles | 49 | islander | Southperry |
-| BowerStrike | Andrew Tran | 48 | bow-whacker | Oddjobs |
+| BowerStrike | cort | 48 | bow-whacker | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
@@ -133,17 +133,17 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BirdMandala | ? | 40 | islander | Southperry |
 | tbook | ? | 40 | islander | \[none\]\* |
 | iamDanix | ? | 40 | islander | Southperry |
-| Subcortical | Andrew Tran | 40 | islander | Southperry |
+| Subcortical | cort | 40 | islander | Southperry |
 | GoGoSnuggles | Snuggles | 22 | camper | \[none\]\* |
 | Itati | ? | 19 | camper | \[none\]\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
 | L0neWolf1600 | LoneWolf1600 | 16 | camper | Campers\* |
-| WarmApplePie | ? | 15 | camper | \[none\]\* |
+| WarmApplePie | Snuggles | 15 | camper | \[none\]\* |
 | DuckyWucky | ? | 15 | camper | \[none\]\* |
 | Hobbits | ? | 14 | camper | \[none\]\* |
 | Hyewon | ? | 14 | camper | \[none\]\* |
 | BloodyTaco | ? | 14 | camper | \[none\]\* |
-| NewCharacter | ? | 13 | camper | \[none\]\* |
+| NewCharacter | cort | 13 | camper | \[none\]\* |
 | Kept | ? | 11 | camper | Campers\* |
 | TrainingCamp | ? | 11 | camper | Campers\* |
 | Chronosius | ? | 11 | camper | \[none\]\* |
