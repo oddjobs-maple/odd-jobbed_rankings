@@ -104,8 +104,36 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | ? | 47 | LUKlander | Newbology\* |
+| Peep | ? | 47 | islander | \[none\]\* |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
+| Mujintou | ? | 46 | islander | Pomf\* |
+| Femdom | ? | 46 | islander | Newbology\* |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
+| PinkBean | ? | 45 | islander | Shroomies\* |
+| Kimberly | ? | 45 | islander | Flow |
+| Steam | ? | 44 | islander | Dokdo\* |
+| Vacation | ? | 44 | islander | Amherst\* |
+| Ninnie | ? | 44 | islander | Pomf\* |
+| Tonk | ? | 44 | islander | Southperry |
+| Gosu | ? | 43 | islander | \[none\]\* |
+| VillageIdiot | ? | 43 | islander | Southperry |
+| Land | ? | 43 | islander | Amherst\* |
+| Cottage | ? | 42 | islander | Southperry |
+| Snapples | ? | 42 | islander | Newbology\* |
+| Babbi | Alvin | 41 | islander | Southperry |
+| Woogie | ? | 41 | islander | Southperry |
+| o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
+| c7gs | ? | 41 | islander | Southperry |
+| Zugar | ? | 41 | islander | Newbology\* |
+| Neveroffland | ? | 40 | islander | \[none\]\* |
+| Mesa | ? | 40 | islander | Southperry |
+| yotta | ? | 40 | islander | \[none\]\* |
+| DumbIsland | ? | 40 | islander | Southperry |
+| Kokoro | ? | 40 | islander | \[none\]\* |
+| BirdMandala | ? | 40 | islander | Southperry |
+| tbook | ? | 40 | islander | \[none\]\* |
+| iamDanix | ? | 40 | islander | Southperry |
+| Subcortical | Andrew Tran | 40 | islander | Southperry |
 | GoGoSnuggles | Snuggles | 22 | camper | \[none\]\* |
 | Itati | ? | 19 | camper | \[none\]\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
