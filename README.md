@@ -24,10 +24,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | Wout | 135 | STRginner | Flow |
+| LawdHeComin | JunkyardBat | 134 | F/P archgish | Oddjobs |
 | rusa | deer | 133 | darksterity knight | Oddjobs |
-| LawdHeComin | JunkyardBat | 133 | F/P archgish | Oddjobs |
+| capreolina | deer | 127 | woodsmaster | Oddjobs |
 | cervid | deer | 126 | STR bishop | Oddjobs |
-| capreolina | deer | 126 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | 113 | STRginner | GangGang\* |
 | cervine | deer | 112 | I/L magelet | Oddjobs |
@@ -71,10 +71,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry |
+| Cleft | Tom | 58 | STRginner | Flow |
+| Copo | Marcelo | 57 | permapirate | Oddjobs |
 | Wout | Wout | 57 | islander | Southperry |
 | MapleStarter | Dvd | 57 | islander | Southperry |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
-| Copo | Marcelo | 56 | permapirate | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
@@ -105,10 +106,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology\* |
 | Peep | ? | 47 | islander | \[none\]\* |
+| Suzuran | Calendula | 47 | blood dit | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
-| Suzuran | Calendula | 46 | blood dit | Oddjobs |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Kimberly | Kimberly | 45 | islander | Flow |
