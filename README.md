@@ -42,7 +42,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | alces | deer | 92 | daggermit | Oddjobs |
 | hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | Cortical | cort | 91 | STRginner | Flow |
-| Keppet | Rapskal | 89 | daggermit | Oddjobs |
+| Keppet | Rapskal | 90 | daggermit | Oddjobs |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
@@ -71,17 +71,17 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry |
+| Copo | Marcelo | 58 | permapirate | Oddjobs |
 | Cleft | Tom | 58 | STRginner | Flow |
-| Copo | Marcelo | 57 | permapirate | Oddjobs |
 | Wout | Wout | 57 | islander | Southperry |
 | MapleStarter | Dvd | 57 | islander | Southperry |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
+| hashishi | deer | 54 | besinner | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
 | MapIeIsIand | ? | 54 | islander | \[none\]\* |
-| hashishi | deer | 53 | besinner | Oddjobs |
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
