@@ -24,7 +24,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | Wout | 135 | STRginner | Flow |
-| LawdHeComin | JunkyardBat | 134 | F/P archgish | Oddjobs |
+| LawdHeComin | JunkyardBat | 135 | F/P archgish | Oddjobs |
 | rusa | deer | 133 | darksterity knight | Oddjobs |
 | capreolina | deer | 127 | woodsmaster | Oddjobs |
 | cervid | deer | 126 | STR bishop | Oddjobs |
@@ -103,10 +103,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
+| Suzuran | Calendula | 48 | blood dit | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology\* |
 | Peep | ? | 47 | islander | \[none\]\* |
-| Suzuran | Calendula | 47 | blood dit | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
