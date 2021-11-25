@@ -25,12 +25,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | Otios | Wout | 135 | STRginner | Flow |
 | LawdHeComin | JunkyardBat | 135 | F/P archgish | Oddjobs |
-| rusa | deer | 133 | darksterity knight | Oddjobs |
+| rusa | deer | 134 | darksterity knight | Oddjobs |
 | capreolina | deer | 127 | woodsmaster | Oddjobs |
 | cervid | deer | 126 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
+| cervine | deer | 113 | I/L magelet | Oddjobs |
 | Permanovice | Red | 113 | STRginner | GangGang\* |
-| cervine | deer | 112 | I/L magelet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
 | Taima | Kelsey | 107 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
