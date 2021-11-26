@@ -50,7 +50,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 84 | STRginner | Flow |
 | Newbton | Jonte | 84 | islander | Southperry |
-| Daddyo | Hunter | 82 | STRginner | GangGang\* |
+| Daddyo | Hunter | 83 | STRginner | GangGang\* |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | d34r | deer | 76 | dagger spearwoman (vicloc) | Victoria |
 | Rort | Lin | 75 | STRginner | Flow |
@@ -100,10 +100,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | KoKoSnuggles | Snuggles | 49 | islander | Southperry |
+| Suzuran | Calendula | 49 | blood dit | Oddjobs |
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
-| Suzuran | Calendula | 48 | blood dit | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology\* |
 | Peep | ? | 47 | islander | \[none\]\* |
