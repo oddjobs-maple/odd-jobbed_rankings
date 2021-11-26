@@ -23,9 +23,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
+| rusa | deer | 135 | darksterity knight | Oddjobs |
 | Otios | Wout | 135 | STRginner | Flow |
 | LawdHeComin | JunkyardBat | 135 | F/P archgish | Oddjobs |
-| rusa | deer | 134 | darksterity knight | Oddjobs |
 | capreolina | deer | 127 | woodsmaster | Oddjobs |
 | cervid | deer | 126 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
