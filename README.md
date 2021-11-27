@@ -97,10 +97,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Zrar | ? | 50 | islander | Southperry |
 | Camomile | ? | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
+| Suzuran | Calendula | 50 | blood dit | Oddjobs |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | KoKoSnuggles | Snuggles | 49 | islander | Southperry |
-| Suzuran | Calendula | 49 | blood dit | Oddjobs |
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
