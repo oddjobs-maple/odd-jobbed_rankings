@@ -87,12 +87,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | mase | mase | 52 | islander | Southperry |
 | 1sme | Zin | 52 | islander | Southperry |
+| attackattack | mae | 51 | DEX page | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
 | Sommer | Marcelo | 50 | punchbuckler | Oddjobs |
-| attackattack | mae | 50 | DEX page | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry |
 | Zrar | ? | 50 | islander | Southperry |
 | Camomile | ? | 50 | islander | \[none\]\* |
