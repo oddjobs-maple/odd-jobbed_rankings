@@ -71,7 +71,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry |
-| Copo | Marcelo | 58 | permapirate | Oddjobs |
+| Copo | Marcelo | 59 | permapirate | Oddjobs |
 | Cleft | Tom | 58 | STRginner | Flow |
 | Wout | Wout | 57 | islander | Southperry |
 | MapleStarter | Dvd | 57 | islander | Southperry |
@@ -85,9 +85,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
+| attackattack | mae | 52 | DEX page | Oddjobs |
 | mase | mase | 52 | islander | Southperry |
 | 1sme | Zin | 52 | islander | Southperry |
-| attackattack | mae | 51 | DEX page | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
