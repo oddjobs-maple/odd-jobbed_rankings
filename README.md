@@ -26,8 +26,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rusa | deer | 135 | darksterity knight | Oddjobs |
 | Otios | Wout | 135 | STRginner | Flow |
 | LawdHeComin | JunkyardBat | 135 | F/P archgish | Oddjobs |
+| cervid | deer | 127 | STR bishop | Oddjobs |
 | capreolina | deer | 127 | woodsmaster | Oddjobs |
-| cervid | deer | 126 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | cervine | deer | 113 | I/L magelet | Oddjobs |
 | Permanovice | Red | 113 | STRginner | GangGang\* |
@@ -37,10 +37,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
+| hydropotina | deer | 92 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | xX17Xx | mae | 92 | permarogue | Oddjobs |
 | alces | deer | 92 | daggermit | Oddjobs |
-| hydropotina | deer | 91 | swashbuckler | Oddjobs |
 | Cortical | cort | 91 | STRginner | Flow |
 | Keppet | Rapskal | 90 | daggermit | Oddjobs |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
@@ -68,10 +68,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
+| Copo | Marcelo | 60 | permapirate | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry |
-| Copo | Marcelo | 59 | permapirate | Oddjobs |
 | Cleft | Tom | 58 | STRginner | Flow |
 | Wout | Wout | 57 | islander | Southperry |
 | MapleStarter | Dvd | 57 | islander | Southperry |
@@ -127,9 +127,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | c7gs | ? | 41 | islander | Southperry |
 | Zugar | ? | 41 | islander | Newbology\* |
+| yotta | ? | 41 | islander | \[none\]\* |
 | Neveroffland | ? | 40 | islander | \[none\]\* |
 | Mesa | ? | 40 | islander | Southperry |
-| yotta | ? | 40 | islander | \[none\]\* |
 | DumbIsland | Leo | 40 | islander | Southperry |
 | Kokoro | ? | 40 | islander | \[none\]\* |
 | BirdMandala | ? | 40 | islander | Southperry |
