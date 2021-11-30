@@ -112,7 +112,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Femdom | ? | 46 | islander | Newbology\* |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
-| Kimberly | ? | 45 | islander | Flow |
+| Kimberly | Jonathan | 45 | islander | Flow |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
