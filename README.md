@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 135 | darksterity knight | Oddjobs |
+| rusa | deer | 136 | darksterity knight | Oddjobs |
 | Otios | Wout | 135 | STRginner | Flow |
 | LawdHeComin | JunkyardBat | 135 | F/P archgish | Oddjobs |
 | cervid | deer | 127 | STR bishop | Oddjobs |
@@ -42,7 +42,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | xX17Xx | mae | 92 | permarogue | Oddjobs |
 | alces | deer | 92 | daggermit | Oddjobs |
 | Cortical | cort | 91 | STRginner | Flow |
-| Keppet | Rapskal | 90 | daggermit | Oddjobs |
+| Keppet | Rapskal | 91 | daggermit | Oddjobs |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
@@ -61,7 +61,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry |
 | Ever | Bella | 70 | islander | Team\* |
-| Furbs | Sword Furb | 68 | STRginner | WindowsXP\* |
+| Furbs | Sword Furb | 69 | STRginner | WindowsXP\* |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | Christopher | Chris | 64 | islander | Southperry |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
