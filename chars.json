@@ -125,7 +125,6 @@
       "job": "STRginner",
       "guild": "GangGang"
     },
-    { "ign": "Otios", "name": "Wout", "job": "STRginner", "guild": "Flow" },
     {
       "ign": "ducklings",
       "name": "Joyce",
@@ -224,7 +223,7 @@
       "ign": "sorts",
       "name": "deer",
       "job": "DEX brawler (LPQ mule)",
-      "guild": "Pals"
+      "guild": "Oddjobs"
     },
     {
       "ign": "Medulla",
@@ -712,6 +711,7 @@
       "name": "Tom",
       "job": "STRginner",
       "guild": "Flow"
-    }
+    },
+    { "ign": "Otios", "name": "Wout", "job": "STRginner", "guild": "Flow" }
   ]
 }

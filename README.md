@@ -24,8 +24,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | rusa | deer | 136 | darksterity knight | Oddjobs |
+| LawdHeComin | JunkyardBat | 136 | F/P archgish | Oddjobs |
 | Otios | Wout | 135 | STRginner | Flow |
-| LawdHeComin | JunkyardBat | 135 | F/P archgish | Oddjobs |
 | cervid | deer | 127 | STR bishop | Oddjobs |
 | capreolina | deer | 127 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
@@ -91,7 +91,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
-| sorts | deer | 50 | DEX brawler (LPQ mule) | Pals\* |
+| sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | Sommer | Marcelo | 50 | punchbuckler | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry |
 | Zrar | ? | 50 | islander | Southperry |
