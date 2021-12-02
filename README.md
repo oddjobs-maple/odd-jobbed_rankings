@@ -90,6 +90,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | 1sme | Zin | 52 | islander | Southperry |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
+| Suzuran | Calendula | 51 | blood dit | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | Sommer | Marcelo | 50 | punchbuckler | Oddjobs |
@@ -97,7 +98,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Zrar | ? | 50 | islander | Southperry |
 | Camomile | ? | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
-| Suzuran | Calendula | 50 | blood dit | Oddjobs |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | KoKoSnuggles | Snuggles | 49 | islander | Southperry |
