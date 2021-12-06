@@ -23,8 +23,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
+| LawdHeComin | JunkyardBat | 137 | F/P archgish | Oddjobs |
 | rusa | deer | 136 | darksterity knight | Oddjobs |
-| LawdHeComin | JunkyardBat | 136 | F/P archgish | Oddjobs |
 | Otios | Wout | 135 | STRginner | Flow |
 | cervid | deer | 127 | STR bishop | Oddjobs |
 | capreolina | deer | 127 | woodsmaster | Oddjobs |
@@ -37,12 +37,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
+| Keppet | Rapskal | 94 | daggermit | Oddjobs |
 | hydropotina | deer | 92 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | xX17Xx | mae | 92 | permarogue | Oddjobs |
 | alces | deer | 92 | daggermit | Oddjobs |
 | Cortical | cort | 91 | STRginner | Flow |
-| Keppet | Rapskal | 91 | daggermit | Oddjobs |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
@@ -55,10 +55,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | d34r | deer | 76 | dagger spearwoman (vicloc) | Victoria |
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
+| Hanyou | Kelsey | 74 | DEX WK | Oddjobs |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | jung1e | Justin | 73 | islander | Newbology\* |
 | drainer | mae | 72 | STRginner | Flow |
-| Hanyou | Kelsey | 72 | DEX WK | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry |
 | Ever | Bella | 70 | islander | Team\* |
 | Furbs | Sword Furb | 69 | STRginner | WindowsXP\* |
@@ -110,9 +110,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
+| Kimberly | Jonathan | 46 | islander | Flow |
 | HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
-| Kimberly | Jonathan | 45 | islander | Flow |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
