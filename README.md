@@ -37,7 +37,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
-| Keppet | Rapskal | 94 | daggermit | Oddjobs |
+| Keppet | Rapskal | 95 | daggermit | Oddjobs |
 | hydropotina | deer | 92 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | xX17Xx | mae | 92 | permarogue | Oddjobs |
@@ -63,10 +63,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ever | Bella | 70 | islander | Team\* |
 | Furbs | Sword Furb | 69 | STRginner | WindowsXP\* |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
+| Copo | Marcelo | 64 | permapirate | Oddjobs |
 | Christopher | Chris | 64 | islander | Southperry |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
-| Copo | Marcelo | 62 | permapirate | Oddjobs |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
@@ -77,12 +77,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MapleStarter | Dvd | 57 | islander | Southperry |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
+| HPdit | RyeBread | 55 | blood bandit | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
 | MapIeIsIand | ? | 54 | islander | \[none\]\* |
-| HPdit | RyeBread | 53 | blood bandit | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | attackattack | mae | 52 | DEX page | Oddjobs |
@@ -136,6 +136,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | tbook | ? | 40 | islander | \[none\]\* |
 | iamDanix | ? | 40 | islander | Southperry |
 | Subcortical | cort | 40 | islander | Southperry |
+| ozotoceros | deer | 40 | DEX/LUK hybridlander | Oddjobs |
 | GoGoSnuggles | Snuggles | 22 | camper | \[none\]\* |
 | Itati | ? | 19 | camper | \[none\]\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
