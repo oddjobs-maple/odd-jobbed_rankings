@@ -62,5 +62,5 @@ for i in range(len(chars)):
             )
     elif chars[i]["guild"] != guild_name:
         print(
-            f"Guild name mismatch for IGN {ign}: chars.json says {chars[i]['guild']}, ML rankings say {guild_name}"
+            f"Guild name mismatch for IGN {ign}: chars.json says {chars[i]['guild'] if chars[i]['guild'] is not None else 'that they are guildless'}, ML rankings say {guild_name}"
         )

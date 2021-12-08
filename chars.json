@@ -198,7 +198,7 @@
       "ign": "HPdit",
       "name": "RyeBread",
       "job": "blood bandit",
-      "guild": "Oddjobs"
+      "guild": "Noir"
     },
     {
       "ign": "justbegin",
@@ -296,7 +296,7 @@
       "ign": "GoGoSnuggles",
       "name": "Snuggles",
       "job": "camper",
-      "guild": null
+      "guild": "Flow"
     },
     {
       "ign": "Itati",
@@ -717,6 +717,12 @@
       "name": "deer",
       "job": "DEX/LUK hybridlander",
       "guild": "Oddjobs"
+    },
+    {
+      "ign": "Painal",
+      "name": "Blenn",
+      "job": "permapirate",
+      "guild": null
     },
     { "ign": "Otios", "name": "Wout", "job": "STRginner", "guild": "Flow" }
   ]

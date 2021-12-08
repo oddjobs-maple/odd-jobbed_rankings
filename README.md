@@ -77,7 +77,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MapleStarter | Dvd | 57 | islander | Southperry |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| HPdit | RyeBread | 55 | blood bandit | Oddjobs |
+| HPdit | RyeBread | 55 | blood bandit | Noir\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
@@ -91,6 +91,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Suzuran | Calendula | 51 | blood dit | Oddjobs |
+| Painal | Blenn | 51 | permapirate | \[none\]\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | Sommer | Marcelo | 50 | punchbuckler | Oddjobs |
@@ -137,7 +138,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | iamDanix | ? | 40 | islander | Southperry |
 | Subcortical | cort | 40 | islander | Southperry |
 | ozotoceros | deer | 40 | DEX/LUK hybridlander | Oddjobs |
-| GoGoSnuggles | Snuggles | 22 | camper | \[none\]\* |
+| GoGoSnuggles | Snuggles | 22 | camper | Flow |
 | Itati | ? | 19 | camper | \[none\]\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
 | L0neWolf1600 | LoneWolf1600 | 16 | camper | Campers\* |
