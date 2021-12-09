@@ -38,10 +38,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
 | Keppet | Rapskal | 95 | daggermit | Oddjobs |
+| alces | deer | 93 | daggermit | Oddjobs |
 | hydropotina | deer | 92 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | xX17Xx | mae | 92 | permarogue | Oddjobs |
-| alces | deer | 92 | daggermit | Oddjobs |
 | Cortical | cort | 91 | STRginner | Flow |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
@@ -112,7 +112,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | Kimberly | Jonathan | 46 | islander | Flow |
-| HPdagger | Charles | 45 | blood dagger fighter | Oddjobs |
+| HPdagger | Charles | 45 | dagger fighter | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
