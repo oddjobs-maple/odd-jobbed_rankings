@@ -48,14 +48,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
-| Ismezin | Zin | 84 | STRginner | Flow |
+| Ismezin | Zin | 85 | STRginner | Flow |
+| Daddyo | Hunter | 84 | STRginner | GangGang\* |
 | Newbton | Jonte | 84 | islander | Southperry |
-| Daddyo | Hunter | 83 | STRginner | GangGang\* |
 | d34r | deer | 77 | dagger spearwoman (vicloc) | Victoria |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
+| Hanyou | Kelsey | 76 | DEX WK | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
-| Hanyou | Kelsey | 74 | DEX WK | Oddjobs |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | jung1e | Justin | 73 | islander | Newbology\* |
 | drainer | mae | 72 | STRginner | Flow |
