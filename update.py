@@ -30,7 +30,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 """
 
-SUBOPTIMAL = {"Flow", "Oddjobs", "Southperry", "Victoria"}
+SUBOPTIMAL = {"Flow", "Oddjobs", "Southperry", "Victoria", "Newbology"}
 
 SPECIAL_MARKDOWN_RE = re.compile(r"_|\*|\[|\]|<|>|#")
 

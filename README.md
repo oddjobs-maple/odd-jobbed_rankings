@@ -29,16 +29,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervid | deer | 127 | STR bishop | Oddjobs |
 | capreolina | deer | 127 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
+| Permanovice | Red | 114 | STRginner | GangGang\* |
 | cervine | deer | 113 | I/L magelet | Oddjobs |
-| Permanovice | Red | 113 | STRginner | GangGang\* |
 | LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
 | Taima | Kelsey | 107 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
-| Keppet | Rapskal | 95 | daggermit | Oddjobs |
-| alces | deer | 93 | daggermit | Oddjobs |
+| Keppet | Rapskal | 96 | daggermit | Oddjobs |
+| alces | deer | 94 | daggermit | Oddjobs |
 | hydropotina | deer | 92 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | xX17Xx | mae | 92 | permarogue | Oddjobs |
@@ -57,7 +57,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 73 | STRginner | Flow |
-| jung1e | Justin | 73 | islander | Newbology\* |
+| jung1e | Justin | 73 | islander | Newbology |
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
 | Ever | Bella | 70 | islander | Team\* |
@@ -106,12 +106,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| Luckiestboy | Dvd | 47 | LUKlander | Newbology\* |
+| Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
-| Femdom | ? | 46 | islander | Newbology\* |
+| Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
+| tb303 | cecilia | 46 | gish cleric | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Cassandro | Marcelo | 45 | claw clericlet | Oddjobs |
@@ -124,12 +125,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
 | Cottage | ? | 42 | islander | Southperry |
-| Snapples | Kristina | 42 | islander | Newbology\* |
+| Snapples | Kristina | 42 | islander | Newbology |
 | Babbi | Alvin | 41 | islander | Southperry |
 | Woogie | ? | 41 | islander | Southperry |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | c7gs | ? | 41 | islander | Southperry |
-| Zugar | ? | 41 | islander | Newbology\* |
+| Zugar | ? | 41 | islander | Newbology |
 | yotta | ? | 41 | islander | \[none\]\* |
 | Neveroffland | ? | 40 | islander | \[none\]\* |
 | Mesa | ? | 40 | islander | Southperry |
