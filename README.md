@@ -23,8 +23,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
+| rusa | deer | 137 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 137 | F/P archgish | Oddjobs |
-| rusa | deer | 136 | darksterity knight | Oddjobs |
 | Otios | Wout | 135 | STRginner | Flow |
 | cervid | deer | 127 | STR bishop | Oddjobs |
 | capreolina | deer | 127 | woodsmaster | Oddjobs |
@@ -114,6 +114,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Kimberly | Jonathan | 46 | islander | Flow |
 | HPdagger | Charles | 45 | dagger fighter | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
+| Cassandro | Marcelo | 45 | claw clericlet | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
