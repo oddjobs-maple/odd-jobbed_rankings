@@ -112,11 +112,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
+| Nyanners | Kelsey | 46 | permawarrior (steelwoman) | Oddjobs |
 | tb303 | cecilia | 46 | gish cleric | Oddjobs |
 | HPdagger | Charles | 45 | dagger fighter | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Cassandro | Marcelo | 45 | claw clericlet | Oddjobs |
-| Nyanners | Kelsey | 45 | permawarrior (steelwoman) | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
