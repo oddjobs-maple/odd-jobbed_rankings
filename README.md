@@ -77,7 +77,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MapleStarter | Dvd | 57 | islander | Southperry |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| HPdit | RyeBread | 55 | blood bandit | Noir\* |
+| HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
@@ -88,7 +88,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | attackattack | mae | 52 | DEX page | Oddjobs |
 | mase | mase | 52 | islander | Southperry |
 | 1sme | Zin | 52 | islander | Southperry |
-| Suzuran | Calendula | 52 | blood dit | Oddjobs |
+| Suzuran | Calendula | 52 | blood bandit | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
