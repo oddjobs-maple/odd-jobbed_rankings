@@ -742,6 +742,12 @@
       "job": "gish cleric",
       "guild": "Oddjobs"
     },
+    {
+      "ign": "Dexual",
+      "name": "Hunter",
+      "job": "islander",
+      "guild": "Southperry"
+    },
     { "ign": "Otios", "name": "Wout", "job": "STRginner", "guild": "Flow" }
   ]
 }

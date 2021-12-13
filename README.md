@@ -36,8 +36,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 101 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
+| Keppet | Rapskal | 97 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
-| Keppet | Rapskal | 96 | daggermit | Oddjobs |
 | alces | deer | 94 | daggermit | Oddjobs |
 | hydropotina | deer | 92 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
@@ -88,9 +88,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | attackattack | mae | 52 | DEX page | Oddjobs |
 | mase | mase | 52 | islander | Southperry |
 | 1sme | Zin | 52 | islander | Southperry |
+| Suzuran | Calendula | 52 | blood dit | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
-| Suzuran | Calendula | 51 | blood dit | Oddjobs |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
@@ -99,24 +99,24 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Zrar | ? | 50 | islander | Southperry |
 | Camomile | ? | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
+| KoKoSnuggles | Snuggles | 50 | islander | Southperry |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
-| KoKoSnuggles | Snuggles | 49 | islander | Southperry |
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
+| Nyanners | Kelsey | 48 | permawarrior (steelwoman) | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
+| HPdagger | Charles | 46 | dagger fighter | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
-| Nyanners | Kelsey | 46 | permawarrior (steelwoman) | Oddjobs |
+| Cassandro | Marcelo | 46 | claw clericlet | Oddjobs |
 | tb303 | cecilia | 46 | gish cleric | Oddjobs |
-| HPdagger | Charles | 45 | dagger fighter | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
-| Cassandro | Marcelo | 45 | claw clericlet | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
@@ -141,6 +141,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | iamDanix | ? | 40 | islander | Southperry |
 | Subcortical | cort | 40 | islander | Southperry |
 | ozotoceros | deer | 40 | DEX/LUK hybridlander | Oddjobs |
+| Dexual | Hunter | 40 | islander | Southperry |
 | GoGoSnuggles | Snuggles | 22 | camper | Flow |
 | Itati | ? | 19 | camper | \[none\]\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
