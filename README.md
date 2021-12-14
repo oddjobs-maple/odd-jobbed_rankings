@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 137 | darksterity knight | Oddjobs |
+| rusa | deer | 138 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 137 | F/P archgish | Oddjobs |
 | Otios | Wout | 135 | STRginner | Flow |
 | cervid | deer | 127 | STR bishop | Oddjobs |
@@ -102,19 +102,19 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
+| Nyanners | Kelsey | 49 | permawarrior (steelwoman) | Oddjobs |
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
-| Nyanners | Kelsey | 48 | permawarrior (steelwoman) | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
+| Cassandro | Marcelo | 47 | claw clericlet | Oddjobs |
 | HPdagger | Charles | 46 | dagger fighter | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
-| Cassandro | Marcelo | 46 | claw clericlet | Oddjobs |
 | tb303 | cecilia | 46 | gish cleric | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Steam | ? | 44 | islander | Dokdo\* |
@@ -142,7 +142,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Subcortical | cort | 40 | islander | Southperry |
 | ozotoceros | deer | 40 | DEX/LUK hybridlander | Oddjobs |
 | Dexual | Hunter | 40 | islander | Southperry |
-| GoGoSnuggles | Snuggles | 22 | camper | Flow |
+| GoGoSnuggles | Snuggles | 23 | camper | Flow |
 | Itati | ? | 19 | camper | \[none\]\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
 | L0neWolf1600 | LoneWolf1600 | 16 | camper | Campers\* |
