@@ -34,7 +34,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
 | Taima | Kelsey | 107 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
-| OmokTeacher | Noam | 101 | STRginner | Flow |
+| OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Keppet | Rapskal | 97 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
@@ -51,9 +51,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Daddyo | Hunter | 84 | STRginner | GangGang\* |
 | Newbton | Jonte | 84 | islander | Southperry |
+| Hanyou | Kelsey | 79 | DEX WK | Oddjobs |
 | d34r | deer | 77 | dagger spearwoman (vicloc) | Victoria |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
-| Hanyou | Kelsey | 76 | DEX WK | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 73 | STRginner | Flow |
@@ -84,11 +84,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | NoJobNoRules | Jared | 54 | islander | Southperry |
 | MapIeIsIand | ? | 54 | islander | \[none\]\* |
 | Timberly | ? | 53 | islander | Southperry |
+| Suzuran | Calendula | 53 | blood bandit | Oddjobs |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | attackattack | mae | 52 | DEX page | Oddjobs |
 | mase | mase | 52 | islander | Southperry |
 | 1sme | Zin | 52 | islander | Southperry |
-| Suzuran | Calendula | 52 | blood bandit | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
@@ -106,11 +106,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
+| Cassandro | Marcelo | 48 | claw clericlet | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
+| HPdagger | Charles | 47 | dagger fighter | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
-| Cassandro | Marcelo | 47 | claw clericlet | Oddjobs |
-| HPdagger | Charles | 46 | dagger fighter | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
@@ -148,9 +148,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | L0neWolf1600 | LoneWolf1600 | 16 | camper | Campers\* |
 | WarmApplePie | Snuggles | 15 | camper | \[none\]\* |
 | DuckyWucky | ? | 15 | camper | \[none\]\* |
+| BloodyTaco | ? | 15 | camper | \[none\]\* |
 | Hobbits | ? | 14 | camper | \[none\]\* |
 | Hyewon | ? | 14 | camper | \[none\]\* |
-| BloodyTaco | ? | 14 | camper | \[none\]\* |
 | NewCharacter | cort | 13 | camper | \[none\]\* |
 | Kept | ? | 11 | camper | Campers\* |
 | TrainingCamp | ? | 11 | camper | Campers\* |
