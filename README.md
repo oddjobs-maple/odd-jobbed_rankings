@@ -94,7 +94,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
-| Sommer | Marcelo | 50 | punchbuckler | Oddjobs |
+| Sommer | Marcelo | 50 | swashbuckler | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry |
 | Zrar | ? | 50 | islander | Southperry |
 | Camomile | ? | 50 | islander | \[none\]\* |
@@ -102,11 +102,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
+| Cassandro | Marcelo | 49 | claw clericlet | Oddjobs |
 | Nyanners | Kelsey | 49 | permawarrior (steelwoman) | Oddjobs |
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
-| Cassandro | Marcelo | 48 | claw clericlet | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | HPdagger | Charles | 47 | dagger fighter | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
