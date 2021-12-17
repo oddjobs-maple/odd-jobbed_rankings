@@ -83,8 +83,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
 | MapIeIsIand | ? | 54 | islander | \[none\]\* |
+| Suzuran | Calendula | 54 | blood bandit | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
-| Suzuran | Calendula | 53 | blood bandit | Oddjobs |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | attackattack | mae | 52 | DEX page | Oddjobs |
 | mase | mase | 52 | islander | Southperry |
@@ -100,9 +100,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Camomile | ? | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
+| Cassandro | Marcelo | 50 | claw clericlet | Oddjobs |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
-| Cassandro | Marcelo | 49 | claw clericlet | Oddjobs |
 | Nyanners | Kelsey | 49 | permawarrior (steelwoman) | Oddjobs |
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
