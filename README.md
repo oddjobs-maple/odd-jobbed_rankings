@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 138 | darksterity knight | Oddjobs |
+| rusa | deer | 139 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 138 | F/P archgish | Oddjobs |
 | Otios | Wout | 135 | STRginner | Flow |
 | cervid | deer | 127 | STR bishop | Oddjobs |
@@ -104,11 +104,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | Nyanners | Kelsey | 49 | permawarrior (steelwoman) | Oddjobs |
+| HPdagger | Charles | 48 | dagger fighter | Oddjobs |
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| HPdagger | Charles | 47 | dagger fighter | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
