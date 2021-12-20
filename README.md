@@ -89,10 +89,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | attackattack | mae | 52 | DEX page | Oddjobs |
 | mase | mase | 52 | islander | Southperry |
 | 1sme | Zin | 52 | islander | Southperry |
+| Cassandro | Marcelo | 52 | claw clericlet | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
-| Cassandro | Marcelo | 51 | claw clericlet | Oddjobs |
+| Nyanners | Kelsey | 51 | permawarrior (steelwoman) | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | Sommer | Marcelo | 50 | swashbuckler | Oddjobs |
@@ -104,14 +105,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | HPdagger | Charles | 49 | dagger fighter | Oddjobs |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
-| Nyanners | Kelsey | 49 | permawarrior (steelwoman) | Oddjobs |
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
+| tb303 | cecilia | 48 | gish cleric | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
-| tb303 | cecilia | 47 | gish cleric | Oddjobs |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
