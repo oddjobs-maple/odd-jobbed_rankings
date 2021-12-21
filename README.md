@@ -62,8 +62,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Zheedie | David | 71 | islander | Southperry |
 | Ever | Bella | 70 | islander | Team\* |
 | Furbs | Sword Furb | 69 | STRginner | WindowsXP\* |
+| Copo | Marcelo | 65 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
-| Copo | Marcelo | 64 | permapirate | Oddjobs |
 | Christopher | Chris | 64 | islander | Southperry |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
@@ -102,13 +102,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Camomile | ? | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
+| tb303 | cecilia | 50 | gish cleric | Oddjobs |
 | HPdagger | Charles | 49 | dagger fighter | Oddjobs |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
-| tb303 | cecilia | 48 | gish cleric | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
