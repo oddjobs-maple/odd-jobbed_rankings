@@ -29,16 +29,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervid | deer | 127 | STR bishop | Oddjobs |
 | capreolina | deer | 127 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
+| Permanovice | Red | 115 | STRginner | GangGang\* |
 | cervine | deer | 114 | I/L magelet | Oddjobs |
-| Permanovice | Red | 114 | STRginner | GangGang\* |
 | LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
-| Taima | Kelsey | 108 | STRginner | Oddjobs |
+| Taima | Kelsey | 109 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Keppet | Rapskal | 98 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
-| alces | deer | 94 | daggermit | Oddjobs |
+| alces | deer | 96 | daggermit | Oddjobs |
 | hydropotina | deer | 92 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | xX17Xx | mae | 92 | permarogue | Oddjobs |
@@ -84,12 +84,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
 | MapIeIsIand | ? | 54 | islander | \[none\]\* |
+| Cassandro | Marcelo | 54 | claw clericlet | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | attackattack | mae | 52 | DEX page | Oddjobs |
 | mase | mase | 52 | islander | Southperry |
 | 1sme | Zin | 52 | islander | Southperry |
-| Cassandro | Marcelo | 52 | claw clericlet | Oddjobs |
+| tb303 | cecilia | 52 | gish cleric | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
@@ -102,7 +103,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Camomile | ? | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
-| tb303 | cecilia | 50 | gish cleric | Oddjobs |
 | HPdagger | Charles | 49 | dagger fighter | Oddjobs |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
