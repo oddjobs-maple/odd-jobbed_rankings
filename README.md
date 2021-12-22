@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| LawdHeComin | JunkyardBat | 140 | F/P archgish | Oddjobs |
+| LawdHeComin | JunkyardBat | 141 | F/P archgish | Oddjobs |
 | rusa | deer | 139 | darksterity knight | Oddjobs |
 | Otios | Wout | 135 | STRginner | Flow |
 | cervid | deer | 127 | STR bishop | Oddjobs |
@@ -37,8 +37,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Keppet | Rapskal | 98 | daggermit | Oddjobs |
+| alces | deer | 97 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
-| alces | deer | 96 | daggermit | Oddjobs |
 | hydropotina | deer | 92 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | xX17Xx | mae | 92 | permarogue | Oddjobs |
@@ -80,6 +80,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
+| tb303 | cecilia | 55 | clerish | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
@@ -90,7 +91,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | attackattack | mae | 52 | DEX page | Oddjobs |
 | mase | mase | 52 | islander | Southperry |
 | 1sme | Zin | 52 | islander | Southperry |
-| tb303 | cecilia | 52 | gish cleric | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
@@ -132,6 +132,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | c7gs | ? | 41 | islander | Southperry |
 | Zugar | ? | 41 | islander | Newbology |
 | yotta | ? | 41 | islander | \[none\]\* |
+| Dexual | Hunter | 41 | islander | Southperry |
 | Neveroffland | ? | 40 | islander | \[none\]\* |
 | Mesa | ? | 40 | islander | Southperry |
 | DumbIsland | Leo | 40 | islander | Southperry |
@@ -141,14 +142,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | iamDanix | ? | 40 | islander | Southperry |
 | Subcortical | cort | 40 | islander | Southperry |
 | ozotoceros | deer | 40 | DEX/LUK hybridlander | Oddjobs |
-| Dexual | Hunter | 40 | islander | Southperry |
 | GoGoSnuggles | Snuggles | 23 | camper | Flow |
 | Itati | ? | 19 | camper | \[none\]\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
 | L0neWolf1600 | LoneWolf1600 | 16 | camper | Campers\* |
+| BloodyTaco | ? | 16 | camper | \[none\]\* |
 | WarmApplePie | Snuggles | 15 | camper | \[none\]\* |
 | DuckyWucky | ? | 15 | camper | \[none\]\* |
-| BloodyTaco | ? | 15 | camper | \[none\]\* |
 | Hobbits | ? | 14 | camper | \[none\]\* |
 | Hyewon | ? | 14 | camper | \[none\]\* |
 | NewCharacter | cort | 13 | camper | \[none\]\* |
