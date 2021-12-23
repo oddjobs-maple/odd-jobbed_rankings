@@ -32,16 +32,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Permanovice | Red | 115 | STRginner | GangGang\* |
 | cervine | deer | 114 | I/L magelet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
-| Taima | Kelsey | 109 | STRginner | Oddjobs |
+| Taima | Kelsey | 110 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
+| alces | deer | 98 | daggermit | Oddjobs |
 | Keppet | Rapskal | 98 | daggermit | Oddjobs |
-| alces | deer | 97 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
+| xX17Xx | mae | 93 | permarogue | Oddjobs |
 | hydropotina | deer | 92 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
-| xX17Xx | mae | 92 | permarogue | Oddjobs |
 | Cortical | cort | 91 | STRginner | Flow |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
@@ -73,15 +73,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
+| tb303 | cecilia | 58 | clerish | Oddjobs |
 | Wout | Wout | 57 | islander | Southperry |
 | MapleStarter | Dvd | 57 | islander | Southperry |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
-| tb303 | cecilia | 56 | clerish | Oddjobs |
+| Cassandro | Marcelo | 56 | claw clericlet | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
-| Cassandro | Marcelo | 55 | claw clericlet | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
