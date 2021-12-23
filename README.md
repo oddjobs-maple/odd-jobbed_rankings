@@ -76,16 +76,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Wout | Wout | 57 | islander | Southperry |
 | MapleStarter | Dvd | 57 | islander | Southperry |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
+| tb303 | cecilia | 56 | clerish | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
-| tb303 | cecilia | 55 | clerish | Oddjobs |
+| Cassandro | Marcelo | 55 | claw clericlet | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
 | MapIeIsIand | ? | 54 | islander | \[none\]\* |
-| Cassandro | Marcelo | 54 | claw clericlet | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | attackattack | mae | 52 | DEX page | Oddjobs |
@@ -95,6 +95,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
 | Nyanners | Kelsey | 51 | permawarrior (steelwoman) | Oddjobs |
+| HPdagger | Charles | 50 | dagger fighter | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | Sommer | Marcelo | 50 | swashbuckler | Oddjobs |
@@ -103,7 +104,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Camomile | ? | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
-| HPdagger | Charles | 49 | dagger fighter | Oddjobs |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
