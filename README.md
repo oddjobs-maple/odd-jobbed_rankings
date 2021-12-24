@@ -24,12 +24,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | LawdHeComin | JunkyardBat | 141 | F/P archgish | Oddjobs |
-| rusa | deer | 139 | darksterity knight | Oddjobs |
+| rusa | deer | 140 | darksterity knight | Oddjobs |
 | Otios | Wout | 135 | STRginner | Flow |
 | cervid | deer | 127 | STR bishop | Oddjobs |
 | capreolina | deer | 127 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
-| Permanovice | Red | 115 | STRginner | GangGang\* |
+| Permanovice | Red | 116 | STRginner | GangGang\* |
 | cervine | deer | 114 | I/L magelet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
 | Taima | Kelsey | 110 | STRginner | Oddjobs |
@@ -91,11 +91,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | attackattack | mae | 52 | DEX page | Oddjobs |
 | mase | mase | 52 | islander | Southperry |
 | 1sme | Zin | 52 | islander | Southperry |
+| HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
 | Nyanners | Kelsey | 51 | permawarrior (steelwoman) | Oddjobs |
-| HPdagger | Charles | 50 | dagger fighter | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | Sommer | Marcelo | 50 | swashbuckler | Oddjobs |
