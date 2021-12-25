@@ -29,7 +29,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervid | deer | 127 | STR bishop | Oddjobs |
 | capreolina | deer | 127 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
-| Permanovice | Red | 116 | STRginner | GangGang\* |
+| Permanovice | Red | 117 | STRginner | GangGang\* |
 | cervine | deer | 114 | I/L magelet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
 | Taima | Kelsey | 110 | STRginner | Oddjobs |
@@ -69,11 +69,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
+| tb303 | cecilia | 62 | clerish | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
-| tb303 | cecilia | 58 | clerish | Oddjobs |
 | Wout | Wout | 57 | islander | Southperry |
 | MapleStarter | Dvd | 57 | islander | Southperry |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
