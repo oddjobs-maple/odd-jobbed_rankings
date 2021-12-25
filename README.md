@@ -23,8 +23,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| LawdHeComin | JunkyardBat | 141 | F/P archgish | Oddjobs |
-| rusa | deer | 140 | darksterity knight | Oddjobs |
+| LawdHeComin | JunkyardBat | 142 | F/P archgish | Oddjobs |
+| rusa | deer | 141 | darksterity knight | Oddjobs |
 | Otios | Wout | 135 | STRginner | Flow |
 | cervid | deer | 127 | STR bishop | Oddjobs |
 | capreolina | deer | 127 | woodsmaster | Oddjobs |
@@ -65,11 +65,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Copo | Marcelo | 65 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | Christopher | Chris | 64 | islander | Southperry |
+| tb303 | cecilia | 64 | clerish | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
-| tb303 | cecilia | 62 | clerish | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry |
@@ -126,13 +126,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Land | ? | 43 | islander | Amherst\* |
 | Cottage | ? | 42 | islander | Southperry |
 | Snapples | Kristina | 42 | islander | Newbology |
+| Dexual | Hunter | 42 | islander | Southperry |
 | Babbi | Alvin | 41 | islander | Southperry |
 | Woogie | ? | 41 | islander | Southperry |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | c7gs | ? | 41 | islander | Southperry |
 | Zugar | ? | 41 | islander | Newbology |
 | yotta | ? | 41 | islander | \[none\]\* |
-| Dexual | Hunter | 41 | islander | Southperry |
 | Neveroffland | ? | 40 | islander | \[none\]\* |
 | Mesa | ? | 40 | islander | Southperry |
 | DumbIsland | Leo | 40 | islander | Southperry |
