@@ -65,7 +65,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Copo | Marcelo | 65 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | Christopher | Chris | 65 | islander | Southperry |
-| tb303 | cecilia | 64 | clerish | Oddjobs |
+| tb303 | cecilia | 65 | clerish | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
