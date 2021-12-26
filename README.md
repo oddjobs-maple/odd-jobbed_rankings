@@ -36,7 +36,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
-| alces | deer | 98 | daggermit | Oddjobs |
+| alces | deer | 99 | daggermit | Oddjobs |
 | Keppet | Rapskal | 98 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
 | xX17Xx | mae | 93 | permarogue | Oddjobs |
@@ -64,7 +64,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Furbs | Sword Furb | 69 | STRginner | WindowsXP\* |
 | Copo | Marcelo | 65 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
-| Christopher | Chris | 64 | islander | Southperry |
+| Christopher | Chris | 65 | islander | Southperry |
 | tb303 | cecilia | 64 | clerish | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
@@ -76,8 +76,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cleft | Tom | 58 | STRginner | Flow |
 | Wout | Wout | 57 | islander | Southperry |
 | MapleStarter | Dvd | 57 | islander | Southperry |
+| Cassandro | Marcelo | 57 | claw clericlet | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
-| Cassandro | Marcelo | 56 | claw clericlet | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
@@ -133,6 +133,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | c7gs | ? | 41 | islander | Southperry |
 | Zugar | ? | 41 | islander | Newbology |
 | yotta | ? | 41 | islander | \[none\]\* |
+| Contagion | Elie | 41 | islander | Newbology |
 | Neveroffland | ? | 40 | islander | \[none\]\* |
 | Mesa | ? | 40 | islander | Southperry |
 | DumbIsland | Leo | 40 | islander | Southperry |
