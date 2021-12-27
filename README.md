@@ -74,9 +74,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
+| Cassandro | Marcelo | 58 | claw clericlet | Oddjobs |
 | Wout | Wout | 57 | islander | Southperry |
 | MapleStarter | Dvd | 57 | islander | Southperry |
-| Cassandro | Marcelo | 57 | claw clericlet | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
