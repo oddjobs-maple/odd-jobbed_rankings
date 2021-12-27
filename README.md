@@ -32,7 +32,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Permanovice | Red | 117 | STRginner | GangGang\* |
 | cervine | deer | 114 | I/L magelet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
-| Taima | Kelsey | 110 | STRginner | Oddjobs |
+| Taima | Kelsey | 111 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
@@ -62,10 +62,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Zheedie | David | 71 | islander | Southperry |
 | Ever | Bella | 70 | islander | Team\* |
 | Furbs | Sword Furb | 69 | STRginner | WindowsXP\* |
+| tb303 | cecilia | 67 | clerish | Oddjobs |
 | Copo | Marcelo | 65 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | Christopher | Chris | 65 | islander | Southperry |
-| tb303 | cecilia | 65 | clerish | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
