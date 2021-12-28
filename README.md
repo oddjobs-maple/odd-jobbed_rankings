@@ -5,7 +5,7 @@ missing information, and should be treated as such. This is just for informal
 use, so please don’t take it too seriously. The levels of the characters listed
 here are fetched directly from [the official MapleLegends
 rankings](https://maplelegends.com/ranking/all) via [a shitty Python
-script](https://codeberg.org/oddjobs/odd-jobbed_rankings/src/branch/master/update.py).
+script](https://codeberg.org/oddjobs/odd-jobbed_rankings/src/branch/master/update-async.py).
 
 To make the “rankings” actually maintainable, off-island characters who have
 not yet achieved level 45, islanders who have not yet achieved level 40, and
@@ -26,8 +26,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | LawdHeComin | JunkyardBat | 142 | F/P archgish | Oddjobs |
 | rusa | deer | 141 | darksterity knight | Oddjobs |
 | Otios | Wout | 135 | STRginner | Flow |
+| capreolina | deer | 128 | woodsmaster | Oddjobs |
 | cervid | deer | 127 | STR bishop | Oddjobs |
-| capreolina | deer | 127 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | 118 | STRginner | GangGang\* |
 | cervine | deer | 114 | I/L magelet | Oddjobs |
@@ -60,8 +60,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | jung1e | Justin | 73 | islander | Newbology |
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
+| Furbs | Sword Furb | 70 | STRginner | WindowsXP\* |
 | Ever | Bella | 70 | islander | Team\* |
-| Furbs | Sword Furb | 69 | STRginner | WindowsXP\* |
 | tb303 | cecilia | 67 | clerish | Oddjobs |
 | Copo | Marcelo | 65 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
