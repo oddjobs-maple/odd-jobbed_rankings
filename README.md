@@ -62,7 +62,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Zheedie | David | 71 | islander | Southperry |
 | Furbs | Sword Furb | 70 | STRginner | WindowsXP\* |
 | Ever | Bella | 70 | islander | Team\* |
-| tb303 | cecilia | 67 | clerish | Oddjobs |
+| tb303 | cecilia | 68 | clerish | Oddjobs |
 | Copo | Marcelo | 65 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | Christopher | Chris | 65 | islander | Southperry |
