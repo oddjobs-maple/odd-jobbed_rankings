@@ -23,8 +23,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
+| rusa | deer | 142 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 142 | F/P archgish | Oddjobs |
-| rusa | deer | 141 | darksterity knight | Oddjobs |
 | Otios | Wout | 135 | STRginner | Flow |
 | capreolina | deer | 128 | woodsmaster | Oddjobs |
 | cervid | deer | 127 | STR bishop | Oddjobs |
@@ -121,16 +121,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Tonk | ? | 44 | islander | Southperry |
+| Dexual | Hunter | 44 | islander | Southperry |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
-| Dexual | Hunter | 43 | islander | Southperry |
 | Cottage | ? | 42 | islander | Southperry |
 | Snapples | Kristina | 42 | islander | Newbology |
+| c7gs | ? | 42 | islander | Southperry |
 | Babbi | Alvin | 41 | islander | Southperry |
 | Woogie | ? | 41 | islander | Southperry |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
-| c7gs | ? | 41 | islander | Southperry |
 | Zugar | ? | 41 | islander | Newbology |
 | yotta | ? | 41 | islander | \[none\]\* |
 | Contagion | Elie | 41 | islander | Newbology |
