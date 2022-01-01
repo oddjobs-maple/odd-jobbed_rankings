@@ -29,8 +29,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | capreolina | deer | 128 | woodsmaster | Oddjobs |
 | cervid | deer | 127 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
-| Permanovice | Red | 118 | STRginner | GangGang\* |
-| cervine | deer | 114 | I/L magelet | Oddjobs |
+| Permanovice | Red | 119 | STRginner | GangGang\* |
+| cervine | deer | 115 | I/L magelet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
 | Taima | Kelsey | 111 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
