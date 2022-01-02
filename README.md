@@ -128,12 +128,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cottage | ? | 42 | islander | Southperry |
 | Snapples | Kristina | 42 | islander | Newbology |
 | c7gs | ? | 42 | islander | Southperry |
+| Contagion | Elie | 42 | islander | Newbology |
 | Babbi | Alvin | 41 | islander | Southperry |
 | Woogie | ? | 41 | islander | Southperry |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology |
 | yotta | ? | 41 | islander | \[none\]\* |
-| Contagion | Elie | 41 | islander | Newbology |
 | Neveroffland | ? | 40 | islander | \[none\]\* |
 | Mesa | ? | 40 | islander | Southperry |
 | DumbIsland | Leo | 40 | islander | Southperry |
@@ -147,8 +147,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Itati | ? | 19 | camper | \[none\]\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
 | L0neWolf1600 | LoneWolf1600 | 16 | camper | Campers\* |
+| WarmApplePie | Snuggles | 16 | camper | \[none\]\* |
 | BloodyTaco | ? | 16 | camper | \[none\]\* |
-| WarmApplePie | Snuggles | 15 | camper | \[none\]\* |
 | DuckyWucky | ? | 15 | camper | \[none\]\* |
 | Hobbits | ? | 14 | camper | \[none\]\* |
 | Hyewon | ? | 14 | camper | \[none\]\* |
