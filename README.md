@@ -26,17 +26,17 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rusa | deer | 142 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 142 | F/P archgish | Oddjobs |
 | Otios | Wout | 135 | STRginner | Flow |
+| cervid | deer | 128 | STR bishop | Oddjobs |
 | capreolina | deer | 128 | woodsmaster | Oddjobs |
-| cervid | deer | 127 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | 119 | STRginner | GangGang\* |
 | cervine | deer | 115 | I/L magelet | Oddjobs |
+| Taima | Kelsey | 112 | STRginner | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
-| Taima | Kelsey | 111 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
+| alces | deer | 101 | daggermit | Oddjobs |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
-| alces | deer | 100 | daggermit | Oddjobs |
 | Keppet | Rapskal | 98 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
 | xX17Xx | mae | 93 | permarogue | Oddjobs |
