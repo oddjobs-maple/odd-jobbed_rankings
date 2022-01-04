@@ -143,7 +143,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | iamDanix | ? | 40 | islander | Southperry |
 | Subcortical | cort | 40 | islander | Southperry |
 | ozotoceros | deer | 40 | DEX/LUK hybridlander | Oddjobs |
-| GoGoSnuggles | Snuggles | 23 | camper | Flow |
+| GoGoSnuggles | Snuggles | 24 | camper | Flow |
 | Itati | ? | 19 | camper | \[none\]\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
 | L0neWolf1600 | LoneWolf1600 | 16 | camper | Campers\* |
