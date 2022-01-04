@@ -126,9 +126,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
 | c7gs | ? | 43 | islander | Southperry |
+| Contagion | Elie | 43 | islander | Newbology |
 | Cottage | ? | 42 | islander | Southperry |
 | Snapples | Kristina | 42 | islander | Newbology |
-| Contagion | Elie | 42 | islander | Newbology |
 | Babbi | Alvin | 41 | islander | Southperry |
 | Woogie | ? | 41 | islander | Southperry |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
