@@ -87,9 +87,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | NoJobNoRules | Jared | 54 | islander | Southperry |
 | MapIeIsIand | ? | 54 | islander | \[none\]\* |
 | Timberly | ? | 53 | islander | Southperry |
+| mase | mase | 53 | islander | Southperry |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | attackattack | mae | 52 | DEX page | Oddjobs |
-| mase | mase | 52 | islander | Southperry |
 | 1sme | Zin | 52 | islander | Southperry |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
@@ -109,6 +109,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
+| shadowban | cecilia | 48 | LUKless dit | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
@@ -117,17 +118,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
 | PinkBean | ? | 45 | islander | Shroomies\* |
-| shadowban | cecilia | 45 | LUKless dit | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Tonk | ? | 44 | islander | Southperry |
 | Dexual | Hunter | 44 | islander | Southperry |
+| Contagion | Elie | 44 | islander | Newbology |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
 | c7gs | ? | 43 | islander | Southperry |
-| Contagion | Elie | 43 | islander | Newbology |
 | Cottage | ? | 42 | islander | Southperry |
 | Snapples | Kristina | 42 | islander | Newbology |
 | Babbi | Alvin | 41 | islander | Southperry |
