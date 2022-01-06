@@ -26,16 +26,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | LawdHeComin | JunkyardBat | 144 | F/P archgish | Oddjobs |
 | rusa | deer | 143 | darksterity knight | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
+| capreolina | deer | 129 | woodsmaster | Oddjobs |
 | cervid | deer | 128 | STR bishop | Oddjobs |
-| capreolina | deer | 128 | woodsmaster | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | 119 | STRginner | GangGang\* |
 | cervine | deer | 115 | I/L magelet | Oddjobs |
-| Taima | Kelsey | 112 | STRginner | Oddjobs |
+| Taima | Kelsey | 113 | STRginner | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
-| alces | deer | 101 | daggermit | Oddjobs |
+| alces | deer | 102 | daggermit | Oddjobs |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Keppet | Rapskal | 98 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
@@ -106,10 +106,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
+| shadowban | cecilia | 49 | LUKless dit | Oddjobs |
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
-| shadowban | cecilia | 48 | LUKless dit | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
