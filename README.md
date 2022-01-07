@@ -63,9 +63,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Furbs | Sword Furb | 70 | STRginner | WindowsXP\* |
 | Ever | Bella | 70 | islander | Team\* |
 | tb303 | cecilia | 68 | clerish | Oddjobs |
+| Christopher | Chris | 66 | islander | Southperry |
 | Copo | Marcelo | 65 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
-| Christopher | Chris | 65 | islander | Southperry |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
