@@ -86,10 +86,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
 | MapIeIsIand | ? | 54 | islander | \[none\]\* |
+| attackattack | mae | 53 | DEX page | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | mase | mase | 53 | islander | Southperry |
+| shadowban | cecilia | 53 | LUKless dit | Oddjobs |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
-| attackattack | mae | 52 | DEX page | Oddjobs |
 | 1sme | Zin | 52 | islander | Southperry |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
@@ -104,7 +105,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Camomile | ? | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
-| shadowban | cecilia | 50 | LUKless dit | Oddjobs |
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | BowerStrike | cort | 48 | bow-whacker | Oddjobs |
@@ -118,12 +118,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
 | PinkBean | ? | 45 | islander | Shroomies\* |
+| Contagion | Elie | 45 | islander | Newbology |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Tonk | ? | 44 | islander | Southperry |
 | Dexual | Hunter | 44 | islander | Southperry |
-| Contagion | Elie | 44 | islander | Newbology |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
