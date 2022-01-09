@@ -82,6 +82,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
+| shadowban | cecilia | 55 | LUKless dit | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
@@ -89,7 +90,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | attackattack | mae | 53 | DEX page | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | mase | mase | 53 | islander | Southperry |
-| shadowban | cecilia | 53 | LUKless dit | Oddjobs |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | 1sme | Zin | 52 | islander | Southperry |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
@@ -118,12 +118,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
 | PinkBean | ? | 45 | islander | Shroomies\* |
+| Dexual | Hunter | 45 | islander | Southperry |
 | Contagion | Elie | 45 | islander | Newbology |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Tonk | ? | 44 | islander | Southperry |
-| Dexual | Hunter | 44 | islander | Southperry |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
