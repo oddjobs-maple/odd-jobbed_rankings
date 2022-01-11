@@ -32,7 +32,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Permanovice | Red | 119 | STRginner | GangGang\* |
 | cervine | deer | 116 | I/L magelet | Oddjobs |
 | Taima | Kelsey | 113 | STRginner | Oddjobs |
-| LoneW0lf1600 | LoneWolf1600 | 111 | STRginner | Oddjobs |
+| LoneW0lf1600 | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | alces | deer | 102 | daggermit | Oddjobs |
@@ -73,10 +73,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry |
+| shadowban | cecilia | 59 | LUKless dit | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
 | Cassandro | Marcelo | 58 | claw clericlet | Oddjobs |
-| shadowban | cecilia | 58 | LUKless dit | Oddjobs |
 | MapleStarter | Dvd | 57 | islander | Southperry |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
@@ -90,8 +90,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | attackattack | mae | 53 | DEX page | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | mase | mase | 53 | islander | Southperry |
+| 1sme | Zin | 53 | islander | Southperry |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
-| 1sme | Zin | 52 | islander | Southperry |
 | Nyanners | Kelsey | 52 | permawarrior (steelwoman) | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
