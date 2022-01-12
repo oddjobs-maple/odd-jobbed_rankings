@@ -31,10 +31,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | 119 | STRginner | GangGang\* |
 | cervine | deer | 116 | I/L magelet | Oddjobs |
-| Taima | Kelsey | 114 | STRginner | Oddjobs |
+| Taima | Kelsey | 115 | STRginner | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
-| alces | deer | 103 | daggermit | Oddjobs |
+| alces | deer | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Keppet | Rapskal | 98 | daggermit | Oddjobs |
@@ -47,9 +47,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
+| Daddyo | Hunter | 86 | STRginner | GangGang\* |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
-| Daddyo | Hunter | 85 | STRginner | GangGang\* |
 | Newbton | Jonte | 84 | islander | Southperry |
 | Hanyou | Kelsey | 79 | DEX WK | Oddjobs |
 | d34r | deer | 77 | dagger spearwoman (vicloc) | Victoria |
@@ -63,17 +63,17 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Furbs | Sword Furb | 70 | STRginner | WindowsXP\* |
 | Ever | Bella | 70 | islander | Team\* |
 | tb303 | cecilia | 68 | clerish | Oddjobs |
+| Copo | Marcelo | 66 | permapirate | Oddjobs |
 | Christopher | Chris | 66 | islander | Southperry |
-| Copo | Marcelo | 65 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
+| shadowban | cecilia | 62 | LUKless dit | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry |
-| shadowban | cecilia | 60 | LUKless dit | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
 | Cassandro | Marcelo | 58 | claw clericlet | Oddjobs |
