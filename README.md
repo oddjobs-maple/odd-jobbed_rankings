@@ -39,7 +39,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Keppet | Rapskal | 98 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
-| xX17Xx | mae | 93 | permarogue | Oddjobs |
+| xX17Xx | mae | 94 | permarogue | Oddjobs |
 | hydropotina | deer | 92 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | Cortical | cort | 91 | STRginner | Flow |
@@ -62,15 +62,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Zheedie | David | 71 | islander | Southperry |
 | Furbs | Sword Furb | 70 | STRginner | WindowsXP\* |
 | Ever | Bella | 70 | islander | Team\* |
+| Copo | Marcelo | 68 | permapirate | Oddjobs |
 | tb303 | cecilia | 68 | clerish | Oddjobs |
-| Copo | Marcelo | 66 | permapirate | Oddjobs |
 | Christopher | Chris | 66 | islander | Southperry |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
+| shadowban | cecilia | 63 | LUKless dit | Oddjobs |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
-| shadowban | cecilia | 62 | LUKless dit | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry |
