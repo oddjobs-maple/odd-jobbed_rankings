@@ -64,7 +64,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ever | Bella | 70 | islander | Team\* |
 | Copo | Marcelo | 68 | permapirate | Oddjobs |
 | tb303 | cecilia | 68 | clerish | Oddjobs |
-| Christopher | Chris | 66 | islander | Southperry |
+| Christopher | Chris | 67 | islander | Southperry |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
@@ -74,7 +74,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | Battlesage | Red | 60 | F/P gish | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry |
-| Cassandro | Marcelo | 59 | claw clericlet | Oddjobs |
+| Cassandro | Marcelo | 60 | claw clericlet | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
 | MapleStarter | Dvd | 57 | islander | Southperry |
@@ -87,10 +87,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
 | MapIeIsIand | ? | 54 | islander | \[none\]\* |
+| 1sme | Zin | 54 | islander | Southperry |
 | attackattack | mae | 53 | DEX page | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | mase | mase | 53 | islander | Southperry |
-| 1sme | Zin | 53 | islander | Southperry |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | Nyanners | Kelsey | 52 | permawarrior (steelwoman) | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
@@ -135,6 +135,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology |
 | yotta | ? | 41 | islander | \[none\]\* |
+| ozotoceros | deer | 41 | DEX/LUK hybridlander | Oddjobs |
 | Neveroffland | ? | 40 | islander | \[none\]\* |
 | Mesa | ? | 40 | islander | Southperry |
 | DumbIsland | Leo | 40 | islander | Southperry |
@@ -143,7 +144,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | tbook | ? | 40 | islander | \[none\]\* |
 | iamDanix | ? | 40 | islander | Southperry |
 | Subcortical | cort | 40 | islander | Southperry |
-| ozotoceros | deer | 40 | DEX/LUK hybridlander | Oddjobs |
 | GoGoSnuggles | Snuggles | 24 | camper | Flow |
 | Itati | ? | 19 | camper | \[none\]\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
