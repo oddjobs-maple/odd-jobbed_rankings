@@ -42,7 +42,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | xX17Xx | mae | 94 | permarogue | Oddjobs |
 | hydropotina | deer | 92 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
-| Cortical | cort | 91 | STRginner | Flow |
+| Cortical | cort | 92 | STRginner | Flow |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
@@ -66,9 +66,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | tb303 | cecilia | 68 | clerish | Oddjobs |
 | Christopher | Chris | 67 | islander | Southperry |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
+| shadowban | cecilia | 65 | LUKless dit | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
-| shadowban | cecilia | 63 | LUKless dit | Oddjobs |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
