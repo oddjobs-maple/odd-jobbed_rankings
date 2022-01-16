@@ -29,7 +29,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | capreolina | deer | 129 | woodsmaster | Oddjobs |
 | cervid | deer | 128 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
-| Permanovice | Red | 119 | STRginner | GangGang\* |
+| Permanovice | Red | 120 | STRginner | GangGang\* |
 | cervine | deer | 116 | I/L magelet | Oddjobs |
 | Taima | Kelsey | 115 | STRginner | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 112 | STRginner | Oddjobs |
@@ -56,8 +56,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
+| jung1e | Justin | 74 | islander | Newbology |
 | Celim | Marcelo | 73 | STRginner | Flow |
-| jung1e | Justin | 73 | islander | Newbology |
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
 | Furbs | Sword Furb | 70 | STRginner | WindowsXP\* |
@@ -65,8 +65,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Copo | Marcelo | 68 | permapirate | Oddjobs |
 | tb303 | cecilia | 68 | clerish | Oddjobs |
 | Christopher | Chris | 67 | islander | Southperry |
+| shadowban | cecilia | 66 | LUKless dit | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
-| shadowban | cecilia | 65 | LUKless dit | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
@@ -76,8 +76,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | LazySoup | ? | 60 | islander | Southperry |
 | Cassandro | Marcelo | 60 | claw clericlet | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
+| MapleStarter | Dvd | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
-| MapleStarter | Dvd | 57 | islander | Southperry |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
