@@ -23,8 +23,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
+| rusa | deer | 144 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 144 | F/P archgish | Oddjobs |
-| rusa | deer | 143 | darksterity knight | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
 | capreolina | deer | 129 | woodsmaster | Oddjobs |
 | cervid | deer | 128 | STR bishop | Oddjobs |
@@ -62,10 +62,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Zheedie | David | 71 | islander | Southperry |
 | Furbs | Sword Furb | 70 | STRginner | WindowsXP\* |
 | Ever | Bella | 70 | islander | Team\* |
-| Copo | Marcelo | 68 | permapirate | Oddjobs |
+| Copo | Marcelo | 69 | permapirate | Oddjobs |
 | tb303 | cecilia | 68 | clerish | Oddjobs |
 | Christopher | Chris | 67 | islander | Southperry |
-| shadowban | cecilia | 66 | LUKless dit | Oddjobs |
+| shadowban | cecilia | 67 | LUKless dit | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
