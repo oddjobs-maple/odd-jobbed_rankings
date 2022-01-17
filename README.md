@@ -46,8 +46,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
+| Daddyo | Hunter | 87 | STRginner | GangGang\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
-| Daddyo | Hunter | 86 | STRginner | GangGang\* |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Newbton | Jonte | 84 | islander | Southperry |
@@ -61,11 +61,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
 | Furbs | Sword Furb | 70 | STRginner | WindowsXP\* |
+| Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
-| Copo | Marcelo | 69 | permapirate | Oddjobs |
 | tb303 | cecilia | 68 | clerish | Oddjobs |
+| shadowban | cecilia | 68 | LUKless dit | Oddjobs |
 | Christopher | Chris | 67 | islander | Southperry |
-| shadowban | cecilia | 67 | LUKless dit | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
