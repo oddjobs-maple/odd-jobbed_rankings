@@ -51,7 +51,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Newbton | Jonte | 84 | islander | Southperry |
-| Hanyou | Kelsey | 79 | DEX WK | Oddjobs |
+| Hanyou | Kelsey | 80 | DEX WK | Oddjobs |
 | d34r | deer | 77 | dagger spearwoman (vicloc) | Victoria |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
@@ -134,9 +134,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Woogie | ? | 41 | islander | Southperry |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology |
+| Neveroffland | ? | 41 | islander | \[none\]\* |
 | yotta | ? | 41 | islander | \[none\]\* |
 | ozotoceros | deer | 41 | DEX/LUK hybridlander | Oddjobs |
-| Neveroffland | ? | 40 | islander | \[none\]\* |
 | Mesa | ? | 40 | islander | Southperry |
 | DumbIsland | Leo | 40 | islander | Southperry |
 | Kokoro | ? | 40 | islander | \[none\]\* |
