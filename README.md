@@ -51,7 +51,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Newbton | Jonte | 84 | islander | Southperry |
-| Hanyou | Kelsey | 80 | DEX WK | Oddjobs |
+| Hanyou | Kelsey | 82 | DEX WK | Oddjobs |
 | d34r | deer | 77 | dagger spearwoman (vicloc) | Victoria |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
@@ -71,17 +71,17 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
+| Battlesage | Red | 61 | F/P gish | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
-| Battlesage | Red | 60 | F/P gish | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry |
 | Cassandro | Marcelo | 60 | claw clericlet | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | MapleStarter | Dvd | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
+| L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
-| L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
 | attackattack | mae | 55 | DEX page | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
