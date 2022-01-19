@@ -30,8 +30,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervid | deer | 128 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | 120 | STRginner | GangGang\* |
+| Taima | Kelsey | 116 | STRginner | Oddjobs |
 | cervine | deer | 116 | I/L magelet | Oddjobs |
-| Taima | Kelsey | 115 | STRginner | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | alces | deer | 104 | daggermit | Oddjobs |
@@ -63,8 +63,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Furbs | Sword Furb | 70 | STRginner | WindowsXP\* |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
+| shadowban | cecilia | 70 | LUKless dit | Oddjobs |
 | tb303 | cecilia | 68 | clerish | Oddjobs |
-| shadowban | cecilia | 68 | LUKless dit | Oddjobs |
 | Christopher | Chris | 67 | islander | Southperry |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
@@ -82,13 +82,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 55 | besinner | Oddjobs |
+| attackattack | mae | 55 | DEX page | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
 | MapIeIsIand | ? | 54 | islander | \[none\]\* |
 | 1sme | Zin | 54 | islander | Southperry |
-| attackattack | mae | 53 | DEX page | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | mase | mase | 53 | islander | Southperry |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
@@ -117,9 +117,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
+| Contagion | Elie | 46 | islander | Newbology |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Dexual | Hunter | 45 | islander | Southperry |
-| Contagion | Elie | 45 | islander | Newbology |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
@@ -135,9 +135,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology |
 | Neveroffland | ? | 41 | islander | \[none\]\* |
+| Mesa | sneaks | 41 | islander | Southperry |
 | yotta | ? | 41 | islander | \[none\]\* |
 | ozotoceros | deer | 41 | DEX/LUK hybridlander | Oddjobs |
-| Mesa | ? | 40 | islander | Southperry |
 | DumbIsland | Leo | 40 | islander | Southperry |
 | Kokoro | ? | 40 | islander | \[none\]\* |
 | BirdMandala | ? | 40 | islander | Southperry |
