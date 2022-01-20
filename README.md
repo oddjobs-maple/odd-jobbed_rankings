@@ -59,8 +59,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | jung1e | Justin | 74 | islander | Newbology |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
+| Furbs | Sword Furb | 71 | STRginner | WindowsXP\* |
 | Zheedie | David | 71 | islander | Southperry |
-| Furbs | Sword Furb | 70 | STRginner | WindowsXP\* |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
 | shadowban | cecilia | 70 | LUKless dit | Oddjobs |
@@ -69,34 +69,34 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
+| Sakuzyo | ? | 63 | pugilist | Oddjobs |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | Battlesage | Red | 61 | F/P gish | Oddjobs |
 | Cassandro | Marcelo | 61 | claw clericlet | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
-| Sakuzyo | ? | 60 | pugilist | Oddjobs |
+| ratty | fumumu | 60 | permapirate | Oddjobs |
+| Buwwon | ? | 59 | woodsman (crossbow) | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | MapleStarter | Dvd | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
-| Buwwon | ? | 58 | woodsman (crossbow) | Oddjobs |
-| ratty | fumumu | 57 | permapirate | Oddjobs |
+| Wouty | Wout | 58 | permapirate | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | attackattack | mae | 55 | DEX page | Oddjobs |
+| MapIeIsIand | ? | 55 | islander | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
-| Wouty | Wout | 55 | permapirate | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
-| MapIeIsIand | ? | 54 | islander | \[none\]\* |
 | 1sme | Zin | 54 | islander | Southperry |
 | Timberly | ? | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
+| Nyanners | Kelsey | 53 | permawarrior (steelwoman) | Oddjobs |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
-| Nyanners | Kelsey | 52 | permawarrior (steelwoman) | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
