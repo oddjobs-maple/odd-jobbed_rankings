@@ -462,7 +462,7 @@
     },
     {
       "ign": "mase",
-      "name": "mase",
+      "name": "fumumu",
       "job": "islander",
       "guild": "Southperry"
     },
@@ -758,6 +758,30 @@
       "ign": "shadowban",
       "name": "cecilia",
       "job": "LUKless dit",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "Sakuzyo",
+      "name": null,
+      "job": "pugilist",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "Buwwon",
+      "name": null,
+      "job": "woodsman (crossbow)",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "ratty",
+      "name": "fumumu",
+      "job": "permapirate",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "Wouty",
+      "name": "Wout",
+      "job": "permapirate",
       "guild": "Oddjobs"
     },
     { "ign": "Otios", "name": "Wout", "job": "STRginner", "guild": "Flow" }

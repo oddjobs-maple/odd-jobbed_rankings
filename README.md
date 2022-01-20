@@ -72,25 +72,29 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | Battlesage | Red | 61 | F/P gish | Oddjobs |
+| Cassandro | Marcelo | 61 | claw clericlet | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
-| Cassandro | Marcelo | 60 | claw clericlet | Oddjobs |
+| Sakuzyo | ? | 60 | pugilist | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | MapleStarter | Dvd | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
+| Buwwon | ? | 58 | woodsman (crossbow) | Oddjobs |
+| ratty | fumumu | 57 | permapirate | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | attackattack | mae | 55 | DEX page | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
+| Wouty | Wout | 55 | permapirate | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
 | MapIeIsIand | ? | 54 | islander | \[none\]\* |
 | 1sme | Zin | 54 | islander | Southperry |
 | Timberly | ? | 53 | islander | Southperry |
-| mase | mase | 53 | islander | Southperry |
+| mase | fumumu | 53 | islander | Southperry |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | Nyanners | Kelsey | 52 | permawarrior (steelwoman) | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
