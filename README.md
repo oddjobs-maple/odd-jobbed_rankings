@@ -61,9 +61,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | drainer | mae | 72 | STRginner | Flow |
 | Furbs | Sword Furb | 71 | STRginner | WindowsXP\* |
 | Zheedie | David | 71 | islander | Southperry |
+| shadowban | cecilia | 71 | LUKless dit | Oddjobs |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
-| shadowban | cecilia | 70 | LUKless dit | Oddjobs |
 | tb303 | cecilia | 68 | clerish | Oddjobs |
 | Christopher | Chris | 67 | islander | Southperry |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
@@ -76,8 +76,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cassandro | Marcelo | 61 | claw clericlet | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
+| Buwwon | ? | 60 | woodsman (crossbow) | Oddjobs |
 | ratty | fumumu | 60 | permapirate | Oddjobs |
-| Buwwon | ? | 59 | woodsman (crossbow) | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | MapleStarter | Dvd | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
