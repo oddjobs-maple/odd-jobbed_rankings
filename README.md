@@ -30,8 +30,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervid | deer | 128 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | 120 | STRginner | GangGang\* |
+| cervine | deer | 117 | I/L magelet | Oddjobs |
 | Taima | Kelsey | 116 | STRginner | Oddjobs |
-| cervine | deer | 116 | I/L magelet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | alces | deer | 104 | daggermit | Oddjobs |
@@ -72,11 +72,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Sakuzyo | ? | 63 | pugilist | Oddjobs |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
+| Cassandro | Marcelo | 62 | claw clericlet | Oddjobs |
 | Battlesage | Red | 61 | F/P gish | Oddjobs |
-| Cassandro | Marcelo | 61 | claw clericlet | Oddjobs |
+| Buwwon | ? | 61 | woodsman (crossbow) | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
-| Buwwon | ? | 60 | woodsman (crossbow) | Oddjobs |
 | ratty | fumumu | 60 | permapirate | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | MapleStarter | Dvd | 58 | islander | Southperry |
@@ -87,10 +87,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | attackattack | mae | 55 | DEX page | Oddjobs |
+| d33r | deer | 55 | clericlet (vicloc) | Victoria |
 | MapIeIsIand | ? | 55 | islander | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
-| d33r | deer | 54 | clericlet (vicloc) | Victoria |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
 | 1sme | Zin | 54 | islander | Southperry |
 | Timberly | ? | 53 | islander | Southperry |
