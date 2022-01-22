@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 144 | darksterity knight | Oddjobs |
+| rusa | deer | 145 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 144 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
 | capreolina | deer | 129 | woodsmaster | Oddjobs |
@@ -39,7 +39,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Keppet | Rapskal | 98 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
-| xX17Xx | mae | 94 | permarogue | Oddjobs |
+| xX17Xx | mae | 95 | permarogue | Oddjobs |
 | hydropotina | deer | 92 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | Cortical | cort | 92 | STRginner | Flow |
@@ -70,18 +70,18 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Sakuzyo | ? | 63 | pugilist | Oddjobs |
+| Buwwon | ? | 63 | woodsman (crossbow) | Oddjobs |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | Cassandro | Marcelo | 62 | claw clericlet | Oddjobs |
+| ratty | fumumu | 62 | permapirate | Oddjobs |
 | Battlesage | Red | 61 | F/P gish | Oddjobs |
-| Buwwon | ? | 61 | woodsman (crossbow) | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
-| ratty | fumumu | 60 | permapirate | Oddjobs |
+| Wouty | Wout | 59 | permapirate | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | MapleStarter | Dvd | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
-| Wouty | Wout | 58 | permapirate | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
