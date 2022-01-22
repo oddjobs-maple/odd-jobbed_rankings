@@ -30,8 +30,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervid | deer | 128 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | 120 | STRginner | GangGang\* |
+| Taima | Kelsey | 117 | STRginner | Oddjobs |
 | cervine | deer | 117 | I/L magelet | Oddjobs |
-| Taima | Kelsey | 116 | STRginner | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | alces | deer | 104 | daggermit | Oddjobs |
@@ -67,9 +67,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | tb303 | cecilia | 68 | clerish | Oddjobs |
 | Christopher | Chris | 67 | islander | Southperry |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
+| Sakuzyo | ? | 65 | pugilist | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
-| Sakuzyo | ? | 63 | pugilist | Oddjobs |
 | Buwwon | ? | 63 | woodsman (crossbow) | Oddjobs |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
@@ -78,7 +78,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Battlesage | Red | 61 | F/P gish | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
-| Wouty | Wout | 59 | permapirate | Oddjobs |
+| Wouty | Wout | 60 | permapirate | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | MapleStarter | Dvd | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
