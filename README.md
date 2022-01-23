@@ -68,27 +68,27 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Christopher | Chris | 67 | islander | Southperry |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | Sakuzyo | ? | 65 | pugilist | Oddjobs |
+| Buwwon | ? | 64 | woodsman (crossbow) | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
-| Buwwon | ? | 63 | woodsman (crossbow) | Oddjobs |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | Cassandro | Marcelo | 62 | claw clericlet | Oddjobs |
 | ratty | fumumu | 62 | permapirate | Oddjobs |
 | Battlesage | Red | 61 | F/P gish | Oddjobs |
+| Wouty | Wout | 61 | permapirate | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
-| Wouty | Wout | 60 | permapirate | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | MapleStarter | Dvd | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
+| MapIeIsIand | ? | 56 | islander | \[none\]\* |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | attackattack | mae | 55 | DEX page | Oddjobs |
 | d33r | deer | 55 | clericlet (vicloc) | Victoria |
-| MapIeIsIand | ? | 55 | islander | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
@@ -117,11 +117,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
+| Contagion | Elie | 47 | islander | Newbology |
 | ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
-| Contagion | Elie | 46 | islander | Newbology |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Dexual | Hunter | 45 | islander | Southperry |
 | Steam | ? | 44 | islander | Dokdo\* |
