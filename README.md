@@ -30,8 +30,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervid | deer | 128 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | 120 | STRginner | GangGang\* |
+| cervine | deer | 118 | I/L magelet | Oddjobs |
 | Taima | Kelsey | 117 | STRginner | Oddjobs |
-| cervine | deer | 117 | I/L magelet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | alces | deer | 104 | daggermit | Oddjobs |
@@ -66,17 +66,17 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ever | Bella | 70 | islander | Team\* |
 | tb303 | cecilia | 68 | clerish | Oddjobs |
 | Christopher | Chris | 67 | islander | Southperry |
+| Sakuzyo | ? | 66 | pugilist | Oddjobs |
+| Buwwon | ? | 66 | woodsman (crossbow) | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
-| Sakuzyo | ? | 65 | pugilist | Oddjobs |
-| Buwwon | ? | 64 | woodsman (crossbow) | Oddjobs |
+| ratty | fumumu | 64 | permapirate | Oddjobs |
+| Wouty | Wout | 64 | permapirate | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | Cassandro | Marcelo | 62 | claw clericlet | Oddjobs |
-| ratty | fumumu | 62 | permapirate | Oddjobs |
 | Battlesage | Red | 61 | F/P gish | Oddjobs |
-| Wouty | Wout | 61 | permapirate | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
 | Wout | Wout | 58 | islander | Southperry |
@@ -85,6 +85,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | MapIeIsIand | ? | 56 | islander | \[none\]\* |
+| Nyanners | Kelsey | 56 | permawarrior (steelwoman) | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | attackattack | mae | 55 | DEX page | Oddjobs |
@@ -95,7 +96,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | 1sme | Zin | 54 | islander | Southperry |
 | Timberly | ? | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
-| Nyanners | Kelsey | 53 | permawarrior (steelwoman) | Oddjobs |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
