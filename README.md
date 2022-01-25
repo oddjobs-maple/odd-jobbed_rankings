@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 145 | darksterity knight | Oddjobs |
+| rusa | deer | 146 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 144 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
 | capreolina | deer | 129 | woodsmaster | Oddjobs |
@@ -59,15 +59,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | jung1e | Justin | 74 | islander | Newbology |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
+| shadowban | cecilia | 72 | LUKless dit | Oddjobs |
 | Furbs | Sword Furb | 71 | STRginner | WindowsXP\* |
 | Zheedie | David | 71 | islander | Southperry |
-| shadowban | cecilia | 71 | LUKless dit | Oddjobs |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
+| Buwwon | ? | 69 | woodsman (crossbow) | Oddjobs |
 | tb303 | cecilia | 68 | clerish | Oddjobs |
 | Christopher | Chris | 67 | islander | Southperry |
-| Sakuzyo | ? | 66 | pugilist | Oddjobs |
-| Buwwon | ? | 66 | woodsman (crossbow) | Oddjobs |
+| Sakuzyo | ? | 67 | pugilist | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | ratty | fumumu | 64 | permapirate | Oddjobs |
 | Wouty | Wout | 64 | permapirate | Oddjobs |
