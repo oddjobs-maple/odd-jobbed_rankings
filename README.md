@@ -51,8 +51,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Newbton | Jonte | 84 | islander | Southperry |
-| Hanyou | Kelsey | 82 | DEX WK | Oddjobs |
-| d34r | deer | 77 | dagger spearwoman (vicloc) | Victoria |
+| Hanyou | Kelsey | 83 | DEX WK | Oddjobs |
+| d34r | deer | 78 | dagger spearwoman (vicloc) | Victoria |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
@@ -69,7 +69,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Christopher | Chris | 67 | islander | Southperry |
 | Sakuzyo | NoChorus | 67 | pugilist (brawler) | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
-| ratty | fumumu | 64 | permapirate | Oddjobs |
+| ratty | fumumu | 65 | permapirate | Oddjobs |
 | Wouty | Wout | 64 | permapirate | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
