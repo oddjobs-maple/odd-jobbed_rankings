@@ -30,8 +30,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervid | deer | 128 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | 120 | STRginner | GangGang\* |
-| cervine | deer | 118 | I/L magelet | Oddjobs |
-| Taima | Kelsey | 117 | STRginner | Oddjobs |
+| cervine | deer | 119 | I/L magelet | Oddjobs |
+| Taima | Kelsey | 118 | STRginner | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | alces | deer | 104 | daggermit | Oddjobs |
@@ -59,15 +59,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | jung1e | Justin | 74 | islander | Newbology |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
-| shadowban | cecilia | 72 | LUKless dit | Oddjobs |
+| shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
 | Furbs | Sword Furb | 71 | STRginner | WindowsXP\* |
 | Zheedie | David | 71 | islander | Southperry |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
-| Buwwon | ? | 69 | woodsman (crossbow) | Oddjobs |
+| Buwwon | robidouux | 70 | woodsman (sniper) | Oddjobs |
 | tb303 | cecilia | 68 | clerish | Oddjobs |
 | Christopher | Chris | 67 | islander | Southperry |
-| Sakuzyo | ? | 67 | pugilist | Oddjobs |
+| Sakuzyo | NoChorus | 67 | pugilist (brawler) | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | ratty | fumumu | 64 | permapirate | Oddjobs |
 | Wouty | Wout | 64 | permapirate | Oddjobs |
