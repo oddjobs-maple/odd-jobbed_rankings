@@ -50,8 +50,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
+| Hanyou | Kelsey | 84 | DEX WK | Oddjobs |
 | Newbton | Jonte | 84 | islander | Southperry |
-| Hanyou | Kelsey | 83 | DEX WK | Oddjobs |
 | d34r | deer | 78 | dagger spearwoman (vicloc) | Victoria |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
@@ -60,17 +60,17 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
+| Buwwon | robidouux | 72 | woodsman (sniper) | Oddjobs |
 | Furbs | Sword Furb | 71 | STRginner | WindowsXP\* |
 | Zheedie | David | 71 | islander | Southperry |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
-| Buwwon | robidouux | 70 | woodsman (sniper) | Oddjobs |
 | tb303 | cecilia | 68 | clerish | Oddjobs |
+| Sakuzyo | NoChorus | 68 | pugilist (brawler) | Oddjobs |
 | Christopher | Chris | 67 | islander | Southperry |
-| Sakuzyo | NoChorus | 67 | pugilist (brawler) | Oddjobs |
+| ratty | fumumu | 67 | permapirate | Oddjobs |
+| Wouty | Wout | 66 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
-| ratty | fumumu | 65 | permapirate | Oddjobs |
-| Wouty | Wout | 64 | permapirate | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
@@ -79,13 +79,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Battlesage | Red | 61 | F/P gish | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
+| MapleStarter | Dvd | 59 | islander | Southperry |
 | Wout | Wout | 58 | islander | Southperry |
-| MapleStarter | Dvd | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
+| Nyanners | Kelsey | 57 | permawarrior (steelwoman) | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | MapIeIsIand | ? | 56 | islander | \[none\]\* |
-| Nyanners | Kelsey | 56 | permawarrior (steelwoman) | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | attackattack | mae | 55 | DEX page | Oddjobs |
