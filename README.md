@@ -57,10 +57,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | jung1e | Justin | 74 | islander | Newbology |
+| Buwwon | robidouux | 74 | woodsman (sniper) | Oddjobs |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
-| Buwwon | robidouux | 72 | woodsman (sniper) | Oddjobs |
 | Furbs | Sword Furb | 71 | STRginner | WindowsXP\* |
 | Zheedie | David | 71 | islander | Southperry |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
@@ -77,12 +77,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Oahu | Tom | 62 | STRlander | Southperry |
 | Cassandro | Marcelo | 62 | claw clericlet | Oddjobs |
 | Battlesage | Red | 61 | F/P gish | Oddjobs |
+| Nyanners | Kelsey | 61 | permawarrior (steelwoman) | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
 | MapleStarter | Dvd | 59 | islander | Southperry |
 | Wout | Wout | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
-| Nyanners | Kelsey | 57 | permawarrior (steelwoman) | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | MapIeIsIand | ? | 56 | islander | \[none\]\* |
@@ -90,10 +90,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | attackattack | mae | 55 | DEX page | Oddjobs |
 | d33r | deer | 55 | clericlet (vicloc) | Victoria |
+| 1sme | Zin | 55 | islander | Southperry |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
-| 1sme | Zin | 54 | islander | Southperry |
 | Timberly | ? | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
 | Numidium | Kelsey | 52 | STR cleric | Oddjobs |
@@ -112,6 +112,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
+| GooderNoddy | TotallyNotShoe | 49 | HP STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
@@ -122,8 +123,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
+| Dexual | Hunter | 46 | islander | Southperry |
+| Godswood | eriklopez95 | 46 | STR cleric | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
-| Dexual | Hunter | 45 | islander | Southperry |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
