@@ -65,13 +65,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Zheedie | David | 71 | islander | Southperry |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
-| tb303 | cecilia | 69 | clerish | Oddjobs |
-| Sakuzyo | NoChorus | 68 | pugilist (brawler) | Oddjobs |
+| tb303 | cecilia | 70 | priestish | Oddjobs |
+| Sakuzyo | NoChorus | 70 | pugilist (brawler) | Oddjobs |
 | Christopher | Chris | 67 | islander | Southperry |
 | ratty | fumumu | 67 | permapirate | Oddjobs |
 | Wouty | Wout | 66 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
-| Nyanners | Kelsey | 64 | permawarrior (steelwoman) | Oddjobs |
+| Nyanners | Kelsey | 65 | permawarrior (steelwoman) | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Cassandro | Marcelo | 63 | claw clericlet | Oddjobs |
@@ -136,11 +136,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | c7gs | ? | 43 | islander | Southperry |
 | Cottage | ? | 42 | islander | Southperry |
 | Snapples | Kristina | 42 | islander | Newbology |
+| Neveroffland | ? | 42 | islander | \[none\]\* |
 | Babbi | Alvin | 41 | islander | Southperry |
 | Woogie | ? | 41 | islander | Southperry |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology |
-| Neveroffland | ? | 41 | islander | \[none\]\* |
 | Mesa | sneaks | 41 | islander | Southperry |
 | yotta | ? | 41 | islander | \[none\]\* |
 | ozotoceros | deer | 41 | DEX/LUK hybridlander | Oddjobs |
