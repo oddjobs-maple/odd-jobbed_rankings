@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 146 | darksterity knight | Oddjobs |
+| rusa | deer | 147 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 144 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
 | capreolina | deer | 129 | woodsmaster | Oddjobs |
@@ -65,19 +65,19 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Zheedie | David | 71 | islander | Southperry |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
-| tb303 | cecilia | 68 | clerish | Oddjobs |
+| tb303 | cecilia | 69 | clerish | Oddjobs |
 | Sakuzyo | NoChorus | 68 | pugilist (brawler) | Oddjobs |
 | Christopher | Chris | 67 | islander | Southperry |
 | ratty | fumumu | 67 | permapirate | Oddjobs |
 | Wouty | Wout | 66 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
+| Nyanners | Kelsey | 64 | permawarrior (steelwoman) | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
+| Cassandro | Marcelo | 63 | claw clericlet | Oddjobs |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
-| Cassandro | Marcelo | 62 | claw clericlet | Oddjobs |
 | Battlesage | Red | 61 | F/P gish | Oddjobs |
-| Nyanners | Kelsey | 61 | permawarrior (steelwoman) | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
 | MapleStarter | Dvd | 59 | islander | Southperry |
@@ -115,11 +115,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GooderNoddy | TotallyNotShoe | 49 | HP STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
+| Contagion | Elie | 48 | islander | Newbology |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
+| ScrubDaddy | Scrub | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
-| Contagion | Elie | 47 | islander | Newbology |
-| ScrubDaddy | Scrub | 46 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
