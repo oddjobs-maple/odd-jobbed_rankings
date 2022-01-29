@@ -40,9 +40,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Keppet | Rapskal | 98 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
+| Cortical | cort | 93 | STRginner | Flow |
 | hydropotina | deer | 92 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
-| Cortical | cort | 92 | STRginner | Flow |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
@@ -63,18 +63,18 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
 | Furbs | Sword Furb | 71 | STRginner | WindowsXP\* |
 | Zheedie | David | 71 | islander | Southperry |
+| Sakuzyo | NoChorus | 71 | pugilist (marauder) | Oddjobs |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
 | tb303 | cecilia | 70 | priestish | Oddjobs |
-| Sakuzyo | NoChorus | 70 | pugilist (brawler) | Oddjobs |
-| Christopher | Chris | 67 | islander | Southperry |
+| Christopher | Chris | 68 | islander | Southperry |
+| Nyanners | Kelsey | 68 | permawarrior (steelwoman) | Oddjobs |
+| Wouty | Wout | 68 | permapirate | Oddjobs |
 | ratty | fumumu | 67 | permapirate | Oddjobs |
-| Wouty | Wout | 66 | permapirate | Oddjobs |
+| Cassandro | Marcelo | 66 | claw clericlet | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
-| Nyanners | Kelsey | 65 | permawarrior (steelwoman) | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
-| Cassandro | Marcelo | 63 | claw clericlet | Oddjobs |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | Battlesage | Red | 61 | F/P gish | Oddjobs |
