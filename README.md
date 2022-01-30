@@ -61,17 +61,17 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
+| Sakuzyo | NoChorus | 72 | pugilist (marauder) | Oddjobs |
 | Furbs | Sword Furb | 71 | STRginner | WindowsXP\* |
 | Zheedie | David | 71 | islander | Southperry |
-| Sakuzyo | NoChorus | 71 | pugilist (marauder) | Oddjobs |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
-| tb303 | cecilia | 70 | priestish | Oddjobs |
+| Nyanners | Kelsey | 70 | permawarrior (steelwoman) | Oddjobs |
+| tb303 | cecilia | 70 | gish priest | Oddjobs |
 | Christopher | Chris | 68 | islander | Southperry |
-| Nyanners | Kelsey | 68 | permawarrior (steelwoman) | Oddjobs |
 | Wouty | Wout | 68 | permapirate | Oddjobs |
+| Cassandro | Marcelo | 67 | claw clericlet | Oddjobs |
 | ratty | fumumu | 67 | permapirate | Oddjobs |
-| Cassandro | Marcelo | 66 | claw clericlet | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
