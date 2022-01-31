@@ -59,19 +59,19 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | jung1e | Justin | 74 | islander | Newbology |
 | Buwwon | robidouux | 74 | woodsman (sniper) | Oddjobs |
 | Celim | Marcelo | 73 | STRginner | Flow |
+| Sakuzyo | NoChorus | 73 | pugilist (marauder) | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
-| Sakuzyo | NoChorus | 72 | pugilist (marauder) | Oddjobs |
 | Furbs | Sword Furb | 71 | STRginner | WindowsXP\* |
 | Zheedie | David | 71 | islander | Southperry |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
+| Cassandro | Marcelo | 70 | claw clericlet | Oddjobs |
 | Nyanners | Kelsey | 70 | permawarrior (steelwoman) | Oddjobs |
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
+| Wouty | Wout | 70 | permapirate | Oddjobs |
 | Christopher | Chris | 68 | islander | Southperry |
-| Cassandro | Marcelo | 68 | claw clericlet | Oddjobs |
-| Wouty | Wout | 68 | permapirate | Oddjobs |
-| ratty | fumumu | 67 | permapirate | Oddjobs |
+| ratty | fumumu | 68 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
@@ -101,6 +101,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
+| doiob | doiob | 50 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | Sommer | Marcelo | 50 | swashbuckler | Oddjobs |
@@ -109,13 +110,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Camomile | ? | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
-| doiob | doiob | 49 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
+| Contagion | Elie | 49 | islander | Newbology |
 | GooderNoddy | TotallyNotShoe | 49 | HP STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
-| Contagion | Elie | 48 | islander | Newbology |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
