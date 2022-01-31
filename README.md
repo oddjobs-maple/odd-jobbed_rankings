@@ -24,14 +24,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | rusa | deer | 147 | darksterity knight | Oddjobs |
-| LawdHeComin | JunkyardBat | 144 | F/P archgish | Oddjobs |
+| LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
 | capreolina | deer | 129 | woodsmaster | Oddjobs |
 | cervid | deer | 128 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | cervine | deer | 120 | I/L archmagelet | Oddjobs |
 | Permanovice | Red | 120 | STRginner | GangGang\* |
-| Taima | Kelsey | 118 | STRginner | Oddjobs |
+| Taima | Kelsey | 119 | STRginner | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | alces | deer | 104 | daggermit | Oddjobs |
@@ -40,8 +40,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Keppet | Rapskal | 98 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
+| hydropotina | deer | 93 | swashbuckler | Oddjobs |
 | Cortical | cort | 93 | STRginner | Flow |
-| hydropotina | deer | 92 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
@@ -64,9 +64,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
 | Furbs | Sword Furb | 71 | STRginner | WindowsXP\* |
 | Zheedie | David | 71 | islander | Southperry |
+| Cassandro | Marcelo | 71 | claw priestlet | Oddjobs |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
-| Cassandro | Marcelo | 70 | claw clericlet | Oddjobs |
 | Nyanners | Kelsey | 70 | permawarrior (steelwoman) | Oddjobs |
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
@@ -114,10 +114,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
 | Contagion | Elie | 49 | islander | Newbology |
 | GooderNoddy | TotallyNotShoe | 49 | HP STRginner | Oddjobs |
+| ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| ScrubDaddy | Scrub | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Mujintou | ? | 46 | islander | Pomf\* |
