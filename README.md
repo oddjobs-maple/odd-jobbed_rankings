@@ -80,7 +80,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Battlesage | Red | 61 | F/P gish | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
-| MapleStarter | Dvd | 59 | islander | Southperry |
+| MapleStarter | Dvd | 60 | islander | Southperry |
 | Wout | Wout | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
@@ -120,11 +120,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
+| Godswood | eriklopez95 | 47 | STR cleric | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
 | Dexual | Hunter | 46 | islander | Southperry |
-| Godswood | eriklopez95 | 46 | STR cleric | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
