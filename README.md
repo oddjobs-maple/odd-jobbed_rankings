@@ -61,17 +61,17 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Celim | Marcelo | 73 | STRginner | Flow |
 | Sakuzyo | NoChorus | 73 | pugilist (marauder) | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
+| Cassandro | Marcelo | 72 | claw priestlet | Oddjobs |
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
 | Furbs | Sword Furb | 71 | STRginner | WindowsXP\* |
 | Zheedie | David | 71 | islander | Southperry |
-| Cassandro | Marcelo | 71 | claw priestlet | Oddjobs |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
 | Nyanners | Kelsey | 70 | permawarrior (steelwoman) | Oddjobs |
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
+| ratty | fumumu | 69 | permapirate | Oddjobs |
 | Christopher | Chris | 68 | islander | Southperry |
-| ratty | fumumu | 68 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
