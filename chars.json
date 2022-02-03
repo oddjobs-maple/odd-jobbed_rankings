@@ -796,6 +796,12 @@
       "job": "STR cleric",
       "guild": "Oddjobs"
     },
+    {
+      "ign": "Furca",
+      "name": "Gusing",
+      "job": "clawslinger",
+      "guild": "Oddjobs"
+    },
     { "ign": "Otios", "name": "Wout", "job": "STRginner", "guild": "Flow" }
   ]
 }

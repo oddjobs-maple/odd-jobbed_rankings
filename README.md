@@ -34,7 +34,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Taima | Kelsey | 119 | STRginner | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
-| alces | deer | 104 | daggermit | Oddjobs |
+| alces | deer | 105 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Keppet | Rapskal | 98 | daggermit | Oddjobs |
@@ -57,9 +57,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | jung1e | Justin | 74 | islander | Newbology |
+| Sakuzyo | NoChorus | 74 | pugilist (marauder) | Oddjobs |
 | Buwwon | robidouux | 74 | woodsman (sniper) | Oddjobs |
 | Celim | Marcelo | 73 | STRginner | Flow |
-| Sakuzyo | NoChorus | 73 | pugilist (marauder) | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | Cassandro | Marcelo | 72 | claw priestlet | Oddjobs |
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
@@ -69,8 +69,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ever | Bella | 70 | islander | Team\* |
 | Nyanners | Kelsey | 70 | permawarrior (steelwoman) | Oddjobs |
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
+| ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
-| ratty | fumumu | 69 | permapirate | Oddjobs |
 | Christopher | Chris | 68 | islander | Southperry |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
@@ -83,9 +83,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MapleStarter | Dvd | 60 | islander | Southperry |
 | Wout | Wout | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
+| MapIeIsIand | ? | 57 | islander | \[none\]\* |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
-| MapIeIsIand | ? | 56 | islander | \[none\]\* |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | attackattack | mae | 55 | DEX page | Oddjobs |
@@ -126,6 +126,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Kimberly | Jonathan | 46 | islander | Flow |
 | Dexual | Hunter | 46 | islander | Southperry |
 | PinkBean | ? | 45 | islander | Shroomies\* |
+| Furca | Gusing | 45 | clawslinger | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
