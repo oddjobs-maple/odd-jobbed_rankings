@@ -50,7 +50,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
-| Hanyou | Kelsey | 84 | DEX WK | Oddjobs |
+| Hanyou | Kelsey | 85 | DEX WK | Oddjobs |
 | Newbton | Jonte | 84 | islander | Southperry |
 | d34r | deer | 78 | dagger spearwoman (vicloc) | Victoria |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
@@ -61,9 +61,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Buwwon | robidouux | 74 | woodsman (sniper) | Oddjobs |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
+| Furbs | Sword Furb | 72 | STRginner | WindowsXP\* |
 | Cassandro | Marcelo | 72 | claw priestlet | Oddjobs |
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
-| Furbs | Sword Furb | 71 | STRginner | WindowsXP\* |
 | Zheedie | David | 71 | islander | Southperry |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
@@ -117,6 +117,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
+| AychPea | MrPringles | 48 | HP page | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
@@ -125,8 +126,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
 | Dexual | Hunter | 46 | islander | Southperry |
+| Furca | Gusing | 46 | clawslinger | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
-| Furca | Gusing | 45 | clawslinger | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
