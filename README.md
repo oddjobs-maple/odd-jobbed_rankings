@@ -43,21 +43,21 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hydropotina | deer | 93 | swashbuckler | Oddjobs |
 | Cortical | cort | 93 | STRginner | Flow |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
+| Daddyo | Hunter | 88 | STRginner | GangGang\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
-| Daddyo | Hunter | 87 | STRginner | GangGang\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
+| Hanyou | Kelsey | 86 | DEX WK | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
-| Hanyou | Kelsey | 85 | DEX WK | Oddjobs |
 | Newbton | Jonte | 84 | islander | Southperry |
 | d34r | deer | 78 | dagger spearwoman (vicloc) | Victoria |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
+| Sakuzyo | NoChorus | 75 | pugilist (marauder) | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | jung1e | Justin | 74 | islander | Newbology |
-| Sakuzyo | NoChorus | 74 | pugilist (marauder) | Oddjobs |
 | Buwwon | robidouux | 74 | woodsman (sniper) | Oddjobs |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
