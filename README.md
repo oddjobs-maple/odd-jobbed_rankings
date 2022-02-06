@@ -47,8 +47,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
+| Hanyou | Kelsey | 87 | DEX WK | Oddjobs |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
-| Hanyou | Kelsey | 86 | DEX WK | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Newbton | Jonte | 84 | islander | Southperry |
@@ -117,16 +117,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
+| Godswood | eriklopez95 | 48 | STR cleric | Oddjobs |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
-| Godswood | eriklopez95 | 47 | STR cleric | Oddjobs |
+| Furca | Gusing | 47 | clawslinger | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
 | Dexual | Hunter | 46 | islander | Southperry |
-| Furca | Gusing | 46 | clawslinger | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
