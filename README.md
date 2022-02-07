@@ -26,12 +26,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rusa | deer | 147 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
-| capreolina | deer | 129 | woodsmaster | Oddjobs |
+| capreolina | deer | 130 | woodsmaster | Oddjobs |
 | cervid | deer | 128 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
+| Taima | Kelsey | 120 | STRginner | Oddjobs |
 | cervine | deer | 120 | I/L archmagelet | Oddjobs |
 | Permanovice | Red | 120 | STRginner | GangGang\* |
-| Taima | Kelsey | 119 | STRginner | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | alces | deer | 105 | daggermit | Oddjobs |
@@ -60,9 +60,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | jung1e | Justin | 74 | islander | Newbology |
 | Buwwon | robidouux | 74 | woodsman (sniper) | Oddjobs |
 | Celim | Marcelo | 73 | STRginner | Flow |
+| Cassandro | Marcelo | 73 | claw priestlet | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | Furbs | Sword Furb | 72 | STRginner | WindowsXP\* |
-| Cassandro | Marcelo | 72 | claw priestlet | Oddjobs |
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
@@ -118,11 +118,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | Godswood | eriklopez95 | 48 | STR cleric | Oddjobs |
+| Furca | Gusing | 48 | clawslinger | Oddjobs |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
-| Furca | Gusing | 47 | clawslinger | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
