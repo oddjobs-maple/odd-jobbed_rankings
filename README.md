@@ -56,9 +56,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
 | Sakuzyo | NoChorus | 75 | pugilist (marauder) | Oddjobs |
+| Buwwon | robidouux | 75 | woodsman (sniper) | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | jung1e | Justin | 74 | islander | Newbology |
-| Buwwon | robidouux | 74 | woodsman (sniper) | Oddjobs |
 | Celim | Marcelo | 73 | STRginner | Flow |
 | Cassandro | Marcelo | 73 | claw priestlet | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
