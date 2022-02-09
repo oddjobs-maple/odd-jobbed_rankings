@@ -38,6 +38,12 @@
       "guild": "Flow"
     },
     {
+      "ign": "Permanovice",
+      "name": "Red",
+      "job": "STRginner",
+      "guild": "GangGang"
+    },    
+    {
       "ign": "cervine",
       "name": "deer",
       "job": "I/L archmagelet",
@@ -169,12 +175,6 @@
       "name": "Monc",
       "job": "permamagician",
       "guild": "Oddjobs"
-    },
-    {
-      "ign": "Permanovice",
-      "name": "Red",
-      "job": "STRginner",
-      "guild": "GangGang"
     },
     {
       "ign": "ScrubDaddy",

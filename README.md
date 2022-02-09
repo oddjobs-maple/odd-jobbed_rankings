@@ -30,8 +30,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervid | deer | 128 | STR bishop | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Taima | Kelsey | 120 | STRginner | Oddjobs |
-| cervine | deer | 120 | I/L archmagelet | Oddjobs |
 | Permanovice | Red | 120 | STRginner | GangGang\* |
+| cervine | deer | 120 | I/L archmagelet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | alces | deer | 105 | daggermit | Oddjobs |
@@ -54,15 +54,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Newbton | Jonte | 84 | islander | Southperry |
 | d34r | deer | 78 | dagger spearwoman (vicloc) | Victoria |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
+| Sakuzyo | NoChorus | 76 | pugilist (marauder) | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
-| Sakuzyo | NoChorus | 75 | pugilist (marauder) | Oddjobs |
 | Buwwon | robidouux | 75 | woodsman (sniper) | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | jung1e | Justin | 74 | islander | Newbology |
 | Celim | Marcelo | 73 | STRginner | Flow |
+| Furbs | Sword Furb | 73 | STRginner | WindowsXP\* |
 | Cassandro | Marcelo | 73 | claw priestlet | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
-| Furbs | Sword Furb | 72 | STRginner | WindowsXP\* |
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry |
 | Copo | Marcelo | 70 | permapirate | Oddjobs |
@@ -114,10 +114,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
 | Contagion | Elie | 49 | islander | Newbology |
 | GooderNoddy | TotallyNotShoe | 49 | HP STRginner | Oddjobs |
+| Godswood | eriklopez95 | 49 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
-| Godswood | eriklopez95 | 48 | STR cleric | Oddjobs |
 | Furca | Gusing | 48 | clawslinger | Oddjobs |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
