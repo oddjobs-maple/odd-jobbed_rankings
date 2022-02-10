@@ -33,8 +33,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Permanovice | Red | 120 | STRginner | GangGang\* |
 | cervine | deer | 120 | I/L archmagelet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 112 | STRginner | Oddjobs |
+| alces | deer | 106 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
-| alces | deer | 105 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Keppet | Rapskal | 98 | daggermit | Oddjobs |
@@ -43,7 +43,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hydropotina | deer | 93 | swashbuckler | Oddjobs |
 | Cortical | cort | 93 | STRginner | Flow |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
-| Hanyou | Kelsey | 89 | DEX WK | Oddjobs |
+| Hanyou | Kelsey | 91 | DEX WK | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | GangGang\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
@@ -82,8 +82,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | LazySoup | ? | 60 | islander | Southperry |
 | MapleStarter | Dvd | 60 | islander | Southperry |
 | Wout | Wout | 58 | islander | Southperry |
+| MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
-| MapIeIsIand | ? | 57 | islander | \[none\]\* |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | d33r | deer | 56 | clericlet (vicloc) | Victoria |
