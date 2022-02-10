@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 147 | darksterity knight | Oddjobs |
+| rusa | deer | 148 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
 | capreolina | deer | 130 | woodsmaster | Oddjobs |
@@ -43,11 +43,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hydropotina | deer | 93 | swashbuckler | Oddjobs |
 | Cortical | cort | 93 | STRginner | Flow |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
+| Hanyou | Kelsey | 89 | DEX WK | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | GangGang\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
-| Hanyou | Kelsey | 87 | DEX WK | Oddjobs |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
@@ -55,8 +55,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | d34r | deer | 78 | dagger spearwoman (vicloc) | Victoria |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Sakuzyo | NoChorus | 76 | pugilist (marauder) | Oddjobs |
+| Buwwon | robidouux | 76 | woodsman (sniper) | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
-| Buwwon | robidouux | 75 | woodsman (sniper) | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | jung1e | Justin | 74 | islander | Newbology |
 | Celim | Marcelo | 73 | STRginner | Flow |
@@ -86,10 +86,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MapIeIsIand | ? | 57 | islander | \[none\]\* |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
+| d33r | deer | 56 | clericlet (vicloc) | Victoria |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | attackattack | mae | 55 | DEX page | Oddjobs |
-| d33r | deer | 55 | clericlet (vicloc) | Victoria |
 | 1sme | Zin | 55 | islander | Southperry |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
