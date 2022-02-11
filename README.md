@@ -43,7 +43,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | hydropotina | deer | 93 | swashbuckler | Oddjobs |
 | Cortical | cort | 93 | STRginner | Flow |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
-| Hanyou | Kelsey | 91 | DEX WK | Oddjobs |
+| Hanyou | Kelsey | 92 | DEX WK | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | GangGang\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
@@ -71,7 +71,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
-| Christopher | Chris | 68 | islander | Southperry |
+| Christopher | Chris | 69 | islander | Southperry |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
