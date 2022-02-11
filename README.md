@@ -76,8 +76,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Medulla | cort | 62 | dagger fighter | Oddjobs |
+| Battlesage | Red | 62 | F/P gish | GangGang\* |
 | Oahu | Tom | 62 | STRlander | Southperry |
-| Battlesage | Red | 61 | F/P gish | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
 | MapleStarter | Dvd | 60 | islander | Southperry |
@@ -115,10 +115,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Contagion | Elie | 49 | islander | Newbology |
 | GooderNoddy | TotallyNotShoe | 49 | HP STRginner | Oddjobs |
 | Godswood | eriklopez95 | 49 | STR cleric | Oddjobs |
+| Furca | Gusing | 49 | clawslinger | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
-| Furca | Gusing | 48 | clawslinger | Oddjobs |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
