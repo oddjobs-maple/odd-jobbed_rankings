@@ -42,8 +42,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
 | hydropotina | deer | 93 | swashbuckler | Oddjobs |
 | Cortical | cort | 93 | STRginner | Flow |
+| Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
 | Boymoder | Kelsey | 92 | STRmit | Oddjobs |
-| Hanyou | Kelsey | 92 | DEX WK | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | GangGang\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
@@ -87,10 +87,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | d33r | deer | 56 | clericlet (vicloc) | Victoria |
+| 1sme | Zin | 56 | islander | Southperry |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | attackattack | mae | 55 | DEX page | Oddjobs |
-| 1sme | Zin | 55 | islander | Southperry |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
