@@ -53,14 +53,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Newbton | Jonte | 84 | islander | Southperry |
 | d34r | deer | 78 | dagger spearwoman (vicloc) | Victoria |
+| Buwwon | robidouux | 77 | woodsman (sniper) | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Sakuzyo | NoChorus | 76 | pugilist (marauder) | Oddjobs |
-| Buwwon | robidouux | 76 | woodsman (sniper) | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
+| Furbs | Sword Furb | 74 | STRginner | WindowsXP\* |
 | jung1e | Justin | 74 | islander | Newbology |
 | Celim | Marcelo | 73 | STRginner | Flow |
-| Furbs | Sword Furb | 73 | STRginner | WindowsXP\* |
 | Cassandro | Marcelo | 73 | claw priestlet | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
