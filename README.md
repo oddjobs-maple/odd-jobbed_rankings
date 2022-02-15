@@ -110,9 +110,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Camomile | ? | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
+| Contagion | Elie | 50 | islander | Newbology |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
-| Contagion | Elie | 49 | islander | Newbology |
 | GooderNoddy | TotallyNotShoe | 49 | HP STRginner | Oddjobs |
 | Godswood | eriklopez95 | 49 | STR cleric | Oddjobs |
 | Furca | Gusing | 49 | clawslinger | Oddjobs |
