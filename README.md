@@ -53,7 +53,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Newbton | Jonte | 84 | islander | Southperry |
 | d34r | deer | 78 | dagger spearwoman (vicloc) | Victoria |
-| Buwwon | robidouux | 77 | woodsman (sniper) | Oddjobs |
+| Buwwon | robidouux | 78 | woodsman (sniper) | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Sakuzyo | NoChorus | 76 | pugilist (marauder) | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
@@ -64,8 +64,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cassandro | Marcelo | 73 | claw priestlet | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
+| Copo | Marcelo | 71 | permapirate | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry |
-| Copo | Marcelo | 70 | permapirate | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
 | Nyanners | Kelsey | 70 | permawarrior (steelwoman) | Oddjobs |
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
