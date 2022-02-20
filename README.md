@@ -111,11 +111,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | EasyIsland | ? | 50 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
 | Contagion | Elie | 50 | islander | Newbology |
+| Godswood | eriklopez95 | 50 | STR cleric | Oddjobs |
 | Furca | Gusing | 50 | clawslinger | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
 | GooderNoddy | TotallyNotShoe | 49 | HP STRginner | Oddjobs |
-| Godswood | eriklopez95 | 49 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
