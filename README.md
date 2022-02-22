@@ -40,10 +40,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Keppet | Rapskal | 98 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
-| hydropotina | deer | 93 | swashbuckler | Oddjobs |
+| hydropotina | deer | 94 | swashbuckler | Oddjobs |
+| Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Cortical | cort | 93 | STRginner | Flow |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
-| Boymoder | Kelsey | 92 | STRmit | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | GangGang\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
