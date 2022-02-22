@@ -101,6 +101,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
+| LightGuard | felyp244 | 51 | DEX page | Oddjobs |
 | doiob | doiob | 50 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
@@ -128,6 +129,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Kimberly | Jonathan | 46 | islander | Flow |
 | Dexual | Hunter | 46 | islander | Southperry |
 | PinkBean | ? | 45 | islander | Shroomies\* |
+| Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
