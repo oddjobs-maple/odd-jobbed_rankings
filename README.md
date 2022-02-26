@@ -74,9 +74,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Christopher | Chris | 69 | islander | Southperry |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
+| Medulla | cort | 63 | dagger fighter | Oddjobs |
 | Battlesage | Red | 63 | F/P gish | GangGang\* |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
-| Medulla | cort | 62 | dagger fighter | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
