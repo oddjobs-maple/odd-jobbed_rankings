@@ -30,8 +30,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | cervid | deer | 129 | STR bishop | Oddjobs |
 | Taima | Kelsey | 121 | STRginner | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
+| cervine | deer | 121 | I/L archmagelet | Oddjobs |
 | Permanovice | Red | 120 | STRginner | GangGang\* |
-| cervine | deer | 120 | I/L archmagelet | Oddjobs |
 | LoneW0lf1600 | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | alces | deer | 106 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
