@@ -54,8 +54,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Newbton | Jonte | 84 | islander | Southperry |
 | d34r | deer | 78 | dagger spearwoman (vicloc) | Victoria |
 | Buwwon | robidouux | 78 | woodsman (sniper) | Oddjobs |
+| Sakuzyo | NoChorus | 77 | pugilist (marauder) | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
-| Sakuzyo | NoChorus | 76 | pugilist (marauder) | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Furbs | Sword Furb | 74 | STRginner | WindowsXP\* |
@@ -73,8 +73,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | Christopher | Chris | 69 | islander | Southperry |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
+| Medulla | cort | 64 | dagger fighter | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| Medulla | cort | 63 | dagger fighter | Oddjobs |
 | Battlesage | Red | 63 | F/P gish | GangGang\* |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Oahu | Tom | 62 | STRlander | Southperry |
