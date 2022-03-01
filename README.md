@@ -26,7 +26,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rusa | deer | 149 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
-| capreolina | deer | 130 | woodsmaster | Oddjobs |
+| capreolina | deer | 131 | woodsmaster | Oddjobs |
 | cervid | deer | 129 | STR bishop | Oddjobs |
 | Taima | Kelsey | 121 | STRginner | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
