@@ -84,9 +84,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
+| d33r | deer | 57 | clericlet (vicloc) | Victoria |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
-| d33r | deer | 56 | clericlet (vicloc) | Victoria |
 | 1sme | Zin | 56 | islander | Southperry |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
