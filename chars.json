@@ -820,6 +820,12 @@
       "job": "DEX page",
       "guild": "Oddjobs"
     },
+    {
+      "ign": "Duhm",
+      "name": "Duhm",
+      "job": "STRginner",
+      "guild": "Flow"
+    },
     { "ign": "Otios", "name": "Wout", "job": "STRginner", "guild": "Flow" }
   ]
 }

@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 149 | darksterity knight | Oddjobs |
+| rusa | deer | 150 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
 | capreolina | deer | 131 | woodsmaster | Oddjobs |
@@ -57,6 +57,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Sakuzyo | NoChorus | 77 | pugilist (marauder) | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
+| Duhm | Duhm | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Furbs | Sword Furb | 74 | STRginner | WindowsXP\* |
 | jung1e | Justin | 74 | islander | Newbology |
