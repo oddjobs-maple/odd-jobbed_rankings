@@ -53,8 +53,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Newbton | Jonte | 84 | islander | Southperry |
 | d34r | deer | 78 | dagger spearwoman (vicloc) | Victoria |
+| Sakuzyo | NoChorus | 78 | pugilist (marauder) | Oddjobs |
 | Buwwon | robidouux | 78 | woodsman (sniper) | Oddjobs |
-| Sakuzyo | NoChorus | 77 | pugilist (marauder) | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
 | Duhm | Duhm | 75 | STRginner | Flow |
