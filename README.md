@@ -95,13 +95,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
+| Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
-| Numidium | Kelsey | 52 | STR cleric | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
+| Furca | Gusing | 51 | clawslinger | Oddjobs |
 | LightGuard | felyp244 | 51 | DEX page | Oddjobs |
 | doiob | doiob | 50 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
@@ -114,7 +115,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
 | Contagion | Elie | 50 | islander | Newbology |
 | Godswood | eriklopez95 | 50 | STR cleric | Oddjobs |
-| Furca | Gusing | 50 | clawslinger | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
 | GooderNoddy | TotallyNotShoe | 49 | HP STRginner | Oddjobs |
