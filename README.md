@@ -56,8 +56,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Sakuzyo | NoChorus | 78 | pugilist (marauder) | Oddjobs |
 | Buwwon | robidouux | 78 | woodsman (sniper) | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
+| Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
-| Duhm | Duhm | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Furbs | Sword Furb | 74 | STRginner | WindowsXP\* |
 | jung1e | Justin | 74 | islander | Newbology |
