@@ -61,18 +61,18 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Furbs | Sword Furb | 74 | STRginner | WindowsXP\* |
 | jung1e | Justin | 74 | islander | Newbology |
+| Cassandro | Marcelo | 74 | claw priestlet | Oddjobs |
 | Celim | Marcelo | 73 | STRginner | Flow |
-| Cassandro | Marcelo | 73 | claw priestlet | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
 | Copo | Marcelo | 71 | permapirate | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
+| Christopher | Chris | 70 | islander | Southperry |
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
-| Christopher | Chris | 69 | islander | Southperry |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | Medulla | cort | 64 | dagger fighter | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
