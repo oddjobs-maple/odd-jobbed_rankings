@@ -98,12 +98,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
+| Furca | Gusing | 52 | clawslinger | Oddjobs |
+| LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
-| Furca | Gusing | 51 | clawslinger | Oddjobs |
-| LightGuard | felyp244 | 51 | DEX page | Oddjobs |
 | doiob | doiob | 50 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
@@ -158,8 +158,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GoGoSnuggles | Snuggles | 24 | camper | Flow |
 | Itati | ? | 19 | camper | \[none\]\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
+| WarmApplePie | Snuggles | 17 | camper | \[none\]\* |
 | L0neWolf1600 | LoneWolf1600 | 16 | camper | Campers\* |
-| WarmApplePie | Snuggles | 16 | camper | \[none\]\* |
 | BloodyTaco | ? | 16 | camper | \[none\]\* |
 | DuckyWucky | ? | 15 | camper | \[none\]\* |
 | Hobbits | ? | 14 | camper | \[none\]\* |
