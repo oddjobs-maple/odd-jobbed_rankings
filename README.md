@@ -59,10 +59,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
+| Celim | Marcelo | 74 | STRginner | Flow |
 | Furbs | Sword Furb | 74 | STRginner | WindowsXP\* |
 | jung1e | Justin | 74 | islander | Newbology |
 | Cassandro | Marcelo | 74 | claw priestlet | Oddjobs |
-| Celim | Marcelo | 73 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
 | Copo | Marcelo | 71 | permapirate | Oddjobs |
