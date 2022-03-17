@@ -26,7 +26,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rusa | deer | 152 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
-| capreolina | deer | 132 | woodsmaster | Oddjobs |
+| capreolina | deer | 133 | woodsmaster | Oddjobs |
 | cervid | deer | 129 | STR bishop | Oddjobs |
 | Taima | Kelsey | 121 | STRginner | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
@@ -52,19 +52,19 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Newbton | Jonte | 84 | islander | Southperry |
-| Sakuzyo | NoChorus | 79 | pugilist (marauder) | Oddjobs |
+| Sakuzyo | NoChorus | 80 | pugilist (marauder) | Oddjobs |
 | Buwwon | robidouux | 79 | woodsman (sniper) | Oddjobs |
 | d34r | deer | 78 | dagger spearwoman (vicloc) | Victoria |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
+| Cassandro | Marcelo | 75 | claw priestlet | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | Furbs | Sword Furb | 74 | STRginner | WindowsXP\* |
 | jung1e | Justin | 74 | islander | Newbology |
-| Cassandro | Marcelo | 74 | claw priestlet | Oddjobs |
+| shadowban | cecilia | 73 | LUKless chief dit | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
-| shadowban | cecilia | 72 | LUKless chief dit | Oddjobs |
 | Copo | Marcelo | 71 | permapirate | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
@@ -101,13 +101,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Furca | Gusing | 52 | clawslinger | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
+| Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
 | doiob | doiob | 50 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
-| Sommer | Marcelo | 50 | swashbuckler | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry |
 | Zrar | ? | 50 | islander | Southperry |
 | Camomile | ? | 50 | islander | \[none\]\* |
