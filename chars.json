@@ -826,6 +826,18 @@
       "job": "STRginner",
       "guild": "Flow"
     },
-    { "ign": "Otios", "name": "Wout", "job": "STRginner", "guild": "Flow" }
+    {
+      "ign": "uayua",
+      "name": "cecilia",
+      "job": "STRginner",
+      "guild": "Oddjobs"
+    },
+    { "ign": "Otios", "name": "Wout", "job": "STRginner", "guild": "Flow" },
+    {
+      "ign": "AppleBasket",
+      "name": "JunkyardBat",
+      "job": "clericlet",
+      "guild": "Oddjobs"
+    }
   ]
 }
