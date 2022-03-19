@@ -65,7 +65,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | jung1e | Justin | 74 | islander | Newbology |
 | shadowban | cecilia | 73 | LUKless chief dit | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
-| Copo | Marcelo | 71 | permapirate | Oddjobs |
+| Copo | Marcelo | 72 | permapirate | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
@@ -98,7 +98,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
-| Furca | Gusing | 52 | clawslinger | Oddjobs |
+| Furca | Gusing | 53 | clawslinger | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
@@ -115,6 +115,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
 | Contagion | Elie | 50 | islander | Newbology |
 | Godswood | eriklopez95 | 50 | STR cleric | Oddjobs |
+| uayua | cecilia | 50 | STRginner | Oddjobs |
 | AppleBasket | JunkyardBat | 50 | clericlet | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
@@ -126,7 +127,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Luckiestboy | Dvd | 47 | LUKlander | Newbology |
 | Peep | ? | 47 | islander | \[none\]\* |
-| uayua | cecilia | 47 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
 | Kimberly | Jonathan | 46 | islander | Flow |
