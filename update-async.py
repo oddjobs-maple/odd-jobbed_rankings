@@ -49,7 +49,7 @@ async def to_thread(func, /, *args, **kwargs):
 
 
 def markdown_esc(s):
-    return SPECIAL_MARKDOWN_RE.sub(lambda mo: fr"\{mo.group(0)}", s)
+    return SPECIAL_MARKDOWN_RE.sub(lambda mo: rf"\{mo.group(0)}", s)
 
 
 with open("./chars.json", "r", encoding="UTF-8") as chars_json:
@@ -57,23 +57,30 @@ with open("./chars.json", "r", encoding="UTF-8") as chars_json:
 
 
 def fetch_lvl(i):
-    ign = chars[i]["ign"]
-    url = f"https://maplelegends.com/levels?name={ign}"
+    try:
+        ign = chars[i]["ign"]
+        url = f"https://maplelegends.com/levels?name={ign}"
 
-    with urllib.request.urlopen(url) as res:
-        html = res.read()
+        with urllib.request.urlopen(url) as res:
+            html = res.read()
 
-    soup = BeautifulSoup(html, "lxml")
-    level = 0
-    for table_child in soup.table.children:
-        if table_child.name == "tr":
-            for tr_child in table_child.children:
-                if tr_child.name == "td":
-                    level = int(tr_child.string)
+        soup = BeautifulSoup(html, "lxml")
+        level = 0
+        for table_child in soup.table.children:
+            if table_child.name == "tr":
+                for tr_child in table_child.children:
+                    if tr_child.name == "td":
+                        level = int(tr_child.string)
+                        break
+
+                if level > 0:
                     break
-
-            if level > 0:
-                break
+    except BaseException as e:
+        print(
+            f"Exception ocurred while fetching level for IGN {ign}",
+            file=sys.stderr,
+        )
+        raise e
 
     if level < 1:
         print(f"Could not get level for IGN {ign}", file=sys.stderr)
@@ -88,11 +95,9 @@ def fetch_lvl(i):
 asyncio.run(
     asyncio.wait(
         [to_thread(fetch_lvl, i) for i in range(len(chars))],
-        return_when=asyncio.FIRST_EXCEPTION,
+        return_when=asyncio.ALL_COMPLETED,
     )
 )
-
-print(chars)
 
 with open("./README.md", "w", encoding="UTF-8") as readme:
     readme.write(PREAMBLE)
