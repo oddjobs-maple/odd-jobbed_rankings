@@ -92,6 +92,8 @@ asyncio.run(
     )
 )
 
+print(chars)
+
 with open("./README.md", "w", encoding="UTF-8") as readme:
     readme.write(PREAMBLE)
 
