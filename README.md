@@ -52,8 +52,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Newbton | Jonte | 84 | islander | Southperry |
+| d34r | deer | 80 | dagger spearwoman (vicloc) | Victoria |
 | Sakuzyo | NoChorus | 80 | pugilist (marauder) | Oddjobs |
-| d34r | deer | 79 | dagger spearwoman (vicloc) | Victoria |
 | Buwwon | robidouux | 79 | woodsman (sniper) | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Duhm | Duhm | 76 | STRginner | Flow |
