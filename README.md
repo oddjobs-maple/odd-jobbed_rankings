@@ -51,7 +51,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
-| Newbton | Jonte | 84 | islander | Southperry |
+| Newbton | Jonte | 85 | islander | Southperry |
 | Sakuzyo | NoChorus | 81 | pugilist (marauder) | Oddjobs |
 | d34r | deer | 80 | dagger spearwoman (vicloc) | Victoria |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
@@ -105,6 +105,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
+| Contagion | Elie | 51 | islander | Newbology |
+| AppleBasket | JunkyardBat | 51 | clericlet | Oddjobs |
 | doiob | doiob | 50 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
@@ -113,10 +115,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Camomile | ? | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
-| Contagion | Elie | 50 | islander | Newbology |
 | Godswood | eriklopez95 | 50 | STR cleric | Oddjobs |
 | uayua | cecilia | 50 | STRginner | Oddjobs |
-| AppleBasket | JunkyardBat | 50 | clericlet | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
 | GooderNoddy | TotallyNotShoe | 49 | HP STRginner | Oddjobs |
