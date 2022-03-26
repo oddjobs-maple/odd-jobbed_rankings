@@ -29,8 +29,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | capreolina | deer | 133 | woodsmaster | Oddjobs |
 | cervid | deer | 129 | STR bishop | Oddjobs |
 | Taima | Kelsey | 122 | STRginner | Oddjobs |
+| cervine | deer | 122 | I/L archmagelet | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
-| cervine | deer | 121 | I/L archmagelet | Oddjobs |
 | Permanovice | Red | 120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | alces | deer | 106 | daggermit | Oddjobs |
@@ -79,9 +79,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Battlesage | Red | 63 | F/P gish | GangGang\* |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Oahu | Tom | 62 | STRlander | Southperry |
+| MapleStarter | Dvd | 61 | islander | Southperry |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
-| MapleStarter | Dvd | 60 | islander | Southperry |
 | d33r | deer | 58 | clericlet (vicloc) | Victoria |
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
@@ -106,6 +106,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
 | Contagion | Elie | 51 | islander | Newbology |
+| uayua | cecilia | 51 | STRginner | Oddjobs |
 | AppleBasket | JunkyardBat | 51 | clericlet | Oddjobs |
 | doiob | doiob | 50 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
@@ -116,7 +117,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | EasyIsland | ? | 50 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 50 | islander | Southperry |
 | Godswood | eriklopez95 | 50 | STR cleric | Oddjobs |
-| uayua | cecilia | 50 | STRginner | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
 | GooderNoddy | TotallyNotShoe | 49 | HP STRginner | Oddjobs |
