@@ -52,8 +52,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Newbton | Jonte | 85 | islander | Southperry |
+| d34r | deer | 81 | dagger spearwoman (vicloc) | Victoria |
 | Sakuzyo | NoChorus | 81 | pugilist (marauder) | Oddjobs |
-| d34r | deer | 80 | dagger spearwoman (vicloc) | Victoria |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Duhm | Duhm | 76 | STRginner | Flow |
@@ -144,13 +144,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cottage | ? | 42 | islander | Southperry |
 | Snapples | Kristina | 42 | islander | Newbology |
 | Neveroffland | ? | 42 | islander | \[none\]\* |
+| ozotoceros | deer | 42 | DEX/LUK hybridlander | Oddjobs |
 | Babbi | Alvin | 41 | islander | Southperry |
 | Woogie | ? | 41 | islander | Southperry |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology |
 | Mesa | sneaks | 41 | islander | Southperry |
 | yotta | ? | 41 | islander | \[none\]\* |
-| ozotoceros | deer | 41 | DEX/LUK hybridlander | Oddjobs |
 | DumbIsland | Leo | 40 | islander | Southperry |
 | Kokoro | ? | 40 | islander | \[none\]\* |
 | BirdMandala | ? | 40 | islander | Southperry |
