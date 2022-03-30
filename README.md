@@ -73,7 +73,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
-| Medulla | cort | 66 | dagger fighter | Oddjobs |
+| Medulla | cort | 68 | dagger fighter | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Battlesage | Red | 63 | F/P gish | GangGang\* |
