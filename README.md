@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 155 | darksterity knight | Oddjobs |
+| rusa | deer | 156 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
 | capreolina | deer | 133 | woodsmaster | Oddjobs |
@@ -99,14 +99,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Timberly | ? | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
+| Contagion | Elie | 52 | islander | Newbology |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
+| uayua | cecilia | 52 | STRginner | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
-| Contagion | Elie | 51 | islander | Newbology |
-| uayua | cecilia | 51 | STRginner | Oddjobs |
 | AppleBasket | JunkyardBat | 51 | clericlet | Oddjobs |
 | doiob | doiob | 50 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
