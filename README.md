@@ -52,20 +52,20 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Newbton | Jonte | 85 | islander | Southperry |
-| d34r | deer | 81 | dagger spearwoman (vicloc) | Victoria |
+| d34r | deer | 82 | dagger spearwoman (vicloc) | Victoria |
 | Sakuzyo | NoChorus | 81 | pugilist (marauder) | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
+| jung1e | Justin | 75 | islander | Newbology |
 | Cassandro | Marcelo | 75 | claw priestlet | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | Furbs | Sword Furb | 74 | STRginner | WindowsXP\* |
-| jung1e | Justin | 74 | islander | Newbology |
+| Copo | Marcelo | 73 | permapirate | Oddjobs |
 | shadowban | cecilia | 73 | LUKless chief dit | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
-| Copo | Marcelo | 72 | permapirate | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
@@ -99,6 +99,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Timberly | ? | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
+| AppleBasket | JunkyardBat | 53 | clericlet | Oddjobs |
 | Contagion | Elie | 52 | islander | Newbology |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | uayua | cecilia | 52 | STRginner | Oddjobs |
@@ -107,7 +108,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
-| AppleBasket | JunkyardBat | 51 | clericlet | Oddjobs |
 | doiob | doiob | 50 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
