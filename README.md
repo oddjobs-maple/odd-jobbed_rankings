@@ -68,7 +68,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
-| Medulla | cort | 70 | dagger fighter | Oddjobs |
+| Medulla | cort | 70 | dagger sader | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
 | Christopher | Chris | 70 | islander | Southperry |
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
