@@ -28,12 +28,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Otios | Wout | 136 | STRginner | Flow |
 | capreolina | deer | 133 | woodsmaster | Oddjobs |
 | cervid | deer | 129 | STR bishop | Oddjobs |
+| cervine | deer | 123 | I/L archmagelet | Oddjobs |
 | Taima | Kelsey | 122 | STRginner | Oddjobs |
-| cervine | deer | 122 | I/L archmagelet | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | 120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 112 | STRginner | Oddjobs |
-| alces | deer | 106 | daggermit | Oddjobs |
+| alces | deer | 107 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
@@ -63,12 +63,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cassandro | Marcelo | 75 | claw priestlet | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
+| Medulla | cort | 74 | dagger sader | Oddjobs |
 | Copo | Marcelo | 73 | permapirate | Oddjobs |
 | shadowban | cecilia | 73 | LUKless chief dit | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
-| Medulla | cort | 70 | dagger sader | Oddjobs |
 | Ever | Bella | 70 | islander | Team\* |
 | Christopher | Chris | 70 | islander | Southperry |
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
