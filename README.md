@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 156 | darksterity knight | Oddjobs |
+| rusa | deer | 157 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
 | capreolina | deer | 133 | woodsmaster | Oddjobs |
@@ -63,8 +63,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cassandro | Marcelo | 75 | claw priestlet | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
+| Copo | Marcelo | 74 | permapirate | Oddjobs |
 | Medulla | cort | 74 | dagger sader | Oddjobs |
-| Copo | Marcelo | 73 | permapirate | Oddjobs |
 | shadowban | cecilia | 73 | LUKless chief dit | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
@@ -127,9 +127,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
+| Kimberly | Jonathan | 47 | islander | Flow |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
-| Kimberly | Jonathan | 46 | islander | Flow |
 | Dexual | Hunter | 46 | islander | Southperry |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
