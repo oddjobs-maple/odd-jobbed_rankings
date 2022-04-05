@@ -55,6 +55,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | d34r | deer | 82 | dagger spearwoman (vicloc) | Victoria |
 | Sakuzyo | NoChorus | 81 | pugilist (marauder) | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
+| Medulla | cort | 77 | dagger sader | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
@@ -64,7 +65,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | Copo | Marcelo | 74 | permapirate | Oddjobs |
-| Medulla | cort | 74 | dagger sader | Oddjobs |
 | shadowban | cecilia | 73 | LUKless chief dit | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
@@ -95,14 +95,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
+| uayua | cecilia | 54 | STRginner | Oddjobs |
+| AppleBasket | JunkyardBat | 54 | clericlet | Oddjobs |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
-| AppleBasket | JunkyardBat | 53 | clericlet | Oddjobs |
 | Contagion | Elie | 52 | islander | Newbology |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
-| uayua | cecilia | 52 | STRginner | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
