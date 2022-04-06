@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 157 | darksterity knight | Oddjobs |
+| rusa | deer | 158 | darksterity knight | Oddjobs |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
 | capreolina | deer | 133 | woodsmaster | Oddjobs |
@@ -65,7 +65,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | Copo | Marcelo | 74 | permapirate | Oddjobs |
-| shadowban | cecilia | 73 | LUKless chief dit | Oddjobs |
+| shadowban | cecilia | 74 | LUKless chief dit | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
@@ -82,20 +82,20 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MapleStarter | Dvd | 61 | islander | Southperry |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
-| d33r | deer | 58 | clericlet (vicloc) | Victoria |
+| d33r | deer | 59 | clericlet (vicloc) | Victoria |
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | 1sme | Zin | 56 | islander | Southperry |
+| uayua | cecilia | 56 | STRginner | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | attackattack | mae | 55 | DEX page | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
-| uayua | cecilia | 54 | STRginner | Oddjobs |
 | AppleBasket | JunkyardBat | 54 | clericlet | Oddjobs |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
