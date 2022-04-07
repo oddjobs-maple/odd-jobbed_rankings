@@ -24,6 +24,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | rusa | deer | 158 | darksterity knight | Oddjobs |
+| Without | Elie | 151 | STR/DEX hybridginner | Spirit\* |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
 | capreolina | deer | 133 | woodsmaster | Oddjobs |
@@ -54,8 +55,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Newbton | Jonte | 85 | islander | Southperry |
 | d34r | deer | 82 | dagger spearwoman (vicloc) | Victoria |
 | Sakuzyo | NoChorus | 82 | pugilist (marauder) | Oddjobs |
+| Medulla | cort | 81 | dagger sader | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
-| Medulla | cort | 79 | dagger sader | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
@@ -86,11 +87,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
+| uayua | cecilia | 57 | STRginner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
 | 1sme | Zin | 56 | islander | Southperry |
-| uayua | cecilia | 56 | STRginner | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
@@ -143,9 +144,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | c7gs | ? | 43 | islander | Southperry |
 | Cottage | ? | 42 | islander | Southperry |
 | Snapples | Kristina | 42 | islander | Newbology |
+| Babbi | Alvin | 42 | islander | Southperry |
 | Neveroffland | ? | 42 | islander | \[none\]\* |
 | ozotoceros | deer | 42 | DEX/LUK hybridlander | Oddjobs |
-| Babbi | Alvin | 41 | islander | Southperry |
 | Woogie | ? | 41 | islander | Southperry |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology |
