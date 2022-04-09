@@ -27,7 +27,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Without | Elie | 151 | STR/DEX hybridginner | Spirit\* |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
-| capreolina | deer | 133 | woodsmaster | Oddjobs |
+| capreolina | deer | 134 | woodsmaster | Oddjobs |
 | cervid | deer | 129 | STR bishop | Oddjobs |
 | cervine | deer | 123 | I/L archmagelet | Oddjobs |
 | Taima | Kelsey | 122 | STRginner | Oddjobs |
@@ -57,7 +57,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Sakuzyo | NoChorus | 82 | pugilist (marauder) | Oddjobs |
 | Medulla | cort | 81 | dagger sader | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
-| rangifer | deer | 76 | pugilist (marauder) | Oddjobs |
+| rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
 | Furbs | Sword Furb | 75 | STRginner | WindowsXP\* |
@@ -80,7 +80,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Battlesage | Red | 63 | F/P gish | GangGang\* |
 | KitsunyChang | Kitsuny | 63 | islander | Amherst\* |
 | Oahu | Tom | 62 | STRlander | Southperry |
-| MapleStarter | Dvd | 61 | islander | Southperry |
+| MapleStarter | Dvd | 61 | islander | Newbology |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
 | d33r | deer | 59 | clericlet (vicloc) | Victoria |
@@ -141,12 +141,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gosu | ? | 43 | islander | \[none\]\* |
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
+| Babbi | Alvin | 43 | islander | Southperry |
 | c7gs | ? | 43 | islander | Southperry |
+| ozotoceros | deer | 43 | DEX/LUK hybridlander | Oddjobs |
 | Cottage | ? | 42 | islander | Southperry |
 | Snapples | Kristina | 42 | islander | Newbology |
-| Babbi | Alvin | 42 | islander | Southperry |
 | Neveroffland | ? | 42 | islander | \[none\]\* |
-| ozotoceros | deer | 42 | DEX/LUK hybridlander | Oddjobs |
 | Woogie | ? | 41 | islander | Southperry |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology |
@@ -161,7 +161,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GoGoSnuggles | Snuggles | 24 | camper | Flow |
 | Itati | ? | 19 | camper | \[none\]\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
-| WarmApplePie | Snuggles | 17 | camper | \[none\]\* |
+| WarmApplePie | Snuggles | 17 | camper | Southperry |
 | L0neWolf1600 | LoneWolf1600 | 16 | camper | Campers\* |
 | BloodyTaco | ? | 16 | camper | \[none\]\* |
 | DuckyWucky | ? | 15 | camper | \[none\]\* |

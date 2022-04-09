@@ -78,7 +78,7 @@
       "ign": "rangifer",
       "name": "deer",
       "job": "pugilist (marauder)",
-      "guild": "Oddjobs"
+      "guild": null
     },
     { "ign": "Ismezin", "name": "Zin", "job": "STRginner", "guild": "Flow" },
     { "ign": "drainer", "name": "mae", "job": "STRginner", "guild": "Flow" },
@@ -320,7 +320,7 @@
       "ign": "WarmApplePie",
       "name": "Snuggles",
       "job": "camper",
-      "guild": null
+      "guild": "Southperry"
     },
     {
       "ign": "DuckyWucky",
@@ -440,7 +440,7 @@
       "ign": "MapleStarter",
       "name": "Dvd",
       "job": "islander",
-      "guild": "Southperry"
+      "guild": "Newbology"
     },
     {
       "ign": "NoJobNoRules",
