@@ -23,13 +23,13 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 158 | darksterity knight | Oddjobs |
+| rusa | deer | 159 | darksterity knight | Oddjobs |
 | Without | Elie | 151 | STR/DEX hybridginner | Spirit\* |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
 | capreolina | deer | 134 | woodsmaster | Oddjobs |
 | cervid | deer | 129 | STR bishop | Oddjobs |
-| cervine | deer | 123 | I/L archmagelet | Oddjobs |
+| cervine | deer | 124 | I/L archmagelet | Oddjobs |
 | Taima | Kelsey | 122 | STRginner | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | 120 | STRginner | GangGang\* |
@@ -53,9 +53,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Newbton | Jonte | 85 | islander | Southperry |
+| Medulla | cort | 83 | dagger sader | Oddjobs |
 | d34r | deer | 82 | dagger spearwoman (vicloc) | Victoria |
 | Sakuzyo | NoChorus | 82 | pugilist (marauder) | Oddjobs |
-| Medulla | cort | 81 | dagger sader | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | Duhm | Duhm | 76 | STRginner | Flow |
@@ -87,17 +87,17 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
+| 1sme | Zin | 57 | islander | Southperry |
 | uayua | cecilia | 57 | STRginner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
-| 1sme | Zin | 56 | islander | Southperry |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
+| AppleBasket | JunkyardBat | 55 | clericlet | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
-| AppleBasket | JunkyardBat | 54 | clericlet | Oddjobs |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | ? | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
@@ -105,12 +105,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
+| doiob | doiob | 51 | STR cleric | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
-| doiob | doiob | 50 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry |
@@ -138,11 +138,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Tonk | ? | 44 | islander | Southperry |
+| c7gs | ? | 44 | islander | Southperry |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
 | Babbi | Alvin | 43 | islander | Southperry |
-| c7gs | ? | 43 | islander | Southperry |
 | ozotoceros | deer | 43 | DEX/LUK hybridlander | Oddjobs |
 | Cottage | ? | 42 | islander | Southperry |
 | Snapples | Kristina | 42 | islander | Newbology |
