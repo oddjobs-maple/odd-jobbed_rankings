@@ -87,12 +87,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
+| uayua | cecilia | 58 | STRginner | Oddjobs |
 | 1sme | Zin | 57 | islander | Southperry |
-| uayua | cecilia | 57 | STRginner | Oddjobs |
+| AppleBasket | JunkyardBat | 57 | clericlet | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
-| AppleBasket | JunkyardBat | 56 | clericlet | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
