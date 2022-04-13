@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 159 | darksterity knight | Oddjobs |
+| rusa | deer | 160 | darksterity knight | Oddjobs |
 | Without | Elie | 151 | STR/DEX hybridginner | Spirit\* |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
@@ -50,9 +50,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
+| Medulla | cort | 86 | dagger sader | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
-| Medulla | cort | 85 | dagger sader | Oddjobs |
 | Newbton | Jonte | 85 | islander | Southperry |
 | d34r | deer | 82 | dagger spearwoman (vicloc) | Victoria |
 | Sakuzyo | NoChorus | 82 | pugilist (marauder) | Oddjobs |
@@ -61,11 +61,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
 | Furbs | Sword Furb | 75 | STRginner | WindowsXP\* |
+| Copo | Marcelo | 75 | permapirate | Oddjobs |
 | jung1e | Justin | 75 | islander | Newbology |
 | Cassandro | Marcelo | 75 | claw priestlet | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
-| Copo | Marcelo | 74 | permapirate | Oddjobs |
 | shadowban | cecilia | 74 | LUKless chief dit | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
@@ -88,8 +88,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
 | uayua | cecilia | 58 | STRginner | Oddjobs |
+| AppleBasket | JunkyardBat | 58 | clericlet | Oddjobs |
 | 1sme | Zin | 57 | islander | Southperry |
-| AppleBasket | JunkyardBat | 57 | clericlet | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
