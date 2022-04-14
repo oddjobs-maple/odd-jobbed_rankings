@@ -47,10 +47,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | GangGang\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
+| Medulla | cort | 88 | dagger sader | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
-| Medulla | cort | 86 | dagger sader | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | Zin | 85 | STRginner | Flow |
 | Newbton | Jonte | 85 | islander | Southperry |
@@ -84,11 +84,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
 | d33r | deer | 59 | clericlet (vicloc) | Victoria |
+| AppleBasket | JunkyardBat | 59 | clericlet | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
 | uayua | cecilia | 58 | STRginner | Oddjobs |
-| AppleBasket | JunkyardBat | 58 | clericlet | Oddjobs |
 | 1sme | Zin | 57 | islander | Southperry |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
