@@ -42,8 +42,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Outside | Tab | 96 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
+| Cortical | cort | 94 | STRginner | Flow |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
-| Cortical | cort | 93 | STRginner | Flow |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | GangGang\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
@@ -82,8 +82,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Oahu | Tom | 62 | STRlander | Southperry |
 | MapleStarter | Dvd | 61 | islander | Newbology |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
+| d33r | deer | 60 | clericlet (vicloc) | Victoria |
 | LazySoup | ? | 60 | islander | Southperry |
-| d33r | deer | 59 | clericlet (vicloc) | Victoria |
 | AppleBasket | JunkyardBat | 59 | clericlet | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
@@ -98,10 +98,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
+| Contagion | Elie | 54 | islander | Newbology |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
-| Contagion | Elie | 53 | islander | Newbology |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
@@ -144,9 +144,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
 | ozotoceros | deer | 43 | DEX/LUK hybridlander | Oddjobs |
+| WettestDog | Hebaio | 43 | islander | Southperry |
 | Cottage | ? | 42 | islander | Southperry |
 | Snapples | Kristina | 42 | islander | Newbology |
 | Neveroffland | ? | 42 | islander | \[none\]\* |
+| Patrao | Duncan | 42 | islander | Southperry |
 | Woogie | ? | 41 | islander | Southperry |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology |
