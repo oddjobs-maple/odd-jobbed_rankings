@@ -45,9 +45,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cortical | cort | 94 | STRginner | Flow |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
+| Medulla | cort | 89 | dagger sader | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | GangGang\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
-| Medulla | cort | 88 | dagger sader | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
@@ -58,12 +58,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Sakuzyo | NoChorus | 82 | pugilist (marauder) | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
+| Cassandro | Marcelo | 76 | claw priestlet | Oddjobs |
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
 | Furbs | Sword Furb | 75 | STRginner | WindowsXP\* |
 | Copo | Marcelo | 75 | permapirate | Oddjobs |
 | jung1e | Justin | 75 | islander | Newbology |
-| Cassandro | Marcelo | 75 | claw priestlet | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | shadowban | cecilia | 74 | LUKless chief dit | Oddjobs |
