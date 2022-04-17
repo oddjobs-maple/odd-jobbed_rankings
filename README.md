@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 160 | darksterity knight | Oddjobs |
+| rusa | deer | 161 | darksterity knight | Oddjobs |
 | Without | Elie | 151 | STR/DEX hybridginner | Spirit\* |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
@@ -80,7 +80,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Battlesage | Red | 63 | F/P gish | GangGang\* |
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
 | Oahu | Tom | 62 | STRlander | Southperry |
-| MapleStarter | Dvd | 61 | islander | Newbology |
+| MapleStarter | Dvd | 62 | islander | Newbology |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | d33r | deer | 60 | clericlet (vicloc) | Victoria |
 | LazySoup | ? | 60 | islander | Southperry |
@@ -162,8 +162,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Subcortical | cort | 40 | islander | Southperry |
 | GoGoSnuggles | Snuggles | 24 | camper | Flow |
 | Itati | ? | 19 | camper | \[none\]\* |
+| WarmApplePie | Snuggles | 18 | camper | Southperry |
 | Tutorialist | ? | 17 | camper | Amherst\* |
-| WarmApplePie | Snuggles | 17 | camper | Southperry |
 | L0neWolf1600 | LoneWolf1600 | 16 | camper | Campers\* |
 | BloodyTaco | ? | 16 | camper | \[none\]\* |
 | DuckyWucky | ? | 15 | camper | \[none\]\* |
