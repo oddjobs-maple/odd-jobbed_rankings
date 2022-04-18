@@ -54,7 +54,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | João | 85 | STRginner | Flow |
 | Newbton | Jonte | 85 | islander | Southperry |
-| d34r | deer | 82 | dagger spearwoman (vicloc) | Victoria |
+| d34r | deer | 83 | dagger spearwoman (vicloc) | Victoria |
 | Sakuzyo | NoChorus | 82 | pugilist (marauder) | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
@@ -77,7 +77,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| Battlesage | Red | 63 | F/P gish | GangGang\* |
+| Battlesage | Red | 63 | F/P gish | Oddjobs |
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | MapleStarter | Dvd | 62 | islander | Newbology |
