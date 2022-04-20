@@ -38,7 +38,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
-| Keppet | Rapskal | 99 | daggermit | Oddjobs |
+| Keppet | Rapskal | 100 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
@@ -81,14 +81,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | MapleStarter | Dvd | 62 | islander | Newbology |
+| AppleBasket | JunkyardBat | 61 | clericlet | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | d33r | deer | 60 | clericlet (vicloc) | Victoria |
 | LazySoup | ? | 60 | islander | Southperry |
-| AppleBasket | JunkyardBat | 60 | clericlet | Oddjobs |
+| uayua | cecilia | 59 | STRginner | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
-| uayua | cecilia | 58 | STRginner | Oddjobs |
 | 1sme | João | 57 | islander | Southperry |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
@@ -111,6 +111,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ashore | Sean | 51 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
+| Godswood | eriklopez95 | 51 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry |
@@ -118,7 +119,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Camomile | Vivian | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
-| Godswood | eriklopez95 | 50 | STR cleric | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
