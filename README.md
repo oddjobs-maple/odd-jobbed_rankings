@@ -81,11 +81,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | MapleStarter | Dvd | 62 | islander | Newbology |
+| uayua | cecilia | 62 | STRginner | Oddjobs |
 | AppleBasket | JunkyardBat | 61 | clericlet | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | d33r | deer | 60 | clericlet (vicloc) | Victoria |
 | LazySoup | ? | 60 | islander | Southperry |
-| uayua | cecilia | 59 | STRginner | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
