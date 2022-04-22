@@ -37,8 +37,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | alces | deer | 107 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
+| Keppet | Rapskal | 101 | daggermit | Oddjobs |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
-| Keppet | Rapskal | 100 | daggermit | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
@@ -76,15 +76,15 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
+| uayua | cecilia | 64 | STRginner | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Battlesage | Red | 63 | F/P gish | Oddjobs |
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | MapleStarter | Dvd | 62 | islander | Newbology |
-| uayua | cecilia | 62 | STRginner | Oddjobs |
+| d33r | deer | 61 | clericlet (vicloc) | Victoria |
 | AppleBasket | JunkyardBat | 61 | clericlet | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
-| d33r | deer | 60 | clericlet (vicloc) | Victoria |
 | LazySoup | ? | 60 | islander | Southperry |
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
@@ -140,11 +140,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Tonk | ? | 44 | islander | Southperry |
 | Babbi | Alvin | 44 | islander | Southperry |
 | c7gs | ? | 44 | islander | Southperry |
+| WettestDog | Hebaio | 44 | islander | Southperry |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
 | ozotoceros | deer | 43 | DEX/LUK hybridlander | Oddjobs |
-| WettestDog | Hebaio | 43 | islander | Southperry |
 | Cottage | ? | 42 | islander | Southperry |
 | Snapples | Kristina | 42 | islander | Newbology |
 | Neveroffland | ? | 42 | islander | \[none\]\* |
