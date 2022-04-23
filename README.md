@@ -76,14 +76,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
-| uayua | cecilia | 64 | STRginner | Oddjobs |
+| uayua | cecilia | 65 | STRginner | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Battlesage | Red | 63 | F/P gish | Oddjobs |
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | MapleStarter | Dvd | 62 | islander | Newbology |
+| AppleBasket | JunkyardBat | 62 | clericlet | Oddjobs |
 | d33r | deer | 61 | clericlet (vicloc) | Victoria |
-| AppleBasket | JunkyardBat | 61 | clericlet | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
 | Wout | Wout | 58 | islander | Southperry |
