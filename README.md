@@ -64,9 +64,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Furbs | Sword Furb | 75 | STRginner | WindowsXP\* |
 | Copo | Marcelo | 75 | permapirate | Oddjobs |
 | jung1e | Justin | 75 | islander | Newbology |
+| shadowban | cecilia | 75 | LUKless chief dit | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
-| shadowban | cecilia | 74 | LUKless chief dit | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
@@ -75,8 +75,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
+| uayua | cecilia | 66 | STRginner | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
-| uayua | cecilia | 65 | STRginner | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Battlesage | Red | 63 | F/P gish | Oddjobs |
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
