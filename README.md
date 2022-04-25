@@ -23,7 +23,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 161 | darksterity knight | Oddjobs |
+| rusa | deer | 162 | darksterity knight | Oddjobs |
 | Without | Elie | 151 | STR/DEX hybridginner | Spirit\* |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
@@ -57,14 +57,14 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | d34r | deer | 83 | dagger spearwoman (vicloc) | Victoria |
 | Sakuzyo | NoChorus | 82 | pugilist (marauder) | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
+| Cassandro | Marcelo | 79 | claw priestlet | Oddjobs |
+| shadowban | cecilia | 79 | LUKless chief dit | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
-| Cassandro | Marcelo | 76 | claw priestlet | Oddjobs |
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
 | Furbs | Sword Furb | 75 | STRginner | WindowsXP\* |
 | Copo | Marcelo | 75 | permapirate | Oddjobs |
 | jung1e | Justin | 75 | islander | Newbology |
-| shadowban | cecilia | 75 | LUKless chief dit | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
