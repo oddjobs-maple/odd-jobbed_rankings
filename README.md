@@ -60,10 +60,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cassandro | Marcelo | 79 | claw priestlet | Oddjobs |
 | shadowban | cecilia | 79 | LUKless chief dit | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
+| Copo | Marcelo | 76 | permapirate | Oddjobs |
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
 | Furbs | Sword Furb | 75 | STRginner | WindowsXP\* |
-| Copo | Marcelo | 75 | permapirate | Oddjobs |
 | jung1e | Justin | 75 | islander | Newbology |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
@@ -80,10 +80,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Battlesage | Red | 63 | F/P gish | Oddjobs |
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
+| d33r | deer | 62 | clericlet (vicloc) | Victoria |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | MapleStarter | Dvd | 62 | islander | Newbology |
 | AppleBasket | JunkyardBat | 62 | clericlet | Oddjobs |
-| d33r | deer | 61 | clericlet (vicloc) | Victoria |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
 | Wout | Wout | 58 | islander | Southperry |
@@ -140,11 +140,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Tonk | ? | 44 | islander | Southperry |
 | Babbi | Alvin | 44 | islander | Southperry |
 | c7gs | ? | 44 | islander | Southperry |
+| ozotoceros | deer | 44 | DEX/LUK hybridlander | Oddjobs |
 | WettestDog | Hebaio | 44 | islander | Southperry |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
-| ozotoceros | deer | 43 | DEX/LUK hybridlander | Oddjobs |
 | Cottage | ? | 42 | islander | Southperry |
 | Snapples | Kristina | 42 | islander | Newbology |
 | Neveroffland | ? | 42 | islander | \[none\]\* |
