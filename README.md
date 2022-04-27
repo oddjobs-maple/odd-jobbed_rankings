@@ -78,9 +78,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | uayua | cecilia | 66 | STRginner | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
+| d33r | deer | 63 | clericlet (vicloc) | Victoria |
 | Battlesage | Red | 63 | F/P gish | Oddjobs |
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
-| d33r | deer | 62 | clericlet (vicloc) | Victoria |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | MapleStarter | Dvd | 62 | islander | Newbology |
 | AppleBasket | JunkyardBat | 62 | clericlet | Oddjobs |
@@ -132,6 +132,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
 | Dexual | Hunter | 46 | islander | Southperry |
+| Starryeyed | Whitley | 46 | STRginner | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
