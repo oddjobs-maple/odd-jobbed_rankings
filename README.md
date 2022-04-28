@@ -121,6 +121,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
 | Monc | Monc | 49 | permamagician | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
+| Starryeyed | Whitley | 49 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
@@ -132,7 +133,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
 | Dexual | Hunter | 46 | islander | Southperry |
-| Starryeyed | Whitley | 46 | STRginner | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
