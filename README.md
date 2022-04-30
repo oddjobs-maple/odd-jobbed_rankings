@@ -135,6 +135,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Dexual | Hunter | 46 | islander | Southperry |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
+| CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
