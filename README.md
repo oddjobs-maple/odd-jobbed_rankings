@@ -113,6 +113,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
 | Godswood | eriklopez95 | 51 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
+| Monc | Monc | 50 | permamagician | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry |
 | Zrar | ? | 50 | islander | Southperry |
@@ -120,7 +121,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | EasyIsland | ? | 50 | islander | Southperry |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
 | Starryeyed | Whitley | 50 | STRginner | Oddjobs |
-| Monc | Monc | 49 | permamagician | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
