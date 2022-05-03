@@ -127,6 +127,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | Luckiestboy | Dvd | 48 | LUKlander | Newbology |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
+| HPTsu | Tsu | 48 | HP fighter | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
