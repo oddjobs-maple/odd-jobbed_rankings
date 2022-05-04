@@ -99,10 +99,12 @@ asyncio.run(
     )
 )
 
-with open("./README.md", "w", encoding="UTF-8") as readme:
+with open("./README.md.temp", "w", encoding="UTF-8") as readme:
     readme.write(PREAMBLE)
 
     for char in sorted(chars, key=lambda c: c["level"], reverse=True):
         readme.write(
             f"| {char['ign']} | {markdown_esc(char['name']) if char['name'] else '?'} | {char['level'] if char['level'] else '?'} | {markdown_esc(char['job'])} | {char['guild'] if char['guild'] else markdown_esc('[none]')}{'' if char['guild'] in SUBOPTIMAL else markdown_esc('*')} |\n"
         )
+
+shutil.move("./README.md.temp", "./README.md")

@@ -5,3 +5,4 @@
 
 # Python stuff
 env/
+*.temp
