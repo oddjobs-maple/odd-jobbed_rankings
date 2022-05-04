@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import asyncio, contextvars, functools, json, re, sys, urllib.request
+import asyncio, contextvars, functools, json, re, shutil, sys, urllib.request
 from bs4 import BeautifulSoup
 
 PREAMBLE = r"""# Unofficial “odd-jobbed rankings”
