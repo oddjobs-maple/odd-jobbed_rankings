@@ -75,7 +75,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
-| uayua | cecilia | 66 | STRginner | Oddjobs |
+| uayua | cecilia | 67 | STRginner | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | d33r | deer | 64 | clericlet (vicloc) | Victoria |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
@@ -90,6 +90,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | 1sme | João | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
+| Starryeyed | Whitley | 57 | STRginner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
@@ -112,7 +113,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
 | Godswood | eriklopez95 | 51 | STR cleric | Oddjobs |
-| Starryeyed | Whitley | 51 | STRginner | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Monc | Monc | 50 | permamagician | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
@@ -135,6 +135,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Femdom | ? | 46 | islander | Newbology |
 | Dexual | Hunter | 46 | islander | Southperry |
 | PinkBean | ? | 45 | islander | Shroomies\* |
+| c7gs | ? | 45 | islander | Southperry |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
@@ -142,7 +143,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Tonk | ? | 44 | islander | Southperry |
 | Babbi | Alvin | 44 | islander | Southperry |
-| c7gs | ? | 44 | islander | Southperry |
 | ozotoceros | deer | 44 | DEX/LUK hybridlander | Oddjobs |
 | WettestDog | Hebaio | 44 | islander | Southperry |
 | Gosu | ? | 43 | islander | \[none\]\* |
