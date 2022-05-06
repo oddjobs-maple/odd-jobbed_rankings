@@ -37,7 +37,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | alces | deer | 107 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
-| Keppet | Rapskal | 101 | daggermit | Oddjobs |
+| Keppet | Rapskal | 102 | daggermit | Oddjobs |
 | ducklings | Joyce | 100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
@@ -54,8 +54,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | João | 85 | STRginner | Flow |
 | Newbton | Jonte | 85 | islander | Southperry |
-| d34r | deer | 83 | dagger spearwoman (vicloc) | Victoria |
-| Cassandro | Marcelo | 83 | claw priestlet | Oddjobs |
+| d34r | deer | 84 | dagger spearwoman (vicloc) | Victoria |
+| Cassandro | Marcelo | 84 | claw priestlet | Oddjobs |
 | Sakuzyo | NoChorus | 82 | pugilist (marauder) | Oddjobs |
 | shadowban | cecilia | 81 | LUKless chief dit | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
@@ -75,7 +75,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
-| uayua | cecilia | 67 | STRginner | Oddjobs |
+| uayua | cecilia | 68 | STRginner | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | d33r | deer | 64 | clericlet (vicloc) | Victoria |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
@@ -86,11 +86,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | AppleBasket | JunkyardBat | 62 | clericlet | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
+| Starryeyed | Whitley | 60 | STRginner | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | 1sme | João | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
-| Starryeyed | Whitley | 57 | STRginner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
@@ -105,6 +105,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | mase | fumumu | 53 | islander | Southperry |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
+| BangHero | Lin | 52 | blood fighter | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | doiob | doiob | 51 | STR cleric | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
