@@ -23,11 +23,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 163 | darksterity knight | Oddjobs |
+| rusa | deer | 164 | darksterity knight | Oddjobs |
 | Without | Elie | 151 | STR/DEX hybridginner | Spirit\* |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
-| capreolina | deer | 134 | woodsmaster | Oddjobs |
+| capreolina | deer | 135 | woodsmaster | Oddjobs |
 | cervid | deer | 129 | STR bishop | Oddjobs |
 | cervine | deer | 124 | I/L archmagelet | Oddjobs |
 | Taima | Kelsey | 122 | STRginner | Oddjobs |
@@ -123,12 +123,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | EasyIsland | ? | 50 | islander | Southperry |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
+| HPTsu | Tsu | 49 | HP fighter | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | Luckiestboy | Dvd | 48 | LUKlander | Newbology |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
-| HPTsu | Tsu | 48 | HP fighter | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
