@@ -75,7 +75,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
-| uayua | cecilia | 68 | STRginner | Oddjobs |
+| uayua | cecilia | 70 | STRginner | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | d33r | deer | 64 | clericlet (vicloc) | Victoria |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
@@ -122,8 +122,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Camomile | Vivian | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
+| HPTsu | Tsu | 50 | HP fighter | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
-| HPTsu | Tsu | 49 | HP fighter | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
