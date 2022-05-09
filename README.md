@@ -70,12 +70,12 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
+| uayua | cecilia | 71 | STRginner | Oddjobs |
 | Ever | Becca | 70 | islander | Team\* |
 | Christopher | Chris | 70 | islander | Southperry |
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
-| uayua | cecilia | 70 | STRginner | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | d33r | deer | 64 | clericlet (vicloc) | Victoria |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
@@ -104,8 +104,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Timberly | Tim | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
+| Godswood | eriklopez95 | 52 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | BangHero | Lin | 52 | blood fighter | Oddjobs |
+| HPTsu | Tsu | 52 | HP fighter | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | doiob | doiob | 51 | STR cleric | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
@@ -113,7 +115,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ashore | Sean | 51 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
-| Godswood | eriklopez95 | 51 | STR cleric | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Monc | Monc | 50 | permamagician | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
@@ -122,7 +123,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Camomile | Vivian | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
-| HPTsu | Tsu | 50 | HP fighter | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
