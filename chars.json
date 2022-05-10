@@ -845,12 +845,6 @@
       "guild": "Southperry"
     },
     {
-      "ign": "Starryeyed",
-      "name": "Whitley",
-      "job": "STRginner",
-      "guild": "Oddjobs"
-    },
-    {
       "ign": "CokeZeroPill",
       "name": "cort",
       "job": "gish cleric",
@@ -869,12 +863,6 @@
       "guild": "Oddjobs"
     },
     { "ign": "Otios", "name": "Wout", "job": "STRginner", "guild": "Flow" },
-    { "ign": "Without", "name": "Elie", "job": "STR/DEX hybridginner", "guild": "Spirit" },
-    {
-      "ign": "AppleBasket",
-      "name": "JunkyardBat",
-      "job": "clericlet",
-      "guild": "Oddjobs"
-    }
+    { "ign": "Without", "name": "Elie", "job": "STR/DEX hybridginner", "guild": "Spirit" }
   ]
 }
