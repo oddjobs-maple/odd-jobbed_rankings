@@ -54,10 +54,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | João | 85 | STRginner | Flow |
 | Newbton | Jonte | 85 | islander | Southperry |
+| Cassandro | Marcelo | 85 | claw priestlet | Oddjobs |
 | d34r | deer | 84 | dagger spearwoman (vicloc) | Victoria |
-| Cassandro | Marcelo | 84 | claw priestlet | Oddjobs |
+| shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
 | Sakuzyo | NoChorus | 82 | pugilist (marauder) | Oddjobs |
-| shadowban | cecilia | 81 | LUKless chief dit | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
 | Copo | Marcelo | 78 | permapirate | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
@@ -67,8 +67,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Furbs | Sword Furb | 75 | STRginner | WindowsXP\* |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
+| uayua | cecilia | 73 | STRginner | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
-| uayua | cecilia | 72 | STRginner | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
 | Ever | Becca | 70 | islander | Team\* |
@@ -78,13 +78,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | d33r | deer | 64 | clericlet (vicloc) | Victoria |
-| Starryeyed | Whitley | 64 | STRginner | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Battlesage | Red | 63 | F/P gish | Oddjobs |
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | MapleStarter | Dvd | 62 | islander | Newbology |
-| AppleBasket | JunkyardBat | 62 | clericlet | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
 | Wout | Wout | 58 | islander | Southperry |
