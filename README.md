@@ -58,16 +58,16 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | d34r | deer | 84 | dagger spearwoman (vicloc) | Victoria |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
 | Sakuzyo | NoChorus | 82 | pugilist (marauder) | Oddjobs |
+| Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
-| Copo | Marcelo | 78 | permapirate | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | jung1e | Justin | 76 | islander | Newbology |
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
 | Furbs | Sword Furb | 75 | STRginner | WindowsXP\* |
+| uayua | cecilia | 75 | STRginner | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
-| uayua | cecilia | 73 | STRginner | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
@@ -102,8 +102,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
+| Godswood | eriklopez95 | 53 | STR cleric | Oddjobs |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
-| Godswood | eriklopez95 | 52 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | BangHero | Lin | 52 | blood fighter | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
