@@ -52,9 +52,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
+| Cassandro | Marcelo | 86 | claw priestlet | Oddjobs |
 | Ismezin | João | 85 | STRginner | Flow |
 | Newbton | Jonte | 85 | islander | Southperry |
-| Cassandro | Marcelo | 85 | claw priestlet | Oddjobs |
 | d34r | deer | 84 | dagger spearwoman (vicloc) | Victoria |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
 | Sakuzyo | NoChorus | 82 | pugilist (marauder) | Oddjobs |
@@ -63,9 +63,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | jung1e | Justin | 76 | islander | Newbology |
 | Duhm | Duhm | 76 | STRginner | Flow |
+| uayua | cecilia | 76 | STRginner | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
 | Furbs | Sword Furb | 75 | STRginner | WindowsXP\* |
-| uayua | cecilia | 75 | STRginner | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
@@ -95,10 +95,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
+| HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
 | Contagion | Elie | 54 | islander | Newbology |
-| HPTsu | Tsu | 54 | HP fighter | Oddjobs |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
