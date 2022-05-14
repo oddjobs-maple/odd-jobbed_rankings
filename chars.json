@@ -862,6 +862,12 @@
       "job": "HP fighter",
       "guild": "Oddjobs"
     },
+    {
+      "ign": "Shikatanai",
+      "name": null,
+      "job": "islander",
+      "guild": "Southperry"
+    },
     { "ign": "Otios", "name": "Wout", "job": "STRginner", "guild": "Flow" },
     { "ign": "Without", "name": "Elie", "job": "STR/DEX hybridginner", "guild": "Spirit" }
   ]

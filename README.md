@@ -60,10 +60,10 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Sakuzyo | NoChorus | 82 | pugilist (marauder) | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
+| uayua | cecilia | 77 | STRginner | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | jung1e | Justin | 76 | islander | Newbology |
 | Duhm | Duhm | 76 | STRginner | Flow |
-| uayua | cecilia | 76 | STRginner | Oddjobs |
 | Rort | Lin | 75 | STRginner | Flow |
 | Furbs | Sword Furb | 75 | STRginner | WindowsXP\* |
 | Phoneme | cort | 74 | permamagician | Victoria |
@@ -147,6 +147,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Gosu | ? | 43 | islander | \[none\]\* |
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
+| Shikatanai | ? | 43 | islander | Southperry |
 | Cottage | ? | 42 | islander | Southperry |
 | Snapples | Kristina | 42 | islander | Newbology |
 | Neveroffland | ? | 42 | islander | \[none\]\* |
