@@ -104,6 +104,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | mase | fumumu | 53 | islander | Southperry |
 | Godswood | eriklopez95 | 53 | STR cleric | Oddjobs |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
+| Yoshis | ? | 53 | swashbuckler | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | BangHero | Lin | 52 | blood fighter | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
