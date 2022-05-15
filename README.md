@@ -56,8 +56,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | João | 85 | STRginner | Flow |
 | Newbton | Jonte | 85 | islander | Southperry |
 | d34r | deer | 84 | dagger spearwoman (vicloc) | Victoria |
+| Sakuzyo | NoChorus | 83 | pugilist (marauder) | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
-| Sakuzyo | NoChorus | 82 | pugilist (marauder) | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
 | uayua | cecilia | 77 | STRginner | Oddjobs |
