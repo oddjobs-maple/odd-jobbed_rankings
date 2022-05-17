@@ -56,7 +56,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Ismezin | João | 85 | STRginner | Flow |
 | Newbton | Jonte | 85 | islander | Southperry |
 | d34r | deer | 84 | dagger spearwoman (vicloc) | Victoria |
-| Sakuzyo | NoChorus | 83 | pugilist (marauder) | Oddjobs |
+| Sakuzyo | NoChorus | 84 | pugilist (marauder) | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
@@ -92,6 +92,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
+| Yoshis | ? | 56 | swashbuckler | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
@@ -104,7 +105,6 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | mase | fumumu | 53 | islander | Southperry |
 | Godswood | eriklopez95 | 53 | STR cleric | Oddjobs |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
-| Yoshis | ? | 53 | swashbuckler | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | BangHero | Lin | 52 | blood fighter | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
@@ -171,8 +171,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | L0neWolf1600 | LoneWolf1600 | 16 | camper | Campers\* |
 | BloodyTaco | ? | 16 | camper | \[none\]\* |
 | DuckyWucky | ? | 15 | camper | \[none\]\* |
+| Hyewon | ? | 15 | camper | \[none\]\* |
 | Hobbits | ? | 14 | camper | \[none\]\* |
-| Hyewon | ? | 14 | camper | \[none\]\* |
 | NewCharacter | cort | 13 | camper | \[none\]\* |
 | Kept | ? | 11 | camper | Campers\* |
 | TrainingCamp | ? | 11 | camper | Campers\* |
