@@ -26,8 +26,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | rusa | deer | 166 | darksterity knight | Oddjobs |
 | Without | Elie | 151 | STR/DEX hybridginner | Spirit\* |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
+| capreolina | deer | 136 | woodsmaster | Oddjobs |
 | Otios | Wout | 136 | STRginner | Flow |
-| capreolina | deer | 135 | woodsmaster | Oddjobs |
 | cervid | deer | 129 | STR bishop | Oddjobs |
 | cervine | deer | 124 | I/L archmagelet | Oddjobs |
 | Taima | Kelsey | 122 | STRginner | Oddjobs |
@@ -46,9 +46,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
 | Medulla | cort | 89 | dagger sader | Oddjobs |
+| Cassandro | Marcelo | 89 | claw priestlet | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | GangGang\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
-| Cassandro | Marcelo | 88 | claw priestlet | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
