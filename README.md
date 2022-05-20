@@ -45,8 +45,8 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cortical | cort | 94 | STRginner | Flow |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
+| Cassandro | Marcelo | 90 | claw priestlet | Oddjobs |
 | Medulla | cort | 89 | dagger sader | Oddjobs |
-| Cassandro | Marcelo | 89 | claw priestlet | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | GangGang\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
@@ -85,11 +85,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | MapleStarter | Dvd | 62 | islander | Newbology |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
+| Yoshis | ? | 59 | swashbuckler | Oddjobs |
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | 1sme | João | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
-| Yoshis | ? | 58 | swashbuckler | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
