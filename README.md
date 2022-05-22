@@ -19,26 +19,30 @@ reason).
 
 Unknown or uncertain information is denoted by a question mark (“?”).
 
-\*Not a member of <b>Suboptimal</b>.
+Legend:
+
+- \*Not a member of <b>Suboptimal</b>.
+- †Known to have leeched some non-negligible amount of EXP.
+- ‡Known to have leeched a large amount of EXP.
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | rusa | deer | 166 | darksterity knight | Oddjobs |
-| Without | Elie | 151 | STR/DEX hybridginner | Spirit\* |
+| Without | Elie | ‡151 | STR/DEX hybridginner | Spirit\* |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | capreolina | deer | 136 | woodsmaster | Oddjobs |
-| Otios | Wout | 136 | STRginner | Flow |
+| Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 129 | STR bishop | Oddjobs |
 | cervine | deer | 124 | I/L archmagelet | Oddjobs |
 | Taima | Kelsey | 122 | STRginner | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
-| Permanovice | Red | 120 | STRginner | GangGang\* |
+| Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | alces | deer | 107 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | Keppet | Rapskal | 102 | daggermit | Oddjobs |
-| ducklings | Joyce | 100 | STRginner | DuckNation\* |
+| ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
@@ -61,11 +65,11 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
 | uayua | cecilia | 78 | STRginner | Oddjobs |
+| Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | jung1e | Justin | 76 | islander | Newbology |
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
-| Furbs | Sword Furb | 75 | STRginner | WindowsXP\* |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |

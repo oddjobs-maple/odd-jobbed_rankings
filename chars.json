@@ -41,8 +41,9 @@
       "ign": "Permanovice",
       "name": "Red",
       "job": "STRginner",
-      "guild": "GangGang"
-    },    
+      "guild": "GangGang",
+      "leech": "some"
+    },
     {
       "ign": "cervine",
       "name": "deer",
@@ -135,7 +136,8 @@
       "ign": "ducklings",
       "name": "Joyce",
       "job": "STRginner",
-      "guild": "DuckNation"
+      "guild": "DuckNation",
+      "leech": "some"
     },
     {
       "ign": "hashishi",
@@ -874,7 +876,19 @@
       "job": "swashbuckler",
       "guild": "Oddjobs"
     },
-    { "ign": "Otios", "name": "Wout", "job": "STRginner", "guild": "Flow" },
-    { "ign": "Without", "name": "Elie", "job": "STR/DEX hybridginner", "guild": "Spirit" }
+    {
+      "ign": "Otios",
+      "name": "Wout",
+      "job": "STRginner",
+      "guild": "Flow",
+      "leech": "lots"
+    },
+    {
+      "ign": "Without",
+      "name": "Elie",
+      "job": "STR/DEX hybridginner",
+      "guild": "Spirit",
+      "leech": "lots"
+    }
   ]
 }

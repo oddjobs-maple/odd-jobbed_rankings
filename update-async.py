@@ -24,7 +24,11 @@ reason).
 
 Unknown or uncertain information is denoted by a question mark (“?”).
 
-\*Not a member of <b>Suboptimal</b>.
+Legend:
+
+- \*Not a member of <b>Suboptimal</b>.
+- †Known to have leeched some non-negligible amount of EXP.
+- ‡Known to have leeched a large amount of EXP.
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
@@ -103,8 +107,15 @@ with open("./README.md.temp", "w", encoding="UTF-8") as readme:
     readme.write(PREAMBLE)
 
     for char in sorted(chars, key=lambda c: c["level"], reverse=True):
+        leech_symbol = ""
+        if "leech" in char:
+            if char["leech"] == "some":
+                leech_symbol = "†"
+            elif char["leech"] == "lots":
+                leech_symbol = "‡"
+
         readme.write(
-            f"| {char['ign']} | {markdown_esc(char['name']) if char['name'] else '?'} | {char['level'] if char['level'] else '?'} | {markdown_esc(char['job'])} | {char['guild'] if char['guild'] else markdown_esc('[none]')}{'' if char['guild'] in SUBOPTIMAL else markdown_esc('*')} |\n"
+            f"| {char['ign']} | {markdown_esc(char['name']) if char['name'] else '?'} | {leech_symbol}{char['level'] if char['level'] else '?'} | {markdown_esc(char['job'])} | {char['guild'] if char['guild'] else markdown_esc('[none]')}{'' if char['guild'] in SUBOPTIMAL else markdown_esc('*')} |\n"
         )
 
 shutil.move("./README.md.temp", "./README.md")
