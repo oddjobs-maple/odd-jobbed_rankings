@@ -45,7 +45,7 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Cortical | cort | 94 | STRginner | Flow |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
-| Cassandro | Marcelo | 91 | claw priestlet | Oddjobs |
+| Cassandro | Marcelo | 92 | claw priestlet | Oddjobs |
 | Medulla | cort | 89 | dagger sader | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | GangGang\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
@@ -86,9 +86,9 @@ Unknown or uncertain information is denoted by a question mark (“?”).
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
 | Yoshis | ? | 60 | swashbuckler | Oddjobs |
+| 1sme | João | 59 | islander | Southperry |
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
-| 1sme | João | 58 | islander | Southperry |
 | Cleft | Tom | 58 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
