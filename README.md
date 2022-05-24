@@ -27,7 +27,7 @@ Legend:
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 166 | darksterity knight | Oddjobs |
+| rusa | deer | 167 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Spirit\* |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | capreolina | deer | 136 | woodsmaster | Oddjobs |
@@ -87,9 +87,9 @@ Legend:
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | MapleStarter | Dvd | 62 | islander | Newbology |
+| Yoshis | ? | 61 | swashbuckler | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
-| Yoshis | ? | 60 | swashbuckler | Oddjobs |
 | 1sme | João | 59 | islander | Southperry |
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
@@ -143,13 +143,13 @@ Legend:
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
+| Shikatanai | ? | 45 | islander | Southperry |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Tonk | ? | 44 | islander | Southperry |
 | Babbi | Alvin | 44 | islander | Southperry |
 | WettestDog | Hebaio | 44 | islander | Southperry |
-| Shikatanai | ? | 44 | islander | Southperry |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
