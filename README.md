@@ -87,7 +87,7 @@ Legend:
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | MapleStarter | Dvd | 62 | islander | Newbology |
-| Yoshis | ? | 61 | swashbuckler | Oddjobs |
+| Yoshis | ? | 62 | swashbuckler | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
 | 1sme | João | 59 | islander | Southperry |
