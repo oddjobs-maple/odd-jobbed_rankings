@@ -85,9 +85,9 @@ Legend:
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Battlesage | Red | 63 | F/P gish | Oddjobs |
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
+| Yoshis | ? | 63 | swashbuckler | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | MapleStarter | Dvd | 62 | islander | Newbology |
-| Yoshis | ? | 62 | swashbuckler | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
 | 1sme | João | 59 | islander | Southperry |
