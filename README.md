@@ -40,6 +40,7 @@ Legend:
 | Jestterz | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | alces | deer | 107 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
+| DrSwollz | ? | 103 | gish priest | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | Keppet | Rapskal | 102 | daggermit | Oddjobs |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
