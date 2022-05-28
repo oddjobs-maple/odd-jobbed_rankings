@@ -30,7 +30,7 @@ Legend:
 | rusa | deer | 167 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Spirit\* |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
-| capreolina | deer | 136 | woodsmaster | Oddjobs |
+| capreolina | deer | 137 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 129 | STR bishop | Oddjobs |
 | cervine | deer | 124 | I/L archmagelet | Oddjobs |
@@ -40,7 +40,6 @@ Legend:
 | Jestterz | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | alces | deer | 107 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
-| DrSwollz | ? | 103 | gish priest | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | Keppet | Rapskal | 102 | daggermit | Oddjobs |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
