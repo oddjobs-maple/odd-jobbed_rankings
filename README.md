@@ -64,7 +64,7 @@ Legend:
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
-| uayua | cecilia | 78 | STRginner | Oddjobs |
+| uayua | cecilia | 79 | STRginner | Oddjobs |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | jung1e | Justin | 76 | islander | Newbology |
@@ -82,10 +82,10 @@ Legend:
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | d33r | deer | 65 | clericlet (vicloc) | Victoria |
+| Yoshis | ? | 64 | swashbuckler | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Battlesage | Red | 63 | F/P gish | Oddjobs |
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
-| Yoshis | ? | 63 | swashbuckler | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
 | MapleStarter | Dvd | 62 | islander | Newbology |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
@@ -126,6 +126,7 @@ Legend:
 | Camomile | Vivian | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
+| Meipuru | ? | 50 | shield pugilist (brawler) | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
