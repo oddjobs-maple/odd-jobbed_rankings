@@ -118,6 +118,7 @@ Legend:
 | Ashore | Sean | 51 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
+| Meipuru | ? | 51 | shield pugilist (brawler) | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Monc | Monc | 50 | permamagician | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
@@ -126,7 +127,6 @@ Legend:
 | Camomile | Vivian | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
-| Meipuru | ? | 50 | shield pugilist (brawler) | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
