@@ -64,7 +64,7 @@ Legend:
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
-| uayua | cecilia | 79 | STRginner | Oddjobs |
+| uayua | cecilia | 80 | STRginner | Oddjobs |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | jung1e | Justin | 76 | islander | Newbology |
@@ -80,9 +80,9 @@ Legend:
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
+| Yoshis | ? | 66 | swashbuckler | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | d33r | deer | 65 | clericlet (vicloc) | Victoria |
-| Yoshis | ? | 64 | swashbuckler | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Battlesage | Red | 63 | F/P gish | Oddjobs |
 | KitsunyChang | Hannah | 63 | islander | Amherst\* |
@@ -111,6 +111,7 @@ Legend:
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | BangHero | Lin | 52 | blood fighter | Oddjobs |
+| Meipuru | ? | 52 | shield pugilist (brawler) | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | doiob | doiob | 51 | STR cleric | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
@@ -118,7 +119,6 @@ Legend:
 | Ashore | Sean | 51 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry |
 | Painal | Blenn | 51 | permapirate | \[none\]\* |
-| Meipuru | ? | 51 | shield pugilist (brawler) | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Monc | Monc | 50 | permamagician | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
