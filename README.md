@@ -62,9 +62,9 @@ Legend:
 | d34r | deer | 84 | dagger spearwoman (vicloc) | Victoria |
 | Sakuzyo | NoChorus | 84 | pugilist (marauder) | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
+| uayua | cecilia | 81 | STRginner | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
-| uayua | cecilia | 80 | STRginner | Oddjobs |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | jung1e | Justin | 76 | islander | Newbology |
@@ -80,7 +80,7 @@ Legend:
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
-| Yoshis | ? | 66 | swashbuckler | Oddjobs |
+| Yoshis | ? | 69 | swashbuckler | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | d33r | deer | 65 | clericlet (vicloc) | Victoria |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
