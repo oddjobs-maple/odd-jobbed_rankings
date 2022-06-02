@@ -27,7 +27,7 @@ Legend:
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 167 | darksterity knight | Oddjobs |
+| rusa | deer | 168 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Spirit\* |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | capreolina | deer | 137 | woodsmaster | Oddjobs |
@@ -40,8 +40,8 @@ Legend:
 | Jestterz | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | alces | deer | 107 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
+| Keppet | Rapskal | 103 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
-| Keppet | Rapskal | 102 | daggermit | Oddjobs |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
@@ -80,7 +80,7 @@ Legend:
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
-| Yoshis | ? | 69 | swashbuckler | Oddjobs |
+| Yoshis | ? | 70 | swashbuckler | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | d33r | deer | 65 | clericlet (vicloc) | Victoria |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
