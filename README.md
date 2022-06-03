@@ -40,7 +40,7 @@ Legend:
 | Jestterz | LoneWolf1600 | 112 | STRginner | Oddjobs |
 | alces | deer | 107 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
-| Keppet | Rapskal | 103 | daggermit | Oddjobs |
+| Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
@@ -75,12 +75,12 @@ Legend:
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
+| Yoshis | ? | 71 | swashbuckler | Oddjobs |
 | Ever | Becca | 70 | islander | Team\* |
 | Christopher | Chris | 70 | islander | Southperry |
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
-| Yoshis | ? | 70 | swashbuckler | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | d33r | deer | 65 | clericlet (vicloc) | Victoria |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
