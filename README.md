@@ -49,7 +49,7 @@ Legend:
 | Cortical | cort | 94 | STRginner | Flow |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
-| Cassandro | Marcelo | 92 | claw priestlet | Oddjobs |
+| Cassandro | Marcelo | 93 | claw priestlet | Oddjobs |
 | Medulla | cort | 89 | dagger sader | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | GangGang\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
@@ -73,9 +73,9 @@ Legend:
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
+| Yoshis | ? | 72 | swashbuckler | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
-| Yoshis | ? | 71 | swashbuckler | Oddjobs |
 | Ever | Becca | 70 | islander | Team\* |
 | Christopher | Chris | 70 | islander | Southperry |
 | tb303 | cecilia | 70 | gish priest | Oddjobs |
