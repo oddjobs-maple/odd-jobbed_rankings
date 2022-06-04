@@ -95,10 +95,10 @@ Legend:
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
+| HPdit | RyeBread | 56 | blood bandit | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| HPdit | RyeBread | 55 | blood bandit | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
@@ -139,12 +139,12 @@ Legend:
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology |
 | Dexual | Hunter | 46 | islander | Southperry |
+| Shikatanai | ? | 46 | islander | Southperry |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | c7gs | ? | 45 | islander | Southperry |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
-| Shikatanai | ? | 45 | islander | Southperry |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
