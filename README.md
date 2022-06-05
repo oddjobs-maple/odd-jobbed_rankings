@@ -72,8 +72,8 @@ Legend:
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
+| Yoshis | ? | 73 | swashbuckler | Oddjobs |
 | drainer | mae | 72 | STRginner | Flow |
-| Yoshis | ? | 72 | swashbuckler | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
 | Ever | Becca | 70 | islander | Team\* |
