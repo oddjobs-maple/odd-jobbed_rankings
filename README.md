@@ -62,15 +62,15 @@ Legend:
 | d34r | deer | 84 | dagger spearwoman (vicloc) | Victoria |
 | Sakuzyo | NoChorus | 84 | pugilist (marauder) | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
-| uayua | cecilia | 81 | STRginner | Oddjobs |
+| uayua | cecilia | 82 | STRginner | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
+| Yoshis | ? | 77 | swashbuckler | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | jung1e | Justin | 76 | islander | Newbology |
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
-| Yoshis | ? | 75 | swashbuckler | Oddjobs |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
@@ -94,8 +94,8 @@ Legend:
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
+| HPdit | RyeBread | 57 | blood bandit | \[none\]\* |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
-| HPdit | RyeBread | 56 | blood bandit | \[none\]\* |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
