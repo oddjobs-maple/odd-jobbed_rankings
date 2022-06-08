@@ -130,7 +130,7 @@
       "ign": "Daddyo",
       "name": "Hunter",
       "job": "STRginner",
-      "guild": "GangGang"
+      "guild": null
     },
     {
       "ign": "ducklings",
@@ -893,7 +893,7 @@
       "ign": "Without",
       "name": "Elie",
       "job": "STR/DEX hybridginner",
-      "guild": "Spirit",
+      "guild": "Community",
       "leech": "lots"
     }
   ]

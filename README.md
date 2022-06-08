@@ -28,7 +28,7 @@ Legend:
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | rusa | deer | 168 | darksterity knight | Oddjobs |
-| Without | Elie | ‡151 | STR/DEX hybridginner | Spirit\* |
+| Without | Elie | ‡151 | STR/DEX hybridginner | Community\* |
 | LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
 | capreolina | deer | 137 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
@@ -51,7 +51,7 @@ Legend:
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
 | Cassandro | Marcelo | 93 | claw priestlet | Oddjobs |
 | Medulla | cort | 89 | dagger sader | Oddjobs |
-| Daddyo | Hunter | 88 | STRginner | GangGang\* |
+| Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
@@ -68,7 +68,7 @@ Legend:
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
 | Yoshis | ? | 77 | swashbuckler | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
-| jung1e | Justin | 76 | islander | Newbology |
+| jung1e | Justin | 76 | islander | Newbology\* |
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
@@ -87,7 +87,7 @@ Legend:
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Battlesage | Red | 63 | F/P gish | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry |
-| MapleStarter | Dvd | 62 | islander | Newbology |
+| MapleStarter | Dvd | 62 | islander | Newbology\* |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
 | 1sme | João | 59 | islander | Southperry |
@@ -103,7 +103,7 @@ Legend:
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
-| Contagion | Elie | 54 | islander | Newbology |
+| Contagion | Elie | 54 | islander | Newbology\* |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
@@ -131,13 +131,13 @@ Legend:
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry |
 | NewIslander | ? | 48 | islander | \[none\]\* |
-| Luckiestboy | Dvd | 48 | LUKlander | Newbology |
+| Luckiestboy | Dvd | 48 | LUKlander | Newbology\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
 | Mujintou | ? | 46 | islander | Pomf\* |
-| Femdom | ? | 46 | islander | Newbology |
+| Femdom | ? | 46 | islander | Newbology\* |
 | Dexual | Hunter | 46 | islander | Southperry |
 | Shikatanai | ? | 46 | islander | Southperry |
 | PinkBean | ? | 45 | islander | Shroomies\* |
@@ -155,12 +155,12 @@ Legend:
 | VillageIdiot | ? | 43 | islander | Southperry |
 | Land | ? | 43 | islander | Amherst\* |
 | Cottage | ? | 42 | islander | Southperry |
-| Snapples | Kristina | 42 | islander | Newbology |
+| Snapples | Kristina | 42 | islander | Newbology\* |
 | Neveroffland | ? | 42 | islander | \[none\]\* |
 | Patrao | Duncan | 42 | islander | Southperry |
 | Woogie | ? | 41 | islander | Southperry |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
-| Zugar | ? | 41 | islander | Newbology |
+| Zugar | ? | 41 | islander | Newbology\* |
 | Mesa | sneaks | 41 | islander | Southperry |
 | yotta | ? | 41 | islander | \[none\]\* |
 | DumbIsland | Leo | 40 | islander | Southperry |
