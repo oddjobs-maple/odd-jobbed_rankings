@@ -33,7 +33,7 @@ Legend:
 | capreolina | deer | 137 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 129 | STR bishop | Oddjobs |
-| cervine | deer | 124 | I/L archmagelet | Oddjobs |
+| cervine | deer | 125 | I/L archmagelet | Oddjobs |
 | Taima | Kelsey | 122 | STRginner | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
