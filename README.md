@@ -65,8 +65,8 @@ Legend:
 | uayua | cecilia | 82 | STRginner | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
+| Yoshis | ? | 78 | swashbuckler | Oddjobs |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
-| Yoshis | ? | 77 | swashbuckler | Oddjobs |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | jung1e | Justin | 76 | islander | Newbology\* |
 | Duhm | Duhm | 76 | STRginner | Flow |
@@ -90,7 +90,7 @@ Legend:
 | MapleStarter | Dvd | 62 | islander | Newbology\* |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
-| 1sme | João | 59 | islander | Southperry |
+| 1sme | João | 60 | islander | Southperry |
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
