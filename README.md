@@ -29,7 +29,7 @@ Legend:
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | rusa | deer | 168 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Community\* |
-| LawdHeComin | JunkyardBat | 145 | F/P archgish | Oddjobs |
+| LawdHeComin | JunkyardBat | 146 | F/P archgish | Oddjobs |
 | capreolina | deer | 137 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 129 | STR bishop | Oddjobs |
