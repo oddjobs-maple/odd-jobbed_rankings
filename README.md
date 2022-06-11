@@ -65,7 +65,7 @@ Legend:
 | uayua | cecilia | 82 | STRginner | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
-| Yoshis | ? | 78 | swashbuckler | Oddjobs |
+| Yoshis | ? | 79 | swashbuckler | Oddjobs |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | jung1e | Justin | 76 | islander | Newbology\* |
