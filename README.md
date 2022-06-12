@@ -30,7 +30,7 @@ Legend:
 | rusa | deer | 168 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Community\* |
 | LawdHeComin | JunkyardBat | 146 | F/P archgish | Oddjobs |
-| capreolina | deer | 137 | woodsmaster | Oddjobs |
+| capreolina | deer | 138 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 129 | STR bishop | Oddjobs |
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
@@ -63,9 +63,9 @@ Legend:
 | Sakuzyo | NoChorus | 84 | pugilist (marauder) | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
 | uayua | cecilia | 82 | STRginner | Oddjobs |
+| Yoshis | ? | 81 | swashbuckler | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
-| Yoshis | ? | 79 | swashbuckler | Oddjobs |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | jung1e | Justin | 76 | islander | Newbology\* |
@@ -140,12 +140,12 @@ Legend:
 | Femdom | ? | 46 | islander | Newbology\* |
 | Dexual | Hunter | 46 | islander | Southperry |
 | Shikatanai | ? | 46 | islander | Southperry |
+| tarandus | deer | 46 | shield pugilist (brawler) | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | c7gs | ? | 45 | islander | Southperry |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
-| tarandus | deer | 45 | shield pugilist (brawler) | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
