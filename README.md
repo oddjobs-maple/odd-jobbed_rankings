@@ -58,8 +58,8 @@ Legend:
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | João | 85 | STRginner | Flow |
+| d34r | deer | 85 | dagger spearwoman (vicloc) | Victoria |
 | Newbton | Jonte | 85 | islander | Southperry |
-| d34r | deer | 84 | dagger spearwoman (vicloc) | Victoria |
 | Sakuzyo | NoChorus | 84 | pugilist (marauder) | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
 | uayua | cecilia | 82 | STRginner | Oddjobs |
@@ -136,11 +136,11 @@ Legend:
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
+| tarandus | deer | 47 | shield pugilist (brawler) | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | Dexual | Hunter | 46 | islander | Southperry |
 | Shikatanai | ? | 46 | islander | Southperry |
-| tarandus | deer | 46 | shield pugilist (brawler) | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | c7gs | ? | 45 | islander | Southperry |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
