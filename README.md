@@ -47,9 +47,9 @@ Legend:
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
 | Cortical | cort | 94 | STRginner | Flow |
+| Cassandro | Marcelo | 94 | claw priestlet | Oddjobs |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
-| Cassandro | Marcelo | 93 | claw priestlet | Oddjobs |
 | Medulla | cort | 89 | dagger sader | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
@@ -61,9 +61,9 @@ Legend:
 | d34r | deer | 85 | dagger spearwoman (vicloc) | Victoria |
 | Newbton | Jonte | 85 | islander | Southperry |
 | Sakuzyo | NoChorus | 84 | pugilist (marauder) | Oddjobs |
+| uayua | cecilia | 83 | STRginner | Oddjobs |
+| Yoshis | ? | 83 | swashbuckler | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
-| uayua | cecilia | 82 | STRginner | Oddjobs |
-| Yoshis | ? | 81 | swashbuckler | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
@@ -76,9 +76,9 @@ Legend:
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
+| tb303 | cecilia | 71 | gish priest | Oddjobs |
 | Ever | Becca | 70 | islander | Team\* |
 | Christopher | Chris | 70 | islander | Southperry |
-| tb303 | cecilia | 70 | gish priest | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
@@ -91,10 +91,10 @@ Legend:
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry |
 | 1sme | João | 60 | islander | Southperry |
+| HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
 | Wout | Wout | 58 | islander | Southperry |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
-| HPdit | RyeBread | 57 | blood bandit | \[none\]\* |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
@@ -133,10 +133,10 @@ Legend:
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | Luckiestboy | Dvd | 48 | LUKlander | Newbology\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
+| tarandus | deer | 48 | shield pugilist (brawler) | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
-| tarandus | deer | 47 | shield pugilist (brawler) | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | Dexual | Hunter | 46 | islander | Southperry |
