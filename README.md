@@ -27,7 +27,7 @@ Legend:
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 168 | darksterity knight | Oddjobs |
+| rusa | deer | 169 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Community\* |
 | LawdHeComin | JunkyardBat | 146 | F/P archgish | Oddjobs |
 | capreolina | deer | 138 | woodsmaster | Oddjobs |
@@ -61,8 +61,8 @@ Legend:
 | d34r | deer | 85 | dagger spearwoman (vicloc) | Victoria |
 | Newbton | Jonte | 85 | islander | Southperry |
 | Sakuzyo | NoChorus | 84 | pugilist (marauder) | Oddjobs |
+| Yoshis | ? | 84 | swashbuckler | Oddjobs |
 | uayua | cecilia | 83 | STRginner | Oddjobs |
-| Yoshis | ? | 83 | swashbuckler | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
