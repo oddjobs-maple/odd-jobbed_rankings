@@ -173,12 +173,6 @@
       "guild": "Oddjobs"
     },
     {
-      "ign": "Monc",
-      "name": "Monc",
-      "job": "permamagician",
-      "guild": null
-    },
-    {
       "ign": "ScrubDaddy",
       "name": "Scrub",
       "job": "STRginner",
@@ -721,12 +715,6 @@
       "guild": "Oddjobs"
     },
     {
-      "ign": "Painal",
-      "name": "Blenn",
-      "job": "permapirate",
-      "guild": null
-    },
-    {
       "ign": "Cassandro",
       "name": "Marcelo",
       "job": "claw priestlet",
@@ -754,7 +742,7 @@
       "ign": "Contagion",
       "name": "Elie",
       "job": "islander",
-      "guild": "Newbology"
+      "guild": "Embargo"
     },
     {
       "ign": "shadowban",
@@ -868,7 +856,7 @@
       "ign": "Shikatanai",
       "name": null,
       "job": "islander",
-      "guild": "Southperry"
+      "guild": "Embargo"
     },
     {
       "ign": "Yoshis",
@@ -899,7 +887,7 @@
       "ign": "Without",
       "name": "Elie",
       "job": "STR/DEX hybridginner",
-      "guild": "Community",
+      "guild": "Embargo",
       "leech": "lots"
     }
   ]

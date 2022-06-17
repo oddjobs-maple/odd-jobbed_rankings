@@ -34,7 +34,7 @@ Legend:
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 """
 
-SUBOPTIMAL = {"Flow", "Oddjobs", "Southperry", "Victoria"}
+SUBOPTIMAL = {"Flow", "Oddjobs", "Southperry", "Victoria", "Embargo"}
 
 SPECIAL_MARKDOWN_RE = re.compile(r"_|\*|\[|\]|<|>|#")
 
@@ -69,6 +69,11 @@ def fetch_lvl(i):
             html = res.read()
 
         soup = BeautifulSoup(html, "lxml")
+        if (not soup.table) or (not soup.table.children):
+            print(f"IGN {ign} doesn’t seem to exist", file=sys.stderr)
+
+            return
+
         level = 0
         for table_child in soup.table.children:
             if table_child.name == "tr":

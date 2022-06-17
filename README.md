@@ -28,9 +28,9 @@ Legend:
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | rusa | deer | 169 | darksterity knight | Oddjobs |
-| Without | Elie | ‡151 | STR/DEX hybridginner | Community\* |
+| Without | Elie | ‡151 | STR/DEX hybridginner | Embargo |
 | LawdHeComin | JunkyardBat | 146 | F/P archgish | Oddjobs |
-| capreolina | deer | 138 | woodsmaster | Oddjobs |
+| capreolina | deer | 139 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 129 | STR bishop | Oddjobs |
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
@@ -103,7 +103,7 @@ Legend:
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry |
-| Contagion | Elie | 54 | islander | Newbology\* |
+| Contagion | Elie | 54 | islander | Embargo |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry |
 | mase | fumumu | 53 | islander | Southperry |
@@ -118,9 +118,7 @@ Legend:
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry |
-| Painal | Blenn | 51 | permapirate | \[none\]\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
-| Monc | Monc | 50 | permamagician | \[none\]\* |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry |
 | Zrar | ? | 50 | islander | Southperry |
@@ -140,7 +138,7 @@ Legend:
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | Dexual | Hunter | 46 | islander | Southperry |
-| Shikatanai | ? | 46 | islander | Southperry |
+| Shikatanai | ? | 46 | islander | Embargo |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | c7gs | ? | 45 | islander | Southperry |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
