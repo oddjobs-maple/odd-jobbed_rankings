@@ -34,7 +34,7 @@ Legend:
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 """
 
-SUBOPTIMAL = {"Flow", "Oddjobs", "Southperry", "Victoria", "Embargo"}
+SUBOPTIMAL = {"Flow", "Oddjobs", "Victoria", "Embargo"}
 
 SPECIAL_MARKDOWN_RE = re.compile(r"_|\*|\[|\]|<|>|#")
 
