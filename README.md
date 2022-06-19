@@ -75,10 +75,10 @@ Legend:
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry\* |
+| Christopher | Chris | 71 | islander | Southperry\* |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
 | tb303 | cecilia | 71 | gish priest | Oddjobs |
 | Ever | Becca | 70 | islander | Team\* |
-| Christopher | Chris | 70 | islander | Southperry\* |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
