@@ -57,10 +57,10 @@ Legend:
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
+| Yoshis | ? | 86 | swashbuckler | Oddjobs |
 | Ismezin | João | 85 | STRginner | Flow |
 | d34r | deer | 85 | dagger spearwoman (vicloc) | Victoria |
 | Newbton | Jonte | 85 | islander | Southperry\* |
-| Yoshis | ? | 85 | swashbuckler | Oddjobs |
 | Sakuzyo | NoChorus | 84 | pugilist (marauder) | Oddjobs |
 | uayua | cecilia | 83 | STRginner | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
