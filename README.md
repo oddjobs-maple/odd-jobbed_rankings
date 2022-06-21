@@ -55,9 +55,9 @@ Legend:
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
+| Yoshis | ? | 87 | swashbuckler | Oddjobs |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
-| Yoshis | ? | 86 | swashbuckler | Oddjobs |
 | Ismezin | João | 85 | STRginner | Flow |
 | d34r | deer | 85 | dagger spearwoman (vicloc) | Victoria |
 | Newbton | Jonte | 85 | islander | Southperry\* |
@@ -135,10 +135,10 @@ Legend:
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
+| Shikatanai | ? | 47 | islander | Embargo |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | Dexual | Hunter | 46 | islander | Southperry\* |
-| Shikatanai | ? | 46 | islander | Embargo |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | c7gs | ? | 45 | islander | Southperry\* |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
