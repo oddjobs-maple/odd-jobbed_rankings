@@ -30,7 +30,7 @@ Legend:
 | rusa | deer | 169 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Embargo |
 | LawdHeComin | JunkyardBat | 146 | F/P archgish | Oddjobs |
-| capreolina | deer | 139 | woodsmaster | Oddjobs |
+| capreolina | deer | 140 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 129 | STR bishop | Oddjobs |
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
