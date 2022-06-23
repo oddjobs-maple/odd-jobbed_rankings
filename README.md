@@ -29,7 +29,7 @@ Legend:
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | rusa | deer | 169 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Embargo |
-| LawdHeComin | JunkyardBat | 146 | F/P archgish | Oddjobs |
+| LawdHeComin | JunkyardBat | 147 | F/P archgish | Oddjobs |
 | capreolina | deer | 140 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 129 | STR bishop | Oddjobs |
@@ -62,7 +62,7 @@ Legend:
 | d34r | deer | 85 | dagger spearwoman (vicloc) | Victoria |
 | Newbton | Jonte | 85 | islander | Southperry\* |
 | Sakuzyo | NoChorus | 84 | pugilist (marauder) | Oddjobs |
-| uayua | cecilia | 83 | STRginner | Oddjobs |
+| uayua | cecilia | 84 | STRginner | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
@@ -90,7 +90,7 @@ Legend:
 | MapleStarter | Dvd | 62 | islander | Newbology\* |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
-| 1sme | João | 60 | islander | Southperry\* |
+| 1sme | João | 60 | islander | Oddjobs |
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
 | Wout | Wout | 58 | islander | Southperry\* |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
