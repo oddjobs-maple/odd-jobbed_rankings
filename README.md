@@ -53,9 +53,9 @@ Legend:
 | Medulla | cort | 89 | dagger sader | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
+| Yoshis | ? | 88 | swashbuckler | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
-| Yoshis | ? | 87 | swashbuckler | Oddjobs |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | João | 85 | STRginner | Flow |
