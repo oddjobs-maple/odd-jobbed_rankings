@@ -60,7 +60,7 @@ Legend:
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Ismezin | João | 85 | STRginner | Flow |
 | d34r | deer | 85 | dagger spearwoman (vicloc) | Victoria |
-| Newbton | Jonte | 85 | islander | Southperry\* |
+| Newbton | Jonte | 85 | islander | Nubists\* |
 | Sakuzyo | NoChorus | 84 | pugilist (marauder) | Oddjobs |
 | uayua | cecilia | 84 | STRginner | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
@@ -75,7 +75,7 @@ Legend:
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Zheedie | David | 71 | islander | Southperry\* |
-| Christopher | Chris | 71 | islander | Southperry\* |
+| Christopher | Chris | 71 | islander | Aoshima\* |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
 | tb303 | cecilia | 71 | gish priest | Oddjobs |
 | Ever | Becca | 70 | islander | Team\* |
