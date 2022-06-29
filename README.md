@@ -125,8 +125,8 @@ Legend:
 | Camomile | Vivian | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
+| tarandus | deer | 50 | shield pugilist (brawler) | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
-| tarandus | deer | 49 | shield pugilist (brawler) | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
 | NewIslander | ? | 48 | islander | \[none\]\* |
@@ -140,10 +140,11 @@ Legend:
 | Femdom | ? | 46 | islander | Newbology\* |
 | Dexual | Hunter | 46 | islander | Southperry\* |
 | PinkBean | ? | 45 | islander | Shroomies\* |
-| c7gs | ? | 45 | islander | Southperry\* |
+| c7gs | ratz | 45 | islander | Southperry\* |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
+| kelik | ratz | 45 | STRginner | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |

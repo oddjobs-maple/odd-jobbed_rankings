@@ -632,7 +632,7 @@
     },
     {
       "ign": "c7gs",
-      "name": null,
+      "name": "ratz",
       "job": "islander",
       "guild": "Southperry"
     },
@@ -874,6 +874,12 @@
       "ign": "tarandus",
       "name": "deer",
       "job": "shield pugilist (brawler)",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "kelik",
+      "name": "ratz",
+      "job": "STRginner",
       "guild": "Oddjobs"
     },
     {
