@@ -50,8 +50,8 @@ Legend:
 | Cassandro | Marcelo | 94 | claw priestlet | Oddjobs |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
+| Yoshis | ? | 90 | swashbuckler | Oddjobs |
 | Medulla | cort | 89 | dagger sader | Oddjobs |
-| Yoshis | ? | 89 | swashbuckler | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
@@ -88,9 +88,9 @@ Legend:
 | Battlesage | Red | 63 | F/P gish | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
 | MapleStarter | Dvd | 62 | islander | Newbology\* |
+| 1sme | João | 61 | islander | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
-| 1sme | João | 60 | islander | Oddjobs |
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
 | Wout | Wout | 58 | islander | Southperry\* |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
