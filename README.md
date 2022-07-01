@@ -50,8 +50,8 @@ Legend:
 | Cassandro | Marcelo | 94 | claw priestlet | Oddjobs |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
+| Yoshis | ? | 91 | swashbuckler | Oddjobs |
 | Medulla | cort | 90 | dagger sader | Oddjobs |
-| Yoshis | ? | 90 | swashbuckler | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
