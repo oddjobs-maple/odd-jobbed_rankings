@@ -34,7 +34,7 @@ Legend:
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 129 | STR bishop | Oddjobs |
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
-| Taima | Kelsey | 122 | STRginner | Oddjobs |
+| Taima | Kelsey | 123 | STRginner | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 112 | STRginner | Oddjobs |
@@ -81,6 +81,7 @@ Legend:
 | Ever | Becca | 70 | islander | Team\* |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
+| Fown | ? | 68 | STRginner | ThotzRUs\* |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
 | d33r | deer | 65 | clericlet (vicloc) | Victoria |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
