@@ -127,6 +127,7 @@ Legend:
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
 | tarandus | deer | 50 | shield pugilist (brawler) | Oddjobs |
+| DexBlade | ? | 50 | DEX fighter | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
