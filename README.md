@@ -37,7 +37,7 @@ Legend:
 | Taima | Kelsey | 123 | STRginner | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
-| Jestterz | LoneWolf1600 | 112 | STRginner | Oddjobs |
+| Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 108 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
@@ -133,10 +133,10 @@ Legend:
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | Luckiestboy | Dvd | 48 | LUKlander | Newbology\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
+| Shikatanai | ? | 48 | islander | Embargo |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
-| Shikatanai | ? | 47 | islander | Embargo |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | Dexual | Hunter | 46 | islander | Southperry\* |
