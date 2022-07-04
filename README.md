@@ -27,7 +27,7 @@ Legend:
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 169 | darksterity knight | Oddjobs |
+| rusa | deer | 170 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Embargo |
 | LawdHeComin | JunkyardBat | 147 | F/P archgish | Oddjobs |
 | capreolina | deer | 140 | woodsmaster | Oddjobs |
@@ -119,6 +119,8 @@ Legend:
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry\* |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
+| tarandus | deer | 51 | shield pugilist (brawler) | Oddjobs |
+| DexBlade | ? | 51 | DEX fighter | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry\* |
@@ -126,8 +128,6 @@ Legend:
 | Camomile | Vivian | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
-| tarandus | deer | 50 | shield pugilist (brawler) | Oddjobs |
-| DexBlade | ? | 50 | DEX fighter | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
