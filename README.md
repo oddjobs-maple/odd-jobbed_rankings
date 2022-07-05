@@ -114,12 +114,12 @@ Legend:
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | BangHero | Lin | 52 | blood fighter | Oddjobs |
 | Meipuru | ? | 52 | shield pugilist (brawler) | Oddjobs |
+| tarandus | deer | 52 | shield pugilist (brawler) | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry\* |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
-| tarandus | deer | 51 | shield pugilist (brawler) | Oddjobs |
 | DexBlade | ? | 51 | DEX fighter | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
