@@ -45,12 +45,12 @@ Legend:
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
+| Cassandro | Marcelo | 95 | claw priestlet | Oddjobs |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
 | Cortical | cort | 94 | STRginner | Flow |
-| Cassandro | Marcelo | 94 | claw priestlet | Oddjobs |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
-| Yoshis | ? | 91 | swashbuckler | Oddjobs |
+| Yoshis | ? | 92 | swashbuckler | Oddjobs |
 | Medulla | cort | 90 | dagger sader | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
@@ -102,6 +102,7 @@ Legend:
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
+| DexBlade | ? | 55 | DEX fighter | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry\* |
 | Contagion | Elie | 54 | islander | Embargo |
@@ -120,7 +121,6 @@ Legend:
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry\* |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
-| DexBlade | ? | 51 | DEX fighter | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry\* |
