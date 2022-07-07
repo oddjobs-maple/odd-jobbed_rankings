@@ -82,8 +82,8 @@ Legend:
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | Fown | ? | 68 | STRginner | ThotzRUs\* |
+| d33r | deer | 66 | clericlet (vicloc) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | GangGang\* |
-| d33r | deer | 65 | clericlet (vicloc) | Victoria |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Battlesage | Red | 63 | F/P gish | Oddjobs |
@@ -147,6 +147,7 @@ Legend:
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
 | kelik | ratz | 45 | STRginner | Oddjobs |
+| poggered | ? | 45 | STRginner | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
