@@ -141,13 +141,13 @@ Legend:
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | Dexual | Hunter | 46 | islander | Southperry\* |
+| kelik | ratz | 46 | STRginner | Oddjobs |
 | poggered | ? | 46 | STRginner | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | c7gs | ratz | 45 | islander | Southperry\* |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
-| kelik | ratz | 45 | STRginner | Oddjobs |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
