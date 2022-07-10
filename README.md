@@ -50,7 +50,7 @@ Legend:
 | Cortical | cort | 94 | STRginner | Flow |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
-| Yoshis | ? | 92 | swashbuckler | Oddjobs |
+| Yoshis | ? | 93 | swashbuckler | Oddjobs |
 | Medulla | cort | 90 | dagger sader | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
@@ -135,6 +135,7 @@ Legend:
 | Luckiestboy | Dvd | 48 | LUKlander | Newbology\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | Shikatanai | ? | 48 | islander | Embargo |
+| poggered | ? | 48 | STRginner | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
@@ -142,7 +143,6 @@ Legend:
 | Femdom | ? | 46 | islander | Newbology\* |
 | Dexual | Hunter | 46 | islander | Southperry\* |
 | kelik | ratz | 46 | STRginner | Oddjobs |
-| poggered | ? | 46 | STRginner | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | c7gs | ratz | 45 | islander | Southperry\* |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
