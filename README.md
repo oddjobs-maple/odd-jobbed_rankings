@@ -48,9 +48,9 @@ Legend:
 | Cassandro | Marcelo | 95 | claw priestlet | Oddjobs |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
 | Cortical | cort | 94 | STRginner | Flow |
+| Yoshis | ? | 94 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
-| Yoshis | ? | 93 | swashbuckler | Oddjobs |
 | Medulla | cort | 90 | dagger sader | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
@@ -139,10 +139,10 @@ Legend:
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
+| kelik | ratz | 47 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | Dexual | Hunter | 46 | islander | Southperry\* |
-| kelik | ratz | 46 | STRginner | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | c7gs | ratz | 45 | islander | Southperry\* |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
@@ -174,7 +174,7 @@ Legend:
 | Subcortical | cort | 40 | islander | Southperry\* |
 | GoGoSnuggles | Snuggles | 24 | camper | Flow |
 | Itati | ? | 19 | camper | \[none\]\* |
-| WarmApplePie | Snuggles | 18 | camper | Southperry\* |
+| WarmApplePie | Snuggles | 19 | camper | Southperry\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
 | L0neWolf1600 | LoneWolf1600 | 16 | camper | Campers\* |
 | BloodyTaco | ? | 16 | camper | \[none\]\* |
