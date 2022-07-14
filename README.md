@@ -46,9 +46,9 @@ Legend:
 | Outside | Tab | 96 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
 | Cassandro | Marcelo | 95 | claw priestlet | Oddjobs |
+| Yoshis | ? | 95 | swashbuckler | Oddjobs |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
 | Cortical | cort | 94 | STRginner | Flow |
-| Yoshis | ? | 94 | swashbuckler | Oddjobs |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
 | Medulla | cort | 90 | dagger sader | Oddjobs |
