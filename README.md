@@ -44,9 +44,9 @@ Legend:
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
+| Yoshis | ? | 96 | swashbuckler | Oddjobs |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
 | Cassandro | Marcelo | 95 | claw priestlet | Oddjobs |
-| Yoshis | ? | 95 | swashbuckler | Oddjobs |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
 | Cortical | cort | 94 | STRginner | Flow |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
