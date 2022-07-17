@@ -44,9 +44,9 @@ Legend:
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Outside | Tab | 96 | STRginner | Flow |
+| Cassandro | Marcelo | 96 | claw priestlet | Oddjobs |
 | Yoshis | ? | 96 | swashbuckler | Oddjobs |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
-| Cassandro | Marcelo | 95 | claw priestlet | Oddjobs |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
 | Cortical | cort | 94 | STRginner | Flow |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
@@ -121,6 +121,7 @@ Legend:
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry\* |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
+| poggered | ? | 51 | STRginner | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry\* |
@@ -129,7 +130,6 @@ Legend:
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
-| poggered | ? | 49 | STRginner | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
 | NewIslander | ? | 48 | islander | \[none\]\* |
