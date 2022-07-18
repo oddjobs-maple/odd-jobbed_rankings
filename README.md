@@ -140,6 +140,7 @@ Legend:
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
 | kelik | ratz | 47 | STRginner | Oddjobs |
+| inhale | ? | 47 | DEXginner (ironman) | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | Dexual | Hunter | 46 | islander | Southperry\* |
@@ -172,7 +173,7 @@ Legend:
 | tbook | ? | 40 | islander | \[none\]\* |
 | iamDanix | ? | 40 | islander | Southperry\* |
 | Subcortical | cort | 40 | islander | Southperry\* |
-| GoGoSnuggles | Snuggles | 24 | camper | Flow |
+| GoGoSnuggles | Snuggles | 25 | camper | Flow |
 | Itati | ? | 19 | camper | \[none\]\* |
 | WarmApplePie | Snuggles | 19 | camper | Southperry\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
