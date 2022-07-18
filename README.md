@@ -116,12 +116,12 @@ Legend:
 | BangHero | Lin | 52 | blood fighter | Oddjobs |
 | Meipuru | ? | 52 | shield pugilist (brawler) | Oddjobs |
 | tarandus | deer | 52 | shield pugilist (brawler) | Oddjobs |
+| poggered | ? | 52 | STRginner | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Ashore | Sean | 51 | islander | Southperry\* |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
-| poggered | ? | 51 | STRginner | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry\* |
