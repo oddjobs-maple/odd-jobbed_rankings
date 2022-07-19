@@ -34,7 +34,7 @@ Legend:
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 129 | STR bishop | Oddjobs |
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
-| Taima | Kelsey | 123 | STRginner | Oddjobs |
+| Taima | Kelsey | 124 | STRginner | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
@@ -43,7 +43,7 @@ Legend:
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
-| Yoshis | ? | 97 | swashbuckler | Oddjobs |
+| Yoshis | ? | 98 | swashbuckler | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
 | Cassandro | Marcelo | 96 | claw priestlet | Oddjobs |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
