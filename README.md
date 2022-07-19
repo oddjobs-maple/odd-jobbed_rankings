@@ -43,9 +43,9 @@ Legend:
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
+| Yoshis | ? | 97 | swashbuckler | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
 | Cassandro | Marcelo | 96 | claw priestlet | Oddjobs |
-| Yoshis | ? | 96 | swashbuckler | Oddjobs |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
 | Cortical | cort | 94 | STRginner | Flow |
@@ -111,12 +111,12 @@ Legend:
 | mase | fumumu | 53 | islander | Southperry\* |
 | Godswood | eriklopez95 | 53 | STR cleric | Oddjobs |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
+| poggered | ? | 53 | STRginner | Oddjobs |
 | doiob | doiob | 52 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | BangHero | Lin | 52 | blood fighter | Oddjobs |
 | Meipuru | ? | 52 | shield pugilist (brawler) | Oddjobs |
 | tarandus | deer | 52 | shield pugilist (brawler) | Oddjobs |
-| poggered | ? | 52 | STRginner | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
@@ -136,11 +136,11 @@ Legend:
 | Luckiestboy | Dvd | 48 | LUKlander | Newbology\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | Shikatanai | ? | 48 | islander | Embargo |
+| inhale | ? | 48 | DEXginner (ironman) | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
 | kelik | ratz | 47 | STRginner | Oddjobs |
-| inhale | ? | 47 | DEXginner (ironman) | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | Dexual | Hunter | 46 | islander | Southperry\* |
