@@ -153,10 +153,10 @@ Legend:
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Tonk | ? | 44 | islander | Southperry\* |
+| VillageIdiot | ? | 44 | islander | Southperry\* |
 | Babbi | Alvin | 44 | islander | Southperry\* |
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Gosu | ? | 43 | islander | \[none\]\* |
-| VillageIdiot | ? | 43 | islander | Southperry\* |
 | Land | ? | 43 | islander | Amherst\* |
 | Cottage | ? | 42 | islander | Southperry\* |
 | Snapples | Kristina | 42 | islander | Newbology\* |
