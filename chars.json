@@ -200,7 +200,7 @@
       "ign": "justbegin",
       "name": "Kalezus",
       "job": "STRginner",
-      "guild": "GangGang"
+      "guild": null
     },
     { "ign": "alces", "name": "deer", "job": "daggermit", "guild": "Oddjobs" },
     {
@@ -860,7 +860,7 @@
     },
     {
       "ign": "Yoshis",
-      "name": null,
+      "name": "Sword Furb",
       "job": "swashbuckler",
       "guild": "Oddjobs"
     },

@@ -43,7 +43,7 @@ Legend:
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
-| Yoshis | ? | 98 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 98 | swashbuckler | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
 | Cassandro | Marcelo | 96 | claw priestlet | Oddjobs |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
@@ -83,7 +83,7 @@ Legend:
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | Fown | ? | 68 | STRginner | ThotzRUs\* |
 | d33r | deer | 66 | clericlet (vicloc) | Victoria |
-| justbegin | Kalezus | 65 | STRginner | GangGang\* |
+| justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Battlesage | Red | 63 | F/P gish | Oddjobs |
@@ -130,12 +130,12 @@ Legend:
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
 | BowerStrike | cort | 49 | bow-whacker | Oddjobs |
+| Shikatanai | ? | 49 | islander | Embargo |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | Luckiestboy | Dvd | 48 | LUKlander | Newbology\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
-| Shikatanai | ? | 48 | islander | Embargo |
 | inhale | ? | 48 | DEXginner | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
