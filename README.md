@@ -136,7 +136,7 @@ Legend:
 | Luckiestboy | Dvd | 48 | LUKlander | Newbology\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | Shikatanai | ? | 48 | islander | Embargo |
-| inhale | ? | 48 | DEXginner (ironman) | Oddjobs |
+| inhale | ? | 48 | DEXginner | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
