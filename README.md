@@ -29,7 +29,7 @@ Legend:
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | rusa | deer | 170 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Embargo |
-| LawdHeComin | JunkyardBat | 147 | F/P archgish | Oddjobs |
+| LawdHeComin | JunkyardBat | 148 | F/P archgish | Oddjobs |
 | capreolina | deer | 141 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 129 | STR bishop | Oddjobs |
@@ -106,17 +106,17 @@ Legend:
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry\* |
 | Contagion | Elie | 54 | islander | Embargo |
+| poggered | ? | 54 | STRginner | Oddjobs |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Godswood | eriklopez95 | 53 | STR cleric | Oddjobs |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
-| poggered | ? | 53 | STRginner | Oddjobs |
+| tarandus | deer | 53 | shield pugilist (brawler) | Oddjobs |
 | doiob | doiob | 52 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | BangHero | Lin | 52 | blood fighter | Oddjobs |
 | Meipuru | ? | 52 | shield pugilist (brawler) | Oddjobs |
-| tarandus | deer | 52 | shield pugilist (brawler) | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
