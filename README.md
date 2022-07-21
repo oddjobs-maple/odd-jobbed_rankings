@@ -43,7 +43,7 @@ Legend:
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
-| Yoshis | Sword Furb | 98 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 99 | swashbuckler | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
 | Cassandro | Marcelo | 96 | claw priestlet | Oddjobs |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
