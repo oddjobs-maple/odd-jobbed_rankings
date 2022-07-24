@@ -44,8 +44,8 @@ Legend:
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Yoshis | Sword Furb | 100 | swashbuckler | Oddjobs |
+| Cassandro | Marcelo | 97 | claw priestlet | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
-| Cassandro | Marcelo | 96 | claw priestlet | Oddjobs |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
 | Cortical | cort | 94 | STRginner | Flow |
@@ -82,11 +82,11 @@ Legend:
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | Fown | ? | 68 | STRginner | ThotzRUs\* |
+| Battlesage | Red | 67 | F/P gish | Oddjobs |
 | d33r | deer | 66 | clericlet (vicloc) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| Battlesage | Red | 63 | F/P gish | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
 | MapleStarter | Dvd | 62 | islander | Newbology\* |
 | 1sme | João | 61 | islander | Oddjobs |
