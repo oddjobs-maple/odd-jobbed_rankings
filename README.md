@@ -81,8 +81,8 @@ Legend:
 | Ever | Becca | 70 | islander | Team\* |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
+| Battlesage | Red | 69 | F/P gish | GangGang\* |
 | Fown | ? | 68 | STRginner | ThotzRUs\* |
-| Battlesage | Red | 67 | F/P gish | Oddjobs |
 | d33r | deer | 66 | clericlet (vicloc) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
@@ -103,16 +103,16 @@ Legend:
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
+| poggered | ? | 55 | STRginner | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry\* |
 | Contagion | Elie | 54 | islander | Embargo |
-| poggered | ? | 54 | STRginner | Oddjobs |
+| tarandus | deer | 54 | shield pugilist (brawler) | Oddjobs |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Godswood | eriklopez95 | 53 | STR cleric | Oddjobs |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
-| tarandus | deer | 53 | shield pugilist (brawler) | Oddjobs |
 | doiob | doiob | 52 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | BangHero | Lin | 52 | blood fighter | Oddjobs |
