@@ -27,7 +27,7 @@ Legend:
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 170 | darksterity knight | Oddjobs |
+| rusa | deer | 171 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Embargo |
 | LawdHeComin | JunkyardBat | 148 | F/P archgish | Oddjobs |
 | capreolina | deer | 141 | woodsmaster | Oddjobs |
@@ -78,10 +78,10 @@ Legend:
 | Christopher | Chris | 71 | islander | Aoshima\* |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
 | tb303 | cecilia | 71 | gish priest | Oddjobs |
+| Battlesage | Red | 70 | F/P gish | GangGang\* |
 | Ever | Becca | 70 | islander | Team\* |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
-| Battlesage | Red | 69 | F/P gish | GangGang\* |
 | Fown | ? | 68 | STRginner | ThotzRUs\* |
 | d33r | deer | 66 | clericlet (vicloc) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
@@ -99,6 +99,7 @@ Legend:
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
+| tarandus | deer | 56 | shield pugilist (brawler) | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
@@ -107,16 +108,15 @@ Legend:
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry\* |
 | Contagion | Elie | 54 | islander | Embargo |
-| tarandus | deer | 54 | shield pugilist (brawler) | Oddjobs |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Godswood | eriklopez95 | 53 | STR cleric | Oddjobs |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
+| Meipuru | ? | 53 | shield pugilist (brawler) | Oddjobs |
 | doiob | doiob | 52 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | BangHero | Lin | 52 | blood fighter | Oddjobs |
-| Meipuru | ? | 52 | shield pugilist (brawler) | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
