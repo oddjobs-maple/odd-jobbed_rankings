@@ -42,8 +42,8 @@ Legend:
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
+| Yoshis | Sword Furb | 101 | swashbuckler | Oddjobs |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
-| Yoshis | Sword Furb | 100 | swashbuckler | Oddjobs |
 | Cassandro | Marcelo | 97 | claw priestlet | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
@@ -74,11 +74,11 @@ Legend:
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
+| Battlesage | Red | 71 | F/P gish | GangGang\* |
 | Zheedie | David | 71 | islander | Southperry\* |
 | Christopher | Chris | 71 | islander | Aoshima\* |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
 | tb303 | cecilia | 71 | gish priest | Oddjobs |
-| Battlesage | Red | 70 | F/P gish | GangGang\* |
 | Ever | Becca | 70 | islander | Team\* |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
