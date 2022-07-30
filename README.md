@@ -68,13 +68,13 @@ Legend:
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
+| Battlesage | Red | 76 | F/P gish | GangGang\* |
 | jung1e | Justin | 76 | islander | Newbology\* |
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
-| Battlesage | Red | 71 | F/P gish | GangGang\* |
 | Zheedie | David | 71 | islander | Southperry\* |
 | Christopher | Chris | 71 | islander | Aoshima\* |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
