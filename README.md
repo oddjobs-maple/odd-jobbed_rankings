@@ -42,7 +42,7 @@ Legend:
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
-| Yoshis | Sword Furb | 101 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 102 | swashbuckler | Oddjobs |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Cassandro | Marcelo | 97 | claw priestlet | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
