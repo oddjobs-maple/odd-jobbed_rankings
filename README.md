@@ -96,10 +96,10 @@ Legend:
 | Wout | Wout | 58 | islander | Southperry\* |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
+| tarandus | deer | 57 | shield pugilist (brawler) | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
-| tarandus | deer | 56 | shield pugilist (brawler) | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
