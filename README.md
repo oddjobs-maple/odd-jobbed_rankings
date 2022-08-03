@@ -32,7 +32,7 @@ Legend:
 | LawdHeComin | JunkyardBat | 148 | F/P archgish | Oddjobs |
 | capreolina | deer | 141 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
-| cervid | deer | 129 | STR bishop | Oddjobs |
+| cervid | deer | 130 | STR bishop | Oddjobs |
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
 | Taima | Kelsey | 124 | STRginner | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
