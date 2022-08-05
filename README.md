@@ -41,8 +41,8 @@ Legend:
 | alces | deer | 108 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
+| Yoshis | Sword Furb | 103 | swashbuckler | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
-| Yoshis | Sword Furb | 102 | swashbuckler | Oddjobs |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Cassandro | Marcelo | 97 | claw priestlet | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
@@ -90,9 +90,9 @@ Legend:
 | Oahu | Tom | 62 | STRlander | Southperry\* |
 | MapleStarter | Dvd | 62 | islander | Newbology\* |
 | 1sme | João | 61 | islander | Oddjobs |
+| tarandus | deer | 61 | shield pugilist (brawler) | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
-| tarandus | deer | 60 | shield pugilist (brawler) | Oddjobs |
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
 | Wout | Wout | 58 | islander | Southperry\* |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
