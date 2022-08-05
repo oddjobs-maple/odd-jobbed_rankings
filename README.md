@@ -92,11 +92,11 @@ Legend:
 | 1sme | João | 61 | islander | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
+| tarandus | deer | 60 | shield pugilist (brawler) | Oddjobs |
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
 | Wout | Wout | 58 | islander | Southperry\* |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
-| tarandus | deer | 58 | shield pugilist (brawler) | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
