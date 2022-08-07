@@ -89,8 +89,8 @@ Legend:
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
 | MapleStarter | Dvd | 62 | islander | Newbology\* |
+| tarandus | deer | 62 | shield pugilist (brawler) | Oddjobs |
 | 1sme | João | 61 | islander | Oddjobs |
-| tarandus | deer | 61 | shield pugilist (brawler) | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
@@ -145,6 +145,7 @@ Legend:
 | Femdom | ? | 46 | islander | Newbology\* |
 | Dexual | Hunter | 46 | islander | Southperry\* |
 | PinkBean | ? | 45 | islander | Shroomies\* |
+| VillageIdiot | ? | 45 | islander | Southperry\* |
 | c7gs | ratz | 45 | islander | Southperry\* |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
@@ -153,7 +154,6 @@ Legend:
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Tonk | ? | 44 | islander | Southperry\* |
-| VillageIdiot | ? | 44 | islander | Southperry\* |
 | Babbi | Alvin | 44 | islander | Southperry\* |
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Gosu | ? | 43 | islander | \[none\]\* |
