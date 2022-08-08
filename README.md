@@ -41,7 +41,7 @@ Legend:
 | alces | deer | 108 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
-| Yoshis | Sword Furb | 103 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 104 | swashbuckler | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Cassandro | Marcelo | 97 | claw priestlet | Oddjobs |
@@ -66,9 +66,9 @@ Legend:
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
+| Battlesage | Red | 78 | F/P gish | GangGang\* |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
-| Battlesage | Red | 76 | F/P gish | GangGang\* |
 | jung1e | Justin | 76 | islander | Newbology\* |
 | Duhm | Duhm | 76 | STRginner | Flow |
 | Rort | Lin | 75 | STRginner | Flow |
