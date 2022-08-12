@@ -51,7 +51,7 @@ Legend:
 | Cortical | cort | 94 | STRginner | Flow |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
-| Medulla | cort | 90 | dagger sader | Oddjobs |
+| Medulla | cort | 91 | dagger sader | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
@@ -87,9 +87,9 @@ Legend:
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
+| tarandus | deer | 63 | shield pugilist (brawler) | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
 | MapleStarter | Dvd | 62 | islander | Newbology\* |
-| tarandus | deer | 62 | shield pugilist (brawler) | Oddjobs |
 | 1sme | João | 61 | islander | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
