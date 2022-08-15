@@ -100,11 +100,11 @@ Legend:
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
+| poggered | ? | 56 | STRginner | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
-| poggered | ? | 55 | STRginner | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry\* |
 | Contagion | Elie | 54 | islander | Embargo |
