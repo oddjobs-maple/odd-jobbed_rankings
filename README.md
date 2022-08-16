@@ -38,7 +38,7 @@ Legend:
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
-| alces | deer | 108 | daggermit | Oddjobs |
+| alces | deer | 109 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | Yoshis | Sword Furb | 104 | swashbuckler | Oddjobs |
@@ -46,9 +46,9 @@ Legend:
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Cassandro | Marcelo | 97 | claw priestlet | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
+| Cortical | cort | 95 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
-| Cortical | cort | 94 | STRginner | Flow |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
 | Medulla | cort | 91 | dagger sader | Oddjobs |
@@ -108,11 +108,11 @@ Legend:
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry\* |
 | Contagion | Elie | 54 | islander | Embargo |
+| Godswood | eriklopez95 | 54 | STR cleric | Oddjobs |
 | Meipuru | ? | 54 | shield pugilist (brawler) | Oddjobs |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
-| Godswood | eriklopez95 | 53 | STR cleric | Oddjobs |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
 | doiob | doiob | 52 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
