@@ -61,12 +61,12 @@ Legend:
 | Ismezin | João | 85 | STRginner | Flow |
 | d34r | deer | 85 | dagger spearwoman (vicloc) | Victoria |
 | Newbton | Jonte | 85 | islander | Nubists\* |
-| Sakuzyo | NoChorus | 84 | pugilist (marauder) | Oddjobs |
+| Sakuzyo | NoChorus | 85 | pugilist (marauder) | Oddjobs |
 | uayua | cecilia | 84 | STRginner | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
-| Battlesage | Red | 78 | F/P gish | GangGang\* |
+| Battlesage | Red | 79 | F/P gish | GangGang\* |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | jung1e | Justin | 76 | islander | Newbology\* |
@@ -103,12 +103,12 @@ Legend:
 | poggered | ? | 56 | STRginner | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
+| Godswood | eriklopez95 | 55 | STR cleric | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry\* |
 | Contagion | Elie | 54 | islander | Embargo |
-| Godswood | eriklopez95 | 54 | STR cleric | Oddjobs |
 | Meipuru | ? | 54 | shield pugilist (brawler) | Oddjobs |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
