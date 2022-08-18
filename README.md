@@ -124,12 +124,12 @@ Legend:
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
+| BowerStrike | cort | 50 | bow-whacker | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry\* |
 | Zrar | ? | 50 | islander | Southperry\* |
 | Camomile | Vivian | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
-| BowerStrike | cort | 49 | bow-whacker | Oddjobs |
 | Shikatanai | ? | 49 | islander | Embargo |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
