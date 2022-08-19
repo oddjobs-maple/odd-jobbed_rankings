@@ -40,8 +40,8 @@ Legend:
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 109 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
+| Yoshis | Sword Furb | 105 | swashbuckler | Oddjobs |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
-| Yoshis | Sword Furb | 104 | swashbuckler | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Cassandro | Marcelo | 97 | claw priestlet | Oddjobs |
@@ -143,9 +143,9 @@ Legend:
 | kelik | ratz | 47 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
+| VillageIdiot | ? | 46 | islander | Southperry\* |
 | Dexual | Hunter | 46 | islander | Southperry\* |
 | PinkBean | ? | 45 | islander | Shroomies\* |
-| VillageIdiot | ? | 45 | islander | Southperry\* |
 | c7gs | ratz | 45 | islander | Southperry\* |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
