@@ -27,7 +27,7 @@ Legend:
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 171 | darksterity knight | Oddjobs |
+| rusa | deer | 172 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Embargo |
 | LawdHeComin | JunkyardBat | 148 | F/P archgish | Oddjobs |
 | capreolina | deer | 141 | woodsmaster | Oddjobs |
@@ -58,10 +58,10 @@ Legend:
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
+| Sakuzyo | NoChorus | 86 | pugilist (marauder) | Oddjobs |
 | Ismezin | João | 85 | STRginner | Flow |
 | d34r | deer | 85 | dagger spearwoman (vicloc) | Victoria |
 | Newbton | Jonte | 85 | islander | Nubists\* |
-| Sakuzyo | NoChorus | 85 | pugilist (marauder) | Oddjobs |
 | uayua | cecilia | 84 | STRginner | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
@@ -140,10 +140,10 @@ Legend:
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
+| VillageIdiot | ? | 47 | islander | Southperry\* |
 | kelik | ratz | 47 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
-| VillageIdiot | ? | 46 | islander | Southperry\* |
 | Dexual | Hunter | 46 | islander | Southperry\* |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | c7gs | ratz | 45 | islander | Southperry\* |
