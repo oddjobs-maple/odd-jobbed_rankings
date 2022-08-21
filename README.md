@@ -33,12 +33,12 @@ Legend:
 | capreolina | deer | 141 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 130 | STR bishop | Oddjobs |
-| Taima | Kelsey | 125 | STRginner | Oddjobs |
+| Taima | Kelsey | 126 | STRginner | Oddjobs |
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
-| alces | deer | 109 | daggermit | Oddjobs |
+| alces | deer | 110 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Yoshis | Sword Furb | 105 | swashbuckler | Oddjobs |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
@@ -64,9 +64,9 @@ Legend:
 | Newbton | Jonte | 85 | islander | Nubists\* |
 | uayua | cecilia | 84 | STRginner | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
+| Battlesage | Red | 81 | F/P gish | GangGang\* |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
-| Battlesage | Red | 79 | F/P gish | GangGang\* |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
 | rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
 | jung1e | Justin | 76 | islander | Newbology\* |
@@ -117,6 +117,7 @@ Legend:
 | doiob | doiob | 52 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | BangHero | Lin | 52 | blood fighter | Oddjobs |
+| inhale | ? | 52 | DEXginner | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
@@ -136,7 +137,6 @@ Legend:
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | Luckiestboy | Dvd | 48 | LUKlander | Newbology\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
-| inhale | ? | 48 | DEXginner | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
