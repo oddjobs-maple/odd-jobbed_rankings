@@ -39,8 +39,8 @@ Legend:
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 110 | daggermit | Oddjobs |
+| Yoshis | Sword Furb | 106 | swashbuckler | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
-| Yoshis | Sword Furb | 105 | swashbuckler | Oddjobs |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
