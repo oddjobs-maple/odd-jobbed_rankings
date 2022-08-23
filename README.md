@@ -58,13 +58,13 @@ Legend:
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
+| d34r | deer | 86 | dagger spearwoman (vicloc) | Victoria |
+| Battlesage | Red | 86 | F/P gish | GangGang\* |
 | Sakuzyo | NoChorus | 86 | pugilist (marauder) | Oddjobs |
 | Ismezin | João | 85 | STRginner | Flow |
-| d34r | deer | 85 | dagger spearwoman (vicloc) | Victoria |
 | Newbton | Jonte | 85 | islander | Nubists\* |
 | uayua | cecilia | 84 | STRginner | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
-| Battlesage | Red | 81 | F/P gish | GangGang\* |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
@@ -114,10 +114,10 @@ Legend:
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
+| inhale | ? | 53 | DEXginner | Oddjobs |
 | doiob | doiob | 52 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | BangHero | Lin | 52 | blood fighter | Oddjobs |
-| inhale | ? | 52 | DEXginner | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
@@ -136,11 +136,11 @@ Legend:
 | TheFalseKing | ? | 48 | islander | Southperry\* |
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | Luckiestboy | Dvd | 48 | LUKlander | Newbology\* |
+| VillageIdiot | ? | 48 | islander | Southperry\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
-| VillageIdiot | ? | 47 | islander | Southperry\* |
 | kelik | ratz | 47 | STRginner | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
