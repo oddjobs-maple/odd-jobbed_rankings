@@ -97,10 +97,10 @@ Legend:
 | Wout | Wout | 58 | islander | Southperry\* |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
+| Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
-| Godswood | eriklopez95 | 56 | STR cleric | Oddjobs |
 | poggered | ? | 56 | STRginner | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
@@ -131,11 +131,11 @@ Legend:
 | Camomile | Vivian | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
+| Luckiestboy | Dvd | 49 | LUKlander | Newbology\* |
 | Shikatanai | ? | 49 | islander | Embargo |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
 | NewIslander | ? | 48 | islander | \[none\]\* |
-| Luckiestboy | Dvd | 48 | LUKlander | Newbology\* |
 | VillageIdiot | ? | 48 | islander | Southperry\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
@@ -167,9 +167,9 @@ Legend:
 | Zugar | ? | 41 | islander | Newbology\* |
 | Mesa | sneaks | 41 | islander | Southperry\* |
 | yotta | ? | 41 | islander | \[none\]\* |
+| BirdMandala | ? | 41 | islander | Southperry\* |
 | DumbIsland | Leo | 40 | islander | Southperry\* |
 | Kokoro | ? | 40 | islander | \[none\]\* |
-| BirdMandala | ? | 40 | islander | Southperry\* |
 | tbook | ? | 40 | islander | \[none\]\* |
 | iamDanix | ? | 40 | islander | Southperry\* |
 | Subcortical | cort | 40 | islander | Southperry\* |
