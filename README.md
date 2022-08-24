@@ -100,21 +100,21 @@ Legend:
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
+| Godswood | eriklopez95 | 56 | STR cleric | Oddjobs |
 | poggered | ? | 56 | STRginner | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
-| Godswood | eriklopez95 | 55 | STR cleric | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry\* |
 | Contagion | Elie | 54 | islander | Embargo |
 | Meipuru | ? | 54 | shield pugilist (brawler) | Oddjobs |
+| inhale | ? | 54 | DEXginner | Oddjobs |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
-| inhale | ? | 53 | DEXginner | Oddjobs |
 | doiob | doiob | 52 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | BangHero | Lin | 52 | blood fighter | Oddjobs |
@@ -158,9 +158,9 @@ Legend:
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | Land | ? | 43 | islander | Amherst\* |
+| Neveroffland | ? | 43 | islander | \[none\]\* |
 | Cottage | ? | 42 | islander | Southperry\* |
 | Snapples | Kristina | 42 | islander | Newbology\* |
-| Neveroffland | ? | 42 | islander | \[none\]\* |
 | Patrao | Duncan | 42 | islander | Southperry\* |
 | Woogie | ? | 41 | islander | Southperry\* |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
