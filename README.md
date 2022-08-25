@@ -28,7 +28,7 @@ Legend:
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
 | rusa | deer | 172 | darksterity knight | Oddjobs |
-| Without | Elie | ‡151 | STR/DEX hybridginner | Embargo |
+| Without | Elie | ‡151 | STR/DEX hybridginner | Pariah |
 | LawdHeComin | JunkyardBat | 148 | F/P archgish | Oddjobs |
 | capreolina | deer | 141 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
@@ -39,7 +39,7 @@ Legend:
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 110 | daggermit | Oddjobs |
-| Yoshis | Sword Furb | 106 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 107 | swashbuckler | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
@@ -78,7 +78,7 @@ Legend:
 | Zheedie | David | 71 | islander | Southperry\* |
 | Christopher | Chris | 71 | islander | Aoshima\* |
 | Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
-| tb303 | cecilia | 71 | gish priest | Oddjobs |
+| tb303 | cecilia | 71 | gish priest | Flow |
 | Ever | Becca | 70 | islander | Team\* |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
@@ -106,18 +106,18 @@ Legend:
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
+| inhale | ? | 55 | DEXginner | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry\* |
-| Contagion | Elie | 54 | islander | Embargo |
+| Contagion | Elie | 54 | islander | Pariah |
 | Meipuru | ? | 54 | shield pugilist (brawler) | Oddjobs |
-| inhale | ? | 54 | DEXginner | Oddjobs |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
+| BangHero | Lin | 53 | blood fighter | Oddjobs |
 | doiob | doiob | 52 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
-| BangHero | Lin | 52 | blood fighter | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
@@ -132,7 +132,7 @@ Legend:
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
 | Luckiestboy | Dvd | 49 | LUKlander | Newbology\* |
-| Shikatanai | ? | 49 | islander | Embargo |
+| Shikatanai | ? | 49 | islander | \[none\]\* |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
 | NewIslander | ? | 48 | islander | \[none\]\* |
@@ -182,9 +182,10 @@ Legend:
 | DuckyWucky | ? | 15 | camper | \[none\]\* |
 | Hyewon | ? | 15 | camper | \[none\]\* |
 | Hobbits | ? | 14 | camper | \[none\]\* |
-| NewCharacter | cort | 13 | camper | \[none\]\* |
+| NewCharacter | cort | 13 | camper | Flow |
 | Kept | ? | 11 | camper | Campers\* |
 | TrainingCamp | ? | 11 | camper | Campers\* |
 | Chronosius | ? | 11 | camper | \[none\]\* |
 | Words | ? | 10 | camper | \[none\]\* |
 | Social | ? | 10 | camper | \[none\]\* |
+| midorin | Kelsey | 10 | camper | Oddjobs |
