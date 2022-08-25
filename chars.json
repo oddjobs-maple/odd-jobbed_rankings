@@ -346,7 +346,7 @@
       "ign": "NewCharacter",
       "name": "cort",
       "job": "camper",
-      "guild": null
+      "guild": "Flow"
     },
     {
       "ign": "Kept",
@@ -730,7 +730,7 @@
       "ign": "tb303",
       "name": "cecilia",
       "job": "gish priest",
-      "guild": "Oddjobs"
+      "guild": "Flow"
     },
     {
       "ign": "Dexual",
@@ -742,7 +742,7 @@
       "ign": "Contagion",
       "name": "Elie",
       "job": "islander",
-      "guild": "Embargo"
+      "guild": "Pariah"
     },
     {
       "ign": "shadowban",
@@ -856,7 +856,7 @@
       "ign": "Shikatanai",
       "name": null,
       "job": "islander",
-      "guild": "Embargo"
+      "guild": null
     },
     {
       "ign": "Yoshis",
@@ -907,6 +907,12 @@
       "guild": "Oddjobs"
     },
     {
+      "ign": "midorin",
+      "name": "Kelsey",
+      "job": "camper",
+      "guild": "Oddjobs"
+    },
+    {
       "ign": "Otios",
       "name": "Wout",
       "job": "STRginner",
@@ -917,7 +923,7 @@
       "ign": "Without",
       "name": "Elie",
       "job": "STR/DEX hybridginner",
-      "guild": "Embargo",
+      "guild": "Pariah",
       "leech": "lots"
     }
   ]
