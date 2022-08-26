@@ -777,7 +777,7 @@
     {
       "ign": "GooderNoddy",
       "name": "TotallyNotShoe",
-      "job": "HP STRginner",
+      "job": "DEF/HP STRginner",
       "guild": "Oddjobs"
     },
     {
@@ -910,6 +910,12 @@
       "ign": "midorin",
       "name": "Kelsey",
       "job": "camper",
+      "guild": "Oddjobs"
+    },
+    {
+      "ign": "Philippe",
+      "name": null,
+      "job": "STRginner",
       "guild": "Oddjobs"
     },
     {

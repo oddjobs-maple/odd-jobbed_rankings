@@ -98,6 +98,7 @@ Legend:
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
 | Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
+| Philippe | ? | 57 | STRginner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
@@ -130,7 +131,7 @@ Legend:
 | Zrar | ? | 50 | islander | Southperry\* |
 | Camomile | Vivian | 50 | islander | \[none\]\* |
 | EasyIsland | ? | 50 | islander | Southperry\* |
-| GooderNoddy | TotallyNotShoe | 50 | HP STRginner | Oddjobs |
+| GooderNoddy | TotallyNotShoe | 50 | DEF/HP STRginner | Oddjobs |
 | Luckiestboy | Dvd | 49 | LUKlander | Newbology\* |
 | Shikatanai | ? | 49 | islander | \[none\]\* |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
