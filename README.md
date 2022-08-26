@@ -30,7 +30,7 @@ Legend:
 | rusa | deer | 172 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Pariah |
 | LawdHeComin | JunkyardBat | 148 | F/P archgish | Oddjobs |
-| capreolina | deer | 141 | woodsmaster | Oddjobs |
+| capreolina | deer | 142 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 130 | STR bishop | Oddjobs |
 | Taima | Kelsey | 126 | STRginner | Oddjobs |
@@ -56,11 +56,11 @@ Legend:
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
+| Sakuzyo | NoChorus | 87 | pugilist (marauder) | Oddjobs |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | d34r | deer | 86 | dagger spearwoman (vicloc) | Victoria |
 | Battlesage | Red | 86 | F/P gish | GangGang\* |
-| Sakuzyo | NoChorus | 86 | pugilist (marauder) | Oddjobs |
 | Ismezin | João | 85 | STRginner | Flow |
 | Newbton | Jonte | 85 | islander | Nubists\* |
 | uayua | cecilia | 84 | STRginner | Oddjobs |
@@ -103,11 +103,11 @@ Legend:
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
 | poggered | ? | 56 | STRginner | Oddjobs |
+| inhale | ? | 56 | DEXginner | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
-| inhale | ? | 55 | DEXginner | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | NoJobNoRules | Jared | 54 | islander | Southperry\* |
 | Contagion | Elie | 54 | islander | Pariah |
