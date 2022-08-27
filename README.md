@@ -39,7 +39,7 @@ Legend:
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 110 | daggermit | Oddjobs |
-| Yoshis | Sword Furb | 107 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 108 | swashbuckler | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
@@ -93,17 +93,17 @@ Legend:
 | 1sme | João | 61 | islander | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
+| Wout | Wout | 59 | islander | Southperry\* |
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
-| Wout | Wout | 58 | islander | Southperry\* |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
+| inhale | ? | 58 | DEXginner | Oddjobs |
 | Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
+| poggered | ? | 57 | STRginner | Oddjobs |
 | Philippe | ? | 57 | STRginner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
-| poggered | ? | 56 | STRginner | Oddjobs |
-| inhale | ? | 56 | DEXginner | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
