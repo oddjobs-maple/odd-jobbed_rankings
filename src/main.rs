@@ -158,8 +158,10 @@ async fn fetch_info(
     let mut cs = chars.lock().await;
     let c = &mut cs[char_ix];
     c.level.replace(resp.level);
-    c.exp_percent
-        .replace(resp.exp[..resp.exp.len() - 1].parse().unwrap_or_default());
+    c.exp_percent = resp
+        .exp
+        .get(..resp.exp.len() - 1)
+        .and_then(|s| s.parse().ok());
     c.guild = if resp.guild.is_empty() {
         None
     } else {

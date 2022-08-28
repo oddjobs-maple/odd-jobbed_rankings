@@ -88,8 +88,8 @@ Legend:
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | tarandus | deer | 63 | shield pugilist \(brawler\) | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| Oahu | Tom | 62 | STRlander | Southperry\* |
 | MapleStarter | Dvd | 62 | islander | Newbology\* |
+| Oahu | Tom | 62 | STRlander | Southperry\* |
 | 1sme | João | 61 | islander | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
@@ -124,7 +124,7 @@ Legend:
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
 | Ashore | Sean | 51 | islander | Southperry\* |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
-| GooderNoddy | TotallyNotShoe | 50 | DEF/HP STRginner | Oddjobs |
+| GooderNoddy | TotallyNotShoe | 51 | DEF/HP STRginner | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry\* |
 | Zrar | ? | 50 | islander | Southperry\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
