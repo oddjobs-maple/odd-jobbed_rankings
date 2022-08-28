@@ -3,933 +3,780 @@
     {
       "ign": "Jestterz",
       "name": "LoneWolf1600",
-      "job": "STRginner",
-      "guild": "Oddjobs"
+      "job": "STRginner"
     },
     {
       "ign": "cervid",
       "name": "deer",
-      "job": "STR bishop",
-      "guild": "Oddjobs"
+      "job": "STR bishop"
     },
     {
       "ign": "Taima",
       "name": "Kelsey",
-      "job": "STRginner",
-      "guild": "Oddjobs"
+      "job": "STRginner"
     },
     {
       "ign": "capreolina",
       "name": "deer",
-      "job": "woodsmaster",
-      "guild": "Oddjobs"
+      "job": "woodsmaster"
     },
-    { "ign": "Gumby", "name": "Jonathan", "job": "STRginner", "guild": "Flow" },
+    { "ign": "Gumby", "name": "Jonathan", "job": "STRginner" },
     {
       "ign": "Tacgnol",
       "name": "Kelsey",
-      "job": "F/P archgishlet",
-      "guild": "Oddjobs"
+      "job": "F/P archgishlet"
     },
     {
       "ign": "OmokTeacher",
       "name": "Noam",
-      "job": "STRginner",
-      "guild": "Flow"
+      "job": "STRginner"
     },
     {
       "ign": "Permanovice",
       "name": "Red",
       "job": "STRginner",
-      "guild": "GangGang",
       "leech": "some"
     },
     {
       "ign": "cervine",
       "name": "deer",
-      "job": "I/L archmagelet",
-      "guild": "Oddjobs"
+      "job": "I/L archmagelet"
     },
-    { "ign": "Outside", "name": "Tab", "job": "STRginner", "guild": "Flow" },
+    { "ign": "Outside", "name": "Tab", "job": "STRginner" },
     {
       "ign": "hydropotina",
       "name": "deer",
-      "job": "swashbuckler",
-      "guild": "Oddjobs"
+      "job": "swashbuckler"
     },
     {
       "ign": "MeikoHonma",
       "name": "Meiko",
-      "job": "STRginner",
-      "guild": "Renaissance"
+      "job": "STRginner"
     },
     {
       "ign": "Cowbelle",
       "name": "Belle",
-      "job": "STRginner",
-      "guild": "Homies"
+      "job": "STRginner"
     },
     {
       "ign": "Boymoder",
       "name": "Kelsey",
-      "job": "STRmit",
-      "guild": "Oddjobs"
+      "job": "STRmit"
     },
     {
       "ign": "rangifer",
       "name": "deer",
-      "job": "pugilist (marauder)",
-      "guild": null
+      "job": "pugilist (marauder)"
     },
-    { "ign": "Ismezin", "name": "João", "job": "STRginner", "guild": "Flow" },
-    { "ign": "drainer", "name": "mae", "job": "STRginner", "guild": "Flow" },
+    { "ign": "Ismezin", "name": "João", "job": "STRginner" },
+    { "ign": "drainer", "name": "mae", "job": "STRginner" },
     {
       "ign": "gogigagagigo",
       "name": "boop",
-      "job": "permarcher",
-      "guild": "Oddjobs"
+      "job": "permarcher"
     },
     {
       "ign": "Phoneme",
       "name": "cort",
-      "job": "permamagician",
-      "guild": "Victoria"
+      "job": "permamagician"
     },
     {
       "ign": "rusa",
       "name": "deer",
-      "job": "darksterity knight",
-      "guild": "Oddjobs"
+      "job": "darksterity knight"
     },
     {
       "ign": "JanitorPedro",
       "name": "Pedro_",
-      "job": "STRginner",
-      "guild": "Flow"
+      "job": "STRginner"
     },
     {
       "ign": "Cortical",
       "name": "cort",
-      "job": "STRginner",
-      "guild": "Flow"
+      "job": "STRginner"
     },
-    { "ign": "xX17Xx", "name": "mae", "job": "permarogue", "guild": "Oddjobs" },
+    { "ign": "xX17Xx", "name": "mae", "job": "permarogue" },
     {
       "ign": "FairRow",
       "name": "FairRow",
-      "job": "STRginner",
-      "guild": "Oddjobs"
+      "job": "STRginner"
     },
     {
       "ign": "HPdagger",
       "name": "Charles",
-      "job": "dagger fighter",
-      "guild": "Oddjobs"
+      "job": "dagger fighter"
     },
     {
       "ign": "Daddyo",
       "name": "Hunter",
-      "job": "STRginner",
-      "guild": null
+      "job": "STRginner"
     },
     {
       "ign": "ducklings",
       "name": "Joyce",
       "job": "STRginner",
-      "guild": "DuckNation",
       "leech": "some"
     },
     {
       "ign": "hashishi",
       "name": "deer",
-      "job": "besinner",
-      "guild": "Oddjobs"
+      "job": "besinner"
     },
-    { "ign": "Slimusaurus", "name": "Noam", "job": "besinner", "guild": null },
-    { "ign": "Celim", "name": "Marcelo", "job": "STRginner", "guild": "Flow" },
-    { "ign": "Rort", "name": "Lin", "job": "STRginner", "guild": "Flow" },
+    { "ign": "Slimusaurus", "name": "Noam", "job": "besinner" },
+    { "ign": "Celim", "name": "Marcelo", "job": "STRginner" },
+    { "ign": "Rort", "name": "Lin", "job": "STRginner" },
     {
       "ign": "doiob",
       "name": "doiob",
-      "job": "STR cleric",
-      "guild": "Oddjobs"
+      "job": "STR cleric"
     },
     {
       "ign": "Furbs",
       "name": "Sword Furb",
-      "job": "STRginner",
-      "guild": "WindowsXP"
+      "job": "STRginner"
     },
     {
       "ign": "Gambolpuddy",
       "name": "Kelsey",
-      "job": "DEXginner",
-      "guild": "Oddjobs"
+      "job": "DEXginner"
     },
     {
       "ign": "GishGallop",
       "name": "cort",
-      "job": "I/L gish",
-      "guild": "Oddjobs"
+      "job": "I/L gish"
     },
     {
       "ign": "ScrubDaddy",
       "name": "Scrub",
-      "job": "STRginner",
-      "guild": "Oddjobs"
+      "job": "STRginner"
     },
     {
       "ign": "BeginnersEnd",
       "name": "Ben",
-      "job": "STRginner",
-      "guild": "Flow"
+      "job": "STRginner"
     },
     {
       "ign": "Copo",
       "name": "Marcelo",
-      "job": "permapirate",
-      "guild": "Oddjobs"
+      "job": "permapirate"
     },
     {
       "ign": "HPdit",
       "name": "RyeBread",
-      "job": "blood bandit",
-      "guild": null
+      "job": "blood bandit"
     },
     {
       "ign": "justbegin",
       "name": "Kalezus",
-      "job": "STRginner",
-      "guild": null
+      "job": "STRginner"
     },
-    { "ign": "alces", "name": "deer", "job": "daggermit", "guild": "Oddjobs" },
+    { "ign": "alces", "name": "deer", "job": "daggermit" },
     {
       "ign": "LawdHeComin",
       "name": "JunkyardBat",
-      "job": "F/P archgish",
-      "guild": "Oddjobs"
+      "job": "F/P archgish"
     },
     {
       "ign": "Numidium",
       "name": "Kelsey",
-      "job": "STR cleric",
-      "guild": "Oddjobs"
+      "job": "STR cleric"
     },
     {
       "ign": "sorts",
       "name": "deer",
-      "job": "DEX brawler (LPQ mule)",
-      "guild": "Oddjobs"
+      "job": "DEX brawler (LPQ mule)"
     },
     {
       "ign": "Medulla",
       "name": "cort",
-      "job": "dagger sader",
-      "guild": "Oddjobs"
+      "job": "dagger sader"
     },
     {
       "ign": "Sommer",
       "name": "Marcelo",
-      "job": "swashbuckler",
-      "guild": "Oddjobs"
+      "job": "swashbuckler"
     },
     {
       "ign": "Keppet",
       "name": "Rapskal",
-      "job": "daggermit",
-      "guild": "Oddjobs"
+      "job": "daggermit"
     },
-    { "ign": "Hanyou", "name": "Kelsey", "job": "DEX WK", "guild": "Oddjobs" },
+    { "ign": "Hanyou", "name": "Kelsey", "job": "DEX WK" },
     {
       "ign": "L0neW0lf16OO",
       "name": "LoneWolf1600",
-      "job": "besinner",
-      "guild": "Oddjobs"
+      "job": "besinner"
     },
     {
       "ign": "Swathelby",
       "name": "Swathelby",
-      "job": "STRginner",
-      "guild": "Flow"
+      "job": "STRginner"
     },
     {
       "ign": "BowerStrike",
       "name": "cort",
-      "job": "bow-whacker",
-      "guild": "Oddjobs"
+      "job": "bow-whacker"
     },
     {
       "ign": "panolia",
       "name": "deer",
-      "job": "permarogue",
-      "guild": "Oddjobs"
+      "job": "permarogue"
     },
     {
       "ign": "attackattack",
       "name": "mae",
-      "job": "DEX page",
-      "guild": "Oddjobs"
+      "job": "DEX page"
     },
     {
       "ign": "d34r",
       "name": "deer",
-      "job": "dagger spearwoman (vicloc)",
-      "guild": "Victoria"
+      "job": "dagger spearwoman (vicloc)"
     },
     {
       "ign": "d33r",
       "name": "deer",
-      "job": "clericlet (vicloc)",
-      "guild": "Victoria"
+      "job": "clericlet (vicloc)"
     },
     {
       "ign": "Battlesage",
       "name": "Red",
-      "job": "F/P gish",
-      "guild": "GangGang"
+      "job": "F/P gish"
     },
     {
       "ign": "GoGoSnuggles",
       "name": "Snuggles",
-      "job": "camper",
-      "guild": "Flow"
+      "job": "camper"
     },
     {
       "ign": "Itati",
       "name": null,
-      "job": "camper",
-      "guild": null
+      "job": "camper"
     },
     {
       "ign": "Tutorialist",
       "name": null,
-      "job": "camper",
-      "guild": "Amherst"
+      "job": "camper"
     },
     {
       "ign": "L0neWolf1600",
       "name": "LoneWolf1600",
-      "job": "camper",
-      "guild": "Campers"
+      "job": "camper"
     },
     {
       "ign": "WarmApplePie",
       "name": "Snuggles",
-      "job": "camper",
-      "guild": "Southperry"
+      "job": "camper"
     },
     {
       "ign": "DuckyWucky",
       "name": null,
-      "job": "camper",
-      "guild": null
+      "job": "camper"
     },
     {
       "ign": "Hobbits",
       "name": null,
-      "job": "camper",
-      "guild": null
+      "job": "camper"
     },
     {
       "ign": "Hyewon",
       "name": null,
-      "job": "camper",
-      "guild": null
+      "job": "camper"
     },
     {
       "ign": "BloodyTaco",
       "name": null,
-      "job": "camper",
-      "guild": null
+      "job": "camper"
     },
     {
       "ign": "NewCharacter",
       "name": "cort",
-      "job": "camper",
-      "guild": "Flow"
+      "job": "camper"
     },
     {
       "ign": "Kept",
       "name": null,
-      "job": "camper",
-      "guild": "Campers"
+      "job": "camper"
     },
     {
       "ign": "TrainingCamp",
       "name": null,
-      "job": "camper",
-      "guild": "Campers"
+      "job": "camper"
     },
     {
       "ign": "Chronosius",
       "name": null,
-      "job": "camper",
-      "guild": null
+      "job": "camper"
     },
     {
       "ign": "Words",
       "name": null,
-      "job": "camper",
-      "guild": null
+      "job": "camper"
     },
     {
       "ign": "Social",
       "name": null,
-      "job": "camper",
-      "guild": null
+      "job": "camper"
     },
     {
       "ign": "Newbton",
       "name": "Jonte",
-      "job": "islander",
-      "guild": "Nubists"
+      "job": "islander"
     },
     {
       "ign": "jung1e",
       "name": "Justin",
-      "job": "islander",
-      "guild": "Newbology"
+      "job": "islander"
     },
     {
       "ign": "Zheedie",
       "name": "David",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "Ever",
       "name": "Becca",
-      "job": "islander",
-      "guild": "Team"
+      "job": "islander"
     },
     {
       "ign": "Christopher",
       "name": "Chris",
-      "job": "islander",
-      "guild": "Aoshima"
+      "job": "islander"
     },
     {
       "ign": "KitsunyChang",
       "name": "Hannah",
-      "job": "islander",
-      "guild": "Amherst"
+      "job": "islander"
     },
     {
       "ign": "Oahu",
       "name": "Tom",
-      "job": "STRlander",
-      "guild": "Southperry"
+      "job": "STRlander"
     },
     {
       "ign": "LazySoup",
       "name": null,
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "Wout",
       "name": "Wout",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "MapleStarter",
       "name": "Dvd",
-      "job": "islander",
-      "guild": "Newbology"
+      "job": "islander"
     },
     {
       "ign": "NoJobNoRules",
       "name": "Jared",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "MapIeIsIand",
       "name": null,
-      "job": "islander",
-      "guild": null
+      "job": "islander"
     },
     {
       "ign": "Timberly",
       "name": "Tim",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "mase",
       "name": "fumumu",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "1sme",
       "name": "João",
-      "job": "islander",
-      "guild": "Oddjobs"
+      "job": "islander"
     },
     {
       "ign": "Desolate",
       "name": "Logan",
-      "job": "islander",
-      "guild": "Amherst"
+      "job": "islander"
     },
     {
       "ign": "Ashore",
       "name": "Sean",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "PinkCream",
       "name": "Robin",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "Zrar",
       "name": null,
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "Camomile",
       "name": "Vivian",
-      "job": "islander",
-      "guild": null
+      "job": "islander"
     },
     {
       "ign": "EasyIsland",
       "name": null,
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "KoKoSnuggles",
       "name": "Snuggles",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "TheFalseKing",
       "name": null,
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "NewIslander",
       "name": null,
-      "job": "islander",
-      "guild": null
+      "job": "islander"
     },
     {
       "ign": "Luckiestboy",
       "name": "Dvd",
-      "job": "LUKlander",
-      "guild": "Newbology"
+      "job": "LUKlander"
     },
     {
       "ign": "Peep",
       "name": null,
-      "job": "islander",
-      "guild": null
+      "job": "islander"
     },
     {
       "ign": "Mujintou",
       "name": null,
-      "job": "islander",
-      "guild": "Pomf"
+      "job": "islander"
     },
     {
       "ign": "Femdom",
       "name": null,
-      "job": "islander",
-      "guild": "Newbology"
+      "job": "islander"
     },
     {
       "ign": "PinkBean",
       "name": null,
-      "job": "islander",
-      "guild": "Shroomies"
+      "job": "islander"
     },
     {
       "ign": "Kimberly",
       "name": "Jonathan",
-      "job": "islander",
-      "guild": "Flow"
+      "job": "islander"
     },
     {
       "ign": "Steam",
       "name": null,
-      "job": "islander",
-      "guild": "Dokdo"
+      "job": "islander"
     },
     {
       "ign": "Vacation",
       "name": null,
-      "job": "islander",
-      "guild": "Amherst"
+      "job": "islander"
     },
     {
       "ign": "Ninnie",
       "name": "Ninnie",
-      "job": "islander",
-      "guild": "Pomf"
+      "job": "islander"
     },
     {
       "ign": "Tonk",
       "name": null,
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "Gosu",
       "name": null,
-      "job": "islander",
-      "guild": null
+      "job": "islander"
     },
     {
       "ign": "VillageIdiot",
       "name": null,
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "Land",
       "name": null,
-      "job": "islander",
-      "guild": "Amherst"
+      "job": "islander"
     },
     {
       "ign": "Cottage",
       "name": null,
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "Snapples",
       "name": "Kristina",
-      "job": "islander",
-      "guild": "Newbology"
+      "job": "islander"
     },
     {
       "ign": "Babbi",
       "name": "Alvin",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "Woogie",
       "name": null,
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "o0Oo0ooOo0o0",
       "name": null,
-      "job": "islander",
-      "guild": "Amherst"
+      "job": "islander"
     },
     {
       "ign": "c7gs",
       "name": "ratz",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "Zugar",
       "name": null,
-      "job": "islander",
-      "guild": "Newbology"
+      "job": "islander"
     },
     {
       "ign": "Neveroffland",
       "name": null,
-      "job": "islander",
-      "guild": null
+      "job": "islander"
     },
     {
       "ign": "Mesa",
       "name": "sneaks",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "yotta",
       "name": null,
-      "job": "islander",
-      "guild": null
+      "job": "islander"
     },
     {
       "ign": "DumbIsland",
       "name": "Leo",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "Kokoro",
       "name": null,
-      "job": "islander",
-      "guild": null
+      "job": "islander"
     },
     {
       "ign": "BirdMandala",
       "name": null,
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "tbook",
       "name": null,
-      "job": "islander",
-      "guild": null
+      "job": "islander"
     },
     {
       "ign": "iamDanix",
       "name": null,
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "Subcortical",
       "name": "cort",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "Suzuran",
       "name": "Calendula",
-      "job": "blood bandit",
-      "guild": "Oddjobs"
+      "job": "blood bandit"
     },
     {
       "ign": "Cleft",
       "name": "Tom",
-      "job": "STRginner",
-      "guild": "Flow"
+      "job": "STRginner"
     },
     {
       "ign": "ozotoceros",
       "name": "deer",
-      "job": "DEX/LUK hybridlander",
-      "guild": "Oddjobs"
+      "job": "DEX/LUK hybridlander"
     },
     {
       "ign": "Cassandro",
       "name": "Marcelo",
-      "job": "claw priestlet",
-      "guild": "Oddjobs"
+      "job": "claw priestlet"
     },
     {
       "ign": "Nyanners",
       "name": "Kelsey",
-      "job": "permawarrior (steelwoman)",
-      "guild": "Oddjobs"
+      "job": "permawarrior (steelwoman)"
     },
     {
       "ign": "tb303",
       "name": "cecilia",
-      "job": "gish priest",
-      "guild": "Flow"
+      "job": "gish priest"
     },
     {
       "ign": "Dexual",
       "name": "Hunter",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "Contagion",
       "name": "Elie",
-      "job": "islander",
-      "guild": "Pariah"
+      "job": "islander"
     },
     {
       "ign": "shadowban",
       "name": "cecilia",
-      "job": "LUKless chief dit",
-      "guild": "Oddjobs"
+      "job": "LUKless chief dit"
     },
     {
       "ign": "Sakuzyo",
       "name": "NoChorus",
-      "job": "pugilist (marauder)",
-      "guild": "Oddjobs"
+      "job": "pugilist (marauder)"
     },
     {
       "ign": "Buwwon",
       "name": "robidouux",
-      "job": "woodsman (sniper)",
-      "guild": "Oddjobs"
+      "job": "woodsman (sniper)"
     },
     {
       "ign": "ratty",
       "name": "fumumu",
-      "job": "permapirate",
-      "guild": "Oddjobs"
+      "job": "permapirate"
     },
     {
       "ign": "Wouty",
       "name": "Wout",
-      "job": "permapirate",
-      "guild": "Oddjobs"
+      "job": "permapirate"
     },
     {
       "ign": "GooderNoddy",
       "name": "TotallyNotShoe",
-      "job": "DEF/HP STRginner",
-      "guild": "Oddjobs"
+      "job": "DEF/HP STRginner"
     },
     {
       "ign": "Godswood",
       "name": "eriklopez95",
-      "job": "STR cleric",
-      "guild": "Oddjobs"
+      "job": "STR cleric"
     },
     {
       "ign": "Furca",
       "name": "Gusing",
-      "job": "clawslinger",
-      "guild": "Oddjobs"
+      "job": "clawslinger"
     },
     {
       "ign": "AychPea",
       "name": "MrPringles",
-      "job": "HP page",
-      "guild": "Oddjobs"
+      "job": "HP page"
     },
     {
       "ign": "Fino",
       "name": "Marcelo",
-      "job": "I/L gish",
-      "guild": "Oddjobs"
+      "job": "I/L gish"
     },
     {
       "ign": "LightGuard",
       "name": "felyp244",
-      "job": "DEX page",
-      "guild": "Oddjobs"
+      "job": "DEX page"
     },
     {
       "ign": "Duhm",
       "name": "Duhm",
-      "job": "STRginner",
-      "guild": "Flow"
+      "job": "STRginner"
     },
     {
       "ign": "uayua",
       "name": "cecilia",
-      "job": "STRginner",
-      "guild": "Oddjobs"
+      "job": "STRginner"
     },
     {
       "ign": "WettestDog",
       "name": "Hebaio",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "Patrao",
       "name": "Duncan",
-      "job": "islander",
-      "guild": "Southperry"
+      "job": "islander"
     },
     {
       "ign": "CokeZeroPill",
       "name": "cort",
-      "job": "gish cleric",
-      "guild": "Oddjobs"
+      "job": "gish cleric"
     },
     {
       "ign": "BangHero",
       "name": "Lin",
-      "job": "blood fighter",
-      "guild": "Oddjobs"
+      "job": "blood fighter"
     },
     {
       "ign": "HPTsu",
       "name": "Tsu",
-      "job": "HP fighter",
-      "guild": "Oddjobs"
+      "job": "HP fighter"
     },
     {
       "ign": "Shikatanai",
       "name": null,
-      "job": "islander",
-      "guild": null
+      "job": "islander"
     },
     {
       "ign": "Yoshis",
       "name": "Sword Furb",
-      "job": "swashbuckler",
-      "guild": "Oddjobs"
+      "job": "swashbuckler"
     },
     {
       "ign": "Meipuru",
       "name": null,
-      "job": "shield pugilist (brawler)",
-      "guild": "Oddjobs"
+      "job": "shield pugilist (brawler)"
     },
     {
       "ign": "tarandus",
       "name": "deer",
-      "job": "shield pugilist (brawler)",
-      "guild": "Oddjobs"
+      "job": "shield pugilist (brawler)"
     },
     {
       "ign": "kelik",
       "name": "ratz",
-      "job": "STRginner",
-      "guild": "Oddjobs"
+      "job": "STRginner"
     },
     {
       "ign": "Fown",
       "name": null,
-      "job": "STRginner",
-      "guild": "ThotzRUs"
+      "job": "STRginner"
     },
     {
       "ign": "DexBlade",
       "name": null,
-      "job": "DEX fighter",
-      "guild": "Oddjobs"
+      "job": "DEX fighter"
     },
     {
       "ign": "poggered",
       "name": null,
-      "job": "STRginner",
-      "guild": "Oddjobs"
+      "job": "STRginner"
     },
     {
       "ign": "inhale",
       "name": null,
-      "job": "DEXginner",
-      "guild": "Oddjobs"
+      "job": "DEXginner"
     },
     {
       "ign": "midorin",
       "name": "Kelsey",
-      "job": "camper",
-      "guild": "Oddjobs"
+      "job": "camper"
     },
     {
       "ign": "Philippe",
       "name": null,
-      "job": "STRginner",
-      "guild": "Oddjobs"
+      "job": "STRginner"
     },
     {
       "ign": "Otios",
       "name": "Wout",
       "job": "STRginner",
-      "guild": "Flow",
       "leech": "lots"
     },
     {
       "ign": "Without",
       "name": "Elie",
       "job": "STR/DEX hybridginner",
-      "guild": "Pariah",
       "leech": "lots"
     }
   ]

@@ -1,8 +1,11 @@
-# text editing stuff
+# dust
+*.temp
+
+# text-editing stuff
 *.swp
 .vscode/
 .idea/
 
-# Python stuff
-env/
-*.temp
+# Rust stuff
+Cargo.lock
+/target

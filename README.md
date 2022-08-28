@@ -3,9 +3,9 @@
 This “rankings” is almost certainly riddled with errors, inaccuracies, and
 missing information, and should be treated as such. This is just for informal
 use, so please don’t take it too seriously. The levels of the characters listed
-here are fetched directly from [the official MapleLegends
-rankings](https://maplelegends.com/ranking/all) via [a shitty Python
-script](https://codeberg.org/oddjobs/odd-jobbed_rankings/src/branch/master/update-async.py).
+here are fetched directly from [the official MapleLegends web API
+endpoint](https://maplelegends.com/api/) via [a Rust
+script](https://codeberg.org/oddjobs/odd-jobbed_rankings/src/branch/master/src/main.rs).
 
 To make the “rankings” actually maintainable, off-island characters who have
 not yet achieved level 45, islanders who have not yet achieved level 40, and
@@ -13,7 +13,7 @@ campers who have not yet achieved level 10 are not represented here.
 
 “IGN” stands for “in-game name”. The “name” entries are mostly for discerning
 when two or more characters are controlled by the same player. The names, I’ve
-done on a best-effort basis, and some of them are just Discord identifiers
+done on a best-effort basis, and some of them are just Discord™ identifiers
 (which, it should be noted, can be changed at more or less any time, for any
 reason).
 
@@ -46,48 +46,48 @@ Legend:
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Cassandro | Marcelo | 97 | claw priestlet | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
-| Cortical | cort | 95 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
+| Cortical | cort | 95 | STRginner | Flow |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
-| Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
+| Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Medulla | cort | 91 | dagger sader | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
-| Sakuzyo | NoChorus | 87 | pugilist (marauder) | Oddjobs |
-| gogigagagigo | boop | 86 | permarcher | Oddjobs |
+| Sakuzyo | NoChorus | 87 | pugilist \(marauder\) | Oddjobs |
 | panolia | deer | 86 | permarogue | Oddjobs |
-| d34r | deer | 86 | dagger spearwoman (vicloc) | Victoria |
 | Battlesage | Red | 86 | F/P gish | GangGang\* |
-| Ismezin | João | 85 | STRginner | Flow |
+| d34r | deer | 86 | dagger spearwoman \(vicloc\) | Victoria |
+| gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Newbton | Jonte | 85 | islander | Nubists\* |
+| Ismezin | João | 85 | STRginner | Flow |
 | uayua | cecilia | 84 | STRginner | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
+| Buwwon | robidouux | 80 | woodsman \(sniper\) | Oddjobs |
 | Copo | Marcelo | 80 | permapirate | Oddjobs |
-| Buwwon | robidouux | 80 | woodsman (sniper) | Oddjobs |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
-| rangifer | deer | 76 | pugilist (marauder) | \[none\]\* |
-| jung1e | Justin | 76 | islander | Newbology\* |
+| rangifer | deer | 76 | pugilist \(marauder\) | \[none\]\* |
 | Duhm | Duhm | 76 | STRginner | Flow |
+| jung1e | Justin | 76 | islander | Newbology\* |
 | Rort | Lin | 75 | STRginner | Flow |
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
-| Zheedie | David | 71 | islander | Southperry\* |
 | Christopher | Chris | 71 | islander | Aoshima\* |
-| Nyanners | Kelsey | 71 | permawarrior (steelwoman) | Oddjobs |
 | tb303 | cecilia | 71 | gish priest | Flow |
+| Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
+| Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
-| ratty | fumumu | 70 | permapirate | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
+| ratty | fumumu | 70 | permapirate | Oddjobs |
 | Fown | ? | 68 | STRginner | ThotzRUs\* |
-| d33r | deer | 66 | clericlet (vicloc) | Victoria |
+| d33r | deer | 66 | clericlet \(vicloc\) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
+| tarandus | deer | 63 | shield pugilist \(brawler\) | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| tarandus | deer | 63 | shield pugilist (brawler) | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
 | MapleStarter | Dvd | 62 | islander | Newbology\* |
 | 1sme | João | 61 | islander | Oddjobs |
@@ -95,93 +95,93 @@ Legend:
 | LazySoup | ? | 60 | islander | Southperry\* |
 | Wout | Wout | 59 | islander | Southperry\* |
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
-| MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
 | inhale | ? | 58 | DEXginner | Oddjobs |
-| Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
-| poggered | ? | 57 | STRginner | Oddjobs |
+| MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Philippe | ? | 57 | STRginner | Oddjobs |
-| JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
+| poggered | ? | 57 | STRginner | Oddjobs |
+| Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
+| JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | attackattack | mae | 56 | DEX page | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
-| Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
-| hashishi | deer | 54 | besinner | Oddjobs |
-| NoJobNoRules | Jared | 54 | islander | Southperry\* |
+| Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | Contagion | Elie | 54 | islander | Pariah |
-| Meipuru | ? | 54 | shield pugilist (brawler) | Oddjobs |
-| Numidium | Kelsey | 53 | STR cleric | Oddjobs |
+| NoJobNoRules | Jared | 54 | islander | Southperry\* |
+| hashishi | deer | 54 | besinner | Oddjobs |
+| Meipuru | ? | 54 | shield pugilist \(brawler\) | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
 | BangHero | Lin | 53 | blood fighter | Oddjobs |
+| Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | doiob | doiob | 52 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
-| HPdagger | Charles | 51 | dagger fighter | Oddjobs |
-| Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
-| Ashore | Sean | 51 | islander | Southperry\* |
+| Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
-| Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
-| sorts | deer | 50 | DEX brawler (LPQ mule) | Oddjobs |
-| BowerStrike | cort | 50 | bow-whacker | Oddjobs |
+| Ashore | Sean | 51 | islander | Southperry\* |
+| HPdagger | Charles | 51 | dagger fighter | Oddjobs |
+| GooderNoddy | TotallyNotShoe | 50 | DEF/HP STRginner | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry\* |
 | Zrar | ? | 50 | islander | Southperry\* |
+| Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Camomile | Vivian | 50 | islander | \[none\]\* |
+| BowerStrike | cort | 50 | bow-whacker | Oddjobs |
+| sorts | deer | 50 | DEX brawler \(LPQ mule\) | Oddjobs |
 | EasyIsland | ? | 50 | islander | Southperry\* |
-| GooderNoddy | TotallyNotShoe | 50 | DEF/HP STRginner | Oddjobs |
-| Luckiestboy | Dvd | 49 | LUKlander | Newbology\* |
 | Shikatanai | ? | 49 | islander | \[none\]\* |
+| Luckiestboy | Dvd | 49 | LUKlander | Newbology\* |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
-| TheFalseKing | ? | 48 | islander | Southperry\* |
-| NewIslander | ? | 48 | islander | \[none\]\* |
 | VillageIdiot | ? | 48 | islander | Southperry\* |
+| TheFalseKing | ? | 48 | islander | Southperry\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
-| FairRow | FairRow | 47 | STRginner | Oddjobs |
-| Peep | ? | 47 | islander | \[none\]\* |
-| Kimberly | Jonathan | 47 | islander | Flow |
+| NewIslander | ? | 48 | islander | \[none\]\* |
 | kelik | ratz | 47 | STRginner | Oddjobs |
+| Kimberly | Jonathan | 47 | islander | Flow |
+| Peep | ? | 47 | islander | \[none\]\* |
+| FairRow | FairRow | 47 | STRginner | Oddjobs |
+| Dexual | Hunter | 46 | islander | Southperry\* |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
-| Dexual | Hunter | 46 | islander | Southperry\* |
-| PinkBean | ? | 45 | islander | Shroomies\* |
-| c7gs | ratz | 45 | islander | Southperry\* |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
+| PinkBean | ? | 45 | islander | Shroomies\* |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
+| c7gs | ratz | 45 | islander | Southperry\* |
+| WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
-| Tonk | ? | 44 | islander | Southperry\* |
 | Babbi | Alvin | 44 | islander | Southperry\* |
-| WettestDog | Hebaio | 44 | islander | Southperry\* |
+| Tonk | ? | 44 | islander | Southperry\* |
 | Gosu | ? | 43 | islander | \[none\]\* |
-| Land | ? | 43 | islander | Amherst\* |
 | Neveroffland | ? | 43 | islander | \[none\]\* |
+| Land | ? | 43 | islander | Amherst\* |
+| Patrao | Duncan | 42 | islander | Southperry\* |
 | Cottage | ? | 42 | islander | Southperry\* |
 | Snapples | Kristina | 42 | islander | Newbology\* |
-| Patrao | Duncan | 42 | islander | Southperry\* |
 | Woogie | ? | 41 | islander | Southperry\* |
+| yotta | ? | 41 | islander | \[none\]\* |
+| Mesa | sneaks | 41 | islander | Southperry\* |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology\* |
-| Mesa | sneaks | 41 | islander | Southperry\* |
-| yotta | ? | 41 | islander | \[none\]\* |
 | BirdMandala | ? | 41 | islander | Southperry\* |
+| Subcortical | cort | 40 | islander | Southperry\* |
 | DumbIsland | Leo | 40 | islander | Southperry\* |
 | Kokoro | ? | 40 | islander | \[none\]\* |
 | tbook | ? | 40 | islander | \[none\]\* |
 | iamDanix | ? | 40 | islander | Southperry\* |
-| Subcortical | cort | 40 | islander | Southperry\* |
 | GoGoSnuggles | Snuggles | 25 | camper | Flow |
 | Itati | ? | 19 | camper | \[none\]\* |
 | WarmApplePie | Snuggles | 19 | camper | Southperry\* |
 | Tutorialist | ? | 17 | camper | Amherst\* |
 | L0neWolf1600 | LoneWolf1600 | 16 | camper | Campers\* |
 | BloodyTaco | ? | 16 | camper | \[none\]\* |
-| DuckyWucky | ? | 15 | camper | \[none\]\* |
 | Hyewon | ? | 15 | camper | \[none\]\* |
+| DuckyWucky | ? | 15 | camper | \[none\]\* |
 | Hobbits | ? | 14 | camper | \[none\]\* |
 | NewCharacter | cort | 13 | camper | Flow |
 | Kept | ? | 11 | camper | Campers\* |
