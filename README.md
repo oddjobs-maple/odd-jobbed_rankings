@@ -39,7 +39,7 @@ Legend:
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 110 | daggermit | Oddjobs |
-| Yoshis | Sword Furb | 108 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 109 | swashbuckler | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
@@ -76,8 +76,8 @@ Legend:
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Christopher | Chris | 71 | islander | Aoshima\* |
-| tb303 | cecilia | 71 | gish priest | Flow |
 | Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
+| tb303 | cecilia | 71 | gish priest | Flow |
 | Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
@@ -98,8 +98,8 @@ Legend:
 | Cleft | Tom | 58 | STRginner | Flow |
 | inhale | ? | 58 | DEXginner | Oddjobs |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
-| Philippe | ? | 57 | STRginner | Oddjobs |
 | poggered | ? | 57 | STRginner | Oddjobs |
+| Philippe | ? | 57 | STRginner | Oddjobs |
 | Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
@@ -157,8 +157,8 @@ Legend:
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Babbi | Alvin | 44 | islander | Southperry\* |
 | Tonk | ? | 44 | islander | Southperry\* |
-| Gosu | ? | 43 | islander | \[none\]\* |
 | Neveroffland | ? | 43 | islander | \[none\]\* |
+| Gosu | ? | 43 | islander | \[none\]\* |
 | Land | ? | 43 | islander | Amherst\* |
 | Patrao | Duncan | 42 | islander | Southperry\* |
 | Cottage | ? | 42 | islander | Southperry\* |
