@@ -97,8 +97,8 @@ Legend:
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
 | inhale | ? | 58 | DEXginner | Oddjobs |
+| poggered | ? | 58 | STRginner | Oddjobs |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
-| poggered | ? | 57 | STRginner | Oddjobs |
 | Philippe | ? | 57 | STRginner | Oddjobs |
 | Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
@@ -134,8 +134,8 @@ Legend:
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | Shikatanai | ? | 49 | islander | \[none\]\* |
 | Luckiestboy | Dvd | 49 | LUKlander | Newbology\* |
-| ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | VillageIdiot | ? | 48 | islander | Southperry\* |
+| ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | NewIslander | ? | 48 | islander | \[none\]\* |
@@ -156,8 +156,8 @@ Legend:
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Babbi | Alvin | 44 | islander | Southperry\* |
+| Neveroffland | ? | 44 | islander | \[none\]\* |
 | Tonk | ? | 44 | islander | Southperry\* |
-| Neveroffland | ? | 43 | islander | \[none\]\* |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | Land | ? | 43 | islander | Amherst\* |
 | Patrao | Duncan | 42 | islander | Southperry\* |
