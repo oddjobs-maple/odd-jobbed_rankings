@@ -39,7 +39,7 @@ Legend:
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 110 | daggermit | Oddjobs |
-| Yoshis | Sword Furb | 109 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 110 | swashbuckler | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
@@ -55,8 +55,8 @@ Legend:
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
-| Cowbelle | Belle | 87 | STRginner | Homies\* |
 | Sakuzyo | NoChorus | 87 | pugilist \(marauder\) | Oddjobs |
+| Cowbelle | Belle | 87 | STRginner | Homies\* |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | Battlesage | Red | 86 | F/P gish | GangGang\* |
 | d34r | deer | 86 | dagger spearwoman \(vicloc\) | Victoria |
@@ -90,7 +90,7 @@ Legend:
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | MapleStarter | Dvd | 62 | islander | Newbology\* |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
-| 1sme | João | 61 | islander | Oddjobs |
+| 1sme | João | 62 | islander | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
 | Wout | Wout | 59 | islander | Southperry\* |
@@ -123,16 +123,16 @@ Legend:
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
 | Ashore | Sean | 51 | islander | Southperry\* |
-| HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | GooderNoddy | TotallyNotShoe | 51 | DEF/HP STRginner | Oddjobs |
+| HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry\* |
 | Zrar | ? | 50 | islander | Southperry\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Camomile | Vivian | 50 | islander | \[none\]\* |
-| BowerStrike | cort | 50 | bow-whacker | Oddjobs |
+| Shikatanai | ? | 50 | islander | \[none\]\* |
 | sorts | deer | 50 | DEX brawler \(LPQ mule\) | Oddjobs |
+| BowerStrike | cort | 50 | bow-whacker | Oddjobs |
 | EasyIsland | ? | 50 | islander | Southperry\* |
-| Shikatanai | ? | 49 | islander | \[none\]\* |
 | Luckiestboy | Dvd | 49 | LUKlander | Newbology\* |
 | VillageIdiot | ? | 48 | islander | Southperry\* |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
@@ -154,9 +154,9 @@ Legend:
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
+| Neveroffland | ? | 44 | islander | \[none\]\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Babbi | Alvin | 44 | islander | Southperry\* |
-| Neveroffland | ? | 44 | islander | \[none\]\* |
 | Tonk | ? | 44 | islander | Southperry\* |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | Land | ? | 43 | islander | Amherst\* |
