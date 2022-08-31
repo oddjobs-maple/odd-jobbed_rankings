@@ -112,10 +112,10 @@ Legend:
 | NoJobNoRules | Jared | 54 | islander | Southperry\* |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | Meipuru | ? | 54 | shield pugilist \(brawler\) | Oddjobs |
+| BangHero | Lin | 54 | blood fighter | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
-| BangHero | Lin | 53 | blood fighter | Oddjobs |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | doiob | doiob | 52 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
@@ -134,7 +134,7 @@ Legend:
 | BowerStrike | cort | 50 | bow-whacker | Oddjobs |
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | Luckiestboy | Dvd | 49 | LUKlander | Newbology\* |
-| VillageIdiot | ? | 48 | islander | Southperry\* |
+| VillageIdiot | ? | 49 | islander | Southperry\* |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
@@ -167,8 +167,8 @@ Legend:
 | yotta | ? | 41 | islander | \[none\]\* |
 | Mesa | sneaks | 41 | islander | Southperry\* |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
-| Zugar | ? | 41 | islander | Newbology\* |
 | BirdMandala | ? | 41 | islander | Southperry\* |
+| Zugar | ? | 41 | islander | Newbology\* |
 | Subcortical | cort | 40 | islander | Southperry\* |
 | DumbIsland | Leo | 40 | islander | Southperry\* |
 | Kokoro | ? | 40 | islander | \[none\]\* |
