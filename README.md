@@ -38,8 +38,8 @@ Legend:
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
+| Yoshis | Sword Furb | 111 | swashbuckler | Oddjobs |
 | alces | deer | 110 | daggermit | Oddjobs |
-| Yoshis | Sword Furb | 110 | swashbuckler | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
@@ -97,8 +97,8 @@ Legend:
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
 | inhale | ? | 58 | DEXginner | Oddjobs |
-| poggered | ? | 58 | STRginner | Oddjobs |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
+| poggered | ? | 58 | STRginner | Oddjobs |
 | Philippe | ? | 57 | STRginner | Oddjobs |
 | Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
