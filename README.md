@@ -27,7 +27,7 @@ Legend:
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 172 | darksterity knight | Oddjobs |
+| rusa | deer | 173 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Pariah |
 | LawdHeComin | JunkyardBat | 148 | F/P archgish | Oddjobs |
 | capreolina | deer | 142 | woodsmaster | Oddjobs |
@@ -38,7 +38,7 @@ Legend:
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
-| Yoshis | Sword Furb | 111 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 112 | swashbuckler | Oddjobs |
 | alces | deer | 110 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
@@ -96,8 +96,8 @@ Legend:
 | Wout | Wout | 59 | islander | Southperry\* |
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
-| inhale | ? | 58 | DEXginner | Oddjobs |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
+| inhale | ? | 58 | DEXginner | Oddjobs |
 | poggered | ? | 58 | STRginner | Oddjobs |
 | Philippe | ? | 57 | STRginner | Oddjobs |
 | Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
@@ -116,8 +116,8 @@ Legend:
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
+| doiob | doiob | 53 | STR cleric | Oddjobs |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
-| doiob | doiob | 52 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
@@ -128,8 +128,8 @@ Legend:
 | PinkCream | Robin | 50 | islander | Southperry\* |
 | Zrar | ? | 50 | islander | Southperry\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
-| Camomile | Vivian | 50 | islander | \[none\]\* |
 | Shikatanai | ? | 50 | islander | \[none\]\* |
+| Camomile | Vivian | 50 | islander | \[none\]\* |
 | sorts | deer | 50 | DEX brawler \(LPQ mule\) | Oddjobs |
 | BowerStrike | cort | 50 | bow-whacker | Oddjobs |
 | EasyIsland | ? | 50 | islander | Southperry\* |
@@ -152,9 +152,9 @@ Legend:
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
 | c7gs | ratz | 45 | islander | Southperry\* |
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
+| Neveroffland | ? | 44 | islander | \[none\]\* |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
-| Neveroffland | ? | 44 | islander | \[none\]\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Babbi | Alvin | 44 | islander | Southperry\* |
 | Tonk | ? | 44 | islander | Southperry\* |
