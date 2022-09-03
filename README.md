@@ -76,13 +76,12 @@ Legend:
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Christopher | Chris | 71 | islander | Aoshima\* |
-| Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
 | tb303 | cecilia | 71 | gish priest | Flow |
+| Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
-| Fown | ? | 68 | STRginner | ThotzRUs\* |
 | d33r | deer | 66 | clericlet \(vicloc\) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
@@ -95,9 +94,9 @@ Legend:
 | LazySoup | ? | 60 | islander | Southperry\* |
 | Wout | Wout | 59 | islander | Southperry\* |
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
-| Cleft | Tom | 58 | STRginner | Flow |
-| MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | inhale | ? | 58 | DEXginner | Oddjobs |
+| MapIeIsIand | ? | 58 | islander | \[none\]\* |
+| Cleft | Tom | 58 | STRginner | Flow |
 | poggered | ? | 58 | STRginner | Oddjobs |
 | Philippe | ? | 57 | STRginner | Oddjobs |
 | Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
@@ -127,8 +126,8 @@ Legend:
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry\* |
 | Zrar | ? | 50 | islander | Southperry\* |
-| Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Shikatanai | ? | 50 | islander | \[none\]\* |
+| Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Camomile | Vivian | 50 | islander | \[none\]\* |
 | sorts | deer | 50 | DEX brawler \(LPQ mule\) | Oddjobs |
 | BowerStrike | cort | 50 | bow-whacker | Oddjobs |
@@ -170,7 +169,6 @@ Legend:
 | BirdMandala | ? | 41 | islander | Southperry\* |
 | Zugar | ? | 41 | islander | Newbology\* |
 | Subcortical | cort | 40 | islander | Southperry\* |
-| DumbIsland | Leo | 40 | islander | Southperry\* |
 | Kokoro | ? | 40 | islander | \[none\]\* |
 | tbook | ? | 40 | islander | \[none\]\* |
 | iamDanix | ? | 40 | islander | Southperry\* |
