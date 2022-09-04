@@ -38,7 +38,7 @@ Legend:
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
-| Yoshis | Sword Furb | 112 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 113 | swashbuckler | Oddjobs |
 | alces | deer | 110 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
@@ -76,8 +76,8 @@ Legend:
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Christopher | Chris | 71 | islander | Aoshima\* |
-| tb303 | cecilia | 71 | gish priest | Flow |
 | Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
+| tb303 | cecilia | 71 | gish priest | Flow |
 | Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
@@ -92,9 +92,9 @@ Legend:
 | 1sme | João | 62 | islander | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
+| inhale | ? | 59 | DEXginner | Oddjobs |
 | Wout | Wout | 59 | islander | Southperry\* |
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
-| inhale | ? | 58 | DEXginner | Oddjobs |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
 | poggered | ? | 58 | STRginner | Oddjobs |
@@ -150,8 +150,8 @@ Legend:
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
 | c7gs | ratz | 45 | islander | Southperry\* |
+| Neveroffland | ? | 45 | islander | \[none\]\* |
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
-| Neveroffland | ? | 44 | islander | \[none\]\* |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
