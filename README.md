@@ -37,8 +37,8 @@ Legend:
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
-| Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | Yoshis | Sword Furb | 113 | swashbuckler | Oddjobs |
+| Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 110 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
@@ -51,14 +51,14 @@ Legend:
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
-| Medulla | cort | 91 | dagger sader | Oddjobs |
+| Battlesage | Red | 92 | F/P gish | GangGang\* |
+| Medulla | cort | 92 | dagger sader | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Sakuzyo | NoChorus | 87 | pugilist \(marauder\) | Oddjobs |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | panolia | deer | 86 | permarogue | Oddjobs |
-| Battlesage | Red | 86 | F/P gish | GangGang\* |
 | d34r | deer | 86 | dagger spearwoman \(vicloc\) | Victoria |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Newbton | Jonte | 85 | islander | Nubists\* |
@@ -91,8 +91,8 @@ Legend:
 | Oahu | Tom | 62 | STRlander | Southperry\* |
 | 1sme | João | 62 | islander | Oddjobs |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
+| inhale | ? | 60 | DEXginner | Oddjobs |
 | LazySoup | ? | 60 | islander | Southperry\* |
-| inhale | ? | 59 | DEXginner | Oddjobs |
 | Wout | Wout | 59 | islander | Southperry\* |
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
 | MapIeIsIand | ? | 58 | islander | \[none\]\* |
@@ -103,6 +103,7 @@ Legend:
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | attackattack | mae | 56 | DEX page | Oddjobs |
+| BangHero | Lin | 55 | blood fighter | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
@@ -111,7 +112,6 @@ Legend:
 | NoJobNoRules | Jared | 54 | islander | Southperry\* |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | Meipuru | ? | 54 | shield pugilist \(brawler\) | Oddjobs |
-| BangHero | Lin | 54 | blood fighter | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
@@ -147,10 +147,10 @@ Legend:
 | Femdom | ? | 46 | islander | Newbology\* |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
+| Neveroffland | ? | 45 | islander | \[none\]\* |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
 | c7gs | ratz | 45 | islander | Southperry\* |
-| Neveroffland | ? | 45 | islander | \[none\]\* |
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
