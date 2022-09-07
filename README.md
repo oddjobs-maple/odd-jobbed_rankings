@@ -75,8 +75,8 @@ Legend:
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
-| Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
 | Christopher | Chris | 71 | islander | Aoshima\* |
+| Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
 | tb303 | cecilia | 71 | gish priest | Flow |
 | Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
@@ -85,8 +85,8 @@ Legend:
 | d33r | deer | 66 | clericlet \(vicloc\) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
-| tarandus | deer | 63 | shield pugilist \(brawler\) | Oddjobs |
 | inhale | ? | 63 | DEXginner | Oddjobs |
+| tarandus | deer | 63 | shield pugilist \(brawler\) | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | MapleStarter | Dvd | 62 | islander | Newbology\* |
 | 1sme | João | 62 | islander | Oddjobs |
