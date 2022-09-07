@@ -75,8 +75,8 @@ Legend:
 | Phoneme | cort | 74 | permamagician | Victoria |
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
-| Christopher | Chris | 71 | islander | Aoshima\* |
 | Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
+| Christopher | Chris | 71 | islander | Aoshima\* |
 | tb303 | cecilia | 71 | gish priest | Flow |
 | Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
@@ -86,16 +86,16 @@ Legend:
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | tarandus | deer | 63 | shield pugilist \(brawler\) | Oddjobs |
+| inhale | ? | 63 | DEXginner | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | MapleStarter | Dvd | 62 | islander | Newbology\* |
-| inhale | ? | 62 | DEXginner | Oddjobs |
 | 1sme | João | 62 | islander | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
 | Wout | Wout | 59 | islander | Southperry\* |
+| MapIeIsIand | ? | 59 | islander | \[none\]\* |
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
-| MapIeIsIand | ? | 58 | islander | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
 | poggered | ? | 58 | STRginner | Oddjobs |
 | Philippe | ? | 57 | STRginner | Oddjobs |
@@ -146,8 +146,8 @@ Legend:
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
-| PinkBean | ? | 45 | islander | Shroomies\* |
 | Neveroffland | ? | 45 | islander | \[none\]\* |
+| PinkBean | ? | 45 | islander | Shroomies\* |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
 | c7gs | ratz | 45 | islander | Southperry\* |
