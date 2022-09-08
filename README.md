@@ -30,7 +30,7 @@ Legend:
 | rusa | deer | 173 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Pariah |
 | LawdHeComin | JunkyardBat | 148 | F/P archgish | Oddjobs |
-| capreolina | deer | 142 | woodsmaster | Oddjobs |
+| capreolina | deer | 143 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 130 | STR bishop | Oddjobs |
 | Taima | Kelsey | 126 | STRginner | Oddjobs |
@@ -53,10 +53,10 @@ Legend:
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Battlesage | Red | 92 | F/P gish | GangGang\* |
 | Medulla | cort | 92 | dagger sader | Oddjobs |
-| Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | GishGallop | cort | 88 | I/L gish | Oddjobs |
+| Daddyo | Hunter | 88 | STRginner | \[none\]\* |
+| Sakuzyo | NoChorus | 88 | pugilist \(marauder\) | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
-| Sakuzyo | NoChorus | 87 | pugilist \(marauder\) | Oddjobs |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | d34r | deer | 86 | dagger spearwoman \(vicloc\) | Victoria |
@@ -107,12 +107,12 @@ Legend:
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
+| NoJobNoRules | Jared | 55 | islander | Southperry\* |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
-| NoJobNoRules | Jared | 54 | islander | Southperry\* |
 | Contagion | Elie | 54 | islander | Pariah |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | Meipuru | ? | 54 | shield pugilist \(brawler\) | Oddjobs |
-| doiob | doiob | 53 | STR cleric | Oddjobs |
+| doiob | doiob | 54 | STR cleric | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
@@ -144,9 +144,9 @@ Legend:
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Dexual | Hunter | 46 | islander | Southperry\* |
 | Mujintou | ? | 46 | islander | Pomf\* |
+| Neveroffland | ? | 46 | islander | \[none\]\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
-| Neveroffland | ? | 45 | islander | \[none\]\* |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
