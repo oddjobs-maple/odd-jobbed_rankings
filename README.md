@@ -46,14 +46,14 @@ Legend:
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Cassandro | Marcelo | 97 | claw priestlet | Oddjobs |
 | Outside | Tab | 96 | STRginner | Flow |
-| xX17Xx | mae | 95 | permarogue | Oddjobs |
 | Cortical | cort | 95 | STRginner | Flow |
+| xX17Xx | mae | 95 | permarogue | Oddjobs |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Battlesage | Red | 92 | F/P gish | GangGang\* |
 | Medulla | cort | 92 | dagger sader | Oddjobs |
-| GishGallop | cort | 88 | I/L gish | Oddjobs |
+| GishGallop | cort | 89 | I/L gish | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | Sakuzyo | NoChorus | 88 | pugilist \(marauder\) | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
@@ -76,8 +76,8 @@ Legend:
 | Celim | Marcelo | 74 | STRginner | Flow |
 | drainer | mae | 72 | STRginner | Flow |
 | Christopher | Chris | 71 | islander | Aoshima\* |
-| Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
 | tb303 | cecilia | 71 | gish priest | Flow |
+| Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
@@ -93,8 +93,8 @@ Legend:
 | Oahu | Tom | 62 | STRlander | Southperry\* |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
-| Wout | Wout | 59 | islander | Southperry\* |
 | MapIeIsIand | ? | 59 | islander | \[none\]\* |
+| Wout | Wout | 59 | islander | Southperry\* |
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
 | poggered | ? | 58 | STRginner | Oddjobs |
@@ -106,8 +106,8 @@ Legend:
 | BangHero | Lin | 55 | blood fighter | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
-| DexBlade | ? | 55 | DEX fighter | Oddjobs |
 | NoJobNoRules | Jared | 55 | islander | Southperry\* |
+| DexBlade | ? | 55 | DEX fighter | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | Contagion | Elie | 54 | islander | Pariah |
 | hashishi | deer | 54 | besinner | Oddjobs |
@@ -143,10 +143,10 @@ Legend:
 | Peep | ? | 47 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Dexual | Hunter | 46 | islander | Southperry\* |
-| Mujintou | ? | 46 | islander | Pomf\* |
 | Neveroffland | ? | 46 | islander | \[none\]\* |
+| Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
-| ozotoceros | deer | 45 | DEX/LUK hybridlander | Oddjobs |
+| ozotoceros | deer | 46 | DEX/LUK hybridlander | Oddjobs |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
@@ -167,6 +167,7 @@ Legend:
 | Mesa | sneaks | 41 | islander | Southperry\* |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | BirdMandala | ? | 41 | islander | Southperry\* |
+| Leozinho | Leozinho | 41 | perfectlander | Oddjobs |
 | Zugar | ? | 41 | islander | Newbology\* |
 | Subcortical | cort | 40 | islander | Southperry\* |
 | Kokoro | ? | 40 | islander | \[none\]\* |
