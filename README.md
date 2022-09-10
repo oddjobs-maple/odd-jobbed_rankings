@@ -37,7 +37,7 @@ Legend:
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
-| Yoshis | Sword Furb | 114 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 115 | swashbuckler | Oddjobs |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 110 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
@@ -53,9 +53,9 @@ Legend:
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
 | Battlesage | Red | 92 | F/P gish | GangGang\* |
 | Medulla | cort | 92 | dagger sader | Oddjobs |
+| Sakuzyo | NoChorus | 89 | pugilist \(marauder\) | Oddjobs |
 | GishGallop | cort | 89 | I/L gish | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
-| Sakuzyo | NoChorus | 88 | pugilist \(marauder\) | Oddjobs |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
 | panolia | deer | 86 | permarogue | Oddjobs |
@@ -77,15 +77,15 @@ Legend:
 | drainer | mae | 72 | STRginner | Flow |
 | Christopher | Chris | 71 | islander | Aoshima\* |
 | tb303 | cecilia | 71 | gish priest | Flow |
-| Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry\* |
+| Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
 | Ever | Becca | 70 | islander | Team\* |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | d33r | deer | 66 | clericlet \(vicloc\) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
-| inhale | ? | 63 | DEXginner | Oddjobs |
+| inhale | ? | 64 | DEXginner | Oddjobs |
 | tarandus | deer | 63 | shield pugilist \(brawler\) | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | MapleStarter | Dvd | 62 | islander | Newbology\* |
@@ -121,17 +121,17 @@ Legend:
 | Desolate | Logan | 51 | islander | Amherst\* |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
-| Ashore | Sean | 51 | islander | Southperry\* |
 | GooderNoddy | TotallyNotShoe | 51 | DEF/HP STRginner | Oddjobs |
+| Ashore | Sean | 51 | islander | Southperry\* |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | PinkCream | Robin | 50 | islander | Southperry\* |
 | Zrar | ? | 50 | islander | Southperry\* |
 | Shikatanai | ? | 50 | islander | \[none\]\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Camomile | Vivian | 50 | islander | \[none\]\* |
-| sorts | deer | 50 | DEX brawler \(LPQ mule\) | Oddjobs |
 | BowerStrike | cort | 50 | bow-whacker | Oddjobs |
 | EasyIsland | ? | 50 | islander | Southperry\* |
+| sorts | deer | 50 | DEX brawler \(LPQ mule\) | Oddjobs |
 | Luckiestboy | Dvd | 49 | LUKlander | Newbology\* |
 | VillageIdiot | ? | 49 | islander | Southperry\* |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
@@ -142,8 +142,8 @@ Legend:
 | Kimberly | Jonathan | 47 | islander | Flow |
 | Peep | ? | 47 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| Dexual | Hunter | 46 | islander | Southperry\* |
 | Neveroffland | ? | 46 | islander | \[none\]\* |
+| Dexual | Hunter | 46 | islander | Southperry\* |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | ozotoceros | deer | 46 | DEX/LUK hybridlander | Oddjobs |
@@ -163,11 +163,11 @@ Legend:
 | Cottage | ? | 42 | islander | Southperry\* |
 | Snapples | Kristina | 42 | islander | Newbology\* |
 | Woogie | ? | 41 | islander | Southperry\* |
+| Leozinho | Leozinho | 41 | perfectlander | Oddjobs |
 | yotta | ? | 41 | islander | \[none\]\* |
 | Mesa | sneaks | 41 | islander | Southperry\* |
-| o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | BirdMandala | ? | 41 | islander | Southperry\* |
-| Leozinho | Leozinho | 41 | perfectlander | Oddjobs |
+| o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology\* |
 | Subcortical | cort | 40 | islander | Southperry\* |
 | Kokoro | ? | 40 | islander | \[none\]\* |
