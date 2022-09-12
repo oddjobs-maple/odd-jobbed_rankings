@@ -86,7 +86,7 @@ Legend:
 | d33r | deer | 66 | clericlet \(vicloc\) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
-| tarandus | deer | 63 | shield pugilist \(brawler\) | Oddjobs |
+| tarandus | deer | 64 | shield pugilist \(brawler\) | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | MapleStarter | Dvd | 63 | islander | Newbology\* |
 | 1sme | João | 62 | islander | Oddjobs |
@@ -141,8 +141,8 @@ Legend:
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
 | Peep | ? | 47 | islander | \[none\]\* |
-| FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Neveroffland | ? | 47 | islander | \[none\]\* |
+| FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Dexual | Hunter | 46 | islander | Southperry\* |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
