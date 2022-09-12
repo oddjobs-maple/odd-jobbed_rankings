@@ -48,10 +48,10 @@ Legend:
 | Outside | Tab | 96 | STRginner | Flow |
 | Cortical | cort | 95 | STRginner | Flow |
 | xX17Xx | mae | 95 | permarogue | Oddjobs |
+| Battlesage | Red | 94 | F/P gish | GangGang\* |
 | hydropotina | deer | 94 | swashbuckler | Oddjobs |
 | Hanyou | Kelsey | 93 | DEX WK | Oddjobs |
 | Boymoder | Kelsey | 93 | STRmit | Oddjobs |
-| Battlesage | Red | 92 | F/P gish | GangGang\* |
 | Medulla | cort | 92 | dagger sader | Oddjobs |
 | Sakuzyo | NoChorus | 89 | pugilist \(marauder\) | Oddjobs |
 | GishGallop | cort | 89 | I/L gish | Oddjobs |
@@ -77,18 +77,18 @@ Legend:
 | drainer | mae | 72 | STRginner | Flow |
 | Christopher | Chris | 71 | islander | Aoshima\* |
 | tb303 | cecilia | 71 | gish priest | Flow |
-| Zheedie | David | 71 | islander | Southperry\* |
 | Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
+| Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
+| inhale | ? | 67 | DEXginner | Oddjobs |
 | d33r | deer | 66 | clericlet \(vicloc\) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
-| inhale | ? | 64 | DEXginner | Oddjobs |
 | tarandus | deer | 63 | shield pugilist \(brawler\) | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| MapleStarter | Dvd | 62 | islander | Newbology\* |
+| MapleStarter | Dvd | 63 | islander | Newbology\* |
 | 1sme | João | 62 | islander | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
@@ -103,6 +103,7 @@ Legend:
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | attackattack | mae | 56 | DEX page | Oddjobs |
+| doiob | doiob | 55 | STR cleric | Oddjobs |
 | BangHero | Lin | 55 | blood fighter | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
@@ -112,7 +113,6 @@ Legend:
 | Contagion | Elie | 54 | islander | Pariah |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | Meipuru | ? | 54 | shield pugilist \(brawler\) | Oddjobs |
-| doiob | doiob | 54 | STR cleric | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Furca | Gusing | 53 | clawslinger | Oddjobs |
@@ -129,20 +129,20 @@ Legend:
 | Shikatanai | ? | 50 | islander | \[none\]\* |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Camomile | Vivian | 50 | islander | \[none\]\* |
+| sorts | deer | 50 | DEX brawler \(LPQ mule\) | Oddjobs |
 | BowerStrike | cort | 50 | bow-whacker | Oddjobs |
 | EasyIsland | ? | 50 | islander | Southperry\* |
-| sorts | deer | 50 | DEX brawler \(LPQ mule\) | Oddjobs |
 | Luckiestboy | Dvd | 49 | LUKlander | Newbology\* |
 | VillageIdiot | ? | 49 | islander | Southperry\* |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
+| kelik | ratz | 48 | STRginner | Oddjobs |
 | NewIslander | ? | 48 | islander | \[none\]\* |
-| kelik | ratz | 47 | STRginner | Oddjobs |
 | Kimberly | Jonathan | 47 | islander | Flow |
 | Peep | ? | 47 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| Neveroffland | ? | 46 | islander | \[none\]\* |
+| Neveroffland | ? | 47 | islander | \[none\]\* |
 | Dexual | Hunter | 46 | islander | Southperry\* |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
@@ -162,8 +162,8 @@ Legend:
 | Patrao | Duncan | 42 | islander | Southperry\* |
 | Cottage | ? | 42 | islander | Southperry\* |
 | Snapples | Kristina | 42 | islander | Newbology\* |
-| Woogie | ? | 41 | islander | Southperry\* |
 | Leozinho | Leozinho | 41 | perfectlander | Oddjobs |
+| Woogie | ? | 41 | islander | Southperry\* |
 | yotta | ? | 41 | islander | \[none\]\* |
 | Mesa | sneaks | 41 | islander | Southperry\* |
 | BirdMandala | ? | 41 | islander | Southperry\* |
