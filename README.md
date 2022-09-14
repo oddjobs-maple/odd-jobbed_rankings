@@ -81,15 +81,15 @@ Legend:
 | Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
+| inhale | ? | 70 | DEXginner | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
-| inhale | ? | 67 | DEXginner | Oddjobs |
 | d33r | deer | 66 | clericlet \(vicloc\) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | tarandus | deer | 64 | shield pugilist \(brawler\) | Oddjobs |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | MapleStarter | Dvd | 63 | islander | Newbology\* |
-| 1sme | João | 62 | islander | Oddjobs |
+| 1sme | João | 63 | islander | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
@@ -105,9 +105,9 @@ Legend:
 | attackattack | mae | 56 | DEX page | Oddjobs |
 | doiob | doiob | 55 | STR cleric | Oddjobs |
 | BangHero | Lin | 55 | blood fighter | Oddjobs |
+| NoJobNoRules | Jared | 55 | islander | Southperry\* |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
-| NoJobNoRules | Jared | 55 | islander | Southperry\* |
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | Contagion | Elie | 54 | islander | Pariah |
@@ -119,8 +119,8 @@ Legend:
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
-| Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
+| Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | GooderNoddy | TotallyNotShoe | 51 | DEF/HP STRginner | Oddjobs |
 | Ashore | Sean | 51 | islander | Southperry\* |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
@@ -140,8 +140,8 @@ Legend:
 | kelik | ratz | 48 | STRginner | Oddjobs |
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
-| Peep | ? | 47 | islander | \[none\]\* |
 | Neveroffland | ? | 47 | islander | \[none\]\* |
+| Peep | ? | 47 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Dexual | Hunter | 46 | islander | Southperry\* |
 | Mujintou | ? | 46 | islander | Pomf\* |
@@ -161,12 +161,12 @@ Legend:
 | Land | ? | 43 | islander | Amherst\* |
 | Patrao | Duncan | 42 | islander | Southperry\* |
 | Cottage | ? | 42 | islander | Southperry\* |
+| Leozinho | Leozinho | 42 | perfectlander | Oddjobs |
 | Snapples | Kristina | 42 | islander | Newbology\* |
-| Leozinho | Leozinho | 41 | perfectlander | Oddjobs |
 | Woogie | ? | 41 | islander | Southperry\* |
 | yotta | ? | 41 | islander | \[none\]\* |
-| Mesa | sneaks | 41 | islander | Southperry\* |
 | BirdMandala | ? | 41 | islander | Southperry\* |
+| Mesa | sneaks | 41 | islander | Southperry\* |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology\* |
 | Subcortical | cort | 40 | islander | Southperry\* |
