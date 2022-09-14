@@ -87,8 +87,8 @@ Legend:
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | tarandus | deer | 64 | shield pugilist \(brawler\) | Oddjobs |
-| BeginnersEnd | Ben | 63 | STRginner | Flow |
 | MapleStarter | Dvd | 63 | islander | Newbology\* |
+| BeginnersEnd | Ben | 63 | STRginner | Flow |
 | 1sme | João | 63 | islander | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
@@ -139,18 +139,19 @@ Legend:
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | kelik | ratz | 48 | STRginner | Oddjobs |
 | NewIslander | ? | 48 | islander | \[none\]\* |
-| Kimberly | Jonathan | 47 | islander | Flow |
 | Neveroffland | ? | 47 | islander | \[none\]\* |
+| Kimberly | Jonathan | 47 | islander | Flow |
 | Peep | ? | 47 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Dexual | Hunter | 46 | islander | Southperry\* |
 | Mujintou | ? | 46 | islander | Pomf\* |
-| Femdom | ? | 46 | islander | Newbology\* |
 | ozotoceros | deer | 46 | DEX/LUK hybridlander | Oddjobs |
+| Femdom | ? | 46 | islander | Newbology\* |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
 | c7gs | ratz | 45 | islander | Southperry\* |
+| hueso | cecilia | 45 | permapirate | Oddjobs |
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
