@@ -87,9 +87,9 @@ Legend:
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | tarandus | deer | 64 | shield pugilist \(brawler\) | Oddjobs |
+| 1sme | João | 63 | islander | Oddjobs |
 | MapleStarter | Dvd | 63 | islander | Newbology\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
-| 1sme | João | 63 | islander | Oddjobs |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
@@ -148,10 +148,10 @@ Legend:
 | ozotoceros | deer | 46 | DEX/LUK hybridlander | Oddjobs |
 | Femdom | ? | 46 | islander | Newbology\* |
 | PinkBean | ? | 45 | islander | Shroomies\* |
+| hueso | cecilia | 45 | permapirate | Oddjobs |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
 | c7gs | ratz | 45 | islander | Southperry\* |
-| hueso | cecilia | 45 | permapirate | Oddjobs |
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
