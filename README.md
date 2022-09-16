@@ -93,7 +93,7 @@ Legend:
 | Oahu | Tom | 62 | STRlander | Southperry\* |
 | Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
-| MapIeIsIand | ? | 59 | islander | \[none\]\* |
+| MapIeIsIand | ? | 60 | islander | \[none\]\* |
 | Wout | Wout | 59 | islander | Southperry\* |
 | HPdit | RyeBread | 58 | blood bandit | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
@@ -102,8 +102,8 @@ Legend:
 | Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
+| doiob | doiob | 56 | STR cleric | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
-| doiob | doiob | 55 | STR cleric | Oddjobs |
 | BangHero | Lin | 55 | blood fighter | Oddjobs |
 | NoJobNoRules | Jared | 55 | islander | Southperry\* |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
