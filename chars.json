@@ -768,6 +768,61 @@
       "job": "permapirate"
     },
     {
+      "ign": "Sunken",
+      "name": null,
+      "job": "STR cleric"
+    },
+    {
+      "ign": "SnailDEX",
+      "name": null,
+      "job": "islander"
+    },
+    {
+      "ign": "IslandLiving",
+      "name": null,
+      "job": "islander"
+    },
+    {
+      "ign": "SlimeySlayer",
+      "name": null,
+      "job": "islander"
+    },
+    {
+      "ign": "SentientBlob",
+      "name": null,
+      "job": "islander"
+    },
+    {
+      "ign": "Retain",
+      "name": null,
+      "job": "islander"
+    },
+    {
+      "ign": "Snuggy",
+      "name": null,
+      "job": "islander"
+    },
+    {
+      "ign": "Beginner626",
+      "name": null,
+      "job": "islander"
+    },
+    {
+      "ign": "DumbIsland",
+      "name": null,
+      "job": "islander"
+    },
+    {
+      "ign": "Tsukishima",
+      "name": null,
+      "job": "islander"
+    },
+    {
+      "ign": "Fraye",
+      "name": null,
+      "job": "islander"
+    },
+    {
       "ign": "Otios",
       "name": "Wout",
       "job": "STRginner",

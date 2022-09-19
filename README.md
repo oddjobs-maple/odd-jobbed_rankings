@@ -37,7 +37,7 @@ Legend:
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
-| Yoshis | Sword Furb | 115 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 116 | swashbuckler | Oddjobs |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 110 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
@@ -65,8 +65,8 @@ Legend:
 | Ismezin | João | 85 | STRginner | Flow |
 | uayua | cecilia | 84 | STRginner | Oddjobs |
 | shadowban | cecilia | 82 | LUKless chief dit | Oddjobs |
+| Copo | Marcelo | 81 | permapirate | Oddjobs |
 | Buwwon | robidouux | 80 | woodsman \(sniper\) | Oddjobs |
-| Copo | Marcelo | 80 | permapirate | Oddjobs |
 | Furbs | Sword Furb | 77 | STRginner | WindowsXP\* |
 | rangifer | deer | 76 | pugilist \(marauder\) | \[none\]\* |
 | Duhm | Duhm | 76 | STRginner | Flow |
@@ -113,9 +113,10 @@ Legend:
 | Contagion | Elie | 54 | islander | Pariah |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | Meipuru | ? | 54 | shield pugilist \(brawler\) | Oddjobs |
+| Furca | Gusing | 54 | clawslinger | Oddjobs |
+| Fraye | ? | 53 | islander | Southperry\* |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
-| Furca | Gusing | 53 | clawslinger | Oddjobs |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
@@ -133,7 +134,9 @@ Legend:
 | BowerStrike | cort | 50 | bow-whacker | Oddjobs |
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | Luckiestboy | Dvd | 49 | LUKlander | Newbology\* |
+| hueso | cecilia | 49 | permapirate | Oddjobs |
 | VillageIdiot | ? | 49 | islander | Southperry\* |
+| Sunken | ? | 49 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
@@ -143,15 +146,15 @@ Legend:
 | Kimberly | Jonathan | 47 | islander | Flow |
 | Peep | ? | 47 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
-| hueso | cecilia | 46 | permapirate | Oddjobs |
 | Dexual | Hunter | 46 | islander | Southperry\* |
+| CokeZeroPill | cort | 46 | gish cleric | Oddjobs |
 | ozotoceros | deer | 46 | DEX/LUK hybridlander | Oddjobs |
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
-| CokeZeroPill | cort | 45 | gish cleric | Oddjobs |
 | c7gs | ratz | 45 | islander | Southperry\* |
+| Tsukishima | ? | 45 | islander | Southperry\* |
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Steam | ? | 44 | islander | Dokdo\* |
 | Vacation | ? | 44 | islander | Amherst\* |
@@ -161,18 +164,26 @@ Legend:
 | Gosu | ? | 43 | islander | \[none\]\* |
 | Land | ? | 43 | islander | Amherst\* |
 | Patrao | Duncan | 42 | islander | Southperry\* |
+| DumbIsland | ? | 42 | islander | Southperry\* |
 | Cottage | ? | 42 | islander | Southperry\* |
 | Leozinho | Leozinho | 42 | perfectlander | Oddjobs |
 | Snapples | Kristina | 42 | islander | Newbology\* |
 | Woogie | ? | 41 | islander | Southperry\* |
+| Beginner626 | ? | 41 | islander | Southperry\* |
 | BirdMandala | ? | 41 | islander | Southperry\* |
 | yotta | ? | 41 | islander | \[none\]\* |
 | Mesa | sneaks | 41 | islander | Southperry\* |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology\* |
 | Subcortical | cort | 41 | islander | Southperry\* |
+| Snuggy | ? | 41 | islander | Newbology\* |
+| Retain | ? | 40 | islander | Aoshima\* |
+| SentientBlob | ? | 40 | islander | Southperry\* |
+| SlimeySlayer | ? | 40 | islander | Southperry\* |
 | Kokoro | ? | 40 | islander | \[none\]\* |
+| IslandLiving | ? | 40 | islander | Southperry\* |
 | tbook | ? | 40 | islander | \[none\]\* |
+| SnailDEX | ? | 40 | islander | Southperry\* |
 | iamDanix | ? | 40 | islander | Southperry\* |
 | GoGoSnuggles | Snuggles | 25 | camper | Flow |
 | Itati | ? | 19 | camper | \[none\]\* |
