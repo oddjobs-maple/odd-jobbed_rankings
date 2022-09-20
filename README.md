@@ -77,8 +77,8 @@ Legend:
 | drainer | mae | 72 | STRginner | Flow |
 | Christopher | Chris | 71 | islander | Aoshima\* |
 | tb303 | cecilia | 71 | gish priest | Flow |
-| Zheedie | David | 71 | islander | Southperry\* |
 | Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
+| Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | inhale | ? | 70 | DEXginner | Oddjobs |
@@ -114,12 +114,13 @@ Legend:
 | hashishi | deer | 54 | besinner | Oddjobs |
 | Meipuru | ? | 54 | shield pugilist \(brawler\) | Oddjobs |
 | Furca | Gusing | 54 | clawslinger | Oddjobs |
-| Fraye | ? | 53 | islander | Southperry\* |
+| Fraye | ? | 54 | islander | Southperry\* |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
+| Sunken | SunkenSpore | 51 | STR cleric | Oddjobs |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
 | GooderNoddy | TotallyNotShoe | 51 | DEF/HP STRginner | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
@@ -128,15 +129,14 @@ Legend:
 | PinkCream | Robin | 50 | islander | Southperry\* |
 | Zrar | PhysicistJason | 50 | islander | Southperry\* |
 | Shikatanai | ? | 50 | islander | \[none\]\* |
+| hueso | cecilia | 50 | permapirate | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Camomile | Vivian | 50 | islander | \[none\]\* |
 | sorts | deer | 50 | DEX brawler \(LPQ mule\) | Oddjobs |
 | BowerStrike | cort | 50 | bow-whacker | Oddjobs |
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | Luckiestboy | Dvd | 49 | LUKlander | Newbology\* |
-| hueso | cecilia | 49 | permapirate | Oddjobs |
 | VillageIdiot | ? | 49 | islander | Southperry\* |
-| Sunken | ? | 49 | STR cleric | Oddjobs |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
@@ -163,8 +163,8 @@ Legend:
 | Tonk | ? | 44 | islander | Southperry\* |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | Land | ? | 43 | islander | Amherst\* |
-| Patrao | Duncan | 42 | islander | Southperry\* |
 | DumbIsland | ? | 42 | islander | Southperry\* |
+| Patrao | Duncan | 42 | islander | Southperry\* |
 | Cottage | ? | 42 | islander | Southperry\* |
 | Leozinho | Leozinho | 42 | perfectlander | Oddjobs |
 | Snapples | Kristina | 42 | islander | Newbology\* |
@@ -179,9 +179,9 @@ Legend:
 | Snuggy | ? | 41 | islander | Newbology\* |
 | Retain | ? | 40 | islander | Aoshima\* |
 | SentientBlob | ? | 40 | islander | Southperry\* |
+| IslandLiving | ? | 40 | islander | Southperry\* |
 | SlimeySlayer | ? | 40 | islander | Southperry\* |
 | Kokoro | ? | 40 | islander | \[none\]\* |
-| IslandLiving | ? | 40 | islander | Southperry\* |
 | tbook | ? | 40 | islander | \[none\]\* |
 | SnailDEX | ? | 40 | islander | Southperry\* |
 | iamDanix | ? | 40 | islander | Southperry\* |
