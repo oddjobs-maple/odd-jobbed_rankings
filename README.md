@@ -30,7 +30,7 @@ Legend:
 | rusa | deer | 173 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Pariah |
 | LawdHeComin | JunkyardBat | 148 | F/P archgish | Oddjobs |
-| capreolina | deer | 143 | woodsmaster | Oddjobs |
+| capreolina | deer | 144 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 130 | STR bishop | Oddjobs |
 | Taima | Kelsey | 126 | STRginner | Oddjobs |
@@ -41,8 +41,8 @@ Legend:
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 110 | daggermit | Oddjobs |
 | Gumby | Jonathan | 105 | STRginner | Flow |
+| Battlesage | Red | 105 | F/P gish | GangGang\* |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
-| Battlesage | Red | 104 | F/P gish | GangGang\* |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
 | Cassandro | Marcelo | 97 | claw priestlet | Oddjobs |
@@ -104,25 +104,25 @@ Legend:
 | BangHero | Lin | 56 | blood fighter | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | doiob | doiob | 56 | STR cleric | Oddjobs |
+| Sunken | SunkenSpore | 56 | STR cleric | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
-| NoJobNoRules | Jared | 55 | islander | Southperry\* |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
+| NoJobNoRules | Jared | 55 | islander | Southperry\* |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | Contagion | Elie | 54 | islander | Pariah |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | Meipuru | ? | 54 | shield pugilist \(brawler\) | Oddjobs |
-| Furca | Gusing | 54 | clawslinger | Oddjobs |
 | Fraye | ? | 54 | islander | Southperry\* |
+| Furca | Gusing | 54 | clawslinger | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
-| Sunken | SunkenSpore | 51 | STR cleric | Oddjobs |
-| KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
 | GooderNoddy | TotallyNotShoe | 51 | DEF/HP STRginner | Oddjobs |
+| KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Ashore | Sean | 51 | islander | Southperry\* |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
@@ -162,11 +162,11 @@ Legend:
 | Babbi | Alvin | 44 | islander | Southperry\* |
 | Tonk | ? | 44 | islander | Southperry\* |
 | Gosu | ? | 43 | islander | \[none\]\* |
+| DumbIsland | ? | 43 | islander | Southperry\* |
 | Land | ? | 43 | islander | Amherst\* |
-| DumbIsland | ? | 42 | islander | Southperry\* |
 | Patrao | Duncan | 42 | islander | Southperry\* |
-| Cottage | ? | 42 | islander | Southperry\* |
 | Leozinho | Leozinho | 42 | perfectlander | Oddjobs |
+| Cottage | ? | 42 | islander | Southperry\* |
 | Snapples | Kristina | 42 | islander | Newbology\* |
 | Woogie | ? | 41 | islander | Southperry\* |
 | Beginner626 | ? | 41 | islander | Southperry\* |
@@ -182,8 +182,8 @@ Legend:
 | IslandLiving | ? | 40 | islander | Southperry\* |
 | SlimeySlayer | ? | 40 | islander | Southperry\* |
 | Kokoro | ? | 40 | islander | \[none\]\* |
-| tbook | ? | 40 | islander | \[none\]\* |
 | SnailDEX | ? | 40 | islander | Southperry\* |
+| tbook | ? | 40 | islander | \[none\]\* |
 | iamDanix | ? | 40 | islander | Southperry\* |
 | GoGoSnuggles | Snuggles | 25 | camper | Flow |
 | Itati | ? | 19 | camper | \[none\]\* |
