@@ -33,14 +33,14 @@ Legend:
 | capreolina | deer | 144 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 130 | STR bishop | Oddjobs |
-| Taima | Kelsey | 126 | STRginner | Oddjobs |
+| Taima | Kelsey | 127 | STRginner | Oddjobs |
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
-| Yoshis | Sword Furb | 116 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 117 | swashbuckler | Oddjobs |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 110 | daggermit | Oddjobs |
-| Gumby | Jonathan | 105 | STRginner | Flow |
+| Gumby | Jonathan | 106 | STRginner | Flow |
 | Battlesage | Red | 105 | F/P gish | GangGang\* |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
@@ -83,11 +83,11 @@ Legend:
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | inhale | ? | 70 | DEXginner | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
-| d33r | deer | 67 | clericlet \(vicloc\) | Victoria |
+| d33r | deer | 68 | clericlet \(vicloc\) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | tarandus | deer | 64 | shield pugilist \(brawler\) | Oddjobs |
-| 1sme | João | 63 | islander | Oddjobs |
+| 1sme | João | 64 | islander | Oddjobs |
 | MapleStarter | Dvd | 63 | islander | Newbology\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
@@ -95,6 +95,7 @@ Legend:
 | MapIeIsIand | ? | 60 | islander | \[none\]\* |
 | LazySoup | ? | 60 | islander | Southperry\* |
 | Wout | Wout | 59 | islander | Southperry\* |
+| Sunken | SunkenSpore | 59 | STR cleric | Oddjobs |
 | HPdit | RyeBread | 59 | blood bandit | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
 | poggered | ? | 58 | STRginner | Oddjobs |
@@ -104,7 +105,6 @@ Legend:
 | BangHero | Lin | 56 | blood fighter | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | doiob | doiob | 56 | STR cleric | Oddjobs |
-| Sunken | SunkenSpore | 56 | STR cleric | Oddjobs |
 | attackattack | mae | 56 | DEX page | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | NoJobNoRules | Jared | 55 | islander | Southperry\* |
@@ -112,17 +112,17 @@ Legend:
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | Contagion | Elie | 54 | islander | Pariah |
+| Fraye | ? | 54 | islander | Southperry\* |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | Meipuru | ? | 54 | shield pugilist \(brawler\) | Oddjobs |
-| Fraye | ? | 54 | islander | Southperry\* |
 | Furca | Gusing | 54 | clawslinger | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
-| GooderNoddy | TotallyNotShoe | 51 | DEF/HP STRginner | Oddjobs |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
+| GooderNoddy | TotallyNotShoe | 51 | DEF/HP STRginner | Oddjobs |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Ashore | Sean | 51 | islander | Southperry\* |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
@@ -137,10 +137,10 @@ Legend:
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | Luckiestboy | Dvd | 49 | LUKlander | Newbology\* |
 | VillageIdiot | ? | 49 | islander | Southperry\* |
+| Neveroffland | ? | 48 | islander | \[none\]\* |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
-| Neveroffland | ? | 48 | islander | \[none\]\* |
 | kelik | ratz | 48 | STRginner | Oddjobs |
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
@@ -164,8 +164,8 @@ Legend:
 | Gosu | ? | 43 | islander | \[none\]\* |
 | DumbIsland | ? | 43 | islander | Southperry\* |
 | Land | ? | 43 | islander | Amherst\* |
+| Leozinho | Leozinho | 43 | perfectlander | Oddjobs |
 | Patrao | Duncan | 42 | islander | Southperry\* |
-| Leozinho | Leozinho | 42 | perfectlander | Oddjobs |
 | Cottage | ? | 42 | islander | Southperry\* |
 | Snapples | Kristina | 42 | islander | Newbology\* |
 | Woogie | ? | 41 | islander | Southperry\* |
