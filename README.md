@@ -27,7 +27,7 @@ Legend:
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 173 | darksterity knight | Oddjobs |
+| rusa | deer | 174 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Pariah |
 | LawdHeComin | JunkyardBat | 148 | F/P archgish | Oddjobs |
 | capreolina | deer | 144 | woodsmaster | Oddjobs |
@@ -58,7 +58,7 @@ Legend:
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
 | Cowbelle | Belle | 87 | STRginner | Homies\* |
-| d34r | deer | 86 | dagger spearwoman \(vicloc\) | Victoria |
+| d34r | deer | 87 | dagger spearwoman \(vicloc\) | Victoria |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Newbton | Jonte | 85 | islander | Nubists\* |
@@ -84,11 +84,11 @@ Legend:
 | inhale | ? | 70 | DEXginner | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | d33r | deer | 68 | clericlet \(vicloc\) | Victoria |
-| justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | Sunken | SunkenSpore | 65 | STR cleric | Oddjobs |
+| justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
-| tarandus | deer | 64 | shield pugilist \(brawler\) | Oddjobs |
 | 1sme | João | 64 | islander | Oddjobs |
+| tarandus | deer | 64 | shield pugilist \(brawler\) | Oddjobs |
 | MapleStarter | Dvd | 63 | islander | Newbology\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
@@ -105,11 +105,11 @@ Legend:
 | BangHero | Lin | 56 | blood fighter | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | doiob | doiob | 56 | STR cleric | Oddjobs |
+| NoJobNoRules | Jared | 56 | islander | Southperry\* |
 | attackattack | mae | 56 | DEX page | Oddjobs |
-| NoJobNoRules | Jared | 55 | islander | Southperry\* |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
-| Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | Fraye | ? | 55 | islander | Southperry\* |
+| Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | Contagion | Elie | 54 | islander | Pariah |
@@ -121,13 +121,13 @@ Legend:
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
-| KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
 | GooderNoddy | TotallyNotShoe | 51 | DEF/HP STRginner | Oddjobs |
+| KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Ashore | Sean | 51 | islander | Southperry\* |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
-| PinkCream | Robin | 50 | islander | Southperry\* |
 | Shikatanai | ? | 50 | islander | \[none\]\* |
+| PinkCream | Robin | 50 | islander | Southperry\* |
 | Zrar | PhysicistJason | 50 | islander | Southperry\* |
 | hueso | cecilia | 50 | permapirate | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
@@ -168,20 +168,20 @@ Legend:
 | Patrao | Duncan | 42 | islander | Southperry\* |
 | Cottage | ? | 42 | islander | Southperry\* |
 | Snapples | Kristina | 42 | islander | Newbology\* |
+| IslandLiving | ? | 41 | islander | Southperry\* |
 | Woogie | ? | 41 | islander | Southperry\* |
 | Beginner626 | ? | 41 | islander | Southperry\* |
 | BirdMandala | ? | 41 | islander | Southperry\* |
-| IslandLiving | ? | 41 | islander | Southperry\* |
 | yotta | ? | 41 | islander | \[none\]\* |
 | Mesa | sneaks | 41 | islander | Southperry\* |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
+| SnailDEX | ? | 41 | islander | Southperry\* |
 | Zugar | ? | 41 | islander | Newbology\* |
 | Subcortical | cort | 41 | islander | Southperry\* |
 | Snuggy | ? | 41 | islander | Newbology\* |
 | Retain | ? | 40 | islander | Aoshima\* |
 | SentientBlob | ? | 40 | islander | Southperry\* |
 | SlimeySlayer | ? | 40 | islander | Southperry\* |
-| SnailDEX | ? | 40 | islander | Southperry\* |
 | Kokoro | ? | 40 | islander | \[none\]\* |
 | tbook | ? | 40 | islander | \[none\]\* |
 | iamDanix | ? | 40 | islander | Southperry\* |
