@@ -57,8 +57,8 @@ Legend:
 | GishGallop | cort | 89 | I/L gish | Oddjobs |
 | Daddyo | Hunter | 88 | STRginner | \[none\]\* |
 | MeikoHonma | Meiko | 87 | STRginner | Renaissance\* |
-| Cowbelle | Belle | 87 | STRginner | Homies\* |
 | d34r | deer | 87 | dagger spearwoman \(vicloc\) | Victoria |
+| Cowbelle | Belle | 87 | STRginner | Homies\* |
 | panolia | deer | 86 | permarogue | Oddjobs |
 | gogigagagigo | boop | 86 | permarcher | Oddjobs |
 | Newbton | Jonte | 85 | islander | Nubists\* |
@@ -154,6 +154,7 @@ Legend:
 | PinkBean | ? | 45 | islander | Shroomies\* |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | c7gs | ratz | 45 | islander | Southperry\* |
+| VigiI | Harley | 45 | I/L gish \(vicloc\) | Victoria |
 | Tsukishima | ? | 45 | islander | Southperry\* |
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Steam | ? | 44 | islander | Dokdo\* |
@@ -167,15 +168,15 @@ Legend:
 | Land | ? | 43 | islander | Amherst\* |
 | Patrao | Duncan | 42 | islander | Southperry\* |
 | Cottage | ? | 42 | islander | Southperry\* |
+| IslandLiving | ? | 42 | islander | Southperry\* |
 | Snapples | Kristina | 42 | islander | Newbology\* |
-| IslandLiving | ? | 41 | islander | Southperry\* |
-| Woogie | ? | 41 | islander | Southperry\* |
 | Beginner626 | ? | 41 | islander | Southperry\* |
+| Woogie | ? | 41 | islander | Southperry\* |
 | BirdMandala | ? | 41 | islander | Southperry\* |
 | yotta | ? | 41 | islander | \[none\]\* |
 | Mesa | sneaks | 41 | islander | Southperry\* |
-| o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | SnailDEX | ? | 41 | islander | Southperry\* |
+| o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology\* |
 | Subcortical | cort | 41 | islander | Southperry\* |
 | Snuggy | ? | 41 | islander | Newbology\* |
