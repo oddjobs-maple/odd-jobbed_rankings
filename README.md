@@ -37,9 +37,9 @@ Legend:
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
-| Yoshis | Sword Furb | 118 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 119 | swashbuckler | Oddjobs |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
-| alces | deer | 110 | daggermit | Oddjobs |
+| alces | deer | 111 | daggermit | Oddjobs |
 | Battlesage | Red | 106 | F/P gish | GangGang\* |
 | Gumby | Jonathan | 106 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
@@ -84,7 +84,7 @@ Legend:
 | inhale | ? | 70 | DEXginner | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | d33r | deer | 68 | clericlet \(vicloc\) | Victoria |
-| Sunken | SunkenSpore | 65 | STR cleric | Oddjobs |
+| Sunken | SunkenSpore | 66 | STR cleric | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | 1sme | João | 64 | islander | Oddjobs |
@@ -128,14 +128,14 @@ Legend:
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Shikatanai | ? | 50 | islander | \[none\]\* |
 | PinkCream | Robin | 50 | islander | Southperry\* |
-| Zrar | PhysicistJason | 50 | islander | Southperry\* |
 | hueso | cecilia | 50 | permapirate | Oddjobs |
-| Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
+| Zrar | PhysicistJason | 50 | islander | Southperry\* |
+| Luckiestboy | Dvd | 50 | LUKlander | Newbology\* |
 | sorts | deer | 50 | DEX brawler \(LPQ mule\) | Oddjobs |
+| Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Camomile | Vivian | 50 | islander | \[none\]\* |
 | BowerStrike | cort | 50 | bow-whacker | Oddjobs |
 | EasyIsland | ? | 50 | islander | Southperry\* |
-| Luckiestboy | Dvd | 49 | LUKlander | Newbology\* |
 | VillageIdiot | ? | 49 | islander | Southperry\* |
 | Neveroffland | ? | 49 | islander | \[none\]\* |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
@@ -152,9 +152,9 @@ Legend:
 | Mujintou | ? | 46 | islander | Pomf\* |
 | Femdom | ? | 46 | islander | Newbology\* |
 | PinkBean | ? | 45 | islander | Shroomies\* |
+| VigiI | Harley | 45 | I/L gish \(vicloc\) | Victoria |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | c7gs | ratz | 45 | islander | Southperry\* |
-| VigiI | Harley | 45 | I/L gish \(vicloc\) | Victoria |
 | Tsukishima | ? | 45 | islander | Southperry\* |
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Steam | ? | 44 | islander | Dokdo\* |
@@ -172,10 +172,10 @@ Legend:
 | Snapples | Kristina | 42 | islander | Newbology\* |
 | Beginner626 | ? | 41 | islander | Southperry\* |
 | Woogie | ? | 41 | islander | Southperry\* |
+| SnailDEX | ? | 41 | islander | Southperry\* |
 | BirdMandala | ? | 41 | islander | Southperry\* |
 | yotta | ? | 41 | islander | \[none\]\* |
 | Mesa | sneaks | 41 | islander | Southperry\* |
-| SnailDEX | ? | 41 | islander | Southperry\* |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology\* |
 | Subcortical | cort | 41 | islander | Southperry\* |
