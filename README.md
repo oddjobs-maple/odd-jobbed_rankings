@@ -40,7 +40,7 @@ Legend:
 | Yoshis | Sword Furb | 119 | swashbuckler | Oddjobs |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 111 | daggermit | Oddjobs |
-| Battlesage | Red | 106 | F/P gish | GangGang\* |
+| Battlesage | Red | 107 | F/P gish | GangGang\* |
 | Gumby | Jonathan | 106 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
@@ -83,8 +83,8 @@ Legend:
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | inhale | ? | 70 | DEXginner | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
+| Sunken | SunkenSpore | 68 | STR cleric | Oddjobs |
 | d33r | deer | 68 | clericlet \(vicloc\) | Victoria |
-| Sunken | SunkenSpore | 66 | STR cleric | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | 1sme | João | 64 | islander | Oddjobs |
@@ -101,8 +101,8 @@ Legend:
 | poggered | ? | 58 | STRginner | Oddjobs |
 | Philippe | ? | 57 | STRginner | Oddjobs |
 | Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
-| L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | BangHero | Lin | 56 | blood fighter | Oddjobs |
+| L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | doiob | doiob | 56 | STR cleric | Oddjobs |
 | NoJobNoRules | Jared | 56 | islander | Southperry\* |
@@ -126,7 +126,7 @@ Legend:
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Ashore | Sean | 51 | islander | Southperry\* |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
-| Shikatanai | ? | 50 | islander | \[none\]\* |
+| Shikatanai | ? | 51 | islander | \[none\]\* |
 | PinkCream | Robin | 50 | islander | Southperry\* |
 | hueso | cecilia | 50 | permapirate | Oddjobs |
 | Zrar | PhysicistJason | 50 | islander | Southperry\* |
