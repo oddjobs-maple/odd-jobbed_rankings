@@ -83,7 +83,7 @@ Legend:
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | inhale | ? | 70 | DEXginner | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
-| Sunken | SunkenSpore | 68 | STR cleric | Oddjobs |
+| Sunken | SunkenSpore | 69 | STR cleric | Oddjobs |
 | d33r | deer | 68 | clericlet \(vicloc\) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
@@ -100,8 +100,8 @@ Legend:
 | Cleft | Tom | 58 | STRginner | Flow |
 | poggered | ? | 58 | STRginner | Oddjobs |
 | Philippe | ? | 57 | STRginner | Oddjobs |
+| BangHero | Lin | 57 | blood fighter | Oddjobs |
 | Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
-| BangHero | Lin | 56 | blood fighter | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | doiob | doiob | 56 | STR cleric | Oddjobs |
@@ -125,10 +125,10 @@ Legend:
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Ashore | Sean | 51 | islander | Southperry\* |
+| hueso | cecilia | 51 | permapirate | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
 | Shikatanai | ? | 51 | islander | \[none\]\* |
 | PinkCream | Robin | 50 | islander | Southperry\* |
-| hueso | cecilia | 50 | permapirate | Oddjobs |
 | Zrar | PhysicistJason | 50 | islander | Southperry\* |
 | Luckiestboy | Dvd | 50 | LUKlander | Newbology\* |
 | sorts | deer | 50 | DEX brawler \(LPQ mule\) | Oddjobs |
