@@ -36,8 +36,8 @@ Legend:
 | Taima | Kelsey | 127 | STRginner | Oddjobs |
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
+| Yoshis | Sword Furb | 121 | swashbuckler | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
-| Yoshis | Sword Furb | 119 | swashbuckler | Oddjobs |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 111 | daggermit | Oddjobs |
 | Battlesage | Red | 107 | F/P gish | GangGang\* |
@@ -82,8 +82,8 @@ Legend:
 | Ever | Becca | 70 | islander | Team\* |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | inhale | ? | 70 | DEXginner | Oddjobs |
+| Sunken | SunkenSpore | 70 | STR cleric | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
-| Sunken | SunkenSpore | 69 | STR cleric | Oddjobs |
 | d33r | deer | 68 | clericlet \(vicloc\) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
@@ -98,9 +98,9 @@ Legend:
 | Wout | Wout | 59 | islander | Southperry\* |
 | HPdit | RyeBread | 59 | blood bandit | \[none\]\* |
 | Cleft | Tom | 58 | STRginner | Flow |
+| BangHero | Lin | 58 | blood fighter | Oddjobs |
 | poggered | ? | 58 | STRginner | Oddjobs |
 | Philippe | ? | 57 | STRginner | Oddjobs |
-| BangHero | Lin | 57 | blood fighter | Oddjobs |
 | Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
