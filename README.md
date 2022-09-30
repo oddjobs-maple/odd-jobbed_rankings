@@ -81,8 +81,8 @@ Legend:
 | Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
-| inhale | ? | 70 | DEXginner | Oddjobs |
 | Sunken | SunkenSpore | 70 | STR cleric | Oddjobs |
+| inhale | ? | 70 | DEXginner | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | d33r | deer | 68 | clericlet \(vicloc\) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
@@ -113,9 +113,9 @@ Legend:
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | Contagion | Elie | 54 | islander | Pariah |
+| Furca | Gusing | 54 | clawslinger | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | Meipuru | ? | 54 | shield pugilist \(brawler\) | Oddjobs |
-| Furca | Gusing | 54 | clawslinger | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
 | mase | fumumu | 53 | islander | Southperry\* |
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
@@ -155,6 +155,7 @@ Legend:
 | VigiI | Harley | 45 | I/L gish \(vicloc\) | Victoria |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | c7gs | ratz | 45 | islander | Southperry\* |
+| WhyDaggers | PhysicistJason | 45 | dagger fighter | Oddjobs |
 | Tsukishima | ? | 45 | islander | Southperry\* |
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Steam | ? | 44 | islander | Dokdo\* |
