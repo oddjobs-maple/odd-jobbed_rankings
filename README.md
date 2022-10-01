@@ -27,7 +27,7 @@ Legend:
 
 | IGN        | name         | level | job(s)                 | guild         |
 | :--------- | :----------- | ----: | :--------------------- | ------------- |
-| rusa | deer | 174 | darksterity knight | Oddjobs |
+| rusa | deer | 175 | darksterity knight | Oddjobs |
 | Without | Elie | ‡151 | STR/DEX hybridginner | Pariah |
 | LawdHeComin | JunkyardBat | 148 | F/P archgish | Oddjobs |
 | capreolina | deer | 144 | woodsmaster | Oddjobs |
@@ -41,7 +41,7 @@ Legend:
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 111 | daggermit | Oddjobs |
 | Battlesage | Red | 107 | F/P gish | GangGang\* |
-| Gumby | Jonathan | 106 | STRginner | Flow |
+| Gumby | Jonathan | 107 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
 | ducklings | Joyce | †100 | STRginner | DuckNation\* |
@@ -92,17 +92,18 @@ Legend:
 | MapleStarter | Dvd | 63 | islander | Newbology\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
-| Swathelby | Swathelby | 60 | STRginner | Flow |
 | MapIeIsIand | ? | 60 | islander | \[none\]\* |
+| Swathelby | Swathelby | 60 | STRginner | Flow |
 | LazySoup | ? | 60 | islander | Southperry\* |
 | Wout | Wout | 59 | islander | Southperry\* |
 | HPdit | RyeBread | 59 | blood bandit | \[none\]\* |
-| Cleft | Tom | 58 | STRginner | Flow |
 | BangHero | Lin | 58 | blood fighter | Oddjobs |
+| Cleft | Tom | 58 | STRginner | Flow |
 | poggered | ? | 58 | STRginner | Oddjobs |
 | Philippe | ? | 57 | STRginner | Oddjobs |
 | Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
+| Furca | Gusing | 56 | clawslinger | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | doiob | doiob | 56 | STR cleric | Oddjobs |
 | NoJobNoRules | Jared | 56 | islander | Southperry\* |
@@ -113,7 +114,6 @@ Legend:
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
 | Contagion | Elie | 54 | islander | Pariah |
-| Furca | Gusing | 54 | clawslinger | Oddjobs |
 | hashishi | deer | 54 | besinner | Oddjobs |
 | Meipuru | ? | 54 | shield pugilist \(brawler\) | Oddjobs |
 | Timberly | Tim | 53 | islander | Southperry\* |
@@ -185,6 +185,7 @@ Legend:
 | SentientBlob | ? | 40 | islander | Southperry\* |
 | SlimeySlayer | ? | 40 | islander | Southperry\* |
 | Kokoro | ? | 40 | islander | \[none\]\* |
+| 2015 | ? | 40 | islander | Oddjobs |
 | tbook | ? | 40 | islander | \[none\]\* |
 | iamDanix | ? | 40 | islander | Southperry\* |
 | GoGoSnuggles | Snuggles | 25 | camper | Flow |
