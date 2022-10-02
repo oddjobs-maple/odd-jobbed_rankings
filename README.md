@@ -33,14 +33,14 @@ Legend:
 | capreolina | deer | 144 | woodsmaster | Oddjobs |
 | Otios | Wout | ‡136 | STRginner | Flow |
 | cervid | deer | 130 | STR bishop | Oddjobs |
-| Taima | Kelsey | 127 | STRginner | Oddjobs |
+| Taima | Kelsey | 128 | STRginner | Oddjobs |
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
+| Yoshis | Sword Furb | 122 | swashbuckler | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
-| Yoshis | Sword Furb | 121 | swashbuckler | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 111 | daggermit | Oddjobs |
-| Battlesage | Red | 107 | F/P gish | GangGang\* |
+| Battlesage | Red | 108 | F/P gish | GangGang\* |
 | Gumby | Jonathan | 107 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
@@ -86,6 +86,7 @@ Legend:
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | d33r | deer | 68 | clericlet \(vicloc\) | Victoria |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
+| BangHero | Lin | 64 | blood fighter | Oddjobs |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | 1sme | João | 64 | islander | Oddjobs |
 | tarandus | deer | 64 | shield pugilist \(brawler\) | Oddjobs |
@@ -97,13 +98,12 @@ Legend:
 | LazySoup | ? | 60 | islander | Southperry\* |
 | Wout | Wout | 59 | islander | Southperry\* |
 | HPdit | RyeBread | 59 | blood bandit | \[none\]\* |
-| BangHero | Lin | 58 | blood fighter | Oddjobs |
 | Cleft | Tom | 58 | STRginner | Flow |
 | poggered | ? | 58 | STRginner | Oddjobs |
 | Philippe | ? | 57 | STRginner | Oddjobs |
+| Furca | Gusing | 57 | clawslinger | Oddjobs |
 | Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
-| Furca | Gusing | 56 | clawslinger | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | doiob | doiob | 56 | STR cleric | Oddjobs |
 | NoJobNoRules | Jared | 56 | islander | Southperry\* |
@@ -125,9 +125,9 @@ Legend:
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
 | Ashore | Sean | 51 | islander | Southperry\* |
+| Shikatanai | ? | 51 | islander | \[none\]\* |
 | hueso | cecilia | 51 | permapirate | Oddjobs |
 | HPdagger | Charles | 51 | dagger fighter | Oddjobs |
-| Shikatanai | ? | 51 | islander | \[none\]\* |
 | PinkCream | Robin | 50 | islander | Southperry\* |
 | Zrar | PhysicistJason | 50 | islander | Southperry\* |
 | Luckiestboy | Dvd | 50 | LUKlander | Newbology\* |
@@ -167,13 +167,13 @@ Legend:
 | DumbIsland | ? | 43 | islander | Southperry\* |
 | Leozinho | Leozinho | 43 | perfectlander | Oddjobs |
 | Land | ? | 43 | islander | Amherst\* |
+| SnailDEX | ? | 42 | islander | Southperry\* |
 | Patrao | Duncan | 42 | islander | Southperry\* |
 | Cottage | ? | 42 | islander | Southperry\* |
 | IslandLiving | ? | 42 | islander | Southperry\* |
 | Snapples | Kristina | 42 | islander | Newbology\* |
 | Beginner626 | ? | 41 | islander | Southperry\* |
 | Woogie | ? | 41 | islander | Southperry\* |
-| SnailDEX | ? | 41 | islander | Southperry\* |
 | BirdMandala | ? | 41 | islander | Southperry\* |
 | yotta | ? | 41 | islander | \[none\]\* |
 | Mesa | sneaks | 41 | islander | Southperry\* |
@@ -184,8 +184,8 @@ Legend:
 | Retain | ? | 40 | islander | Aoshima\* |
 | SentientBlob | ? | 40 | islander | Southperry\* |
 | SlimeySlayer | ? | 40 | islander | Southperry\* |
-| Kokoro | ? | 40 | islander | \[none\]\* |
 | 2015 | ? | 40 | islander | Oddjobs |
+| Kokoro | ? | 40 | islander | \[none\]\* |
 | tbook | ? | 40 | islander | \[none\]\* |
 | iamDanix | ? | 40 | islander | Southperry\* |
 | GoGoSnuggles | Snuggles | 25 | camper | Flow |
