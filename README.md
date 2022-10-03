@@ -40,7 +40,7 @@ Legend:
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 111 | daggermit | Oddjobs |
-| Battlesage | Red | 108 | F/P gish | GangGang\* |
+| Battlesage | Red | 109 | F/P gish | GangGang\* |
 | Gumby | Jonathan | 107 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
@@ -80,8 +80,8 @@ Legend:
 | Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
-| Wouty | Wout | 70 | permapirate | Oddjobs |
 | Sunken | SunkenSpore | 70 | STR cleric | Oddjobs |
+| Wouty | Wout | 70 | permapirate | Oddjobs |
 | inhale | ? | 70 | DEXginner | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | d33r | deer | 68 | clericlet \(vicloc\) | Victoria |
@@ -144,8 +144,8 @@ Legend:
 | kelik | ratz | 48 | STRginner | Oddjobs |
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
-| Peep | ? | 47 | islander | \[none\]\* |
 | WhyDaggers | PhysicistJason | 47 | dagger fighter | Oddjobs |
+| Peep | ? | 47 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Dexual | Hunter | 46 | islander | Southperry\* |
 | ozotoceros | deer | 46 | DEX/LUK hybridlander | Oddjobs |
@@ -165,12 +165,12 @@ Legend:
 | Tonk | ? | 44 | islander | Southperry\* |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | DumbIsland | ? | 43 | islander | Southperry\* |
+| SnailDEX | ? | 43 | islander | Southperry\* |
 | Leozinho | Leozinho | 43 | perfectlander | Oddjobs |
 | Land | ? | 43 | islander | Amherst\* |
-| SnailDEX | ? | 43 | islander | Southperry\* |
 | Patrao | Duncan | 42 | islander | Southperry\* |
-| Cottage | ? | 42 | islander | Southperry\* |
 | IslandLiving | ? | 42 | islander | Southperry\* |
+| Cottage | ? | 42 | islander | Southperry\* |
 | Snapples | Kristina | 42 | islander | Newbology\* |
 | Beginner626 | ? | 41 | islander | Southperry\* |
 | Woogie | ? | 41 | islander | Southperry\* |
