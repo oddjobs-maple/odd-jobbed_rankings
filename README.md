@@ -85,8 +85,8 @@ Legend:
 | inhale | ? | 70 | DEXginner | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | d33r | deer | 68 | clericlet \(vicloc\) | Victoria |
+| BangHero | Lin | 67 | blood fighter | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
-| BangHero | Lin | 64 | blood fighter | Oddjobs |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | 1sme | João | 64 | islander | Oddjobs |
 | tarandus | deer | 64 | shield pugilist \(brawler\) | Oddjobs |
@@ -101,8 +101,8 @@ Legend:
 | Cleft | Tom | 58 | STRginner | Flow |
 | poggered | ? | 58 | STRginner | Oddjobs |
 | Philippe | ? | 57 | STRginner | Oddjobs |
-| Furca | Gusing | 57 | clawslinger | Oddjobs |
 | Godswood | eriklopez95 | 57 | STR cleric | Oddjobs |
+| Furca | Gusing | 57 | clawslinger | Oddjobs |
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | doiob | doiob | 56 | STR cleric | Oddjobs |
@@ -145,6 +145,7 @@ Legend:
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
 | Peep | ? | 47 | islander | \[none\]\* |
+| WhyDaggers | PhysicistJason | 47 | dagger fighter | Oddjobs |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Dexual | Hunter | 46 | islander | Southperry\* |
 | ozotoceros | deer | 46 | DEX/LUK hybridlander | Oddjobs |
@@ -155,7 +156,6 @@ Legend:
 | VigiI | Harley | 45 | I/L gish \(vicloc\) | Victoria |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | c7gs | ratz | 45 | islander | Southperry\* |
-| WhyDaggers | PhysicistJason | 45 | dagger fighter | Oddjobs |
 | Tsukishima | ? | 45 | islander | Southperry\* |
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Steam | ? | 44 | islander | Dokdo\* |
@@ -167,7 +167,7 @@ Legend:
 | DumbIsland | ? | 43 | islander | Southperry\* |
 | Leozinho | Leozinho | 43 | perfectlander | Oddjobs |
 | Land | ? | 43 | islander | Amherst\* |
-| SnailDEX | ? | 42 | islander | Southperry\* |
+| SnailDEX | ? | 43 | islander | Southperry\* |
 | Patrao | Duncan | 42 | islander | Southperry\* |
 | Cottage | ? | 42 | islander | Southperry\* |
 | IslandLiving | ? | 42 | islander | Southperry\* |
@@ -183,8 +183,8 @@ Legend:
 | Snuggy | ? | 41 | islander | Newbology\* |
 | Retain | ? | 40 | islander | Aoshima\* |
 | SentientBlob | ? | 40 | islander | Southperry\* |
-| SlimeySlayer | ? | 40 | islander | Southperry\* |
 | 2015 | ? | 40 | islander | Oddjobs |
+| SlimeySlayer | ? | 40 | islander | Southperry\* |
 | Kokoro | ? | 40 | islander | \[none\]\* |
 | tbook | ? | 40 | islander | \[none\]\* |
 | iamDanix | ? | 40 | islander | Southperry\* |
