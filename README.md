@@ -35,7 +35,7 @@ Legend:
 | cervid | deer | 130 | STR bishop | Oddjobs |
 | Taima | Kelsey | 128 | STRginner | Oddjobs |
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
-| Yoshis | Sword Furb | 122 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 123 | swashbuckler | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
@@ -164,8 +164,8 @@ Legend:
 | Babbi | Alvin | 44 | islander | Southperry\* |
 | Tonk | ? | 44 | islander | Southperry\* |
 | Gosu | ? | 43 | islander | \[none\]\* |
-| DumbIsland | ? | 43 | islander | Southperry\* |
 | SnailDEX | ? | 43 | islander | Southperry\* |
+| DumbIsland | ? | 43 | islander | Southperry\* |
 | Leozinho | Leozinho | 43 | perfectlander | Oddjobs |
 | Land | ? | 43 | islander | Amherst\* |
 | Patrao | Duncan | 42 | islander | Southperry\* |
