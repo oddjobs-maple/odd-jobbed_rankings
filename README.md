@@ -40,7 +40,7 @@ Legend:
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
 | alces | deer | 111 | daggermit | Oddjobs |
-| Battlesage | Red | 109 | F/P gish | GangGang\* |
+| Battlesage | Red | 110 | F/P gish | GangGang\* |
 | Gumby | Jonathan | 107 | STRginner | Flow |
 | Keppet | Rapskal | 104 | daggermit | Oddjobs |
 | OmokTeacher | Noam | 102 | STRginner | Flow |
@@ -78,9 +78,9 @@ Legend:
 | Christopher | Chris | 71 | islander | Aoshima\* |
 | tb303 | cecilia | 71 | gish priest | Flow |
 | Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
+| Sunken | SunkenSpore | 71 | STR cleric | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
-| Sunken | SunkenSpore | 70 | STR cleric | Oddjobs |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | inhale | ? | 70 | DEXginner | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
@@ -107,9 +107,9 @@ Legend:
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | doiob | doiob | 56 | STR cleric | Oddjobs |
 | NoJobNoRules | Jared | 56 | islander | Southperry\* |
+| Fraye | ? | 56 | islander | Southperry\* |
 | attackattack | mae | 56 | DEX page | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
-| Fraye | ? | 55 | islander | Southperry\* |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
 | DexBlade | ? | 55 | DEX fighter | Oddjobs |
 | Suzuran | Calendula | 55 | blood bandit | Oddjobs |
@@ -140,11 +140,11 @@ Legend:
 | Neveroffland | ? | 49 | islander | \[none\]\* |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
+| WhyDaggers | PhysicistJason | 48 | dagger fighter | Oddjobs |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | kelik | ratz | 48 | STRginner | Oddjobs |
 | NewIslander | ? | 48 | islander | \[none\]\* |
 | Kimberly | Jonathan | 47 | islander | Flow |
-| WhyDaggers | PhysicistJason | 47 | dagger fighter | Oddjobs |
 | Peep | ? | 47 | islander | \[none\]\* |
 | FairRow | FairRow | 47 | STRginner | Oddjobs |
 | Dexual | Hunter | 46 | islander | Southperry\* |
@@ -166,10 +166,10 @@ Legend:
 | Gosu | ? | 43 | islander | \[none\]\* |
 | SnailDEX | ? | 43 | islander | Southperry\* |
 | DumbIsland | ? | 43 | islander | Southperry\* |
+| IslandLiving | ? | 43 | islander | Southperry\* |
 | Leozinho | Leozinho | 43 | perfectlander | Oddjobs |
 | Land | ? | 43 | islander | Amherst\* |
 | Patrao | Duncan | 42 | islander | Southperry\* |
-| IslandLiving | ? | 42 | islander | Southperry\* |
 | Cottage | ? | 42 | islander | Southperry\* |
 | Snapples | Kristina | 42 | islander | Newbology\* |
 | Beginner626 | ? | 41 | islander | Southperry\* |
@@ -178,12 +178,12 @@ Legend:
 | yotta | ? | 41 | islander | \[none\]\* |
 | Mesa | sneaks | 41 | islander | Southperry\* |
 | o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
+| 2015 | ? | 41 | islander | Oddjobs |
 | Zugar | ? | 41 | islander | Newbology\* |
 | Subcortical | cort | 41 | islander | Southperry\* |
 | Snuggy | ? | 41 | islander | Newbology\* |
 | Retain | ? | 40 | islander | Aoshima\* |
 | SentientBlob | ? | 40 | islander | Southperry\* |
-| 2015 | ? | 40 | islander | Oddjobs |
 | SlimeySlayer | ? | 40 | islander | Southperry\* |
 | Kokoro | ? | 40 | islander | \[none\]\* |
 | tbook | ? | 40 | islander | \[none\]\* |
