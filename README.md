@@ -78,18 +78,18 @@ Legend:
 | Christopher | Chris | 71 | islander | Aoshima\* |
 | tb303 | cecilia | 71 | gish priest | Flow |
 | Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
+| inhale | ? | 71 | DEXginner | Oddjobs |
 | Sunken | SunkenSpore | 71 | STR cleric | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
 | Wouty | Wout | 70 | permapirate | Oddjobs |
-| inhale | ? | 70 | DEXginner | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | d33r | deer | 68 | clericlet \(vicloc\) | Victoria |
-| BangHero | Lin | 67 | blood fighter | Oddjobs |
+| BangHero | Lin | 68 | blood fighter | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
+| tarandus | deer | 64 | shield pugilist \(brawler\) | Oddjobs |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | 1sme | João | 64 | islander | Oddjobs |
-| tarandus | deer | 64 | shield pugilist \(brawler\) | Oddjobs |
 | MapleStarter | Dvd | 63 | islander | Newbology\* |
 | BeginnersEnd | Ben | 63 | STRginner | Flow |
 | Oahu | Tom | 62 | STRlander | Southperry\* |
@@ -165,8 +165,8 @@ Legend:
 | Tonk | ? | 44 | islander | Southperry\* |
 | Gosu | ? | 43 | islander | \[none\]\* |
 | SnailDEX | ? | 43 | islander | Southperry\* |
-| DumbIsland | ? | 43 | islander | Southperry\* |
 | IslandLiving | ? | 43 | islander | Southperry\* |
+| DumbIsland | ? | 43 | islander | Southperry\* |
 | Leozinho | Leozinho | 43 | perfectlander | Oddjobs |
 | Land | ? | 43 | islander | Amherst\* |
 | Patrao | Duncan | 42 | islander | Southperry\* |
@@ -177,8 +177,8 @@ Legend:
 | BirdMandala | ? | 41 | islander | Southperry\* |
 | yotta | ? | 41 | islander | \[none\]\* |
 | Mesa | sneaks | 41 | islander | Southperry\* |
-| o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | 2015 | ? | 41 | islander | Oddjobs |
+| o0Oo0ooOo0o0 | ? | 41 | islander | Amherst\* |
 | Zugar | ? | 41 | islander | Newbology\* |
 | Subcortical | cort | 41 | islander | Southperry\* |
 | Snuggy | ? | 41 | islander | Newbology\* |
