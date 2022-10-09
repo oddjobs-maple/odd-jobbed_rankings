@@ -35,7 +35,7 @@ Legend:
 | cervid | deer | 130 | STR bishop | Oddjobs |
 | Taima | Kelsey | 128 | STRginner | Oddjobs |
 | cervine | deer | 125 | I/L archmagelet | Oddjobs |
-| Yoshis | Sword Furb | 123 | swashbuckler | Oddjobs |
+| Yoshis | Sword Furb | 124 | swashbuckler | Oddjobs |
 | Tacgnol | Kelsey | 121 | F/P archgishlet | Oddjobs |
 | Permanovice | Red | †120 | STRginner | GangGang\* |
 | Jestterz | LoneWolf1600 | 113 | STRginner | Oddjobs |
@@ -77,8 +77,8 @@ Legend:
 | drainer | mae | 72 | STRginner | Flow |
 | Christopher | Chris | 71 | islander | Aoshima\* |
 | tb303 | cecilia | 71 | gish priest | Flow |
-| Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
 | inhale | ? | 71 | DEXginner | Oddjobs |
+| Nyanners | Kelsey | 71 | permawarrior \(steelwoman\) | Oddjobs |
 | Sunken | SunkenSpore | 71 | STR cleric | Oddjobs |
 | Zheedie | David | 71 | islander | Southperry\* |
 | Ever | Becca | 70 | islander | Team\* |
@@ -86,8 +86,8 @@ Legend:
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | d33r | deer | 68 | clericlet \(vicloc\) | Victoria |
 | BangHero | Lin | 68 | blood fighter | Oddjobs |
+| tarandus | deer | 67 | shield pugilist \(brawler\) | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
-| tarandus | deer | 64 | shield pugilist \(brawler\) | Oddjobs |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | 1sme | João | 64 | islander | Oddjobs |
 | MapleStarter | Dvd | 63 | islander | Newbology\* |
@@ -134,13 +134,13 @@ Legend:
 | sorts | deer | 50 | DEX brawler \(LPQ mule\) | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Camomile | Vivian | 50 | islander | \[none\]\* |
+| WhyDaggers | PhysicistJason | 50 | dagger fighter | Oddjobs |
 | BowerStrike | cort | 50 | bow-whacker | Oddjobs |
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | VillageIdiot | ? | 49 | islander | Southperry\* |
 | Neveroffland | ? | 49 | islander | \[none\]\* |
 | ScrubDaddy | Scrub | 48 | STRginner | Oddjobs |
 | TheFalseKing | ? | 48 | islander | Southperry\* |
-| WhyDaggers | PhysicistJason | 48 | dagger fighter | Oddjobs |
 | AychPea | MrPringles | 48 | HP page | Oddjobs |
 | kelik | ratz | 48 | STRginner | Oddjobs |
 | NewIslander | ? | 48 | islander | \[none\]\* |
@@ -159,13 +159,13 @@ Legend:
 | Tsukishima | ? | 45 | islander | Southperry\* |
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Steam | ? | 44 | islander | Dokdo\* |
+| SnailDEX | ? | 44 | islander | Southperry\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Babbi | Alvin | 44 | islander | Southperry\* |
+| IslandLiving | ? | 44 | islander | Southperry\* |
 | Tonk | ? | 44 | islander | Southperry\* |
 | Gosu | ? | 43 | islander | \[none\]\* |
-| SnailDEX | ? | 43 | islander | Southperry\* |
-| IslandLiving | ? | 43 | islander | Southperry\* |
 | DumbIsland | ? | 43 | islander | Southperry\* |
 | Leozinho | Leozinho | 43 | perfectlander | Oddjobs |
 | Land | ? | 43 | islander | Amherst\* |
