@@ -85,8 +85,8 @@ Legend:
 | Wouty | Wout | 70 | permapirate | Oddjobs |
 | ratty | fumumu | 70 | permapirate | Oddjobs |
 | d33r | deer | 68 | clericlet \(vicloc\) | Victoria |
+| tarandus | deer | 68 | shield pugilist \(brawler\) | Oddjobs |
 | BangHero | Lin | 68 | blood fighter | Oddjobs |
-| tarandus | deer | 67 | shield pugilist \(brawler\) | Oddjobs |
 | justbegin | Kalezus | 65 | STRginner | \[none\]\* |
 | KitsunyChang | Hannah | 64 | islander | Amherst\* |
 | 1sme | João | 64 | islander | Oddjobs |
@@ -106,8 +106,8 @@ Legend:
 | L0neW0lf16OO | LoneWolf1600 | 56 | besinner | Oddjobs |
 | JanitorPedro | Pedro\_ | 56 | STRginner | Flow |
 | doiob | doiob | 56 | STR cleric | Oddjobs |
-| NoJobNoRules | Jared | 56 | islander | Southperry\* |
 | Fraye | ? | 56 | islander | Southperry\* |
+| NoJobNoRules | Jared | 56 | islander | Southperry\* |
 | attackattack | mae | 56 | DEX page | Oddjobs |
 | HPTsu | Tsu | 55 | HP fighter | Oddjobs |
 | Slimusaurus | Noam | 55 | besinner | \[none\]\* |
@@ -121,6 +121,7 @@ Legend:
 | Numidium | Kelsey | 53 | STR cleric | Oddjobs |
 | LightGuard | felyp244 | 52 | DEX page | Oddjobs |
 | Desolate | Logan | 51 | islander | Amherst\* |
+| WhyDaggers | PhysicistJason | 51 | dagger fighter | Oddjobs |
 | GooderNoddy | TotallyNotShoe | 51 | DEF/HP STRginner | Oddjobs |
 | KoKoSnuggles | Snuggles | 51 | islander | Southperry\* |
 | Sommer | Marcelo | 51 | swashbuckler | Oddjobs |
@@ -134,7 +135,6 @@ Legend:
 | sorts | deer | 50 | DEX brawler \(LPQ mule\) | Oddjobs |
 | Gambolpuddy | Kelsey | 50 | DEXginner | Oddjobs |
 | Camomile | Vivian | 50 | islander | \[none\]\* |
-| WhyDaggers | PhysicistJason | 50 | dagger fighter | Oddjobs |
 | BowerStrike | cort | 50 | bow-whacker | Oddjobs |
 | EasyIsland | ? | 50 | islander | Southperry\* |
 | VillageIdiot | ? | 49 | islander | Southperry\* |
@@ -156,10 +156,10 @@ Legend:
 | VigiI | Harley | 45 | I/L gish \(vicloc\) | Victoria |
 | Fino | Marcelo | 45 | I/L gish | Oddjobs |
 | c7gs | ratz | 45 | islander | Southperry\* |
+| SnailDEX | ? | 45 | islander | Southperry\* |
 | Tsukishima | ? | 45 | islander | Southperry\* |
 | WettestDog | Hebaio | 44 | islander | Southperry\* |
 | Steam | ? | 44 | islander | Dokdo\* |
-| SnailDEX | ? | 44 | islander | Southperry\* |
 | Vacation | ? | 44 | islander | Amherst\* |
 | Ninnie | Ninnie | 44 | islander | Pomf\* |
 | Babbi | Alvin | 44 | islander | Southperry\* |
